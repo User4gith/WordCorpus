@@ -45,11 +45,6 @@ buckle under sth 屈服于（困境）But these were difficult times and a lesse
 
 ventilation noun 通风（设备）；空气流通（设备）
 
-# 消耗
-guzzle vt 滥吃；狂饮；狼吞虎咽
-He guzzled his beer and ordered another.
-guzzle vt 在短时间内大量耗油
-The car guzzles a gallon of gas every 15 miles.
 
 
 # 宗教

@@ -1836,29 +1836,6 @@ transmute vt 使变形，使变质，把…变成…;
 
 
 
-### 提取
-derive vt 得到，导出; 源于，来自; （从…中） 提取
-The institute derives all its money from foreign investments.
-
-
-dredge v 清淤，疏浚（河道等）; 挖掘（泥土等），使显露; 捞取; （用面粉、糖等） 撒;
-dredge n 挖泥机，疏浚机; （采牡蛎，捕鱼等用的） 拖网，捞网; 悬浮矿石;
-
-excavate v 挖掘; 发掘; 开凿; 挖出;
-
-assimilate vi 同化; 吸收， 消化
-assimilate vt 透彻理解; 使吸收;
-
-purify vt 使纯净，净化; 精炼; 使（语言）纯正; 给…赎罪，使纯洁;
-
-distil vt 蒸馏; 从…提取精华; 使渗出; 用蒸馏法制造;
-distil vi 蒸馏; 提炼; 渗出;
-
-
-absorb
-
-
-
 ### 挤压；压榨
 contract 签合同; 缩小; 感染;
 stringent adj 严格的; 迫切的; （货币） 紧缩的;
@@ -1922,6 +1899,23 @@ infer vt 推断; 猜想，推理; 暗示; 意指;
 infer vi 作出推论;
 
 
+### 提取
+derive vt 得到，导出; 源于，来自; （从…中） 提取
+The institute derives all its money from foreign investments.
+
+
+dredge v 清淤，疏浚（河道等）; 挖掘（泥土等），使显露; 捞取; （用面粉、糖等） 撒;
+dredge n 挖泥机，疏浚机; （采牡蛎，捕鱼等用的） 拖网，捞网; 悬浮矿石;
+
+excavate v 挖掘; 发掘; 开凿; 挖出;
+
+assimilate vi 同化; 吸收， 消化
+assimilate vt 透彻理解; 使吸收;
+
+purify vt 使纯净，净化; 精炼; 使（语言）纯正; 给…赎罪，使纯洁;
+
+distil vt 蒸馏; 从…提取精华; 使渗出; 用蒸馏法制造;
+distil vi 蒸馏; 提炼; 渗出;
 
 
 ### 消化
@@ -1944,6 +1938,13 @@ soak sth up 吸取，吸收（信息）
 Given the right environment, children are like sponges and will soak up information.
 soak sth up 用完，耗尽（尤指金钱）
 The repairs on our house soaked up all our savings.
+
+
+# 消耗
+guzzle vt 滥吃；狂饮；狼吞虎咽
+He guzzled his beer and ordered another.
+guzzle vt 在短时间内大量耗油
+The car guzzles a gallon of gas every 15 miles.
 
 
 ### 成分
