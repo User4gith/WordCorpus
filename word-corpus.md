@@ -1030,7 +1030,17 @@ sift vt 筛（面粉、糖等）When the cake is cooked, sift some icing sugar o
 sift vt 仔细检查；筛查 The police are sifting the evidence very carefully to try and find the guilty person.
 
 
+# 假设
+suppose vt 认为; 假定; 猜想，推测; 让（用于祈祷语气）;
+suppose vi 想象，猜想;
 
+
+hypothesis
+presuppose vt 假设; 预先假定; 以…为先决条件; 意味着;
+assume v 承担; 呈现; 假定，认为; 装出;
+assumption noun 承担; 假定，假设; 想当然; 采取;
+
+theoretical
 
 ### 预测
 forecast vt 预报，预测; 预示;

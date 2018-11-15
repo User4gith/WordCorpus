@@ -73,21 +73,17 @@ hierarchy
 heretic
 
 
+### 景
+scene  场面，现场; （戏剧的） 一场; 景色，风景; 事件;
+scenery  风景，景色; 舞台布景; 风景画; 舞台面;
+
+scence
+
 # 音乐
 orchestra 管弦乐队; 管弦乐队的全部乐器
 symphony 交响乐，交响曲; 序曲，插曲; 〈古〉和谐，和谐的东西;
 
-# 假设
-suppose vt 认为; 假定; 猜想，推测; 让（用于祈祷语气）;
-suppose vi 想象，猜想;
 
-
-hypothesis
-presuppose vt 假设; 预先假定; 以…为先决条件; 意味着;
-assume v 承担; 呈现; 假定，认为; 装出;
-assumption noun 承担; 假定，假设; 想当然; 采取;
-
-theoretical
 
 
 # 有光泽的，光滑的
@@ -473,11 +469,6 @@ introvert noun 性格内向者
 extrovert
 
 
-### 景
-scene  场面，现场; （戏剧的） 一场; 景色，风景; 事件;
-scenery  风景，景色; 舞台布景; 风景画; 舞台面;
-
-scence
 
 # 潮湿的
 damp adj 微湿的，潮湿的; 消沉的，沮丧的; 沉闷的; 情绪低落的;
