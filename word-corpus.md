@@ -769,6 +769,10 @@ allege vt 断言，宣称，辩解; 提出…作为理由;
 assert vt 声称，断言; 维护，坚持; 坚持自己的主张; 生效;
 
 
+# 解释
+explanation
+elucidate vt 阐明，解释
+
 ### 说
 acquaint vt 使熟悉; 使认识; 把某事通知某人，告知;
 

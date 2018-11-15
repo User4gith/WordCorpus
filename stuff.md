@@ -68,9 +68,6 @@ illusion noun 幻觉，幻想 He had no illusions about his talents as a singer.
 illusion noun 假象，错觉 A large mirror in a room can create the illusion of space.
 
 
-
-
-
 # 等级与异教徒
 hierarchy
 heretic
@@ -149,6 +146,12 @@ security noun （在家庭或一段关系中）安全感；安心 Most children 
 security noun 保证金；担保品 She used her shares in the company as security against a $23 million bank loan.
 securitise noun 证券；债券
 
+# 参加
+participate vi 参加某事; 分享某事;
+participate vt 得到或接受某部分东西;
+
+participant noun 参加者，参与者; 与会代表; 参与国; 关系者;
+participant adj 参加的; 有关系的;
 
 # 竞争
 competition noun 竞争
@@ -343,13 +346,6 @@ wander vt
 wander noun 游荡; 闲逛; 溜达; 失散;
 
 
-# 参加
-participate vi 参加某事; 分享某事;
-participate vt 得到或接受某部分东西;
-
-participant noun 参加者，参与者; 与会代表; 参与国; 关系者;
-participant adj 参加的; 有关系的;
-
 ### 同一的；鉴别
 identical
 
@@ -430,10 +426,6 @@ durable noun 耐用品，耐久品;
 
 
 
-# 解释
-explanation
-elucidate vt 阐明，解释
-
 # 对称
 symmetry noun 对称; 对称美; 整齐，匀称
 
@@ -479,13 +471,6 @@ radical 激进分子；极端分子
 introvert noun 性格内向者
 
 extrovert
-
-# 明显
-apparent adj 易看见的，可看见的; 显然的，明明白白的; 貌似的，表面的; 显见;
-notable adj 显著的; 著名的; 值得注意的;
-notable noun 名人; 显要人物;
-
-noticeable 显而易见的，明显的; 引人注目的，令人瞩目的; 显著的，重要的; 可以察觉的;
 
 
 ### 景
@@ -686,6 +671,13 @@ explicit adj 清楚明白的；明确的；不含糊的
 She was very explicit about (= said very clearly and exactly) what she thought was wrong with the plans.
 explicit adj （描绘性或暴力）赤裸裸的，露骨的
 a sexually explicit movie
+
+# 明显
+apparent adj 易看见的，可看见的; 显然的，明明白白的; 貌似的，表面的; 显见;
+notable adj 显著的; 著名的; 值得注意的;
+notable noun 名人; 显要人物;
+
+noticeable 显而易见的，明显的; 引人注目的，令人瞩目的; 显著的，重要的; 可以察觉的;
 
 
 # 相似
