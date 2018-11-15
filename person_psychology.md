@@ -1,98 +1,136 @@
 ### 本能
-nature
-essence 香精; 本质，实质; 精华，精髓;
+
+nature noun 种类；特性；本质
+What was the nature of his inquiry?
+be in the nature of things
+是正常的，是理所当然的
+There are problems in every relationship - it's in the nature of things.
+性格，本性
+As a child, Juliana had a very sensitive nature.
+He is by nature inclined to be lazy.
+
+
+essence noun 本质；实质；要素
+The essence of his argument was that education should continue throughout life.
+in essence 本质上；实质上
+In essence, both sides agree on the issue.
+be of the essenc 极其重要；必不可少
+In any of these discussions, of course, honesty is of the essence.
+essence noun （通常取自植物或花的）香精，香料，精油
+
 essential adj 必要的; 本质的; 基本的; 精华的;
 essential noun 必需品; 基本要素; 必不可少的东西;
 
-instinct noun 本能，天性; 冲动; 天资，天才;
+instinct noun 本能，直觉
+All his instincts told him to stay near the car and wait for help.
+It is instinct that tells the birds when to begin their migration.
+
 instinct adj 深深地充满着;
 instinctual adj 本能的
 
 inherent adj 天生; 固有的，内在的;
-
-
-
-### 声誉
-reputable
-prominence 突出; 声望; 卓越; [天] 日珥;
-prominent adj 著名的; 突出的，杰出的; 突起的;
-
-eminent adj 显赫的; （指人） 知名的，杰出的，卓越的; （指品质、特性） 明显的，显着的，突出的; 闻达;
-
-brilliant adj 才华横溢的; 明亮的; <非正式>美好的; 闪耀的;
-brilliant noun 宝石; 钻石;
-
-fame noun 名声; 名望; 传闻; 传说;
-fame vt 使闻名; 使出名; 使有名望; <古>盛传;
-
-### 尊敬
-esteem vt 尊敬，敬重; 认为，以为; 考虑; 估价
-esteem noun 尊敬，尊重; 意见，看法; 评价; 名声;
-
-respect vt 尊重; 尊敬; 关心; 遵守;
-respect noun 敬意; 尊重，恭敬; 某方面;
-
+I have an inherent distrust of lawyers.
 
 ### 道德
-moral
-morality noun 道德; 道德观; 道德准则; 品德高尚的行为;
+moral 道德的
+She was the only politician to condemn the proposed law on moral grounds (= for moral reasons).
+moral 有道德的，品行端正的
+Is TV responsible for weakening people's moral fibre (= ability to behave well and honestly and work hard)?
+morals 道德；品行；道德规范
+public/private morals
+moral 道德教训；寓意
+And the moral of the story is that honesty is always the best policy.
 
-ethic noun 伦理，伦理观; 道德体系; （复数） 伦理学，道德学; （复数） 行为准则;
-ethical adj 伦理学的; 道德的，伦理的; 凭处方出售的;
+morality noun 道德体系，道德观
+They argued for a new morality based on self-sacrifice and honesty.
+morality noun 道德，道义
+I have to question the morality of forcing poor people to pay for their medical treatment.
+
+
+ethic noun 行为准则，伦理；（尤指）道德体系，道德规范
+He said he was bound by a scientist's code of ethics.
+ethics noun 伦理学；道德学
+
+ethical adj 道德的；伦理的
+the ethical dilemmas surrounding genetic research
+ethical adj 伦理学的；道德学的
+a medical procedure that most people believe to be ethical
+
 ethical noun 凭医师处方出售的药品;
 
-virtuous adj 善良的; 贞洁的; 有道德的，有德行的; 有效力的;
+virtuous adj 道德高尚的；拥有美德的；品行端正的
+He described them as virtuous and hard-working people.
+virtuous adj 自命清高的，自命不凡的
+He only does charity work so he can feel virtuous.
+
 righteous adj 正义的; 正直的; 公正的;
+He was regarded as a righteous and holy man.
+the righteous 正义的人，正直的人
 
+### 精神
 
-mental adj 内心的，精神的，思想的，心理的; 智慧的，智[脑]力的; 〈口〉精神病的，意志薄弱的，愚笨的;
+mental adj 精神的；思想上的；心理的
+A doctor was asked about the mental state of the prisoner.
+
 mental noun 精神病患者;
 
-introspection 自我反省; 反省，内省
-insight noun 顿悟; 领悟; 洞察力，洞悉; 直觉，眼光;
+conscious 有意识的，
+be conscious of sth/sb 意识到；察觉到；感觉到
+I think she's very conscious of being the only person in the office who didn't have a university education.
 
-penetration 渗透; 穿透; [军] 突破; 洞察力;
-conscious 有意识的，神志清醒的; 自觉的，有意的; （痛苦，感情，冷气等） 感觉得到的
-consciousness 知觉; 觉悟; 意识，观念; 感觉
-comprehension 理解，理解力; 包含的能力; [逻辑学] 内涵;
-comprehensive adj 综合的; 广泛的; 有理解力的，悟性好的; [保险业] 总体担保的;
-comprehensive noun [常用复数] 专业综合考试; 综合学校; 综合性中学;
+conscious 有意识的；神志清醒的；有知觉的
+He's still conscious but he's very badly injured.
+conscious 故意的，存心的；刻意的
+He's obviously making a conscious effort to be nice to me at the moment.
+
+consciousness 意识；感觉；觉悟
+Working in an unemployment office had helped to raise his political consciousness.
+consciousness 有意识的；神志清醒的；有知觉的
+He lost consciousness after his accident and never recovered/regained it.
 
 sentient adj 有感觉能力的; 有知觉力的;
+It is hard for a sentient person to understand how any parents could treat their child so badly.
 
-sensible adj 明智的; 通情达理的; 合乎情理的; 意识到的，能感觉到的;
-sensible noun 可感觉到的东西; 敏感的人;
 
-perceive v 理解; 意识到; 察觉，发觉;
-tangibly adv 可触摸的，可触知地，明白地;
+introspection 自我反省; 反省，内省
+His defeat in the world championship led to a long period of gloomy introspection.
+
+insight noun 顿悟; 领悟; 洞察力，洞悉; 直觉，眼光;
+It was an interesting book, full of fascinating insights into human relationships.
+
+penetration noun 进入；穿透
+The company is trying to increase its penetration of the market.
+Sunscreens can help reduce the penetration of ultraviolet rays into the skin.
+penetration 洞察力
+
+comprehension 理解力；领悟能力
+He has no comprehension of the size of the problem.
+
+comprehensive adj 全面的；综合的；包罗万象的；详尽的
+We offer you a comprehensive training in all aspects of the business.
+
+comprehensive noun [常用复数] 专业综合考试; 综合学校; 综合性中学;
+
+
+sensible adj 理智的；明智的
+I think the sensible thing to do is call and ask for directions.
+sensible adj （衣服或鞋）合适的，实用的
+It could be cold and wet so pack some sensible clothes.
+sensible adj 意识到的；知道的；觉察到的
+He did not appear to be sensible of the difficulties that lay ahead.
+
+
+perceive vt 认为；看待；视为
+How do the French perceive the British?
+Women's magazines are often perceived to be superficial.
+perceive vt  察觉，注意到，意识到
+I perceived a note of unhappiness in her voice.
+
+tangible adj 真实的；非想象的；可触摸的；可感知的
+We need tangible evidence if we're going to take legal action.
+
 
 subliminal adj 下意识的，潜意识的 The leader was interviewed in front of a factory to give the subliminal message that he was a man of the people.
-
-
-
-
-# 怜悯的
-mercy
-compassionate
-
-sympathy adj 慰问; 意气相投，同感; 同情，同情心; 和谐的一致;
-
-
-commiserate vi 怜悯，同情; I began by commiserating with her over the defeat.
-
-
-maternal 母亲的; 母亲般的; 母系的; 母亲方面的;
-
-charitable adj 仁慈的，慈善的; 宽恕的，宽厚的; 慷慨的;
-
-lenient adj 宽容; 宽大的，仁慈的; <古>减轻痛苦的，缓解的;
-
-humane adj 仁爱的，慈善的; 高尚的;
-
-charity noun 慈善事业；慈善组织，慈善机构 She does a lot of work for charity.
-charity noun 仁慈，宽容，友善
-
-
 
 ### 智力
 exceptional 例外的; 杰出的; 优越的; 独特的
@@ -120,6 +158,66 @@ spacious adj 宽敞的; 广阔的; （知识） 广博的;
 
 irrational adj 不理智的，没有理性的
 It's totally irrational, but I'm frightened of mice.
+
+brilliant adj 颇有才气的，聪颖的；技艺高超的
+Her mother was a brilliant scientist.
+brilliant adj 光明的，明亮的；（颜色）鲜艳的
+The sky was a brilliant, cloudless blue.
+brilliant adj 非常好的，出色的
+She's got a brilliant sense of humour.
+
+
+### 声誉
+reputable
+I insured my property with an established, reputable company.
+
+prominence 显著，有名
+Most of the papers give prominence to (= put in a noticeable position) the same story this morning.
+
+prominent adj 著名的; 突出的，杰出的; 突起的;
+The government should be playing a more prominent role in promoting human rights.
+prominent adj 凸出的
+She has a prominent chin/nose.
+prominent 突出的，显眼的
+New books are displayed in a prominent position on tables at the front of the store.
+
+eminent adj 显赫的; （指人） 知名的，杰出的，卓越的; （指品质、特性） 明显的，显着的，突出的; 闻达;
+an eminent historian
+
+fame noun 名声; 名望; 传闻; 传说;
+She moved to London in search of fame and fortune.
+
+fame vt 使闻名; 使出名; 使有名望; <古>盛传;
+
+### 尊敬
+esteem vt 尊敬，敬重; 认为，以为; 考虑; 估价
+esteem noun 尊敬，尊重; 意见，看法; 评价; 名声;
+
+respect vt 尊重; 尊敬; 关心; 遵守;
+respect noun 敬意; 尊重，恭敬; 某方面;
+
+
+# 怜悯的
+mercy
+compassionate
+
+sympathy adj 慰问; 意气相投，同感; 同情，同情心; 和谐的一致;
+
+
+commiserate vi 怜悯，同情; I began by commiserating with her over the defeat.
+
+
+maternal 母亲的; 母亲般的; 母系的; 母亲方面的;
+
+charitable adj 仁慈的，慈善的; 宽恕的，宽厚的; 慷慨的;
+
+lenient adj 宽容; 宽大的，仁慈的; <古>减轻痛苦的，缓解的;
+
+humane adj 仁爱的，慈善的; 高尚的;
+
+charity noun 慈善事业；慈善组织，慈善机构 She does a lot of work for charity.
+charity noun 仁慈，宽容，友善
+
 
 
 ### 有能力的
@@ -261,6 +359,12 @@ contributory adj 捐献的；奉献的 The company offers a contributory pension
 contributory adj 起作用的；导致…的；促成的 Too little exercise is a contributory factor in heart disease.
 
 
+sacrifice vt 牺牲；献出
+Many women sacrifice interesting careers for their families.
+sacrifice noun 牺牲；献出
+We had to make sacrifices in order to pay for our children's education.
+sacrifice noun 献祭，供奉；祭品，供品
+The people offered a lamb on the altar as a sacrifice for their sins.
 
 
 # 兴奋

@@ -112,3 +112,10 @@ prejudice vt 使有成见，使有偏见，使产生歧视
 His comments may have prejudiced the voters against her.
 prejudice vt 对…不利，损害
 The fact that you were late all this week may prejudice your chances of getting a promotion.
+
+inclined adj 倾向于…的
+Tom is inclined to be lazy.
+在艺术／技术等方面有天赋的
+She's very bright, but she's not academically inclined.
+对有…的倾向，倾向于…
+He was inclined to agree with them.
