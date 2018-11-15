@@ -25,6 +25,8 @@ a warrior king/nation
 witch 女巫，巫婆
 a witch on a broomstick
 
+############
+
 shuttle noun 穿梭运行的车辆；穿梭航班 To get across town, you can take the shuttle from Times Square to Grand Central.
 shuttle noun 梭子
 shuttle vi/vt 往返穿梭；往返运送（人） A bus shuttles constantly between the terminal and the runways.
@@ -291,7 +293,13 @@ deterrent noun 威慑力量；遏制因素；制止物
 Tougher prison sentences may act/serve as a deterrent to other would-be offenders.
 
 
+plague vt 不断困扰；折磨；使受煎熬 My shoulder's been plaguing me all week.
+plague vt （尤指因不停提问而）使烦恼，打搅 He's been plaguing me for a loan of the book.
+plague noun 瘟疫  Millions died of (the) plague.
+a plague of sth  （令人烦恼或可能造成破坏的）一大群 A plague of journalists descended on the town.
+
 harass vt 骚扰；使烦恼，打扰 Stop harassing me!
+
 persecution noun（因种族、宗教、政治信仰）迫害；虐待；烦扰，纠缠
 They left the country out of fear of persecution.
 
@@ -306,6 +314,11 @@ These people are seeking/taking refuge from persecution.
 
 refuge vt 给予…庇护; 接纳…避难;
 refuge vi 避难; 躲避;
+
+refugee noun 难民；避难者；逃亡者
+Thousands of refugees fled across the border.
+
+
 #####################################
 
 retaliate vi 回敬; 报复，反击;

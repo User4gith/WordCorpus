@@ -143,9 +143,6 @@ intellectual 知识分子; 脑力劳动者; 有极高智力的人; 凭理智（�
 intelligible adj 可理解的，明白易懂的，清楚的;
 
 
-brilliant adj 才华横溢的; 明亮的; <非正式>美好的; 闪耀的
-brilliant noun 宝石; 钻石;
-
 ingenuity 独创性; 足智多谋，心灵手巧; 独出心裁，设计新颖; 巧妙，精巧
 
 innovative 创新的; 革新的; 富有革新精神的; 创新立异;
@@ -427,6 +424,49 @@ indolent adj 懒惰的，懒散的，不活跃的;
 delinquent adj 不尽责的，怠工的; 有过失的; 拖欠债务的;
 delinquent noun 流氓; 少年罪犯; 失职者;
 
+sprawl vi （懒散地）摊开四肢坐（或躺）
+I knocked into her in the corridor and sent her sprawling (= knocked her over).
+sprawl vi （尤指城市）杂乱无序地扩展，散乱地延伸
+The refugee camps sprawl across the landscape.
+sprawl noun （懒散地）摊开四肢坐（或躺）
+sprawl noun 无计划的发展（某地大面积散布的建筑物，是随时间而增加的、无计划的，因此看起来不整齐）
+the urban sprawl of South Florida
+
+idle adj 闲置的
+Half these factories now stand idle.
+idle adj 无所事事的，空闲的
+If you have an idle moment, call me.
+idle adj 无工作的，失业的
+Almost half of the workforce are now idle.
+idle adj 无目的的
+an idle glance
+idle adj 懒惰的
+He's a very able student, he's just bone idle (= very lazy).
+idle vi （发动机）低速运转，空转
+He left the engine idling and ran into the shop.
+
+vacuum noun 真空
+vacuum noun 缺乏，空白
+The withdrawal of troops from the area has created a security vacuum which will need to be filled.
+in a vacuum 似在真空中；与世隔绝
+No artist works in a vacuum - we are all of us influenced by others.
+vacuum vi/vt 用吸尘器清扫
+Vacuum (up) the cake crumbs, would you?
+
+vacancy noun 空处；空位
+We wanted to book a hotel room in July but there were no vacancies.
+vacancy noun （职位）空缺
+There is a vacancy for a shop assistant on Saturdays.
+
+vacant adj 空的；未被占用的
+The hospital has no vacant beds.
+vacant adj （工作职位）空缺的
+The position fell (= became) vacant when Rodman was promoted.
+
+spacious adj 宽敞的，空间大的
+spacious accommodation
+
+
 
 # 自制的
 continent noun 欧洲大陆; 大陆，陆地; <美>北美洲大陆;
@@ -485,7 +525,10 @@ listless adj 倦怠的; 百无聊赖的; 倦怠的，无精打采的; 冷淡的;
 mediocre
 
 pedestrian noun 行人; 步行者;
-pedestrian adj 徒步的; 平淡无奇的; 一般的;
+pedestrian adj 乏味的，单调的；缺乏想象力的
+His speech was long and pedestrian.
+
+
 pavement noun 人行道; 硬路面; 铺过的路面; [动]铺石状构造[密生的齿列等] ;
 
 
@@ -904,7 +947,16 @@ spur noun 马刺; 激励因素; 支柱; （公路或铁路的） 支线;
 spur vt 鞭策; 策（马）前进; （尤指用马刺） 策（马）加速;
 spur vi 策马飞奔; 急速前进;
 
+rouse vt 唤醒；激励，使觉醒，使奋起
+The speaker attempted to rouse the crowd with a cry for action.
 
+
+inspire vt 激励，鼓舞
+His confident leadership inspired his followers.
+inspire vt 唤起，激起
+The captain's heroic effort inspired them with determination.
+inspire vt 赋予灵感；激发（想法）
+The design of the car has inspired many imitations.
 
 
 

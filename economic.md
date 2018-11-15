@@ -213,6 +213,12 @@ compensate vi 补偿，弥补;
 
 compensation 补偿，赔偿; 修正; 补救办法
 
+offset vt 补偿；抵消；弥补
+The extra cost of travelling to work is offset by the lower price of houses here.
+offset vt 支付具有减排作用的东西，以弥补之前的排放所造成的损害
+支付具有减排作用的东西，以弥补之前的排放所造成的损害
+
+
 ### 财产
 asset noun 优点，长处；有用的人
 asset noun 资产；财产

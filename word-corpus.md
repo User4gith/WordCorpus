@@ -69,6 +69,8 @@ abode vt <古>预兆，预示;
 lounge noun （酒店、机场、剧院等的）休息厅，等候室 All the family were sitting in the lounge watching television.
 lounge noun 客厅，起居室 All the family were sitting in the lounge watching television.
 
+refectory noun （修道院、学校等的）食堂，餐厅
+
 
 hut noun 小屋; 棚屋; 临时营房; 牢房;
 hut v 使住临时营房; 驻扎;
@@ -94,7 +96,10 @@ pagoda 塔，宝塔;
 
 porch 门廊; 游廊，走廊;
 aisle 过道，通道; 侧廊，耳堂; 狭长的通路;
+
 corridor noun 走廊，通道; 走廊（一国领土通过他国境内的狭长地带）; [建] 覆道;
+Her office is at the end of the corridor.
+
 foyer noun  （剧院、宾馆等公共建筑物入口处内的）门厅 I'll see you downstairs in the foyer in half an hour.
 foyer noun （房子或公寓的）门廊，前厅
 
@@ -130,7 +135,15 @@ simultaneously adv
 stimulate 刺激
 
 ### 时代
-contemporary 同时代的，当代的；
+contemporary adj 当代的；现代的
+Although the play was written hundreds of years ago, it still has a contemporary (= modern) feel to it.
+contemporary adj 同时期的，同时代的
+Most of the writers he was contemporary with were interested in the same subjects.
+contemporary noun 同时代的人
+Was he a contemporary of Shakespeare's?
+contemporary noun 同龄人，同辈
+She didn't mix with her contemporaries, preferring the company of older people.
+
 
 temporary 暂时的；
 transient adj 短暂的; 转瞬即逝的; 临时的
@@ -557,6 +570,7 @@ twist vi 被搓揉; 蜿蜒，曲折; 扭曲身体，扭动; 旋转，转动
 twist noun 揉搓之物; 丝线; 烟草卷; 旋转;
 
 vibrate vt （使） 振动[颤动]; 摆动; 犹豫; 激动;
+His voice vibrated with anger.
 vibration noun 持续振动；轻微抖动 Vibrations were felt hundreds of miles from the centre of the earthquake.
 
 
@@ -594,13 +608,6 @@ wrap noun 卷饼
 wrap noun 包裹物；覆盖物 plastic wrap
 wrap noun 宽松外套；浴衣
 
-
-
-
-# 消息
-bulletin 公告，公报; 新闻快报; 小报; 期刊;
-news
-newsletter
 
 # 态度相关
 attitude
@@ -692,12 +699,16 @@ foible noun （无伤大雅的）怪癖，小毛病，小缺点 We all have our 
 
 
 
-
-
 ### 不确定性
 precarious 危险的; 不确定的; 不安全的; 可疑的;
 bleak adj 暗淡的，昏暗的; 没有指望的; 寒冷的，刺骨的; 无遮蔽的，荒凉的;
 bleak noun 欧鮊鱼，银鲤;
+
+awry adj 离开预期方向（的）；出错（的）
+Anything that goes awry (= goes wrong) in the office is blamed on Pete.
+awry adj 曲（的）；歪（的）；斜（的）
+She rushed in, her face red and sweaty and her hat awry.
+
 
 
 ### 眩晕
@@ -747,6 +758,15 @@ deem vt 认为，视为; 主张，断定;
 deem vi 认为，视为，以为; 作某种评价;
 reckon vt 认为; 计算; 测算，估计; 评定，断定;
 reckon vi 估计; 计算; 猜想; 料想;
+
+muse vi 沉思，默想，冥想
+I began to muse about/on the possibility of starting my own business.
+muse noun （写作、绘画或音乐创作方面的）灵感（源泉）
+The muse has left me - I haven't written any poetry for months!
+
+# 宣称
+allege vt 断言，宣称，辩解; 提出…作为理由;
+assert vt 声称，断言; 维护，坚持; 坚持自己的主张; 生效;
 
 
 ### 说
@@ -874,6 +894,12 @@ sustain vt 经历，遭受（尤指破坏或损失）
 She sustained multiple injuries in the accident.
 sustain vt （情感上）支持
 She was sustained by the strength of her religious faith.
+
+endure vt 忍耐；忍受
+We had to endure a nine-hour delay at the airport.
+endure vi 持续；持久
+The political system established in 1400 endured until about 1650.
+
 
 
 
@@ -1158,6 +1184,9 @@ intervention noun 介入，干涉，干预; 调解，排解;
 
 interfere vi 干预，干涉; 调停，排解; 妨碍，打扰;
 
+derail （使）（火车）脱轨
+derail vt 阻挠 Renewed fighting threatens to derail the peace talks.
+
 
 
 ### 迎合
@@ -1351,7 +1380,11 @@ suppression noun 抑制; 压制; 镇压; 禁止;
 impede vt 阻碍; 妨碍; 阻止; Although he's shy, it certainly hasn't impeded his career in any way.
 
 
-inhibit v 抑制; 禁止;
+inhibit vt 使…拘谨；使…有顾忌
+Some workers were inhibited (from speaking) by the presence of their managers.
+inhibit vt 抑制；约束
+This drug inhibits the growth of tumours.
+
 
 hinder vt 阻碍，妨碍; 成为阻碍;
 High winds have hindered firefighters in their efforts to put out the blaze.
@@ -1902,6 +1935,17 @@ embrace 接受; 信奉; 包括; 包含;
 incorporate vt 包含; 组成公司; 使混合; 使具体化;
 incorporate vi 合并; 包含; 吸收; 混合;
 
+soak sth up 吸收，吸掉（液体）
+I tried to soak up most of the spilled milk with a dishcloth.
+
+soak sth up 尽情享受，充分体验
+I love to lie on the beach and soak up the sun.
+soak sth up 吸取，吸收（信息）
+Given the right environment, children are like sponges and will soak up information.
+soak sth up 用完，耗尽（尤指金钱）
+The repairs on our house soaked up all our savings.
+
+
 ### 成分
 compound noun 复合物; 场地; （筑有围墙的） 院子; 复合词
 compound vt 调和; 使混合; 使严重; 调停;
@@ -1967,6 +2011,14 @@ clutch noun 离合器 I've booked the car into the garage because the clutch is 
 clutch noun （尤指鸟巢里的）一窝蛋
 clutch noun （人或物）一小群，一簇，一撮 a fresh clutch of students
 sb's clutches …的掌控，…的控制 He is in/has fallen into the clutches of that woman.
+
+pinch vi/vt 捏，拧，掐，夹
+These shoes are too tight, they pinch (my feet).
+pinch vt 偷窃
+Right, who's pinched my chair?
+pinch noun （一）撮；少量
+While the tomatoes are cooking add a pinch of salt/sugar/dried thyme.
+pinch noun 捏，拧，掐，夹 She gave Emma a painful pinch on the arm.
 
 
 ### 碰撞

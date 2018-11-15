@@ -369,11 +369,6 @@ snake neike
 
 
 
-# 宣称
-allege vt 断言，宣称，辩解; 提出…作为理由;
-assert vt 声称，断言; 维护，坚持; 坚持自己的主张; 生效;
-
-
 ### 责骂
 scold vt 责骂
 scold vi 责骂; 斥责;
@@ -455,7 +450,13 @@ asymmetry adj 不对称的，不对等的;
 clockwise adj/adv
 anticlockwise adj/adv
 
-# 主客观
+# 乐观/悲观
+optimism
+optimistic
+
+pessimistic
+
+# 主/客观
 subject
 object
 
@@ -479,10 +480,9 @@ radical （指移除所有患病组织）根本的
 Cervical cancer may be cured with radical surgery when it is confined to the pelvis or regional lymph nodes.
 radical 激进分子；极端分子
 
-
-
 # 内向；外向
-introvert
+introvert noun 性格内向者
+
 extrovert
 
 # 明显
@@ -530,11 +530,18 @@ murky adj 阴暗的，昏暗的; 朦胧的，含糊的，暧昧的; （指水）
 feculent
 
 
+# 消息
+bulletin 公告，公报; 新闻快报; 小报; 期刊;
+news
+newsletter
+
+handout
+
+leaflet
 
 # 说明书
 prospectus
 specification noun 规格; 说明书; 详述;
-
 
 brochure
 illustration
@@ -570,6 +577,15 @@ strip vt 使带有条纹;
 textile
 
 wire 电线; 金属丝; 电报; （木偶的） 牵线，操纵绳，背后操纵的势力，秘密引线，秘密策略;
+
+# 连续
+continuity noun 连续性，持续性，连贯性
+There has been no continuity in that class - they've had six different teachers.
+continuity （电影、电视的）场景串联，节目串联，衔接
+
+successive adj 接连地，连续地
+It was the team's fourth successive defeat.
+
 
 # 变化
 variation noun 变化；变动 The medical tests showed some variation in the baby's heart rate.
@@ -648,11 +664,9 @@ mimic noun 善于模仿的人 She's a fantastic mimic.
 
 
 
-
 # 流行
 prevalence noun 流行; 盛行; 普遍; （疾病等的） 流行程度;
 modish adj 流行的，时髦的;
-
 
 
 # 精确
@@ -669,6 +683,15 @@ delicate adj 微妙的; 熟练的; 纤弱的; 易损的;
 
 exact adj 准确的; 严密的; 精密的，精确的;
 exact vt 要求; 苛求; 迫使; 强求;
+
+tenable adj （观点）站得住脚的；（职位）可保持一段时间的
+His theory is no longer tenable in the light of the recent discoveries.
+
+explicit adj 清楚明白的；明确的；不含糊的
+She was very explicit about (= said very clearly and exactly) what she thought was wrong with the plans.
+explicit adj （描绘性或暴力）赤裸裸的，露骨的
+a sexually explicit movie
+
 
 # 相似
 analogous adj 相似的，可比拟的; <生>同功的; 模拟式;

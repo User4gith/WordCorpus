@@ -19,7 +19,7 @@ All he offered me was a lousy 20 bucks (= a small amount of money)!
 （表示很多或太多）充满了…，充斥着…
 The internet is lousy with this kind of stuff.
 
-awful 
+awful
 
 merely adv （用于强调所说的即为所想表达的）仅仅，只，不过
 I wasn't complaining, I merely said that I was tired.
@@ -42,10 +42,7 @@ diverge vi （道路）分叉；出现差异；发生分歧 Although the two org
 controversy noun 争议；争论；争辩 There was a big controversy surrounding/over the use of drugs in athletics.
 The policy has caused fierce/heated controversy ever since it was introduced.
 
-plague vt 不断困扰；折磨；使受煎熬 My shoulder's been plaguing me all week.
-plague vt （尤指因不停提问而）使烦恼，打搅 He's been plaguing me for a loan of the book.
-plague noun 瘟疫  Millions died of (the) plague.
-a plague of sth  （令人烦恼或可能造成破坏的）一大群 A plague of journalists descended on the town.
+
 
 squash vt 把…压扁；把…挤扁 He accidentally sat on her hat and squashed it.
 squash vt （使）挤进；（把…）塞进 He tried to squash his ripped jeans into the suitcase while his mother wasn't looking.
@@ -73,8 +70,3 @@ lush adj （地区）郁郁葱葱的，植被茂盛的 lush green valleys
 lush adj 美味的；愉悦的，使感官愉快的 the lush sound of the orchestra
 lush adj 好的；（人）有吸引力的 We had a lush time on my birthday.
 lush noun 酒鬼，贪杯的人 She's a lush by all accounts.
-
-
-
-tenable adj （观点）站得住脚的；（职位）可保持一段时间的
-His theory is no longer tenable in the light of the recent discoveries.

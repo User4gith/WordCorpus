@@ -171,6 +171,12 @@ pretest vt 抗议; 声明反对; 断言;
 
 suppression noun 抑制; 压制; 镇压; 禁止;
 
+suppress vt （用武力）镇压，压制，制止
+The Hungarian uprising in 1956 was suppressed by the Soviet Union.
+suppress vi 抑制，忍住，压抑；查禁
+She couldn't suppress her anger/annoyance/delight.
+
+
 
 ### 鉴定
 authenticate 证明是真实的、可靠的或有效的; 鉴定，使生效
@@ -222,6 +228,10 @@ a territorial dispute
 Some animals and birds are territorial (= they mark out areas which they defend against others).
 
 
+realm noun （兴趣或活动的）界，领域，范围
+Her interests are in the realm of practical politics.
+realm noun 王国
+The matter was hotly debated in all the towns of the realm.
 
 
 # 政治从业

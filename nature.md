@@ -127,7 +127,7 @@ graze noun 擦伤，擦破（皮肤）
 Her legs were covered with cuts and grazes.
 
 
-garzing noun 牧场，草场
+grazing noun 牧场，草场
 pasture 牧草地，牧场; 牲畜饲养，放牧;
 The sheep were grazing on the lush green pastures.
 
@@ -380,9 +380,12 @@ The emigration of scientists is a catastrophe for the country.
 
 catastrophic adj 灾难的; 惨重的，悲惨结局的;
 
+
 devastate vt 毁灭; 破坏; 蹂躏; 使荒废;
 
 devastator noun 蹂躏者，破坏者;
+
+
 devastation noun 毁灭，极大的破坏
 If disease is allowed to spread, it will cause widespread devastation.
 devastation noun 极度惊骇；（感情上的）重创
@@ -450,7 +453,23 @@ crust noun （某物的）硬皮，外壳 the earth's crust
 crust noun 面包皮 Could you cut the crusts off the sandwiches, please?
 
 ### 金属
-metallic 金属的; 金属性的; 金属制的; 含金属的;
+metallic adj （声音、外形或味道）有金属特性的，像金属的，金属似的
+Beer from a can often has a metallic taste.
+metallic adj 含金属的
+
+metallurgy 冶金学
+
+
+fuse noun 保险丝
+fuse noun 导火索；导火线引信；信管
+fuse vi/vt 熔合；结合
+Genes determine how we develop from the moment the sperm fuses with the egg.
+fuse vt/vi （使）熔化
+The heat of the fire fused many of the machine's parts together.
+fuse vi/vt （使）（因保险丝熔断而）停止工作
+The kids were messing around with the switches and they fused the lights.
+Either my headlights have fused or the bulbs have gone.
+
 
 
 gold

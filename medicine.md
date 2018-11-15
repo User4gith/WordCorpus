@@ -122,6 +122,9 @@ sprain noun 扭伤;
 
 insomnia noun [医] 失眠，失眠症;
 
+diabetes noun 糖尿病
+
+
 sedentary adj 缺乏锻炼的，少活动的 My doctor says I should start playing sport because my lifestyle is too sedentary.
 
 
