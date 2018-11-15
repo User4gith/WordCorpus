@@ -9,7 +9,7 @@ troop adj 军队的；有关或涉及军队的 Satellite photographs provide us 
 troop vi 成群结队地走；（通常指）列队而行 The little boys trooped after him across the playing fields.
 troop vi （尤指被告知）成群前往 We all trooped down to London for the meeting.
 
-knigth （英国的）爵士
+knight （英国的）爵士
 He hopes to be made a knight for his work at the Bank of England.
 （旧时的）骑士
 knights in black armour
