@@ -686,7 +686,12 @@ clumsy
 gloomy
 scrupulous
 
-insane adj 疯狂的; 精神病的; 非常愚蠢的;
+insane adj 疯癫的，精神失常的
+For the last ten years of his life he was clinically insane.
+insane adj 疯狂的；荒唐的
+It would be insane not to take advantage of this opportunity.
+the insane s精神病患者
+a hospital for the criminally insane
 
 eccentric adj 古怪的，异常的; 偏离轨道的; 离心的;
 eccentric noun 古怪的人; [物] 偏心轮;

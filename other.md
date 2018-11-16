@@ -8,6 +8,10 @@ heir 继承人; 后嗣，嗣子;
 condone vt 宽恕，饶恕；纵容；包容，容忍
 
 engrave vt 在（金属、石头等）上雕刻（字、图案等）The jeweller skilfully engraved the initials on the ring.
+inscribe vt 题写；刻，雕
+The wall of the church was inscribed with the names of the dead from World War I.
+
+
 
 dreadfully adv 非常糟糕地；恶劣地
 dreadfully adv 非常，极端地
@@ -25,6 +29,18 @@ merely adv （用于强调所说的即为所想表达的）仅仅，只，不过
 I wasn't complaining, I merely said that I was tired.
 
 barely adv 仅；刚好；几乎没有 They have barely enough (= no more than what is needed) to pay the rent this month.
+barely adv 仅；刚好；几乎没有 They have barely enough (= no more than what is needed) to pay the rent this month.
+exclusively adv 仅仅；专门；单独 This offer is available exclusively to our established customers.
+
+scarcely adv 勉强；几乎不
+I was scarcely able to move my arm after the accident.
+scarcely adv 刚…就
+I had scarcely sat down/Scarcely had I sat down to eat when the phone rang.
+scarcely adv 决不
+I'd scarcely have done it if I didn't think it was absolutely necessary!
+
+virtually adv 几乎；实际上；实质上
+Their twins are virtually identical.
 
 
 elastic adj 有弹性的 A lot of sportswear is made of very elastic material.
@@ -61,10 +77,6 @@ in particular adv 特别，尤其 Are you looking for anything in particular?
 particular adj 讲究的；苛求的，挑剔的 He's very particular about the kitchen - everything has to be perfectly clean and in its place.
 particulars noun 个人资料；具体信息 There's a form for you to note down all your particulars.
 the particular 具体情况，详情，细节 The report focuses on the particular rather than the general and so doesn't draw any overall conclusions.
-
-barely adv 仅；刚好；几乎没有 They have barely enough (= no more than what is needed) to pay the rent this month.
-
-exclusively adv 仅仅；专门；单独 This offer is available exclusively to our established customers.
 
 lush adj （地区）郁郁葱葱的，植被茂盛的 lush green valleys
 lush adj 美味的；愉悦的，使感官愉快的 the lush sound of the orchestra

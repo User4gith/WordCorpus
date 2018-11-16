@@ -361,8 +361,8 @@ deficiency noun 不足
 scarce adj 难得的，稀有的，罕见的
 scarce adj not easy to find or get
 scarcely adv 勉强；几乎不
-sacarcely adv 刚…就
-sacarcely adv 决不
+scarcely adv 刚…就
+scarcely adv 决不
 
 dearth noun 缺乏，稀少;
 

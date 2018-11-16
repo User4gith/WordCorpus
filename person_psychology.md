@@ -18,6 +18,14 @@ be of the essenc 极其重要；必不可少
 In any of these discussions, of course, honesty is of the essence.
 essence noun （通常取自植物或花的）香精，香料，精油
 
+substance noun 物质；材料
+What sort of substance could withstand those temperatures?
+substance （某人）所说或所写的最重要的部分，要点
+Later that year, the substance of their secret conversation appeared in a newspaper article.
+substance 重要性；要旨；实质；根据
+This new information gives substance to the stories we have heard.
+
+
 essential adj 必要的; 本质的; 基本的; 精华的;
 essential noun 必需品; 基本要素; 必不可少的东西;
 
@@ -248,7 +256,16 @@ intensity noun 强度; 烈度; 强烈; （感情的） 强烈程度;
 
 vibrant 振动的; 响亮的; 充满生气的;
 
+hospitable adj 友好的，好客的
+The villagers were very hospitable to/towards anyone who passed through.
+hospitable adj （条件）适宜生活的，适合成长的
+It's difficult to think of a less hospitable environment than the surface of the moon.
+
+
 hospitality 殷勤好客; 招待，款待; （气候，环境等的） 宜人，适宜;
+
+
+
 
 keen adj 锐利的; 厉害的，强烈的; 敏锐的，敏捷的; 热心的;
 keen vt （为死者） 恸哭，哀号;
@@ -609,6 +626,10 @@ What annoys me about these girls is their complacency - they seem to have no des
 complacent adj 自满的，自鸣得意的
 We can't afford to become complacent about any of our products.
 
+inflate vt/vi（使）充气；（使）膨胀
+We watch the hot-air balloon slowly inflate.
+inflate vt 抬高；夸大
+They inflated their part in the rescue every time they told the story.
 
 
 ### 虚伪

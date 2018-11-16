@@ -318,6 +318,11 @@ refuge vi 避难; 躲避;
 refugee noun 难民；避难者；逃亡者
 Thousands of refugees fled across the border.
 
+hostel noun （免费或廉价的）旅社，客栈
+hostel noun （无家可归者的）收容所
+a hostel for the homeless
+
+
 
 #####################################
 

@@ -342,13 +342,6 @@ wander vt
 wander noun 游荡; 闲逛; 溜达; 失散;
 
 
-### 同一的；鉴别
-identical
-
-identify
-
-identification noun 认同; 鉴定，识别; 验明; 身份证明;
-
 
 # 小吃和蛇
 snack nike
@@ -670,6 +663,12 @@ notable noun 名人; 显要人物;
 
 noticeable 显而易见的，明显的; 引人注目的，令人瞩目的; 显著的，重要的; 可以察觉的;
 
+### 同一的；鉴别
+identical
+
+identify
+
+identification noun 认同; 鉴定，识别; 验明; 身份证明;
 
 # 相似
 analogous adj 相似的，可比拟的; <生>同功的; 模拟式;

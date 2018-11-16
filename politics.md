@@ -147,9 +147,12 @@ constituent adj 构成的，组成的; 选举的; 有选举权的;
 register
 enrolment
 
-### 特权
+### 权
 privilege noun 特权; （因财富和社会地位而仅有部分人享有的） 权益; 免责特权; 特殊荣幸;
 privilege vt 给与…特权，特免;
+
+influential adj 有影响力的
+She wanted to work for a bigger and more influential (= powerful) newspaper.
 
 
 ### 抗议
