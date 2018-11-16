@@ -309,6 +309,28 @@ budget vt 制订预算，计划（开支） An extra $20 million has been budget
 budget adj 低廉的 a budget holiday/hotel/price
 the Budget  （政府的）预算案，年度预算
 
+bankruptcy noun 企业或个人破产（的状况）
+The company was forced into bankruptcy.
+bankruptcy noun （某重要素质或影响的）彻底消失 moral bankruptcy
+
+bankrupt adj 破产的，资不抵债的 He went bankrupt after only a year in business.
+bankrupt adj 缺乏…的 He believes that modern society is morally bankrupt.
+bankrupt noun 破产者 He was declared a bankrupt in 2011.
+bankrupt vt 使某人破产 They feared that the loss would bankrupt them.
+
+
+
+
+
+
+indebted adj 感激的
+We're deeply indebted to you for your help.
+负债的
+indebted countries
+负债国
+The company is heavily indebted.
+
+
 fluctuation 波动，涨落，起伏，[物]脉动; 动摇不定，踌躇; [生] 彷徨变异
 
 inflation 通货膨胀
@@ -391,12 +413,7 @@ an impoverished young actor
 impoverished （质量）恶化的
 He warned that the breakdown of the family unit would lead to an impoverished society.
 
-indebted adj 感激的
-We're deeply indebted to you for your help.
-负债的
-indebted countries
-负债国
-The company is heavily indebted.
+
 
 # 装饰
 cosmetics noun 化妆品

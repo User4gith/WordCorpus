@@ -101,6 +101,14 @@ partial adj 偏爱…的，喜欢…的 I'm not partial to fish.
 
 predispose vt 使（某人）倾向于；使（某人）易于感染 His family background predisposes him to support the Democrats.
 
+prone adj
+be prone to sth/do sth 易于遭受（疾病）的；有（消极）倾向的
+I've always been prone to headaches.
+She's prone to exaggerate, that's for sure.
+prone adj 俯卧的，趴着的
+The photograph showed a man lying prone on the pavement, a puddle of blood around his head.
+
+
 tilt vt/vi （使）倾斜 He tilted his chair backwards and put his feet up on his desk.
 tilt noun 倾斜，倾侧 There has been a tilt to/towards/away from thesocialists among some groups of young people.
 

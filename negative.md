@@ -230,6 +230,14 @@ Oh no! I bust his MP3 player.
 bust vt 逮捕；突击搜查（建筑物等）并逮捕疑犯
 The police busted him because they think he's involved with a terrorist group.
 
+trample vt/vi 踩，践踏
+Somebody trampled all over my flowerbeds!
+Eight people were trampled to death (= killed) when the stadium collapsed and the crowd rushed out onto the football pitch.
+trample vi/vt 侵犯，无视（尊严）
+She accused the government of trampling on the needs and rights of the ordinary citizen.
+He argues that Congress trampled the constitutional rights of legal immigrants in the new welfare reform law.
+
+
 ### 折磨
 plague vt 不断困扰；折磨；使受煎熬 My shoulder's been plaguing me all week.
 plague vt （尤指因不停提问而）使烦恼，打搅 He's been plaguing me for a loan of the book.
@@ -237,6 +245,27 @@ plague noun 瘟疫  Millions died of (the) plague.
 a plague of sth  （令人烦恼或可能造成破坏的）一大群 A plague of journalists descended on the town.
 
 harass vt 骚扰；使烦恼，打扰 Stop harassing me!
+
+### 痛苦
+tragical 悲剧
+tragedy noun 悲剧，惨剧; 悲剧文学; 悲剧理论，悲剧表演艺术; 悲剧式作品;
+
+miserable adj 痛苦的；可怜的 She's miserable living on her own.
+miserable adj 令人难受的，令人痛苦的 What a miserable existence! How could anyone live in such awful conditions?
+miserable adj 拙劣的；少得可怜的 The book was a miserable failure.
+
+wretch noun 可怜的人；不幸的人 a poor/miserable wretch
+wretch noun 讨厌的人；无耻之徒；恶棍 Who trampled on my flowers? I bet it was those two little wretches who live next door.
+
+torment noun 折磨，痛苦; 痛苦的根源; 刑罚;
+Waiting for the result of the medical tests was sheer torment.
+torment noun 痛苦（或烦恼）之源
+Writing reports was a monthly torment to him.
+Nothing can describe the torments we went through while we were waiting for news.
+
+torment vt 使折磨，使痛苦; 使烦乱; 纠缠;
+It tormented me all day - had I said the wrong thing and hurt her feelings?
+
 
 ### 污染
 stain v 玷污，染污; 败坏（名声）; 给…染色;

@@ -906,7 +906,8 @@ neglect vt 疏于照管；忽视，疏忽 He neglects that poor dog - he never t
 neglect to do sth 疏忽，疏漏，忘记做 I'd neglected to give him the name of the hotel where I'd be staying.
 neglect noun 疏忽，忽视；疏于照管 Both parents were found guilty of neglect and their child was taken away from them.
 
-trivialize vt I don't want to trivialize the problem, but I do think there are more important matters to discuss.
+trivialize vt 使显得不重要
+I don't want to trivialize the problem, but I do think there are more important matters to discuss.
 
 devalue vi/vt （使）贬值
 Last year Mexico was forced to devalue the peso.
@@ -915,8 +916,12 @@ I don't want to devalue his achievement, but he managed to get a promotion witho
 
 
 # 忽略
-disregard vt 不顾; 不理会; 漠视，忽视; 蔑视，轻视;
-disregard noun 视，忽视; 不理，不顾; 不尊重;
+disregard noun 忽视，漠视，无视
+What amazes me is her complete disregard for anyone else's opinion.
+
+disregard vt 忽视，无视，不理会
+He told us to disregard everything we'd learned so far and start again.
+
 
 neglect vt 忽略; 疏忽; 遗漏; 疏于照顾;
 neglect noun 怠慢; 玩忽; 被忽略的状态;
@@ -1073,26 +1078,6 @@ stale noun （牛马、骆驼的） 尿;
 
 rotten adj 腐烂的; 恶臭的; 堕落的; 极坏的;
 rotten adv 非常; 极其;
-
-
-
-
-### 痛苦
-tragical 悲剧
-tragedy noun 悲剧，惨剧; 悲剧文学; 悲剧理论，悲剧表演艺术; 悲剧式作品;
-
-miserable 悲惨的; 令人痛苦的; 太少的; 卑鄙的
-
-wretch noun 坏蛋; 可怜的人; 不幸的人; 恶棍;
-
-torment noun 折磨，痛苦; 痛苦的根源; 刑罚;
-Waiting for the result of the medical tests was sheer torment.
-torment noun 痛苦（或烦恼）之源
-Writing reports was a monthly torment to him.
-Nothing can describe the torments we went through while we were waiting for news.
-
-torment vt 使折磨，使痛苦; 使烦乱; 纠缠;
-It tormented me all day - had I said the wrong thing and hurt her feelings?
 
 
 

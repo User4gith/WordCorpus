@@ -133,6 +133,7 @@ eligible noun 合格者; 合适者; 称心如意的人; 合乎条件的人（或
 unanimous adj 全体一致的; 一致同意的，无异议的;
 
 enfranchise vt 给予选举权; （从奴隶制中） 解放;
+Women in Britain were first enfranchised in 1918.
 
 
 suffrage
@@ -204,7 +205,7 @@ The Hungarian uprising in 1956 was suppressed by the Soviet Union.
 suppress vi 抑制，忍住，压抑；查禁
 She couldn't suppress her anger/annoyance/delight.
 
-suddue vt 压制；制服；控制
+subdue vt 压制；制服；控制
 The fire burned for eight hours before the fire crews could subdue it.
 He criticized the school for trying to subdue individual expression.
 
@@ -384,6 +385,20 @@ pledge noun 许诺; 用…担保; 以誓言约束; 向…祝酒;
 coercive adj 强制的，强迫的；胁迫的
 The president relied on the coercive powers of the military.
 
+grant noun （尤指政府为特殊目的给予个人或组织的）拨款，补助金
+a student/research grant
+They gave/awarded her a grant to study abroad for one year.
+grant vt （通常指官方）同意，准予，授予
+She granted their request/wish.
+They granted her an entry visa.
+
+grant vt （常指在表达相反的意见之前表示让步）承认，同意
+I grant that it must have been upsetting but even so I think she overreacted.
+take sth for granted 认为…是理所当然的
+I didn't realize that Melanie hadn't been to college - I suppose I just took it for granted.
+
+granted 因为
+Granted (that) the story's true, there's not a lot you can do about it.
 
 # 判
 righteous adj 正义的; 正直的; 公正的;
