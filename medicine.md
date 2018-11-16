@@ -288,3 +288,7 @@ restore vt 归还；交还 The painting was restored to its rightful owner.
 revive vt/vi （使）苏醒；（使）复原；（使）复兴；（使）重新流行
 My plants revived as soon as I gave them some water.
 Traditional skills are being revived.
+
+
+resumption noun （中断后）继续，重新开始
+The president called for an immediate ceasefire and a resumption of negotiations between the two sides.

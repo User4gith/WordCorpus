@@ -25,6 +25,11 @@ a warrior king/nation
 witch 女巫，巫婆
 a witch on a broomstick
 
+wizard noun 男巫，术士
+wizard （某方面的）行家，奇才，高手
+a computer wizard
+
+
 ############
 
 shuttle noun 穿梭运行的车辆；穿梭航班 To get across town, you can take the shuttle from Times Square to Grand Central.
@@ -117,6 +122,27 @@ The company convinced investors to reject a hostile bid from Enterprise Oil Plc 
 hostility noun 敌意，不友好 They showed open (= obvious) hostility to/towards their new neighbours.
 hostility noun 不同意，不喜欢
 hostilities noun 战斗；战争行为 Hostilities began/broke out just after midnight.
+
+======
+cesase vt 停止，中止
+Whether the protests will cease remains to be seen.
+ceasefire noun （通常指两军间的）停火协定
+declare a ceasefire
+
+withdraw vt/vi
+抽回；取回；提取；撤回；撤离；退出；移回
+The UN has withdrawn its troops from the country.
+不再说话；沉默；不与人交流
+As a child, she frequently withdrew into her own fantasy world.
+
+withdrawal noun 提款，取钱
+The bank became suspicious after several large withdrawals were made from his account in a single week.
+撤军
+The commander-in-chief was given 36 hours to secure a withdrawal of his troops from the combat zone.
+收回；退出
+Doctors demanded the withdrawal of the drug (from the market) after several cases of dangerous side-effects were reported.
+沉默寡言；孤僻
+Withdrawal is a classic symptom of depression.
 
 ======
 offence noun 犯罪行为；罪行 a serious/minor offence; Driving without a licence is an offence.
@@ -293,34 +319,10 @@ deterrent noun 威慑力量；遏制因素；制止物
 Tougher prison sentences may act/serve as a deterrent to other would-be offenders.
 
 
-plague vt 不断困扰；折磨；使受煎熬 My shoulder's been plaguing me all week.
-plague vt （尤指因不停提问而）使烦恼，打搅 He's been plaguing me for a loan of the book.
-plague noun 瘟疫  Millions died of (the) plague.
-a plague of sth  （令人烦恼或可能造成破坏的）一大群 A plague of journalists descended on the town.
-
-harass vt 骚扰；使烦恼，打扰 Stop harassing me!
-
-persecution noun（因种族、宗教、政治信仰）迫害；虐待；烦扰，纠缠
-They left the country out of fear of persecution.
-
-
 entrench vt 使处于牢固地位，使根深蒂固，牢固确立（尤指观念、问题）
 The government's main task was to prevent inflation from entrenching itself.
 entrench noun 壕沟; 防御设施;
 
-
-refuge noun 避难（所）；庇护（所）；慰藉
-These people are seeking/taking refuge from persecution.
-
-refuge vt 给予…庇护; 接纳…避难;
-refuge vi 避难; 躲避;
-
-refugee noun 难民；避难者；逃亡者
-Thousands of refugees fled across the border.
-
-hostel noun （免费或廉价的）旅社，客栈
-hostel noun （无家可归者的）收容所
-a hostel for the homeless
 
 
 

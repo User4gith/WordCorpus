@@ -39,21 +39,36 @@ manufacture noun 制造; 制成品，产品; 工业，工厂; （文学作品等
 manufacture vt 加工; 制造，生产; 捏造，虚构; 从事制造;
 
 commodity noun 商品; 日用品; 有价值的物品; 有利，有益;
+commodity noun 宝贵品质
+If you're going into teaching, energy is a necessary commodity.
+
 merchandise 商品;货物
 merchandise vt 销售; 买卖;
 merchandise vi 经商;
 
 procurement noun 采购 a substantial budget for the procurement of military supplies
 invoice 发票
+
 #################################
-budget noun 预算 The firm has drawn up a budget for the coming financial year.
-an annual budget of £40 million
-budget vt 制订预算，计划（开支） An extra $20 million has been budgeted for schools this year.
-budget adj 低廉的 a budget holiday/hotel/price
-the Budget  （政府的）预算案，年度预算
-
-
-
+bid vt/vi （尤指在拍卖中）出价，喊价竞买
+She knew she couldn't afford it, so she didn't bid.
+The communications group has shown an interest in bidding for the company.
+投标，竞标
+The department is trying to ensure fairer competition among firms bidding for city contracts.
+争取；竞争
+Paris is bidding to host the next Olympics.
+（纸牌游戏中）叫牌
+Before you decide how to bid, you need to evaluate how strong the hand of cards you are holding is.
+打招呼，致意；请求 I must now bid you farewell
+bid noun 出价，喊价
+I made a bid of $150 for the painting.
+投标，竞价
+[ + to infinitive ] Sydney made a successful bid to host the Olympic Games.
+（纸牌游戏中）叫牌
+The declarer must make as many tricks as his bid has promised.
+企图得到；努力争取
+Her bid for re-election was unsuccessful.
+The company has managed to fight off a hostile takeover bid (= an attempt by another company to take control of it).
 
 bargain noun 交易; 契约，协定; 特价商品; 便宜货;
 bargain vt 做交易;
@@ -71,7 +86,11 @@ patronage noun 惠顾，光顾 We would like to thank all of our customers for t
 sponsor noun 发起者，主办者; 担保者; 倡议者，提案人; 后援组织;
 sponsor vt 赞助
 
-equity noun （公平; 公道; 公正裁决; 公平合理（或公正）的事;（公司的）股本，股票值；股票
+equity noun （公司的）股本，股票值；股票
+He sold his equity in the company last year.
+equit noun 公平；公正
+a society based on equity and social justice
+
 equity adj 股票的; 股市的;
 
 stake noun 股本，股份
@@ -221,7 +240,10 @@ offset vt 支付具有减排作用的东西，以弥补之前的排放所造成�
 
 ### 财产
 asset noun 优点，长处；有用的人
+Knowledge of languages is a real asset in this sort of work.
 asset noun 资产；财产
+A company's assets can consist of cash, investments, specialist knowledge, or copyright material.
+
 estate noun （位于乡村的）大片私有土地，庄园，种植园
 It's a typical country estate with a large house for the owner, farm buildings, and estate workers' houses.
 
@@ -266,9 +288,21 @@ yield noun 产生；出产；得出
 currency noun 货币
 currency noun 流行；流通；通用
 
+deficit 赤字; 亏损; 亏空; 不足额
+
+budget noun 预算 The firm has drawn up a budget for the coming financial year.
+an annual budget of £40 million
+budget vt 制订预算，计划（开支） An extra $20 million has been budgeted for schools this year.
+budget adj 低廉的 a budget holiday/hotel/price
+the Budget  （政府的）预算案，年度预算
+
 fluctuation 波动，涨落，起伏，[物]脉动; 动摇不定，踌躇; [生] 彷徨变异
 
 inflation 通货膨胀
+
+stringent adj 严格的; The most stringent laws in the world are useless unless there is the will to enforce them.
+stringent adj  紧缩的，银根紧的
+Already low living standards have been worsened by stringent economic reforms.
 
 
 recession 经济衰退，不景气; 后退，撤退; 凹处; 退场;
@@ -277,10 +311,6 @@ stagnate vi 停滞不前；不发展
 The electronics industry is showing signs of stagnating after 15 years of growth.
 
 stagnation noun 滞止; 淤塞，停滞; 不景气;
-
-stringent adj 严格的; The most stringent laws in the world are useless unless there is the will to enforce them.
-stringent adj  紧缩的，银根紧的
-Already low living standards have been worsened by stringent economic reforms.
 
 downturn 衰退，渐入低迷
 the continuing economic downturn
@@ -342,6 +372,42 @@ The product does not live up to the extravagant claims of the advertisers.
 
 impoverish vt 使贫穷; 使贫瘠或恶化; 耗尽…的力气;
 
+
+impoverished adj 赤贫的
+an impoverished young actor
+impoverished （质量）恶化的
+He warned that the breakdown of the family unit would lead to an impoverished society.
+
+indebted adj 感激的
+We're deeply indebted to you for your help.
+负债的
+indebted countries
+负债国
+The company is heavily indebted.
+
+# 装饰
+cosmetics noun 化妆品
+cosmetic adj 装饰门面的，虚饰的，表面的
+cosmetic adj 化妆用的，美容的
+
+jewellery noun （总称）珠宝，首饰 a piece of gold/silver jewellery
+jeweller
+
+ornament noun 装饰物，饰品 garden ornaments such as statues and fountains
+ornament noun 装饰，摆设 The building relies on clever design rather than on ornament for its impressive effect.
+
+treasure noun 财宝；珍宝 Stories about pirates often include a search for buried treasure.
+treasures noun 珍宝；（尤指）艺术珍品 The museum houses many priceless treasures.
+treasure noun 很有用的人；很重要的人 I don't know what I'd have done without Lizzie when I was ill - she was an absolute treasure.
+treasure vt 珍爱；珍惜；珍藏 I will always treasure those memories of my dad.
+
+precious adj 珍贵的，宝贵的
+Clean water is a precious commodity in many parts of the world.
+invaluable adj 极有用的，宝贵的
+The new job will provide you with invaluable experience.
+
+
+
 ### 充足
 abound vi 充满; 丰富，盛产; 非常多，大量存在;
 abundant adj 大量的，充足的; 丰富的，富有的; 丰足; 阜;
@@ -365,13 +431,6 @@ scarcely adv 刚…就
 scarcely adv 决不
 
 dearth noun 缺乏，稀少;
-
-deficit 赤字; 亏损; 亏空; 不足额
-
-impoverished adj 赤贫的
-an impoverished young actor
-impoverished （质量）恶化的
-He warned that the breakdown of the family unit would lead to an impoverished society.
 
 
 

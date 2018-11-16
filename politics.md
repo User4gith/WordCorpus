@@ -179,6 +179,25 @@ The Hungarian uprising in 1956 was suppressed by the Soviet Union.
 suppress vi 抑制，忍住，压抑；查禁
 She couldn't suppress her anger/annoyance/delight.
 
+suddue vt 压制；制服；控制
+The fire burned for eight hours before the fire crews could subdue it.
+He criticized the school for trying to subdue individual expression.
+
+persecution noun（因种族、宗教、政治信仰）迫害；虐待；烦扰，纠缠
+They left the country out of fear of persecution.
+
+refuge noun 避难（所）；庇护（所）；慰藉
+These people are seeking/taking refuge from persecution.
+
+refuge vt 给予…庇护; 接纳…避难;
+refuge vi 避难; 躲避;
+
+refugee noun 难民；避难者；逃亡者
+Thousands of refugees fled across the border.
+
+hostel noun （免费或廉价的）旅社，客栈
+hostel noun （无家可归者的）收容所
+a hostel for the homeless
 
 
 ### 鉴定

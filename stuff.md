@@ -21,6 +21,21 @@ gadget noun 小器具；小装置；小玩意儿 Have you seen this handy little
 lever noun 杠杆; 操作杆; 工具;
 lever vt 用杠杆撬动
 
+leverage noun 杠杆作用；杠杆效力
+Using ropes and wooden poles for leverage, they haul sacks of cement up the track.
+影响力
+If the United Nations had more troops in the area, it would have greater leverage.
+leverage noun 杠杆比率（公司举债数目与其价值之比）
+借贷收购，信贷投机，杠杆作用
+With leverage, the investor's $100,000 buys $500,000 or more of stock if he wants.
+
+leverage vt 借助已有的…实现新（或更好）的目标
+We can gain a market advantage by leveraging our network of partners.
+leverage vt 借贷收购，信贷投机，杠杆作用
+Home equity is invaluable if you leverage it to build wealth.
+以钱生钱
+One of the easiest ways to leverage a charitable gift is to get your employer to match it.
+
 bulb noun 球茎，鳞茎
 bulb noun 灯泡
 
@@ -91,23 +106,6 @@ glossy 有光泽的，光滑的; 虚有其表的; 似是而非的;
 luster noun 光泽; 光彩; 光辉; 荣耀;
 luster vt 使有光泽，使有光彩，给…增光;
 luster vi 有光泽，发光;
-
-# 装饰
-cosmetics noun 化妆品
-cosmetic adj 装饰门面的，虚饰的，表面的
-cosmetic adj 化妆用的，美容的
-
-jewellery noun （总称）珠宝，首饰 a piece of gold/silver jewellery
-jeweller
-
-ornament noun 装饰物，饰品 garden ornaments such as statues and fountains
-ornament noun 装饰，摆设 The building relies on clever design rather than on ornament for its impressive effect.
-
-treasure noun 财宝；珍宝 Stories about pirates often include a search for buried treasure.
-treasures noun 珍宝；（尤指）艺术珍品 The museum houses many priceless treasures.
-treasure noun 很有用的人；很重要的人 I don't know what I'd have done without Lizzie when I was ill - she was an absolute treasure.
-treasure vt 珍爱；珍惜；珍藏 I will always treasure those memories of my dad.
-
 
 
 # 安全
@@ -266,7 +264,10 @@ The government has been accused of skirting round the issue of torture.
 
 
 ### 疏远
-alienate vt 使疏远，离间; 使转移，放弃; [法]转让，让渡（财产或权利）;
+alienation noun 疏远; 离间; （觉得周围环境与自己格格不入的） 疏离感; 离心离德;
+
+alienate vt 离间；使背离；使不友好 All these changes to the newspaper have alienated its traditional readers.
+alienate vt 使格格不入；使疏远 Disagreements can alienate teenagers from their families.
 
 estrange vt 使疏远（尤指家庭成员之间）;（使）疏远；离间
 Her lifestyle estranged her from her parents.
@@ -304,18 +305,6 @@ separate vt 分开考虑；认为（两者）不相关
 You can't separate morality from politics.
 separate vi （夫妻）分居
 My parents separated when I was six and divorced a couple of years later.
-
-
-
-
-
-# 模糊
-ambiguity 含糊; 意义不明确; 含糊的话，模棱两可的话; 可作两种或多种解释;
-obscurity 默默无闻; 晦涩; 朦胧; 费解;
-vague adj 模糊的; （思想上） 不清楚的; （表达或感知） 含糊的; 暧昧的;
-vague noun 模糊不定状态;
-
-elusive adj 难以捉摸的; 不易记住的; 逃避的; 难以找到的;
 
 ###  徘徊
 hesitation noun 犹豫; 踌躇; 含糊; 口吃;
@@ -482,6 +471,15 @@ soak vi 浸泡; 渗透或浸透，渗出; 讲话者暂停了一下; [俚语] 酗
 soak noun 湿透; 酒鬼; 浸湿性; [俚语] 醉汉;
 
 silt noun （尤指河湾或河口处的）淤泥，泥沙
+
+
+# 模糊
+ambiguity 含糊; 意义不明确; 含糊的话，模棱两可的话; 可作两种或多种解释;
+obscurity 默默无闻; 晦涩; 朦胧; 费解;
+vague adj 模糊的; （思想上） 不清楚的; （表达或感知） 含糊的; 暧昧的;
+vague noun 模糊不定状态;
+
+elusive adj 难以捉摸的; 不易记住的; 逃避的; 难以找到的;
 
 
 ### 浑浊
