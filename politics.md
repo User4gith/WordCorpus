@@ -154,6 +154,29 @@ privilege vt 给与…特权，特免;
 influential adj 有影响力的
 She wanted to work for a bigger and more influential (= powerful) newspaper.
 
+### 鉴定
+authenticate 证明是真实的、可靠的或有效的; 鉴定，使生效
+
+certify vt (尤指书面） 证明; 发证书给…; 证明（某人）患有精神病; 颁发（或授予）专业合格证书;
+
+certificate noun 证明书; 文凭，结业证书
+a birth/marriage/death certificate
+certificate noun 成绩合格证书；毕业证书
+She has a Certificate in Drama Education.
+
+
+certificate v 发给证明书; 用证书证明（或认可）;
+certification noun 证明，鉴定，证书
+
+credential 文凭; 外交使节所递的国书，信任状;
+credential v 提供证明书
+
+accredit vt 鉴定…为合格；认可；认为…属实；授权
+The agency was not accredited by the Philippine Consulate to offer contracts to Filipinos abroad.
+
+verify vt 核实; 证明; 判定;
+verification noun 核实; 证明; 证实; <哲>（指通过经验）证明（某命题正确）;
+
 
 ### 抗议
 propose vt 求婚; 提议，建议; 打算，计划; 推荐，提名;
@@ -169,7 +192,9 @@ riot 骚乱，暴动，暴乱，骚动，混乱;放荡，闹饮，嘈闹的宴�
 
 protest noun 抗议; 反对; 申明;
 protest vi 抗议; 断言;
-pretest vt 抗议; 声明反对; 断言;
+protest vt 抗议; 声明反对; 断言;
+
+portester
 
 
 suppression noun 抑制; 压制; 镇压; 禁止;
@@ -200,27 +225,7 @@ hostel noun （无家可归者的）收容所
 a hostel for the homeless
 
 
-### 鉴定
-authenticate 证明是真实的、可靠的或有效的; 鉴定，使生效
 
-certify vt (尤指书面） 证明; 发证书给…; 证明（某人）患有精神病; 颁发（或授予）专业合格证书;
-
-certificate noun 证明书; 文凭，结业证书
-a birth/marriage/death certificate
-certificate noun 成绩合格证书；毕业证书
-She has a Certificate in Drama Education.
-
-
-certificate v 发给证明书; 用证书证明（或认可）;
-certification noun 证明，鉴定，证书
-
-credential 文凭; 外交使节所递的国书，信任状;
-credential v 提供证明书
-
-accredit vt 归因于; 委托，授权; 相信，认可; 鉴定合格，确认达标;
-
-verify vt 核实; 证明; 判定;
-verification noun 核实; 证明; 证实; <哲>（指通过经验）证明（某命题正确）;
 
 ### 召集
 convene vt 召集; 聚集; 传唤;
@@ -254,6 +259,44 @@ realm noun （兴趣或活动的）界，领域，范围
 Her interests are in the realm of practical politics.
 realm noun 王国
 The matter was hotly debated in all the towns of the realm.
+
+### 税
+levy noun 征收额；税款 They imposed a five percent levy on alcohol.
+tariff noun 关税；关税表
+
+
+
+# legal
+legislative adj （关于） 立法的; 立法决定的; 有权立法的，用以立法的; 立法机构的;
+legislative noun 立法机关; 立法权;
+
+
+legislation noun 立法，制定法律; 法律，法规;
+enact vt 制定法律; 规定; 颁布，颁布; 担任…角色;
+
+promulgate 公布; 传播; 宣扬（某事物）; 颁布（法令、新法律等）;
+
+stipulate vt （尤指在协议或建议中）规定，约定，讲明（条件等） ;
+stipulate vi 规定，明确要求;
+stipulate 有托叶的;
+
+treaty noun 条约；协定
+We've signed/concluded a treaty with neighbouring states to limit emissions of harmful gases.
+
+embargo noun （尤指暂时禁止贸易或提供消息的）禁令，禁运；限制
+They have put an embargo on imports of clothing.
+embargo vt 禁止与（另一国家）通商；对…禁运
+They are planning to embargo oil imports.
+
+outlaw noun （尤指旧时的）不法之徒，草寇 Robin Hood was an outlaw who lived in the forest and stole from the rich to give to the poor.
+outlaw vt 使成为非法；禁止；取缔 The new law will outlaw smoking in public places.
+
+resolution noun 决议；正式决定 The United Nations passed (= voted to support) a resolution to increase aid to developing nations.
+resolution noun 决心；决定 I made a resolution to give up chocolate.
+resolution noun 决意；坚决 He showed great resolution in facing the robbers.
+resolution noun 解决；解除；消除 a successful resolution to the crisis
+resolution noun 清晰度，分辨率 a high/low resolution image
+resolution noun 分解；解析 the resolution of oil into bitumen and tar
 
 
 # 政治从业
@@ -303,7 +346,26 @@ Television has an important role to play in popularizing new scientific ideas.
 compulsory
 commitment 承诺，许诺; 委任，委托; 致力，献身; 承担义务;
 
-obligation noun 债务; 义务，责任; 证券，契约; 恩惠;
+oblige vt 责成；强迫，迫使
+The law obliges companies to pay decent wages to their employees.
+The law does not obligate sellers to accept the highest offer.
+oblige vi/vt （尤指按别人要求的去做以）讨好，帮助，为…效劳
+We only went to the party to oblige some old friends who asked us to be there.
+We needed a guide and he was only too happy to oblige.
+
+obliged adj 被迫做某事；必须做某事；只好做某事
+Doctors are legally obliged to take certain precautions.
+She feels obligated to be nice to Jack because he's her boss.
+(be) much obliged 非常感谢，感激不尽，不胜感激
+"Here's the information you requested." "Oh, (I'm) much obliged (to you)."
+be obliged if 如…将不胜感激
+I'd be obliged if you would complete and return the form as soon as possible.
+
+obligation noun 义务；责任；职责
+You have a legal obligation to (= the law says you must) ensure your child receives an education.
+If you have not signed a contract, you are under no obligation to (= it is not necessary to) pay them any money.
+必须要做的事情
+I don't have time to do his work for him - I have too many obligations as it is.
 
 requisition noun 征用，（财产或材料的正式）征用令; 申请书;
 requisition vt 征用，征发;
@@ -321,40 +383,6 @@ pledge noun 许诺; 用…担保; 以誓言约束; 向…祝酒;
 
 coercive adj 强制的，强迫的；胁迫的
 The president relied on the coercive powers of the military.
-
-
-### 税
-levy noun 征收额；税款 They imposed a five percent levy on alcohol.
-tariff noun 关税；关税表
-
-
-
-# legal
-legislative adj （关于） 立法的; 立法决定的; 有权立法的，用以立法的; 立法机构的;
-legislative noun 立法机关; 立法权;
-
-
-legislation noun 立法，制定法律; 法律，法规;
-enact vt 制定法律; 规定; 颁布，颁布; 担任…角色;
-
-promulgate 公布; 传播; 宣扬（某事物）; 颁布（法令、新法律等）;
-
-stipulate vt （尤指在协议或建议中）规定，约定，讲明（条件等） ;
-stipulate vi 规定，明确要求;
-stipulate 有托叶的;
-
-treaty noun 条约；协定
-We've signed/concluded a treaty with neighbouring states to limit emissions of harmful gases.
-
-embargo noun （尤指暂时禁止贸易或提供消息的）禁令，禁运；限制
-They have put an embargo on imports of clothing.
-embargo vt 禁止与（另一国家）通商；对…禁运
-They are planning to embargo oil imports.
-
-outlaw noun （尤指旧时的）不法之徒，草寇 Robin Hood was an outlaw who lived in the forest and stole from the rich to give to the poor.
-outlaw vt 使成为非法；禁止；取缔 The new law will outlaw smoking in public places.
-
-
 
 
 # 判
@@ -525,10 +553,6 @@ plagiarism noun 抄袭; 剽窃; 剽窃物; 抄袭物;
 
 appropriate adj 适当的; 合适的; 恰当的;
 appropriate v 盗用; 侵吞; 拨（专款等）;
-
-
-
-
 
 # 惩罚
 penality

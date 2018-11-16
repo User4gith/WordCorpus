@@ -303,7 +303,7 @@ energetic adj
 dynamic adj 动态的; 动力的，动力学的; 充满活力的，精力充沛的; 不断变化的，充满变数的;
 dynamic noun 动态; 动力学; 活力; 动力，推动变化的力量;
 
-
+vibrant 振动的; 响亮的; 充满生气的;
 
 
 ### 一致
@@ -447,6 +447,7 @@ wrap noun 宽松外套；浴衣
 # 态度相关
 attitude
 passive 被动的; 消极的; 不抵抗的; 冷漠的;
+
 positive
 negative
 
@@ -613,6 +614,18 @@ The muse has left me - I haven't written any poetry for months!
 allege vt 断言，宣称，辩解; 提出…作为理由;
 assert vt 声称，断言; 维护，坚持; 坚持自己的主张; 生效;
 
+declare vt 宣布；声明；公布
+They declared their support for the proposal
+America declared war on Japan in 1941
+申报（应纳税的货物价值或收入）
+You have to declare any earnings over a certain amount.
+
+
+confess vt/vi 坦白；供认，招认；承认（错误或罪行）
+He confessed to sleeping/having slept through most of the movie.
+It was all very confusing, I must confess.
+忏悔
+to confess your sins
 
 # 解释
 explanation
@@ -661,11 +674,6 @@ coax vt 哄劝；哄骗；劝诱 Perhaps you could coax your father into taking 
 refer to sb/sth vt （尤指简短地）提到，谈及，谈起 In her autobiography she occasionally refers to her unhappy schooldays.
 涉及…；与…相关 The new salary scale only refers to company managers and directors.
 
-declare vt 宣布；声明；公布
-They declared their support for the proposal
-America declared war on Japan in 1941
-申报（应纳税的货物价值或收入）
-You have to declare any earnings over a certain amount.
 
 
 ### 起源
@@ -754,8 +762,6 @@ endure vi 持续；持久
 The political system established in 1400 endured until about 1650.
 
 
-
-
 grant vt 授予; 承认; 同意; 准许;
 grant noun 拨款; 补助金; 授给物（如财产、授地、专有权、补助、拨款等）;
 grant vi 同意;
@@ -801,35 +807,239 @@ This man is desperate and should not be approached since he may have a gun.
 
 
 ### 场合，时刻；偶尔的
-occasion
-occasional
+occasion （尤指某事发生的）时刻，时候
+We met on several occasions to discuss the issue.
+I seem to remember that on that occasion he was with his wife.
+occasion noun 特殊场合；重大活动；盛会
+I have a suit but I only wear it on special occasions.
+occasion noun 时机，机会；原因，理由
+An occasion may arise when you can use your knowledge of French.
+on occasion 有时；偶尔，间或
+He has, on occasion, made a small mistake.
 
-circumstance noun 环境，境遇; 事实，细节; 典礼，仪式;
-circumstance v 使处于某种特定的情况之下;
+occasion vt 造成，引起；惹起
+Her refusal occasioned a lot of trouble.
+he case occasioned the authorities a lot of worry/The authorities were occasioned a lot of worry by the case.
+这个案子给当局惹来很多烦恼。
+
+======================
+occasional adj 偶尔的；不经常的
+He has the occasional cigar after dinner.
+I play the occasional game of tennis.
 
 
-casual 随便的；
-haphazard 偶然的，随意的; 无计划的; 任意的，胡乱的;
+casual adj （衣服）休闲的；便装的  casual clothes
+casual adj 不在意的；不放在心上的；漫不经心的 The psychologist's attitude seemed far too casual, even brutal.
+Although close to tears, she tried to make her voice sound casual.
+casual adj 不固定的；不定期的；临时的
+casual labour/labourers/workers
+casual adj 不经意的，随意的；碰巧的
+It was just a casual comment, I didn't mean it to be taken so seriously.
+
+haphazard 无秩序的，无计划的，随意的 He tackled the problem in a typically haphazard manner.
+
+==================
+
+circumstance noun 条件，情况；情形，形势
+I think she coped very well under the circumstances.
+Obviously we can't deal with the problem until we know all the circumstances.
+circumstance noun 无法控制的因素；客观环境；命运
+We were obliged to go by force of circumstance.
+circumstances 经济状况  Grants are available depending on your circumstances.
 
 
-crisis
-crises
+event （尤指重大或不寻常的）事情，事件
+Susannah's party was the social event of the year.
+This year's Olympic Games will be the biggest ever sporting event.
+The police are trying to determine the series of events that led up to the murder.
 
-event 事件
-incident 事件；事变; 小插曲; 敌对行动; 骚乱;
+event noun （比赛的）项目 The women's 200 metre event will be followed by the men's 100 metres.
+
+in the event of sth 如果…发生；万一
+In the event of a strike, the army will take over responsibility for firefighting.
+in any event 不管怎样，无论如何
+I might go home next month, but in any event, I'll be home for Christmas.
+in either event（在两种情况下）无论哪种情况，无论怎样
+I can't decide whether to accept the New York or the Chicago job, but in either event I'll have to move.
+in that event 如果是那样的话，如果那种情况发生
+There's a possibility of my flight being delayed. In that event I'll phone to let you know.
+
+incident （不愉快或不寻常的）事件
+A youth was seriously injured in a shooting incident on Saturday night.
+without incident 平安无事
+Despite fears of violence, the demonstration passed off without incident.
+
+incidence noun 事件；（事件的）发生率
+There have been quite a few incidences of bullying in the school this year.
+an increased incidence of cancer near nuclear power stations
+
 escalation 事态升级；扩大，增加;
-contingency 意外事故，偶发事件; 可能性，偶然性;
+escalate vt/vi （使）增强；（使）扩大；（使）加剧；（使）恶化
+His financial problems escalated after he became unemployed.
+The decision to escalate UN involvement has been made in the hopes of a swift end to the hostilities.
+The escalating rate of inflation will almost certainly bring escalating prices.
 
-consequence 推论; 结果，成果; [逻] 结论; 重要性;
-consequent adj 随之发生的; 必然的，合乎逻辑的; 继起的; [地] 顺向的
+
+contingency 可能发生的事；意外事件，不测事件
+You must be able to deal with all possible contingencies.
+Have you made any contingency plans?
+
+
+incidental adj 次要的；附带的；伴随的 Try not to be distracted by incidental details.
+
+coincide vi （几乎）同时发生 I timed my holiday to coincide with the children's.
+If the heavy rain had coincided with an extreme high tide, serious flooding would have resulted.
+coincide vi 与…一致，相符；相似 Our views coincide on a range of subjects.
+If our schedules coincide, we'll go to Spain together.
+
+coincidence noun 同时发生；（尤指令人吃惊的）巧合，碰巧的事
+You chose exactly the same wallpaper as us - what a coincidence!
+a series of strange/amazing coincidences
+coincidence noun 偶然的机遇，运气
+Just by coincidence, I met my old schoolmate again 50 years later.
+By some strange coincidence, he was passing the house just when it happened.
+It was pure/sheer coincidence that I remembered his phone number.
+
+==================================
+
+the upshot 结局；结果
+The upshot of the discussions is that there will be no layoffs.
+
+in the event （强调出乎意料）结果，到头来（却）
+We had expected to arrive an hour late, but in the event we were early.
+
+consequence （常指不好或不利的）结果，后果
+Well, if you insist on eating so much, you'll have to suffer/take (= accept and deal with) the consequences!
+Not making a will can have serious consequences for your children and other family members.
+of little/no consequence 不重要的；无足轻重的；无关紧要的
+The money was of little consequence to Tony.
+
+consequent adj 作为结果的；随之而来的；由此引起的
+Our use of harmful chemicals and the consequent damage to the environment is a very serious matter.
+
 consequent noun 结果; [逻] 后件，结论; [数] 后项; [语] （条件结构中的） 结果子句
 
 consequential
 
-subsequence noun 顺序; 后继，随后;
-subsequent adj 随后的; 后来的; 作为结果而发生的; 附随的;
 
-acquaintance 相识; 相识的人，熟人; 对…有了解; 知识，心得;
+subsequence noun 顺序; 后继，随后;
+subsequent adj 随后的，接着的
+The book discusses his illness and subsequent resignation from politics.
+
+==================================
+
+acquaintance noun 相识的人，熟人；泛泛之交 a business acquaintance
+acquaintance noun （用在某些表达方式中表示）认识，结识
+It was at the Taylors' party that I first made his acquaintance (= first met him).
+I wasn't sure about Darryl when I first met her, but on further acquaintance (= knowing her a little more) I rather like her.
+acuquaintance noun （对某一学科的）所知，了解
+Sadly, my acquaintance with Spanish literature is rather limited.
+
+### 挤压；压榨
+contract 签合同; 缩小; 感染;
+stringent adj 严格的; 迫切的; （货币） 紧缩的;
+
+squeeze
+
+squash vt 挤进; 将（某人[某物]）压扁; 使沉默; 平定（叛乱等）;
+squash vi 挤入; 受挤压; 发出挤压声;
+squash noun （软式） 墙网球; 南瓜小果（主要种类为笋瓜 winter squash 和西葫芦 summer squash）; 果汁汽水; 拥挤的人群;
+
+extrude vt （尤指通过狭小的出口）挤压出，挤压成，压制
+extruded aluminium rods
+extrusion 挤出; 推出; 喷出; 赶出;
+
+### 概括
+capsulate vt 封装; 概述;
+capsulate vi 形成囊状物;
+
+compendium noun 摘要，纲要;
+
+epitomise vt 成为（某事物）的缩影;
+
+outline noun 梗概，大纲，提纲，草稿，要点，主要原则; 外形，轮廓，轮廓线，轮廓画法，略图（画法）;
+outline vt 概述; 略述; 画轮廓，打草图，描略图;
+
+condensation noun 冷凝; 冷凝液; 凝结的水珠; 节略;
+We get a lot of condensation on the walls in the winter.
+
+
+crystallise vt 明确; 使结晶; 使成形，使具体化; 包糖，涂糖霜;
+crystallise vi 结晶; 成形，具体化;
+
+gist noun 要领; 精神; 要点，主旨; 大要;
+
+
+drift noun 大意，主旨 The general drift of the article was that society doesn't value older people.
+catch/get sb's drift 大致明白某人所说的话
+if you catch/get my drift   She's married, but she doesn't act as if she is, if you get my drift.
+drift noun （风吹积而成的）一堆（雪等） The snow lay in deep drifts.
+drift noun 局势变化 The downward drift in copper prices looks like it will continue.
+drift vi （尤指在外力作用下）飘，漂流，漂移 No one noticed that the boat had begun to drift out to sea.
+
+
+### 归纳
+induct vt 使正式就任;使了解；传授
+inductive 归纳的; 感应的; 诱导的; 归纳法的;
+
+analogy noun 类推; 类似，相似; 比拟，类比
+terminology 专门名词; 术语，术语学; 用辞
+
+deduce vt 演绎; 推论，推断; 追溯根源; We cannot deduce very much from these figures.
+
+
+derive vt 得到，导出; 源于，来自; （从…中） 提取;
+
+infer vt 推断; 猜想，推理; 暗示; 意指;
+infer vi 作出推论;
+
+
+### 提取
+derive vt 得到，导出; 源于，来自; （从…中） 提取
+The institute derives all its money from foreign investments.
+
+
+dredge v 清淤，疏浚（河道等）; 挖掘（泥土等），使显露; 捞取; （用面粉、糖等） 撒;
+dredge n 挖泥机，疏浚机; （采牡蛎，捕鱼等用的） 拖网，捞网; 悬浮矿石;
+
+excavate v 挖掘; 发掘; 开凿; 挖出;
+
+assimilate vi 同化; 吸收， 消化
+assimilate vt 透彻理解; 使吸收;
+
+purify vt 使纯净，净化; 精炼; 使（语言）纯正; 给…赎罪，使纯洁;
+
+distil vt 蒸馏; 从…提取精华; 使渗出; 用蒸馏法制造;
+distil vi 蒸馏; 提炼; 渗出;
+
+
+### 消化
+absorb
+digest vt 消化; 整理;吸收; 领悟; 玩味;
+digest vi 消化; 吸收食物; [化学] 加热;
+
+engross 使全神贯注;
+embrace 接受; 信奉; 包括; 包含;
+
+incorporate vt 包含; 组成公司; 使混合; 使具体化;
+incorporate vi 合并; 包含; 吸收; 混合;
+
+soak sth up 吸收，吸掉（液体）
+I tried to soak up most of the spilled milk with a dishcloth.
+
+soak sth up 尽情享受，充分体验
+I love to lie on the beach and soak up the sun.
+soak sth up 吸取，吸收（信息）
+Given the right environment, children are like sponges and will soak up information.
+soak sth up 用完，耗尽（尤指金钱）
+The repairs on our house soaked up all our savings.
+
+
+# 消耗
+guzzle vt 滥吃；狂饮；狼吞虎咽
+He guzzled his beer and ordered another.
+guzzle vt 在短时间内大量耗油
+The car guzzles a gallon of gas every 15 miles.
 
 
 ### 侦察
@@ -1154,6 +1364,12 @@ repel vt 击退; 抵制; 使厌恶; 使不愉快;
 
 infringe vt 侵犯; 违反（规章等）; 侵犯（某人的权利）; 侵害（某人的自由、权益等）;
 
+defiant adj 对抗的，违抗的；挑衅的
+The protesters blocking the entrance to the offices remained defiant this morning.
+defiant adj 不接受批评的；不接受不同意见的
+The CEO was in a defiant mood as she entered the boardroom.
+
+
 ### 对立的
 contrary 相反的; 违反的，反对的; 对立的; 顽固的，任性的;
 contrary 对立或相反的事物; 对立方; [逻] 反对命题;
@@ -1447,111 +1663,7 @@ transmute vt 使变形，使变质，把…变成…;
 
 
 
-### 挤压；压榨
-contract 签合同; 缩小; 感染;
-stringent adj 严格的; 迫切的; （货币） 紧缩的;
 
-squeeze
-
-squash vt 挤进; 将（某人[某物]）压扁; 使沉默; 平定（叛乱等）;
-squash vi 挤入; 受挤压; 发出挤压声;
-squash noun （软式） 墙网球; 南瓜小果（主要种类为笋瓜 winter squash 和西葫芦 summer squash）; 果汁汽水; 拥挤的人群;
-
-extrude vt （尤指通过狭小的出口）挤压出，挤压成，压制
-extruded aluminium rods
-extrusion 挤出; 推出; 喷出; 赶出;
-
-### 概括
-capsulate vt 封装; 概述;
-capsulate vi 形成囊状物;
-
-compendium noun 摘要，纲要;
-
-epitomise vt 成为（某事物）的缩影;
-
-outline noun 梗概，大纲，提纲，草稿，要点，主要原则; 外形，轮廓，轮廓线，轮廓画法，略图（画法）;
-outline vt 概述; 略述; 画轮廓，打草图，描略图;
-
-condensation noun 冷凝; 冷凝液; 凝结的水珠; 节略;
-We get a lot of condensation on the walls in the winter.
-
-
-crystallise vt 明确; 使结晶; 使成形，使具体化; 包糖，涂糖霜;
-crystallise vi 结晶; 成形，具体化;
-
-gist noun 要领; 精神; 要点，主旨; 大要;
-
-
-drift noun 大意，主旨 The general drift of the article was that society doesn't value older people.
-catch/get sb's drift 大致明白某人所说的话
-if you catch/get my drift   She's married, but she doesn't act as if she is, if you get my drift.
-drift noun （风吹积而成的）一堆（雪等） The snow lay in deep drifts.
-drift noun 局势变化 The downward drift in copper prices looks like it will continue.
-drift vi （尤指在外力作用下）飘，漂流，漂移 No one noticed that the boat had begun to drift out to sea.
-
-
-### 归纳
-induct vt 使正式就任;使了解；传授
-inductive 归纳的; 感应的; 诱导的; 归纳法的;
-
-analogy noun 类推; 类似，相似; 比拟，类比
-terminology 专门名词; 术语，术语学; 用辞
-
-deduce vt 演绎; 推论，推断; 追溯根源; We cannot deduce very much from these figures.
-
-
-derive vt 得到，导出; 源于，来自; （从…中） 提取;
-
-infer vt 推断; 猜想，推理; 暗示; 意指;
-infer vi 作出推论;
-
-
-### 提取
-derive vt 得到，导出; 源于，来自; （从…中） 提取
-The institute derives all its money from foreign investments.
-
-
-dredge v 清淤，疏浚（河道等）; 挖掘（泥土等），使显露; 捞取; （用面粉、糖等） 撒;
-dredge n 挖泥机，疏浚机; （采牡蛎，捕鱼等用的） 拖网，捞网; 悬浮矿石;
-
-excavate v 挖掘; 发掘; 开凿; 挖出;
-
-assimilate vi 同化; 吸收， 消化
-assimilate vt 透彻理解; 使吸收;
-
-purify vt 使纯净，净化; 精炼; 使（语言）纯正; 给…赎罪，使纯洁;
-
-distil vt 蒸馏; 从…提取精华; 使渗出; 用蒸馏法制造;
-distil vi 蒸馏; 提炼; 渗出;
-
-
-### 消化
-absorb
-digest vt 消化; 整理;吸收; 领悟; 玩味;
-digest vi 消化; 吸收食物; [化学] 加热;
-
-engross 使全神贯注;
-embrace 接受; 信奉; 包括; 包含;
-
-incorporate vt 包含; 组成公司; 使混合; 使具体化;
-incorporate vi 合并; 包含; 吸收; 混合;
-
-soak sth up 吸收，吸掉（液体）
-I tried to soak up most of the spilled milk with a dishcloth.
-
-soak sth up 尽情享受，充分体验
-I love to lie on the beach and soak up the sun.
-soak sth up 吸取，吸收（信息）
-Given the right environment, children are like sponges and will soak up information.
-soak sth up 用完，耗尽（尤指金钱）
-The repairs on our house soaked up all our savings.
-
-
-# 消耗
-guzzle vt 滥吃；狂饮；狼吞虎咽
-He guzzled his beer and ordered another.
-guzzle vt 在短时间内大量耗油
-The car guzzles a gallon of gas every 15 miles.
 
 
 ### 成分

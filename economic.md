@@ -9,7 +9,11 @@ commercial noun （电台或电视播放的） 广告;
 cooperative adj 合作的; 协助的; 共同的; 〈美〉（大学文科）有关[包含]各种实习活动的;
 cooperative noun 合作社，联合体;
 
-corporate adj 法人的，团体的，社团的; 公司的，总体国家的; 〈古〉团结的; 共同的，全体的;
+corporate adj（大）公司的 corporate finance
+corporate adj 团体的；全体的，集体的
+All adults take corporate responsibility for the upbringing of the tribe's children.
+
+
 corporation 企业
 
 incorporate vt 包含; 组成公司; 使混合; 使具体化
@@ -48,6 +52,10 @@ merchandise vi 经商;
 
 procurement noun 采购 a substantial budget for the procurement of military supplies
 invoice 发票
+
+lucrative adj （尤指生意、职位或活动）赚钱的，盈利的
+The merger proved to be very lucrative for both companies.
+
 
 #################################
 bid vt/vi （尤指在拍卖中）出价，喊价竞买
@@ -417,8 +425,11 @@ The new job will provide you with invaluable experience.
 abound vi 充满; 丰富，盛产; 非常多，大量存在;
 abundant adj 大量的，充足的; 丰富的，富有的; 丰足; 阜;
 abundant adj more than enough
+
 adequate 足够的; 适当的，恰当的; 差强人意的; 胜任的;
-adequate adj enough or satisfactory for a particular purpose:
+Have we got adequate food for 20 guests?
+I didn't have adequate time to prepare.
+
 
 sufficient adj  enough for a particular purpose:
 

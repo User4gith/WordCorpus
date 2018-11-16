@@ -195,66 +195,99 @@ She moved to London in search of fame and fortune.
 fame vt 使闻名; 使出名; 使有名望; <古>盛传;
 
 ### 尊敬
-esteem vt 尊敬，敬重; 认为，以为; 考虑; 估价
-esteem noun 尊敬，尊重; 意见，看法; 评价; 名声;
+esteem noun 尊敬，敬重；好评
+There has been a drop in public esteem for teachers.
+esteem vt 尊敬，敬重；好评
+Her work is highly esteemed by all her colleagues.
 
 respect vt 尊重; 尊敬; 关心; 遵守;
 respect noun 敬意; 尊重，恭敬; 某方面;
 
 
 # 怜悯的
-mercy
-compassionate
+mercy noun 慈悲，怜悯；仁慈，宽容
+She appealed to the judge to have mercy on her husband.
+be at the mercy of sb/sth 任凭…的摆布，完全受…的支配
+Poor people are increasingly at the mercy of money-lenders.
+mercy noun 恩惠；解脱
+After months of suffering, his death was a mercy.
 
-sympathy adj 慰问; 意气相投，同感; 同情，同情心; 和谐的一致;
+compassion noun 同情，怜悯，恻隐之心
+I was hoping she might show a little compassion.
+
+compassionate adj 富有同情心的
+The public's response to the crisis appeal was generous and compassionate.
+
+
+sympathy noun 同情（心），理解
+The president has sent a message of sympathy to the relatives of the dead soldiers.
+offer/send your sympathies 慰问，吊唁，吊慰
+I went along to the funeral in order to offer my sympathies.
+sympathy noun 支持，赞同
+I must confess I have some sympathy with his views.
+come out in sympathy with sb 参加罢工以支持（某人）
+The railway workers came out in sympathy with the miners.
 
 
 commiserate vi 怜悯，同情; I began by commiserating with her over the defeat.
 
 
-maternal 母亲的; 母亲般的; 母系的; 母亲方面的;
+maternal adj 母亲的；母亲般的
+She is very maternal towards her employees.
+maternal adj 母系的；母亲一方的
+Her maternal grandmother (= mother's mother) is still alive.
 
-charitable adj 仁慈的，慈善的; 宽恕的，宽厚的; 慷慨的;
-
-lenient adj 宽容; 宽大的，仁慈的; <古>减轻痛苦的，缓解的;
-
-humane adj 仁爱的，慈善的; 高尚的;
 
 charity noun 慈善事业；慈善组织，慈善机构 She does a lot of work for charity.
 charity noun 仁慈，宽容，友善
 
 
+charitable adj 慈善的
+The entire organization is funded by charitable donations.
+charitable adj 仁慈的；宽厚的；宽容的
+Some critics said the show was good in parts - those less charitable said the whole thing was a disaster.
 
-### 有能力的
-
-adequate 足够的; 适当的，恰当的; 差强人意的; 胜任的;
-competent 有能力的，能胜任的; 能干的，称职的; 足够的，充足的; 有决定权的;
-capable 能干的; 有才能的; 有才华的; 能胜任的
-sophisticated 复杂的; 精致的; 富有经验的; 深奥微妙的
-eligible adj 合适的; 在（法律上或道德上）合格的; 有资格当选的; 称心如意的
-eligible noun 合格者; 合适者; 称心如意的人; 合乎条件的人（或东西）;
-
-suffice vi 足够; 有能力;
-suffice vt 满足…的需要; 使满足;
-
-calibre noun 口径;水准;能力;枪弹的直径
+humane adj （尤指对待受苦者）善良的，仁慈的，人道的
+The humane way of dealing with a suffering animal (= the way that causes the least pain) is to kill it quickly.
 
 
 ### 热情的
-affectionate adj 亲热; 深情的，挚爱的; 慈爱的; 有感情的;
+affectionate adj 表示爱的；充满深情的；有感情的
+an affectionate kiss
+He's an affectionate little boy.
 
-passionate
-passion 激情，热情; 热心，爱好; 热恋; 酷爱;
-passion vt [诗歌用语] 表露强烈感情，显示巨大热情;
+passion noun 激情，热情；强烈情感
+Politics and philosophy were his lifelong passions.
+a passion for sth 对…的热爱，对…的强烈爱好
+Anton has a consuming passion for science fiction.
 
-enthusiasm 热情，热忱; 热衷的事物; 宗教的狂热;
+
+passionate adj 情绪激昂的，热情的
+The Italians are said to be the most passionate people in Europe.
+The child's mother made a passionate plea for help.
+
+enthusiasm noun 巨大兴趣；热情；热忱；热心
+One of the good things about teaching young children is their enthusiasm.
+I just can't work up (= start to feel) any enthusiasm for the whole project.
+enthusiasm noun 激发热情的事物；热衷的活动；热爱的事物
+One of his greatest enthusiasms was yoga.
+
 enthusiastic 热情的; 热心的; 热烈的; 狂热的
-
-intense 热情的，强烈的，紧张的; 热烈的，热情的，认真的; [摄] （底片） 明暗度强的; 有强烈感情（或意见、想法）的;
-intensity noun 强度; 烈度; 强烈; （感情的） 强烈程度;
+You don't seem very enthusiastic about the party - don't you want to go tonight?
 
 
-vibrant 振动的; 响亮的; 充满生气的;
+intense adj 强烈的，极度的
+He suddenly felt an intense pain in his back.
+intense adj 认真的；热切的；有强烈情感的；尖锐的
+an intense young man 认真的年轻人
+
+intensity noun 强烈；剧烈
+The explosion was of such intensity that it was heard five miles away.
+intensity noun （光、声等的）强度
+measures of light intensity
+intensity noun （感情或看法的）强烈；认真；全情投入
+The intensity of their relationship was causing problems.
+
 
 hospitable adj 友好的，好客的
 The villagers were very hospitable to/towards anyone who passed through.
@@ -262,51 +295,133 @@ hospitable adj （条件）适宜生活的，适合成长的
 It's difficult to think of a less hospitable environment than the surface of the moon.
 
 
-hospitality 殷勤好客; 招待，款待; （气候，环境等的） 宜人，适宜;
+hospitality noun 热情好客，殷勤，友好
+The local people showed me great hospitality.
+hospitablity noun （待客用的）食物，饮料；招待，款待
+The company's guests are entertained in the corporate hospitality area.
 
 
+keen adj 热衷的；热心的；渴望的
+They were very keen to start work as soon as possible.
+She's a keen tennis player.
+He's rather keen on a girl in his school (= he is very attracted to her).
+keen adj 强烈的，激烈的
+Many people are taking a keen interest (= a very great interest) in the result of the vote.
+keen adj 敏锐的；敏捷的 a keen sense of smell
+keen adj 尖利的；寒风刺骨的 a keen north wind
+keen vi （尤指因某人死去而）恸哭
 
-
-keen adj 锐利的; 厉害的，强烈的; 敏锐的，敏捷的; 热心的;
-keen vt （为死者） 恸哭，哀号;
-keen noun 〈英〉号哭，恸哭;
 
 keenly
 
 ### 温和
-mild
-modest
+mild adj 温和的；和缓的；轻微的
+She can't accept even mild criticism of her work.
+mild adj （天气）温和的，暖和的
+We've had a mild winter this year.
+mild adj （食物或其味道）不浓烈的，淡的
+He doesn't like a hot curry - he prefers a mild one.
+mild adj 温和的，随和的
+a shy, mild sort of guy
 
-moderate adj 有节制的; 稳健的，温和的; 适度的，中等的; <美俚>慢吞吞的;
-moderate vt 使和缓; 主持; 节制;
-moderate vi 变缓和; 作主持人;
+modest adj 不大（或多、贵）的；适中的
+They live in a fairly modest house, considering their wealth.
+The party made modest gains in the elections, but nothing like the huge gains that were predicted.
+modest adj 谦虚的，谦逊的
+He's very modest about his achievements.
+modest adj （女子的衣着、举止等）端庄的，正派的，朴素的 a modest walk/manner
 
 
-tender adj 温柔的; 嫩的; 纤弱的; 疼痛的;
-tender noun 投标; （正式） 提出; 供应船，联络船; 照看者;
-tender vt 正式提出; 使变脆弱; <古>温柔地对待;
+moderate adj 中等的；不过分的，适度的
+The cabin is of moderate size - just right for a small family.
+He's a moderate drinker.
+There has been a moderate improvement in her health since she began the treatment.
+moderate adj （尤指政见）温和的，不激烈的，不偏激的
+The party includes both extremely conservative and moderate members.
 
+moderate noun （尤指政见）温和派，稳健派
+He is well-known as a moderate in the party.
+
+moderate vt （使）缓和；（使）适中；减轻，减弱；节制
+The president may have to moderate his stance on tax cuts.
+
+
+tender adj 温柔的；温情的；关怀的；慈爱的 What you need is some tender loving care.
+tender adj （身体部位）疼痛的，一触即痛的 My arm was very tender after the injection.
+tender adj （肉或蔬菜）嫩的，软的 My steak was beautifully tender.
+tender adj （植物）娇嫩的，不抗寒的
+tender adj 年幼的；未成熟的 He was sent off to boarding school at the tender age of seven.
+
+tender vi 投标 Five companies have tendered for the hospital contract.
+tender vi 出价购买（股票等）
+tender vi 提出；提供 The health minister has tendered her resignation (= has offered to leave her job).
+
+tender noun 投标（书） The council has invited tenders for the building contract.
+put sth out to tender 对…招标
+Education departments in all the prisons are being put out to tender.
 
 
 # 谦虚的
-humble 谦逊的; 简陋的; （级别或地位） 低下的; 不大的
-humble vt 使谦恭; 轻松打败（尤指强大的对手）; 低声下气;
-unobtrusive 不唐突的; 谦虚的; 不突出的，不引人注目的; 不冒昧的
+humble adj 谦虚的，谦逊的
+He's very humble about his success.
+humble adj 地位低下的，卑微的
+Even when she became rich and famous, she never forgot her humble background.
+humble adj 普通的，不起眼的
+At that time she was just a humble mechanic.
+
+humble vt 使…感到自惭
+He was humbled by the child's generosity.
+
+
+unobtrusive 不引人注目的，不张扬的，不惹眼的
+Make-up this season is unobtrusive and natural-looking.
+
+obtrusive adj 显眼的；刺眼的
+The soldiers were in civilian clothes, to make their presence less obtrusive.
+
 
 # 可靠
-decent adj 正派的; 得体的; （服装等） 相称的，合宜的; 相当好的;
+decent adj 正派的；体面的，正经的；像样的，相当不错的
+Everyone should be entitled to a decent wage/standard of living.
+decent adj 穿好衣服的
+You can come in now, I'm decent.
 
-credibility
+
+credibility 可信性；可靠性
+He complained that we had tried to undermine his credibility within the company.
+
 credible adj 可信的，可靠的; （因看似可能成功而） 可接受的;
-accredit vt 归因于; 委托，授权; 相信，认可; 鉴定合格，确认达标;
+They haven't produced any credible evidence for convicting him.
 
 
-integrity 完整; 正直，诚实; [计算机] 保存; 健全
-veracity 诚实，真实
-competence 能力; 技能; 相当的资产
-commitment 承诺，许诺; 委任，委托; 致力，献身; 承担义务;
+integrity 正直；诚实
+No one doubted that the president was a man of the highest integrity.
+（某人的）艺德／职业操守（等等）
+Keen to preserve his artistic integrity, he refused several lucrative Hollywood offers.
+integrity noun 完整
+A modern extension on the old building would ruin its architectural integrity.
 
-decent adj 正派的; 得体的; （服装等） 相称的，合宜的; 相当好的;
+
+veracity 真实；诚实；实事求是
+Doubts were cast on the veracity of her alibi.
+
+
+commitment noun  忠诚；投入；奉献；承诺，保证，诺言
+Players must make a commitment to play for a full season.
+I'd like to thank the staff for having shown such commitment.
+commitment noun 必须做（或处理）的事情
+I've got too many commitments at the moment to do an evening class.
+
+# 自制的
+continent noun 欧洲大陆; 大陆，陆地; <美>北美洲大陆;
+continent adj 能节制性欲的
+
+reserved adj 拘谨；矜持；内向
+The English have a reputation for being reserved.
+a quiet, reserved woman
+
+reserved adj 保留的，预订的（门票、座位等）
+May I sit here, or is this seat/table reserved?
 
 # 准时
 punctual  严守时刻的， 准时的，正点的
@@ -318,6 +433,100 @@ steady adj 可靠的；稳重的 a steady friend
 steady vt 使稳定；使固定不动 He wobbled around on the bike and then steadied himself.
 steady vt （使）冷静，（使）镇定下来 Some people say that a drink will steady your nerves.
 go steady (with sb) （和某人）保持稳定的恋爱关系 She's been going steady with Mike for six months.
+
+### 勇气
+bold adj 勇敢的，无畏的
+She was a bold and fearless climber.
+The newspaper made the bold move/took the bold step of publishing the names of the men involved.
+bold adj 醒目的；显著的；色彩艳丽的；轮廓清晰的
+They painted the kitchen in bold colours.
+blod adj 冒昧的；鲁莽的；放肆的
+He was a bold and defiant little boy.
+
+courageous adj 勇敢的，有胆量的，有勇气的
+It was a courageous decision to resign in protest at the company's pollution record.
+It was courageous of her to challenge the managing director's decision.
+
+
+
+# 健壮的
+bouncing adj （尤指婴儿）健壮的，活跃的，精力旺盛的
+We've got two grandchildren - a three-year-old girl and a bouncing baby boy.
+
+
+stout adj （尤指上年纪的人腰部）粗壮结实的
+Mrs Blower was the stout lady with the glasses.
+stout adj 结实的，厚实的，牢固的
+I bought myself a pair of good stout hiking boots.
+stout adj 不屈不挠的，顽强的
+He needed a stout heart and nerves of steel.
+
+stout noun 烈性黑啤酒
+
+
+unyielding adj 坚定的；不屈服的；固执的
+Korea is unyielding in its demands for a new treaty.
+unyielding adj 坚挺的，不易弯曲的
+
+
+athletic adj 强壮的；擅长运动的 She looks very athletic.
+athletic adj 运动员的；田径运动的 This college has a long tradition of athletic excellence.
+
+durable adj 持久的，耐久的 The machines have to be made of durable materials.
+The resolution calls for a durable peace settlement.
+
+persistent adj 持续的；存留的；顽强存在的 a persistent smell/skin rash
+There have been persistent rumours that the principal might take early retirement.
+
+persistent adj 坚持不懈的；执意的 Be persistent - don't give up.
+He has been a persistent critic of the president.
+
+determination noun 毅力 a man of fierce/ruthless determination
+You can't help but admire her determination to succeed.
+determination 决定，确定 The determination of policy is not your business - your job is to implement it.
+determination noun 查明；测定 the determination of his whereabouts
+
+
+### 有能力的
+competent 有能力的；能干的；称职的
+I wouldn't say he was brilliant but he is competent at his job.
+
+competence 能力；才干；水平
+Her competence as a teacher is unquestionable.
+He reached a reasonable level of competence in his English.
+
+
+capable adj 有能力的；熟练的；能干的
+We need to get an assistant who's capable and efficient.
+capable of sth/doing sth 有能力做…；能做…
+Only the Democratic Party is capable of running the country.
+
+sophisticated adj 精于世故的，老练的；见多识广的；很有品位的
+I don't think I have any books that would suit your sophisticated tastes.
+He was older than me and from London and I thought him very sophisticated.
+sophisticated adj 精密的，复杂的；高级的
+I think a more sophisticated approach is needed to solve this problem.
+
+sophisticate noun 老于世故的人，精明练达的人
+sophistication noun 世故，老练；精密化
+Her sophistication is evident from the way she dresses.
+
+
+eligible adj 具备条件的；有资格的；合格的
+Are you eligible for early retirement/maternity leave?
+You might be eligible for a grant.
+eligible adj （作为结婚对象）理想的，合适的
+I can think of several eligible bachelors of my acquaintance.
+
+
+suffice vi 足够; 有能力;
+I'm taking $400 - I think that should suffice.
+suffice vt 满足…的需要; 使满足;
+
+calibre noun 质量；水准；才能，能力
+If teaching paid more it might attract people of (a) higher calibre.
+The competition entries were of such (a) high calibre that judging them was very difficult.
+calibre noun （尤指枪炮的）内径，口径；（子弹的）直径，弹径
 
 
 ### 直率的
@@ -388,22 +597,6 @@ thrill [病] 震颤; 震颤感; 兴奋感;
 triumphant adj 得意洋洋的; 凯; 成功的; 欢欣鼓舞的;
 promising 有希望的
 
-# 健壮的
-bouncing
-
-stout adj 结实的; 强壮的; 勇敢的; 坚定的;
-stout noun 烈性黑啤酒; 胖子; 特大号;
-
-unyielding adj 倔强; 坚硬的，不能弯曲的，不屈的; 刚强; 不屈服;
-
-athletic adj 强壮的；擅长运动的 She looks very athletic.
-athletic adj 运动员的；田径运动的 This college has a long tradition of athletic excellence.
-
-durable adj 持久的，耐久的 The machines have to be made of durable materials.
-
-persistent adj 持续的；存留的；顽强存在的 a persistent smell/skin rash
-persistent adj 坚持不懈的；执意的 Be persistent - don't give up.
-
 
 
 
@@ -421,7 +614,6 @@ nimble adj 灵活的; 敏捷的; 机敏的; （头脑） 思路敏捷的，机�
 shrewd adj 精明的，敏锐的; 奸诈的，狡猾的; 有眼光的; 精于盘算的;
 
 apace adv 飞快，迅速 The project is coming on apace (= advancing quickly).
-
 
 
 # 拖延
@@ -485,20 +677,6 @@ spacious accommodation
 
 
 
-# 自制的
-continent noun 欧洲大陆; 大陆，陆地; <美>北美洲大陆;
-continent adj 自制的，克制的; 节欲的; 贞洁的; 禁欲的;
-
-reserved adj 预订的; 矜持的; 储藏着的;
-reserved v 保留[储备]某物( reserve的过去式);
-
-
-
-### 勇气
-bold
-courageous adj
-
-unyielding adj 倔强; 坚硬的，不能弯曲的，不屈的; 刚强; 不屈服;
 
 
 

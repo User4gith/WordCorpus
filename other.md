@@ -1,11 +1,18 @@
-precise 精密; 精确的; 清晰的; 正规的
+
+
 negotiate 谈判，协商，交涉
 exploit
 cathedral
 fringe
 subside
 heir 继承人; 后嗣，嗣子;
+
+
 condone vt 宽恕，饶恕；纵容；包容，容忍
+If the government is seen to condone violence, the bloodshed will never stop.
+lenient adj （处罚或判决）宽容的，宽大的，从轻的
+They believe that judges are too lenient with terrorist suspects.
+
 
 engrave vt 在（金属、石头等）上雕刻（字、图案等）The jeweller skilfully engraved the initials on the ring.
 inscribe vt 题写；刻，雕
