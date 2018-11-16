@@ -674,14 +674,17 @@ similar
 resemble vt 像；看起来像；与…相似 You resemble your mother very closely.
 
 # 陶瓷
+ceramic adj 陶器的，与陶器有关的; 陶瓷的，陶制的; 制陶的;
+ceramic noun 陶瓷制品; 陶瓷器; 制陶艺术; 陶瓷装潢艺术;
+
 pottery noun 陶瓷制造（术），陶艺
-pottery noun 陶器，陶瓷器皿 They sell pottery and other handmade goods.
+陶器，陶瓷器皿
+They sell pottery and other handmade goods.
+
 
 porcelain noun 瓷 The tea cups are (made of) porcelain.
 porcelain noun 瓷器 He had a fine collection of Meissen porcelain.
 
-ceramic adj 陶器的，与陶器有关的; 陶瓷的，陶制的; 制陶的;
-ceramic noun 陶瓷制品; 陶瓷器; 制陶艺术; 陶瓷装潢艺术;
 
 # cate
 advocate 拥护/提倡（n/v）

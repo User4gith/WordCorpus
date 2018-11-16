@@ -251,6 +251,11 @@ estate noun （个人死后留下的全部）财产，遗产
 estate noun （按规划建造的）住宅区，工业区
 estate noun 旅游汽车；客货两用轿车
 
+legacy noun 遗产，遗赠
+An elderly cousin had left her a small legacy.
+历史遗产，遗留物
+The Greeks have a rich legacy of literature.
+
 property noun 所有物；财产；资产
 property noun 房产，地产，房地产
 property noun 财产权；所有权
