@@ -762,10 +762,6 @@ endure vi 持续；持久
 The political system established in 1400 endured until about 1650.
 
 
-grant vt 授予; 承认; 同意; 准许;
-grant noun 拨款; 补助金; 授给物（如财产、授地、专有权、补助、拨款等）;
-grant vi 同意;
-
 inflict vt 把…强加给，使承受，遭受; 给予（打击等）; 处以刑罚，加刑;
 The suffering inflicted on these children was unimaginable.
 
@@ -932,8 +928,24 @@ acquaintance noun 相识的人，熟人；泛泛之交 a business acquaintance
 acquaintance noun （用在某些表达方式中表示）认识，结识
 It was at the Taylors' party that I first made his acquaintance (= first met him).
 I wasn't sure about Darryl when I first met her, but on further acquaintance (= knowing her a little more) I rather like her.
-acuquaintance noun （对某一学科的）所知，了解
+acquaintance noun （对某一学科的）所知，了解
 Sadly, my acquaintance with Spanish literature is rather limited.
+
+grasp vt 抓紧，握紧 Rosie suddenly grasped my hand.
+grasp vt 急忙抓住，毫不犹豫地把握住（机会）
+We must grasp every opportunity to strengthen economic ties with other countries.
+grasp vt 理解，领悟，明白（尤指费解之事）
+I think I managed to grasp the main points of the lecture.
+The government has acknowledged that homelessness is a problem but it has failed to grasp the scale of the problem.
+
+grasp noun 紧抓，紧握，抓牢 He shook my hand with a very firm grasp.
+grasp noun 力所能及；掌握，把握
+I sometimes think that he's losing his grasp on reality (= his ability to judge what is real and what is not).
+理解
+He has a good grasp of the issues.
+
+
+
 
 ### 挤压；压榨
 contract 签合同; 缩小; 感染;
@@ -1644,6 +1656,15 @@ The management did not seem to consider office safety to be a priority.
 
 ### 转移
 convey vt 表达; 传达，传递; 运送，输送; [法]让与，转让（财产等）;
+
+convert vt/vi （使）改变，（使）转变；（使）改信；（使）皈依
+Could we convert the small bedroom into a second bathroom?
+convert vi/vt  改变信仰（或态度）；归附，皈依
+He converted to (= started believing in) Catholicism when he got married.
+converg noun 改变信仰（或习惯、生活方式）的人
+a Christian/Buddhist convert
+a convert to vegetarianism/wholemeal bread
+
 
 conversion 变换，转变; 改装物; 财产转换，兑换; [逻]换位（法）;
 
