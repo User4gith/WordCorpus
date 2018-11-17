@@ -123,6 +123,7 @@ alignment noun 结盟; 队列，排成直线; 校直，调整; [工] 准线;
 ### 选举
 accountable adj 应负责任的；应作解释的；应加以说明的
 Politicians should be accountable to the public who elected them.
+accountability noun 
 
 candidate noun 报考者; 申请求职者; 攻读学位者; 最后命运或结局如何已显然可见者;
 

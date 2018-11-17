@@ -329,7 +329,15 @@ incongruity noun 不协调; 不一致; 不适合; 不协调的东西;
 congruous 适合的，适当的; 一致的
 incongruous 不相称的; 不和谐的; 不协调的，不一致的; 异向;
 
-reconcile vt 使和好，使和解; 调停，排解（争端等）; [宗] 使（场所等）洁净; [船] 使（木板）接缝平滑;
+reconcile vt 调和；调解；使一致
+It is sometimes difficult to reconcile science and religion.
+be reconciled 和解；和好；重归于好
+They were finally reconciled with each other, after not speaking for nearly five years.
+
+reconciliation noun 和解；和好；修好
+It took hours of negotiations to bring about a reconciliation between the two sides.
+reconciliation noun 调和；和谐；一致
+
 
 homogenous adj 同质的，纯系的;
 
@@ -923,7 +931,13 @@ subsequent adj 随后的，接着的
 The book discusses his illness and subsequent resignation from politics.
 
 ==================================
+prerequisite noun 先决条件，前提，必备条件
+Passing a written test is a prerequisite for taking the advanced course.
+Public support is a prerequisite for/to the success of this project.
 
+
+
+===================================
 acquaintance noun 相识的人，熟人；泛泛之交 a business acquaintance
 acquaintance noun （用在某些表达方式中表示）认识，结识
 It was at the Taylors' party that I first made his acquaintance (= first met him).

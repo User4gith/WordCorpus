@@ -412,6 +412,8 @@ I'd like to thank the staff for having shown such commitment.
 commitment noun 必须做（或处理）的事情
 I've got too many commitments at the moment to do an evening class.
 
+
+
 # 自制的
 continent noun 欧洲大陆; 大陆，陆地; <美>北美洲大陆;
 continent adj 能节制性欲的
@@ -1142,6 +1144,17 @@ The captain's heroic effort inspired them with determination.
 inspire vt 赋予灵感；激发（想法）
 The design of the car has inspired many imitations.
 
+inspired adj 卓越的；凭灵感创作的
+an inspired performance/choice
+
+
+prompt vt 引起；导致；激起
+The bishop's speech has prompted an angry response from both political parties.
+prompt sb to do sth 促使（某人）决定说（或做）某事
+What prompted you to say that?
+
+prompt adj 迅速的；敏捷的；及时的 They're usually fairly prompt in dealing with enquiries.
+prompt adv 准时，正点 We'll be leaving at six o'clock prompt.
 
 
 ### 意图

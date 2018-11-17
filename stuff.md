@@ -654,6 +654,17 @@ She was very explicit about (= said very clearly and exactly) what she thought w
 explicit adj （描绘性或暴力）赤裸裸的，露骨的
 a sexually explicit movie
 
+genuine adj 真正的；非伪造的；名副其实的
+If it is a genuine Michelangelo drawing, it will sell for millions.
+genuine adj 真诚的；诚实的；真心的 He's a very genuine person.
+genuinely adv 确实；的确 I'm genuinely sorry for what I said.
+
+authentic adj 真的；真正的；可靠的；可信的
+He was there and saw what happened, so his is the only authentic account.
+
+
+
+
 # 明显
 apparent adj 易看见的，可看见的; 显然的，明明白白的; 貌似的，表面的; 显见;
 notable adj 显著的; 著名的; 值得注意的;
