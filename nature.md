@@ -56,6 +56,14 @@ In the US, winter wheat is harvested in the early summer.
 harvest vt/vi 采集（细胞或器官以供医用）
 There is a lot of controversy surrounding the harvesting of stem cells.
 
+grain noun （尤指像稻谷、小麦等像草一样的植物的）谷粒，颖果，谷（物）
+Grain (= the crop from food plants like grasses) is one of the main exports of the American Midwest.
+grain 细粒，颗粒 grains of sand
+grain 一点儿；微量，少量 There wasn't a grain of truth in anything she said.
+Anyone with a grain of common sense would have known what to do.
+the grain （木头和织物等的）纹理 to cut something along/against the grain
+
+
 corn noun （小麦、玉米、燕麦、大麦等）谷物，谷粒
 corn noun 玉米（植株）the corn-growing areas of the Midwest
 corn noun 陈腐的东西；老一套；煽情的东西 His latest movie is just low-budget corn.
@@ -112,7 +120,13 @@ hoard noun 大量储藏和积存的物品
 We found a huge hoard of tinned food in the basement.
 
 
-##############################
+#############################
+herd noun 兽群；牧群 a herd of cattle/elephants/goats
+herd noun 芸芸众生，人群
+Poor Janine - she just follows the herd (= does what all the other people are doing).
+herd vt/vi （将…）赶成一群，放牧 An old woman was herding the goats.
+head vt （常指强迫性地）使集中在一起
+
 herdsman
 
 graze vt 擦伤，擦破（皮肤）
@@ -237,14 +251,24 @@ feast noun （宗教）节日
 # 动物相关
 
 flora （某一地点或时期的）植物群 Stone Age flora
-flore （生活在某一动物体内的）细菌和其他生物群
+flora （生活在某一动物体内的）细菌和其他生物群
 In the normal, healthy person the gut flora is a balanced community of different organisms.
 
 fauna （某一地区的）动物群
 While she was in Hawaii, she studied the local flora and fauna.
 
+botanical adj 植物（学）的；和植物（学）有关的
+botanical/botanic gardens
+Several new botanical species have been discovered in the last year.
+
+
 vegetation noun （总称）植物；植被，植物群落
 Much of the region's native vegetation has been damaged by developers who are building hotels along the coast.
+
+herb noun （用作调味品或药材的）香草，药草 dried/fresh herbs
+A large range of herbs and spices are used in South Asian cooking.
+
+
 
 herbal adj  药草的; 草本的;药草的; 草本的;
 herbal cigarettes/remedies

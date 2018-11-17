@@ -13,10 +13,7 @@ If the government is seen to condone violence, the bloodshed will never stop.
 lenient adj （处罚或判决）宽容的，宽大的，从轻的
 They believe that judges are too lenient with terrorist suspects.
 
-
-engrave vt 在（金属、石头等）上雕刻（字、图案等）The jeweller skilfully engraved the initials on the ring.
-inscribe vt 题写；刻，雕
-The wall of the church was inscribed with the names of the dead from World War I.
+s
 
 
 
@@ -49,21 +46,18 @@ I'd scarcely have done it if I didn't think it was absolutely necessary!
 virtually adv 几乎；实际上；实质上
 Their twins are virtually identical.
 
+thorough adj 仔细的
+a thorough revision of the manuscript
+They did a thorough search of the area but found nothing.
+thorough adj 彻头彻尾的；完全的；十足的
+It was a thorough waste of time.
+
+
 
 elastic adj 有弹性的 A lot of sportswear is made of very elastic material.
 elastic adj 灵活的；易顺应（变化）的 The project has only just started so any plans are still very elastic.
 elastic noun 松紧带；橡皮带 His trousers were held up with a piece of elastic.
 
-dispute noun （尤指劳资双方或相邻两国之间的）争执，争端，纠纷 a border dispute
-beyond (all) dispute 毫无争议地，无可争辩地，不容置疑地 He is beyond all dispute the finest actor in Hollywood today.
-in dispute 受到怀疑的 I don't think her ability is in dispute - what I question is her attitude.
-open to dispute 不确定的，不肯定的 He says it's the best musical equipment you can buy, but I think that's open to dispute.
-dispute vt/vit （对…）有异议；不赞同 Few would dispute his status as the finest artist of the period.
-
-diverge vi （道路）分叉；出现差异；发生分歧 Although the two organizations have worked together for many years, their objectives have diverged recently.
-
-controversy noun 争议；争论；争辩 There was a big controversy surrounding/over the use of drugs in athletics.
-The policy has caused fierce/heated controversy ever since it was introduced.
 
 
 

@@ -931,6 +931,14 @@ neglect noun 怠慢; 玩忽; 被忽略的状态;
 trivialise vt <贬>使显得琐碎[不重要、不难等]，轻视;
 
 
+detached adj 分离的，分开的；拆下的 The label became detached from your parcel.
+detached adj （房子）独幢的，独立的 Prices are rising so fast that people can't afford detached houses.
+detached adj 认为与己无关的；毫不关心的，心不在焉的 She seemed a bit detached, as if her mind were on other things.
+
+
+
+
+
 ### 不满
 discontent adj 不满的; 不安分的; 不快的;
 discontent noun 不满，不平; 不愉快; 不满的人;
@@ -985,6 +993,11 @@ discourteous adj 粗鲁的，无礼的，失礼的;
 vulgar adj 庸俗的，俚俗的，粗俗的; 一般大众的，老百姓的; 粗野的，下流的;
 
 reckless adj 鲁莽的，不顾危险的; 粗心大意的; 满不在乎的; 胆大妄为;
+
+coarse adj 粗糙的；不光滑的；不柔软的；粗大的
+coarse sand/breadcrumbs
+coarse adj 粗俗的；粗野的；无礼的
+a coarse joke
 
 
 ### 恶的
@@ -1070,9 +1083,16 @@ Most of the data on the hard drive was corrupted when the power went out.
 
 decrepit adj 衰朽; 衰老的，老朽的，破旧的; 头童齿豁; 蓬头历齿;
 
-decay vt （使） 腐烂，腐朽;
-decay vi 衰败，衰退，衰落;
-decay noun 腐败、衰退的状态;
+decay vi/vt 腐蚀；衰败，衰弱
+The role of the extended family has been decaying for some time.
+Sugar makes your teeth decay.
+Pollution has decayed the surface of the stonework on the front of the cathedral.
+
+decay noun 腐蚀；衰败，衰弱
+environmental/industrial/moral/urban decay
+The buildings had started to fall into decay.
+This industry has been in decay for some time.
+
 
 stale adj 陈腐的; 不新鲜的; 走了味的;
 stale v 变陈旧; 变得不新鲜; （牛马、骆驼等） 撒尿;

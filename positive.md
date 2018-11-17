@@ -164,3 +164,10 @@ extensive adj 广阔的，广大的; 范围广泛的; [物] 广延的; [逻] 外
 capacious adj 宽敞的，气度宏大的;
 
 spacious adj 宽敞的; 广阔的; （知识） 广博的;
+
+# 开心
+amusement noun 开心，愉悦，快乐
+She looked at him with amusement.
+I play the piano just for my own amusement (= to entertain myself, not other people).
+amusement noun 娱乐（活动）；消遣（方式）
+There was a range of fairground amusements, including rides, stalls, and competitions.

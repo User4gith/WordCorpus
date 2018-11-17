@@ -66,12 +66,34 @@ Customs officers at Heathrow have seized 60 kilos of heroin.
 seize vt （强烈情感或剧痛）突然侵袭
 I was suddenly seized by/with a feeling of great insecurity and loneliness.
 
+dump vt 扔下，丢下
+He came in with four shopping bags and dumped them on the table.
+dump vt 抛弃；乱扔，乱丢
+The tax was so unpopular that the government decided to dump it.
+dump vt （常指向另一国家）倾销，甩卖
+They accused the West of dumping out-of-date medicines on Third World countries.
+dump vt 甩掉，抛弃（恋人）
+If he's so awful, why don't you just dump him?
+dump noun 垃圾场，垃圾堆
+I'm going to clean out the basement and take everything I don't want to the dump.
+dump noun 凌乱的地方，令人厌恶的地方
+This town is a complete dump!
+
+
 ### 干涉
 intervene vi  阻碍; 出面; 插嘴; 介于…之间;
 
 intervention noun 介入，干涉，干预; 调解，排解;
 
-interfere vi 干预，干涉; 调停，排解; 妨碍，打扰;
+interfere vi 干涉，干预
+Interfering in other people's relationships is always a mistake.
+
+
+interference noun 干涉，干预
+She seems to regard any advice or help from me as interference.
+The government's interference in the strike has been widely criticized.
+interference noun （噪声或其他电子信号对电视或收音机的）干扰
+
 
 derail （使）（火车）脱轨
 derail vt 阻挠 Renewed fighting threatens to derail the peace talks.
@@ -298,3 +320,27 @@ foul adj （言语或语言）脏话连篇的，粗鲁的，下流的  There's t
 foul noun 犯规 He was sent off for a foul on the French captain.
 foul vi/vt 犯规
 foul vt 弄脏；污染 The oil spill fouled the river and destroyed habitats.
+
+
+### 对立的
+contrary 相反的; 违反的，反对的; 对立的; 顽固的，任性的;
+contrary 对立或相反的事物; 对立方; [逻] 反对命题;
+
+controversial 有争议的，引起争议的，被争论的; 好争论的;
+
+conversely adv 反过来; 反之; 相反地，颠倒地; 倒地;
+
+dispute noun （尤指劳资双方或相邻两国之间的）争执，争端，纠纷 a border dispute
+beyond (all) dispute 毫无争议地，无可争辩地，不容置疑地 He is beyond all dispute the finest actor in Hollywood today.
+in dispute 受到怀疑的 I don't think her ability is in dispute - what I question is her attitude.
+open to dispute 不确定的，不肯定的 He says it's the best musical equipment you can buy, but I think that's open to dispute.
+dispute vt/vit （对…）有异议；不赞同 Few would dispute his status as the finest artist of the period.
+
+diverge vi （道路）分叉；出现差异；发生分歧 Although the two organizations have worked together for many years, their objectives have diverged recently.
+
+controversy noun 争议；争论；争辩 There was a big controversy surrounding/over the use of drugs in athletics.
+The policy has caused fierce/heated controversy ever since it was introduced.
+
+# 矛盾
+discrepancy 矛盾; 不符合（之处）
+controversial 有争议的，引起争议的，被争论的; 好争论的

@@ -82,6 +82,23 @@ prophecy 预言; 预言书; 预言能力;
 illusion noun 幻觉，幻想 He had no illusions about his talents as a singer.
 illusion noun 假象，错觉 A large mirror in a room can create the illusion of space.
 
+# 演习
+drill noun 钻；钻床；钻机
+a dentist's drill
+drill noun （尤指军事）训练，练习
+In some of these schools, army-style drills are used to instil a sense of discipline.
+drill vi/vt （用特殊工具）钻孔；打眼
+Drill three holes in the wall for the screws.
+drill vi/vt （尤指进行军事）训练，练习
+We watched the soldiers drilling on the parade ground.
+drill vt （为记忆而）反复训练，重复灌输
+He drilled the children in what they should say.
+
+rehearsal noun 排练，排演，彩排
+They didn't have time for (a) rehearsal before the performance.
+He's a producer with three plays in rehearsal.
+
+
 
 # 等级与异教徒
 hierarchy
@@ -353,10 +370,6 @@ condemn vt（通常因道义上的原因而） 谴责; 宣判; 宣布…不能�
 The film was condemned for its sexism.
 
 
-# 矛盾
-discrepancy 矛盾; 不符合（之处）
-controversial 有争议的，引起争议的，被争论的; 好争论的
-
 ### 切
 carve 雕刻; 切，切开; 创制，开创
 blade
@@ -365,6 +378,9 @@ injection 注射; 注射剂; [医] 充血; （卫星等的） 入轨;
 
 inscribe vt 雕，刻; 题写，题献;
 
+engrave vt 在（金属、石头等）上雕刻（字、图案等）The jeweller skilfully engraved the initials on the ring.
+inscribe vt 题写；刻，雕
+The wall of the church was inscribed with the names of the dead from World War I.
 
 # 裸
 naked adj 裸体的，裸露的; 率直的，赤裸裸的; 缺乏保护; 不加掩饰的;
@@ -481,6 +497,15 @@ vague noun 模糊不定状态;
 
 elusive adj 难以捉摸的; 不易记住的; 逃避的; 难以找到的;
 
+dim adj 光线暗的，暗淡的，昏暗的
+The lamp gave out a dim light.
+We could see a dim (= not easily seen) shape in the fog.
+I had a dim recollection of having met her before.
+dim adj 愚笨的，迟钝的 He's a nice guy, but a little dim.
+dim adj 前景暗淡的，不乐观的 The company's prospects for the future are rather dim.
+dim vt （使）变暗，（使）亮度降低 Someone dimmed the lights.
+dim vt （使）减弱，（使）变淡 Our hopes/expectations dimmed as the hours passed.
+
 
 ### 浑浊
 
@@ -494,6 +519,10 @@ feculent
 
 # 消息
 bulletin 公告，公报; 新闻快报; 小报; 期刊;
+bulletin board noun 布告板，布告栏
+
+billboard （尤指路旁的）大型广告牌
+
 news
 newsletter
 

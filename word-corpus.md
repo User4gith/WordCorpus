@@ -352,7 +352,8 @@ collaboration 合作，协作; 通敌，勾结;
 integrate 使一体化; 使整合; 使完整; 使结合成为整体;
 integrate adj 整体的; 完整的; 完全的; 综合的;
 
-synthesis
+synthesis noun 合成
+synthesis noun 综合，融合
 
 solidarity noun 团结;
 
@@ -683,6 +684,19 @@ refer to sb/sth vt （尤指简短地）提到，谈及，谈起 In her autobiog
 涉及…；与…相关 The new salary scale only refers to company managers and directors.
 
 
+pump noun 泵，抽水机；油泵；打气筒 泵，抽水机；油泵；打气筒
+pump noun 平底鞋/高跟无带女鞋/橡胶底帆布鞋，体操鞋
+pump vt （用泵）抽吸，抽送（液体或气体） Our latest machine can pump a hundred gallons a minute.
+The new wine is pumped into storage tanks.
+The heart pumps blood through the arteries/round the body.
+
+pump vt （尤指间接地）盘问，套问
+She was pumping me for details of the new project.
+
+
+
+
+
 
 ### 起源
 originate vi 起源，发源，发端；产生 Although the technology originated in the UK, it has been developed in the US
@@ -811,6 +825,21 @@ This man is desperate and should not be approached since he may have a gun.
 
 
 ### 场合，时刻；偶尔的
+affair noun 事务；事情
+She organizes her financial affairs very efficiently.
+What I do in my spare time is my affair (= only involves me).
+affair noun （通常指在道德上被谴责的）事件
+The president's handling of the affair has been criticized.
+The arms-dealing affair has severely damaged the reputation of the government.
+affair noun （尤指秘密的）性关系；私通；风流韵事
+She's having an affair with a married man.
+affair noun 活动，经历
+The party turned out to be a quiet affair.
+affair noun （某类的）东西
+She wore a long black velvet affair.
+
+
+
 occasion （尤指某事发生的）时刻，时候
 We met on several occasions to discuss the issue.
 I seem to remember that on that occasion he was with his wife.
@@ -934,6 +963,11 @@ The book discusses his illness and subsequent resignation from politics.
 prerequisite noun 先决条件，前提，必备条件
 Passing a written test is a prerequisite for taking the advanced course.
 Public support is a prerequisite for/to the success of this project.
+
+preliminary adj 初步的，起始的；预备的
+Preliminary results show that the vaccine is effective, but this has to be confirmed by further medical trials.
+preliminary noun 开端活动，初步行动
+After a few polite preliminaries (= introductions), we stated our main ideas and intentions.
 
 
 
@@ -1067,6 +1101,13 @@ He guzzled his beer and ordered another.
 guzzle vt 在短时间内大量耗油
 The car guzzles a gallon of gas every 15 miles.
 
+consumption noun 消费量；消耗量
+We need to cut down on our fuel consumption by having fewer cars on the road.
+consumption noun 食用；消费；消耗
+These products are not for national consumption, but for export.
+consumption noun （信息、娱乐等供某类人的）专用
+The movie was not intended for public consumption.
+
 
 ### 侦察
 scout
@@ -1122,12 +1163,29 @@ suppose vi 想象，猜想;
 
 hypothesis
 presuppose vt 假设; 预先假定; 以…为先决条件; 意味着;
-assume v 承担; 呈现; 假定，认为; 装出;
-assumption noun 承担; 假定，假设; 想当然; 采取;
+
+
+assume vt 假定，假设；臆断，想当然地认为
+I assumed (that) you knew each other because you went to the same school.
+Let's assume (that) they're coming and make plans on that basis.
+assume vt 冒充，冒称；假装，装出
+Moving to a different town, he assumed a false name.
+During the investigation, two detectives assumed the identities of antiques dealers.
+He assumed a look of indifference but I knew how he felt.
+assume vt 承担，担任；僭取，夺取；呈现，具有
+The new president assumes office at midnight tonight.
+The terrorists assumed control of the plane and forced it to land in the desert.
+
+assumption noun 假定；假设；臆断
+These calculations are based on the assumption that prices will continue to rise.
+assumption of power, responsibility夺取；获得（权力等）；承担（责任等）
+The revolutionaries' assumption of power took the army by surprise.
+
 
 theoretical
 
 ### 预测
+
 forecast vt 预报，预测; 预示;
 forecast vi 预报，预测;
 forecast noun 预报; 预言;
@@ -1281,6 +1339,13 @@ perpetuate adj 长存的;
 
 maintain vt 保持; 保养; 坚持; 固执己见;
 
+maintenance noun 养护（保持道路、建筑、机器设备等状态良好的工作）
+Old houses need a lot of maintenance.
+maintenance noun （法律规定离婚后需定期支付用以供养孩子或前配偶的）抚养费，生活费
+He refused to pay maintenance for his three children.
+maintenance noun 维持；保持 the maintenance of living standards
+
+
 
 ### 迎合
 cater
@@ -1320,6 +1385,21 @@ seduce vt 勾引；诱奸 He felt that she was trying to seduce him.
 seduce vt 引诱，诱惑 They were seduced into buying the washing machine by the offer of a free flight.
 seduce vt 吸引，迷住 Almost every visitor to Edinburgh is seduced by its splendid architecture.
 
+steer vi/vt 驾驶（交通工具）；掌方向盘
+She carefully steered the car around the potholes.
+This car is very easy to steer.
+steer vi/vt （交通工具）行驶，沿（特定路线或方向）行进
+The ship passed Land's End, in Cornwall, then steered towards southern Ireland.
+steer vt 引导，带领
+She steered her guests into the dining room.
+I'd like to steer our discussion back to our original topic.
+The main task of the new government will be to steer the country towards democracy.
+
+steer noun 阉公牛；肉用公牛
+give (sb) a steer 给予…建议，给予…有用信息
+Here are my questions. Can anyone give me a steer?
+give (sb) a bum steer 给予…糟糕的建议
+The guy at the information office gave me a bum steer - the restaurant was terrible.
 
 ### 赞扬
 acclaim v 称赞; 赞扬; 向…欢呼; 向…喝彩;
@@ -1394,15 +1474,6 @@ defiant adj 对抗的，违抗的；挑衅的
 The protesters blocking the entrance to the offices remained defiant this morning.
 defiant adj 不接受批评的；不接受不同意见的
 The CEO was in a defiant mood as she entered the boardroom.
-
-
-### 对立的
-contrary 相反的; 违反的，反对的; 对立的; 顽固的，任性的;
-contrary 对立或相反的事物; 对立方; [逻] 反对命题;
-
-controversial 有争议的，引起争议的，被争论的; 好争论的;
-
-conversely adv 反过来; 反之; 相反地，颠倒地; 倒地;
 
 
 ### 严格
@@ -1487,11 +1558,6 @@ slide vi 滑落; 下跌; 打滑; [棒球] 滑垒;
 slide vt 衰落（成）; 逐渐降低; 使悄悄转动; （使） 快捷而悄声地移动;
 slide noun 幻灯片; 降低;
 
-
-slip vt 使顺利滑动; 摆脱; 放松，松开;
-slip vi 滑，滑脱; 犯过失，出错; （时间） 不知不觉地过去; （健康状况等） 变差;
-slip noun 跌倒，失足; 纸条; 失误，口误; 事故;
-
 slump vi 大幅度下降，暴跌; 沉重或突然地落下[倒下];
 slump noun （物价等的） 暴跌; <美>（个人、球队等的）低潮状态; （销售量、价格、价值等的） 骤降; （精神等的） 消沉，萎靡;
 
@@ -1568,6 +1634,13 @@ So far I've only plotted (out) the story in a rough form.
 
 brazen adj 毫不隐瞒的，明目张胆的 He told me a brazen lie.
 
+scheme noun 阴谋，诡计
+He has a hare-brained/crazy scheme for getting rich before he's 20.
+scheme noun 方案，计划
+There's a new scheme in our town for recycling plastic bottles.
+scheme vi/vt 密谋，策划
+All her assistants were scheming against her.
+For months he had been scheming to prevent her from getting the top job.
 
 
 ### 揭露
@@ -1644,6 +1717,15 @@ The highest peak in the range soars 15,771 feet into the sky.
 soar vi （鸟或飞行器）翱翔，飞翔
 She watched the gliders soaring effortlessly above her.
 
+spurt vt/vi （使）喷出，（使）冒出，（使）涌出
+Blood was spurting out all over the place.
+spurt vt/vi （使）激增，（使）急剧上升
+Shares of the jewellery store chain spurted $6.
+spurt noun （活动、干劲的）短时激增，迸发；突然加速，冲刺
+There was a sudden spurt of activity in the housing market.
+spurt noun （液体等的）喷射
+The water came out in spurts.
+
 
 ### 超过
 exceed vt 超过; 超越; 胜过; 越过…的界限;
@@ -1695,9 +1777,6 @@ transmit vt 传输; 发射; 传送，传递; 传染;
 transmit vi 发送信号;
 
 transmute vt 使变形，使变质，把…变成…;
-
-
-
 
 
 
@@ -1877,14 +1956,25 @@ separate vt 分开; （使） 分离; 区分; 隔开;
 separate vt 分离（混合物）; 分居; 分类; 割开;
 separate vi 分手; 断裂; （夫妻） 分居; 断绝关系;
 
+circulation noun（信息）流传，传播；（货币或商品）流通
+Police have warned that there are a lot of fake £50 notes in circulation.
+Add her name to the circulation list for this report (= the people who will be given it to read).
+circulation（报纸杂志的）发行量，销售量
+The paper has a circulation of 150,000.
+circulation（血液的）循环
+Exercise helps to improve circulation.
+
 
 ### 分发
 deliver vt 交付; 发表; 递送; 使分娩;
 deliver vi 传送; 投递;
 delivery 分娩; 传送，投递; [法] （正式） 交付; 讲演;
 
-circulate vt （使） 循环; （使） 流通; （使） 流传; 散布;
-circulate vi 传送，传递，传阅;
+circulate vt （使）循环；（使）流通；（使）传递；（使）散布
+Hot water circulates through the heating system.
+I've circulated a good luck card for everyone to sign.
+circulate vt （在聚会上）周旋
+I try to circulate at a party and not just stay with the friends I came with.
 
 
 
@@ -1928,6 +2018,10 @@ grind vi 嘎吱嘎吱地擦;
 
 
 shatter 使破碎，使碎裂，砸碎; 使…成为泡影; 使…痛不欲生; 使…散开
+The glass shattered into a thousand tiny pieces.
+shatter vt 终结；严重破坏
+The book shattered all her illusions about the Romans.
+
 shatter 碎片，碎块; 落花（叶等）;
 
 scrap n 碎片；vt 废弃

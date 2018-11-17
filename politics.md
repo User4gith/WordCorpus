@@ -123,9 +123,16 @@ alignment noun 结盟; 队列，排成直线; 校直，调整; [工] 准线;
 ### 选举
 accountable adj 应负责任的；应作解释的；应加以说明的
 Politicians should be accountable to the public who elected them.
-accountability noun 
+accountability noun
 
 candidate noun 报考者; 申请求职者; 攻读学位者; 最后命运或结局如何已显然可见者;
+
+representative noun 代表；代理人
+The firm has representatives in every major city.
+representative adj 有代表性的；典型的；代表…的
+Are your views/opinions representative of all the workers here?
+a representative sample/cross-section/selection
+representative noun 代议制政体
 
 
 eligible adj 合适的; 在（法律上或道德上）合格的; 有资格当选的; 称心如意的;
