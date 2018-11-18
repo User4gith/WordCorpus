@@ -32,6 +32,21 @@ irrigate vt 灌溉
 irrigate vt 冲洗（尤指伤口）
 irrigation
 
+plough noun 犁;
+under the plough （土地）用于耕种的
+These fields have been under the plough for centuries.
+plough vt 耕，犁
+Large areas of grazing land have been ploughed up to grow wheat.
+the Plough 北斗七星
+
+till 直到；到…为止
+Up till 1918, women in Britain were not allowed to vote.
+till noun 收银机的抽屉；收银机
+Next time you have the till open, could you give me some change?
+till vt 耕，犁（土地）
+This piece of land has been tilled for hundreds of years.
+
+
 hatch vi/vt 孵出，孵蛋，出壳
 hatch vt 策划（尤指秘密计划）
 He hatched a plot to forge documents that would embarrass the company.
@@ -152,12 +167,7 @@ dairy noun 牛奶场，乳品场，制酪场；牛奶公司，奶制品公司
 dairy noun 奶制品的，乳品 I was advised not to eat too much dairy.
 
 
-plough noun 犁;
-under the plough （土地）用于耕种的
-These fields have been under the plough for centuries.
-plough vt 耕，犁
-Large areas of grazing land have been ploughed up to grow wheat.
-the Plough 北斗七星
+
 
 hectare 公顷;
 acre
@@ -196,7 +206,7 @@ spicy adj 加香料的；用香料调味的；味重的
 Do you like spicy food?
 spicy adj 刺激的；（尤指）耸人听闻的，下流的，粗俗的
 a spicy novel
-
+=======
 flavour noun （食物或饮料的）风味；（某种）味道 Add a little salt to bring out the flavour of the herbs.
 
 I don't like to use artificial flavour-enhancers in my cooking.
@@ -207,6 +217,21 @@ flavour noun 想法；快速的体验
 To give you a flavour of what the book is like Jilly is going to read out a brief extract.
 
 flavour vt 给（食物或饮料）调味 This sauce is flavoured with garlic and herbs.
+=========
+season noun 季，季节
+in season （水果和蔬菜）当令的 Fruit is cheaper when it's in season.
+在旅游旺季
+Hotel rooms are more expensive in season.
+（雌性动物）在发情期/ （动物）在狩猎期
+out of season （水果和蔬菜）不当令的
+In Europe, tomatoes are out of season in winter.
+out of season 在旅游淡季
+season vt 给…调味，加调料于
+Drain the rice, stir in the salmon and season to taste (= so that it has the taste you like).
+season vt 使（木头）风干
+
+
+
 
 savour vt 细品，享用（食物）
 It was the first chocolate he'd tasted for over a year, so he savoured every mouthful.
@@ -241,11 +266,23 @@ roast adj 烘；烤；焙
 roasted red pepper sauce
 roast noun 大块烤肉
 
+oven noun 烤箱；烤炉
+a microwave oven
+
+mill noun 磨坊，碾磨厂，磨粉厂 a pepper/coffee mill
+mill noun 制造厂，工厂 a cotton/paper/steel mill
+mill vt 磨；碾碎 The grain is still milled locally.
+
+
+buffet noun 自助餐 Are you having a sit-down meal or a buffet at the wedding?
+（车站的）餐馆，快餐部
+buffet vt （风、雨等）连续猛击，打击
+The little boat was buffeted mercilessly by the waves.
 
 
 feast noun 盛宴；宴会 a wedding feast
 feast noun （感官）享受 His food is a feast for the eyes as well as the palate.
-feast noun 令人喜爱的事物 The team contains a veritable feast of international talent.
+feast noun 令人喜爱的事物 The  team contains a veritable feast of international talent.
 feast noun （宗教）节日
 
 # 动物相关
@@ -369,6 +406,9 @@ In court, he was accused of being a merciless predator who had tricked his grand
 
 prey 被捕食的动物，猎物
 A hawk hovered in the air before swooping on its prey.
+
+cannibal noun 食人肉者；同类相食的动物
+
 
 # 地理相关
 

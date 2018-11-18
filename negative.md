@@ -12,6 +12,13 @@ forfeit noun （因违规而造成的）罚金，丧失物
 pay a forfeit noun pay a forfeit
 forfeit adj 被罚的；被没收的
 
+shear vt 给（羊）剪（羊毛） The farmer taught her how to shear sheep.
+shear vt （尤指草率地）剃光（头发）
+He recalled the humiliation of having his hair shorn and exchanging his clothes for the prison uniform.
+be shorn of sth 被剥夺，被夺去
+The ex-president, although shorn of his official powers, still has influence.
+前总统虽然被剥夺了权力，但是仍有影响力。
+
 
 
 ### 丢弃
@@ -259,6 +266,39 @@ trample vi/vt 侵犯，无视（尊严）
 She accused the government of trampling on the needs and rights of the ordinary citizen.
 He argues that Congress trampled the constitutional rights of legal immigrants in the new welfare reform law.
 
+spiral 螺旋形 A corkscrew is spiral-shaped.
+downward spiral （价格等的）不断下降；（局面的）迅速恶化；螺旋式恶性下滑
+This year's downward spiral of house prices has depressed the market.
+今年房价的持续下跌造成了市场的疲软。
+
+spiral vi 呈螺旋式上升（或下降）；盘旋上升（或下降）
+With one wing damaged, the model airplane spiralled downwards.
+（费用、价格等）急剧增长，急速上升
+Spiralling costs have squeezed profits.
+急剧上升的成本压缩了利润空间。
+spiral（形势）急剧恶化 Violence in the country is threatening to spiral out of control.
+
+spiral adj 螺旋形的（形状类似一系列曲线，每个曲线在另一个之上或比前一个大）
+a spiral staircase
+
+
+humiliate vt 羞辱，使丢脸
+How could you humiliate me by questioning my judgment in front of everyone like that?
+England were humiliated (= completely defeated) in last night's match.
+
+### 责骂
+scold vt 责骂
+scold vi 责骂; 斥责;
+scold noun 常骂人的人;
+
+blame
+
+censure vt 指责; 谴责; 责备; 批评;
+censure vi 谴责，责备;
+censure noun 责备; 指责，谴责; 斥责;
+
+condemn vt（通常因道义上的原因而） 谴责; 宣判; 宣布…不能使用; 迫使…陷于不幸的境地;
+The film was condemned for its sexism.
 
 ### 折磨
 plague vt 不断困扰；折磨；使受煎熬 My shoulder's been plaguing me all week.
@@ -267,6 +307,15 @@ plague noun 瘟疫  Millions died of (the) plague.
 a plague of sth  （令人烦恼或可能造成破坏的）一大群 A plague of journalists descended on the town.
 
 harass vt 骚扰；使烦恼，打扰 Stop harassing me!
+
+haunt vt 使经常苦恼，不断困扰
+Fighting in Vietnam was an experience that would haunt him for the rest of his life.
+30 years after the fire he is still haunted by images of death and destruction.
+haunt vt （鬼魂）经常出没
+A ghostly lady is said to haunt the stairway looking for her children.
+haunt noun 常去的地方
+This bar used to be one of your old haunts, didn't it, Jake?
+
 
 ### 痛苦
 tragical 悲剧

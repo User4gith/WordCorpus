@@ -13,7 +13,6 @@ If the government is seen to condone violence, the bloodshed will never stop.
 lenient adj （处罚或判决）宽容的，宽大的，从轻的
 They believe that judges are too lenient with terrorist suspects.
 
-s
 
 
 
@@ -51,6 +50,21 @@ a thorough revision of the manuscript
 They did a thorough search of the area but found nothing.
 thorough adj 彻头彻尾的；完全的；十足的
 It was a thorough waste of time.
+
+still adv 还，还是；仍然，依旧
+I still haven't finished writing my essay.
+still adv 尽管那样，尽管如此
+Even though she doesn't really have the time, she still offered to help.
+still adv （程度或数量）还要，更加
+The number of people killed in the explosion is likely to rise still higher.
+still adj 静止的；不动的，安静的
+She dived into the still (= calm and not flowing) water of the lake.
+still adj （饮料）不含碳酸气的，不起泡的
+Would you like still or sparkling water?
+still vt 使静止；使平静，使安静
+He tried to still the swaying of the hammock.
+still noun 静止；安静，平静
+In the still of the night, nothing moved.
 
 
 

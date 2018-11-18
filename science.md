@@ -42,3 +42,14 @@ skim
 tome
 
 fiction
+
+curriculum noun 课程
+
+dissertation 专题论文；学位论文
+Ann did her dissertation on Baudelaire.
+
+essay
+
+tertiary adj 第三的；第三级的；第三位的
+tertiary adj 高等教育的，大学教育的
+tertiary adj 第三产业的

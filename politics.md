@@ -325,6 +325,10 @@ consulate noun 领事馆; 领事职位; 领事任期;
 
 
 ambassador noun 大使，使节; （派驻联合国等国际组织的） 代表; 特使; [比喻] 使者;
+embassy noun 大使馆全体人员，使馆馆员
+We used to be friendly with some people who worked at the Swedish Embassy.
+embassy 大使馆
+The Ambassador held a reception at the embassy.
 
 
 counsel vt 劝告，建议; 提供专业咨询;
@@ -376,10 +380,26 @@ If you have not signed a contract, you are under no obligation to (= it is not n
 必须要做的事情
 I don't have time to do his work for him - I have too many obligations as it is.
 
+obligatory adj （根据规定、法律等）必须履行的，强制性的，有义务的
+The medical examination before you start work is obligatory.
+[ + to infinitive ] The statute made it obligatory for all healthy males between 14 and 60 to work.
+obligatory （因为常发生而）必然的，预料之中的；惯常的
+Several Secret Service agents surrounded the President, all wearing the obligatory raincoat and hat.
+
+
 requisition noun 征用，（财产或材料的正式）征用令; 申请书;
 requisition vt 征用，征发;
 
-concession noun 让步，迁就; （尤指由政府或雇主给予的） 特许权; 租借地; 承认或允许;
+concession noun （常指为结束争端而作出的）认可，让与，让步，妥协
+Both sides involved in the conflict made some concessions in yesterday's talks.
+He stated firmly that no concessions will be made to the terrorists.
+concession noun 认输 The former president's concession came even before all the votes had been counted.
+concession （对学生、老少或失业人群的）价格优惠，减价
+You can get travel concessions if you are under 26.
+concession （财产、土地等的）特许权；许可使用权
+concession 特许经营权；特许销售权
+
+
 
 entitle vt 使有资格; 给…定名; 给与…权利; 称做;
 

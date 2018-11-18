@@ -811,6 +811,10 @@ We watch the hot-air balloon slowly inflate.
 inflate vt 抬高；夸大
 They inflated their part in the rescue every time they told the story.
 
+pompous  adj 妄自尊大的，自以为是的
+He's a pompous old prig who's totally incapable of taking a joke.
+He can sometimes sound a little pompous when he talks about acting.
+
 
 ### 虚伪
 deceptive 虚伪的; 欺诈的，骗人的; 靠不住的; 迷惑的;
@@ -1055,6 +1059,11 @@ inhumane adj 不仁慈的，无人道的，冷酷无情的;
 obscene adj 淫秽的; 猥亵的; 下流的; 可憎的;
 
 harsh adj 刺耳的; 残酷的; 粗糙的; 严厉的，严格的;
+
+merciless adj 冷酷无情的，残忍的，毫无怜悯之心的
+There are reports of merciless attacks on innocent civilians.
+There was no shelter from the merciless (= very strong) heat.
+
 
 
 ### 腐

@@ -24,7 +24,14 @@ heap
 bunch
 pile
 gang
-stack
+
+stack noun （码放整齐的）堆，叠，摞 He chose a cartoon from the stack of DVDs on the shelf.
+stack noun 大量，许多 Don't worry, we've got stacks of time.
+the stacks （图书馆中排列密集的）藏书书架；书库
+stack vt 把…放成整齐的一摞；把…码成堆
+Once the last few people had left the hall, the caretaker began stacking (up) the chairs.
+
+
 stockpile
 
 huddle noun 拥挤; 杂乱一团; 小型私人会议;
@@ -71,6 +78,11 @@ lounge noun 客厅，起居室 All the family were sitting in the lounge watchin
 
 refectory noun （修道院、学校等的）食堂，餐厅
 
+cottage noun （通常指乡村中的）小屋，村舍
+They live in an idyllic country/thatched cottage, with roses around the door.
+We rented a little beach cottage on the North Caroline coast.
+
+
 
 hut noun 小屋; 棚屋; 临时营房; 牢房;
 hut v 使住临时营房; 驻扎;
@@ -103,8 +115,15 @@ Her office is at the end of the corridor.
 foyer noun  （剧院、宾馆等公共建筑物入口处内的）门厅 I'll see you downstairs in the foyer in half an hour.
 foyer noun （房子或公寓的）门廊，前厅
 
-terrace noun 阳台; 台阶，阶地; 柱廊，门廊; 斜坡上房屋间的街巷;
+terrace noun 台地
+terrace noun 露天平台，阳台
+terrace noun 梯田；阶地
+the terraces noun （足球）阶梯看台
+terrace noun 排屋，排房
+
 terrace vt 把（如山坡或坡地）修成梯田; 给（如房屋）建阳台;
+
+
 balcony noun 露台，阳台
 balcony noun （剧场的）楼座，楼厅，厢房 Our seats are in row F of the balcony.
 
@@ -112,6 +131,14 @@ balcony noun （剧场的）楼座，楼厅，厢房 Our seats are in row F of t
 fountain noun 泉源; 人造喷泉，喷泉水; 液体贮存器，汽水桶，冷饮柜; 源头，来源;
 
 ceiling 天花板; 最高限度; 云幕高度; 隔板，舱室垫板;
+
+lane noun 乡间小路；小巷，小街，胡同
+He drives so fast along those narrow country lanes.
+I live at the end of Church Lane.
+lane  车道；（田径比赛的）跑道；泳道
+I find driving in the fast lane very stressful.
+lane noun 航道，航线
+The English Channel is the busiest shipping lane in the world.
 
 
 # 时间相关
@@ -406,7 +433,23 @@ swing n 秋千; 摇摆，摆动; 摆程，振幅; 音律;
 spin v 纺纱; 吐（丝），作（茧），结网; 快速旋转; 眩晕
 spin noun 旋转的行为; 快速的旋运动; 眩晕; 疾驰;
 
-stir vt 搅拌; （使） 移动; （使） 行动; （使） 微动
+stir vt （用汤匙等）搅动，搅拌
+Stir the sauce gently until it begins to boil.
+stir vt/vi （使）微动
+A light breeze stirred the leaves lying on the path.
+stir vt 醒来；开始采取行动 The alarm clock went off, but she didn't stir.
+stir vt 激发；打动；煽动 I was deeply stirred by her performance.
+stir vi（情感）逐渐产生，萌动 Hope stirred within her heart.
+stir vi 挑拨离间；（尤指）搬弄是非
+There's a lot of gossip about me going around. Have you been stirring?
+
+stir noun 搅动，搅拌 Could you give the soup a quick stir?
+stir noun 极大的兴趣；兴奋；骚动 The scandal caused/created quite a stir at the time.
+stir noun 示威行动
+
+
+
+
 stir vi 苏醒; 奋起; 传播; 发生;
 
 twist vt 扭成一束; 搓，捻; 绕，卷; 连结，交结
@@ -466,7 +509,13 @@ protest n/v 抗议; 反对; 申明
 view
 outlook
 stance 态度，立场; 站姿，被放置的姿势; 位置; （运动员的） 始发姿势;
-theme [乐] 主题; 主旋律; 题目，话题; （学生的） 作文;
+
+
+theme （谈话、书籍、电影等的）题目，主题
+The theme of loss runs through most of his novels.
+theme （电影等的）主题歌，主题曲 a theme song/tune
+theme and variation （音乐）主题与变奏
+
 subject 主题，话题; 学科，科目; [哲] 主观
 subject adj 须服从…的; （在君主等） 统治下的;
 notion noun 概念，观念; 意见，见解; 奇想; 打算;
@@ -969,6 +1018,12 @@ Preliminary results show that the vaccine is effective, but this has to be confi
 preliminary noun 开端活动，初步行动
 After a few polite preliminaries (= introductions), we stated our main ideas and intentions.
 
+precaution noun 预防，预防措施
+Many people have been stockpiling food as a precaution against shortages.
+They failed to take the necessary precautions to avoid infection.
+precautions （委婉的说法）避孕
+If you're going to have sex, make sure you take precautions.
+
 
 
 ===================================
@@ -1316,6 +1371,19 @@ tactic noun 策略，手法
 These bomb attacks represent a change of tactics by the terrorists.
 tactics noun 战术
 
+commission vt（正式地）安排…做，委托…做
+The newspaper commissioned a series of articles on the worst excesses of the fashion industry.
+commission vt 委任（或任命）…为军官
+Grandfather was commissioned as Group Captain in the RAF just before the war.
+commission noun （负责调查问题真相或原因的）委员会
+a commission on alcohol abuse/racial tension
+commission noun 佣金；提成；回扣
+She gets a 15 percent commission on every machine she sells.
+commission noun 委托；请求
+[ + to infinitive ] She's just got a commission to paint Sir Ellis Pike's wife.
+commission noun 犯罪 the commission of the crime/offence/murder
+
+
 
 
 ### 建
@@ -1448,6 +1516,15 @@ disobey vt 不服从，不顺从;
 
 succumb 屈服; 死亡;
 
+submit vt 提交；呈递
+You must submit your application before 1 January.
+submit vt 建议；主张
+In conclusion, I submit that the proposal will not work without some major changes.
+submit vi/vt 顺从，屈服；不得以接受
+We protested about the changes for a long time, but in the end we had to submit.
+She decided to resign from the party rather than submit herself to the new rules.
+
+
 ### 则
 criteria noun
 criterion noun 规范; （批评、判断等的） 标准，准则;
@@ -1485,9 +1562,26 @@ rigid adj 僵硬的; 严格的; （规则、方法等） 死板的; 刚硬的，
 relentless adj 不懈的;坚韧的，不屈不挠的;不间断的;未减轻的
 relentless adj 不放弃的；严格的；苛刻的；无情的
 
-stiff adj 严厉的; 僵硬的，坚硬的; 呆板的，拘谨的; 顽固的;
-stiff adv <口>极度地，非常;
-stiff noun 死尸; 笨蛋，傻瓜; 流动工人; 吝啬鬼穷光蛋;
+stiff adj 硬的，挺的，坚实的
+a stiff collar/This hair spray has made my hair stiff.
+stiff adj 不易弯曲的；不易活动的
+The handle on this door is rather stiff.
+stiff （人或身体部位）僵硬的，强直的
+Sitting still at a computer terminal all day can give you a stiff neck.
+stiff adj 拘谨的，局促的，生硬的
+The general is a tall man with steel spectacles and a stiff, pompous manner.
+stiff adj 严厉的，严格的；艰难的
+The athlete was given a stiff punishment for using drugs.
+Some colleges have stiffer entry requirements than others.
+stiff （价格）高昂的，过高的
+We had to pay a stiff membership fee to join the health club.
+
+stiff adv 十分，非常
+I got frozen stiff (= very cold) waiting at the bus stop.
+
+stiff noun …的人 a working stiff
+
+
 
 stringent adj 严格的; The most stringent laws in the world are useless unless there is the will to enforce them.
 stringent adj  紧缩的，银根紧的
@@ -1503,6 +1597,8 @@ tough adj （食物）老的，不易切开的，嚼不动的
 This steak is very tough.
 tough adj 粗鲁的；暴力的；不友善的
 a tough neighbourhood
+
+
 
 ### 缩减
 abate vt 减少，减轻; [法] 取消法令，作废;
@@ -1725,6 +1821,7 @@ spurt noun （活动、干劲的）短时激增，迸发；突然加速，冲刺
 There was a sudden spurt of activity in the housing market.
 spurt noun （液体等的）喷射
 The water came out in spurts.
+
 
 
 ### 超过

@@ -60,6 +60,8 @@ buckle under sth 屈服于（困境）But these were difficult times and a lesse
 
 ventilation noun 通风（设备）；空气流通（设备）
 
+hoover 真空吸尘器（同 vacuum）
+Vacuum
 
 
 # 宗教
@@ -355,21 +357,6 @@ snake neike
 
 
 
-### 责骂
-scold vt 责骂
-scold vi 责骂; 斥责;
-scold noun 常骂人的人;
-
-blame
-
-censure vt 指责; 谴责; 责备; 批评;
-censure vi 谴责，责备;
-censure noun 责备; 指责，谴责; 斥责;
-
-condemn vt（通常因道义上的原因而） 谴责; 宣判; 宣布…不能使用; 迫使…陷于不幸的境地;
-The film was condemned for its sexism.
-
-
 ### 切
 carve 雕刻; 切，切开; 创制，开创
 blade
@@ -535,6 +522,7 @@ prospectus
 specification noun 规格; 说明书; 详述;
 
 brochure
+
 illustration
 
 # 皮革；羽毛

@@ -468,6 +468,10 @@ dearth noun 缺乏，稀少;
 
 
 ### 多余
+supplementary adj（角）互补的
+supplementary adj 额外 a supplementary income
+
+
 redundant adj （尤指词、短语等）多余的，不需要的，累赘的，啰唆的 In the sentence "She is a single unmarried woman", the word "unmarried" is redundant.
 
 redundant adj 失业的，被解雇的，被裁减的 To keep the company alive, half the workforce is being made redundant.

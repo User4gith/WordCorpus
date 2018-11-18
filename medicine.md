@@ -245,6 +245,9 @@ treatment noun 治疗，医治 There are various treatments for this complaint.
 
 therapy noun 治疗；疗法 Joining a club can be a therapy for loneliness.
 
+vaccine noun 疫苗
+This vaccine protects against some kinds of the bacteria.
+
 
 relieve vt 缓解，减轻，解除（疼痛或担忧）；使宽心，使宽慰  She was given a shot of morphine to relieve the pain.
 relieve vt 缓和，缓解（令人不快的局势） New toll roads could help relieve congestion on other routes.
@@ -292,3 +295,16 @@ Traditional skills are being revived.
 
 resumption noun （中断后）继续，重新开始
 The president called for an immediate ceasefire and a resumption of negotiations between the two sides.
+
+resume vi/vt （中断后）继续，重新开始
+Normal services will be resumed in the spring.
+He stopped to take a sip of water and then resumed speaking.
+The talks are due to resume today.
+resume 恢复；重新回到，重返（某地或某位置）
+to resume your post/job
+Please resume your seats, as the performance will continue in two minutes.
+
+resume noun 摘要；梗概；概述
+She gave us a brief résumé of the project so far.
+resume 简历，履历
+She sent her résumé to 50 companies, but didn't even get an interview.
