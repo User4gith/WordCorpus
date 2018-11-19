@@ -134,9 +134,21 @@ Women's magazines are often perceived to be superficial.
 perceive vt  察觉，注意到，意识到
 I perceived a note of unhappiness in her voice.
 
+
+rumble vi 发出隆隆声；发出辘辘声；发出低沉连续的响声
+Please excuse my stomach rumbling - I haven't eaten all day.
+rumble vt 发现，察觉，看穿（某人的秘密或非法事情的真相）
+His boss eventually rumbled him, and he was sacked.
+rumble vi 打架；打群架
+
+
 tangible adj 真实的；非想象的；可触摸的；可感知的
 We need tangible evidence if we're going to take legal action.
 
+
+oblivious （尤指对周围发生的事情）毫不在意的，毫无知觉的，未察觉的
+Absorbed in her work, she was totally oblivious of her surroundings.
+The mayor seems oblivious to the likely effects of the new legislation.
 
 subliminal adj 下意识的，潜意识的 The leader was interviewed in front of a factory to give the subliminal message that he was a man of the people.
 
@@ -532,32 +544,155 @@ calibre noun （尤指枪炮的）内径，口径；（子弹的）直径，弹�
 
 
 ### 直率的
-blunt n/v 直率的; 迟钝的; 钝的，不锋利的; 呆板的;
+blunt adj （铅笔、刀等）钝的，不锋利的
+blunt adj 直率的；生硬的；直截了当的
+I'll be blunt - that last piece of work you did was terrible.
+blunt vt 使变钝
+blunt vt 使（情感）减弱
+My recent bad experience has blunted my enthusiasm for travel.
+blunt noun 大麻烟卷
 
-frank adj 坦白的，直率的; 清楚表明的; 明显的;
-frank noun 弗兰克; 免费邮寄权; 免费邮戳或签名; 免费邮寄的信件;
-frank vt 免费寄（邮件）; 盖免费邮寄公章; 盖邮戳; 便于使（人）自由地来往;
+
+frank adj 坦率的，坦诚的；直言不讳的
+a full and frank discussion
+To be perfectly frank with you, I don't think she's the person for the job.
+
+frank vt 在（邮票）上盖戳；在（信封）上盖戳表示邮资已付
 
 
-simplicity 简单，朴素; 质朴，天真; 卑贱; 无知;
+simplicity noun 简单，简易 The advantage of the plan is its simplicity.
+simplicity noun 天真；纯朴;朴素，简朴
+The old people led a life of great simplicity (= with few possessions and little money).
 
-pragmatic adj 实用主义的; 实际的; 好管闲事的; 国事的;
-pragmatic noun 爱管闲事的人; 专断的人; 国事诏书; 实务家;
 
-undisguised adj 露骨; 不加掩饰的，坦率的，公开的;
+pragmatic adj 讲究实际的，重实效的；实用主义的
+In business, the pragmatic approach to problems is often more successful than an idealistic one.
+
+undisguised adj （情感）不加掩饰的
+She looked at him with undisguised contempt.
 
 fossil noun  化石
 fossil noun 老人；（尤指）老顽固，思想僵化的人，老古董
 
 
-### 辛勤
-industrious adj 勤劳的，勤奋的; 勤恳的，刻苦的; 昧旦晨兴; 手勤;
+### 辛勤/仔细
+industrious adj 勤劳的，勤奋的
+an industrious worker
+She's extremely competent and industrious.
 
+painstaking adj 认真仔细的，精心的，费尽心思的
+It took months of painstaking research to write the book.
+He was described by his colleagues as a painstaking journalist.
 
-painstaking adj（不辞） 劳苦的，辛苦的; 煞费苦心的; 苦干的，辛勤的; 小心的;
-painstaking noun 辛苦; 苦干，刻苦; 勤勉; 煞费苦心;
+studious adj 好学的；勤奋的，用功的
+She was a studious child, happiest when reading.
+studious adj 审慎的；刻意的，有意的；精心安排的
+The report was obviously prepared with studious care and attention.
+
 
 diligence 勤勉，勤奋
+
+# 谨慎的
+
+prudent adj 谨慎的，慎重的；精明的
+[ + to infinitive ] It's always prudent to read a contract carefully before signing it.
+
+
+cautious adj 谨慎的，细心的，小心翼翼的 Someone who is cautious avoids risks.
+He's a cautious driver.
+cautious adj 经过仔细考虑的，斟酌过的 a cautious approach
+
+discretion noun 慎重，谨慎；守口如瓶
+"Can you trust him with this?" "Yes, he's the soul of discretion (= he will not tell other people)."
+discretion noun 决定权；决策力
+I leave the decision to your discretion (= for you to decide).
+
+
+discreet adj 审慎的，谨慎的，小心的
+The family made discreet enquiries about his background.
+They are very good assistants, very discreet - they wouldn't go talking to the press.
+
+
+deliberate adj （常指坏事）有意的，故意的，蓄意的 a deliberate attack/insult/lie
+deliberate adj 慢吞吞的；小心谨慎的；沉稳的 From her slow, deliberate speech I guessed she must be drunk.
+deliberate vt/vi 慎重考虑；仔细讨论 The jury took five days to deliberate on the case.
+The committee has deliberated the question at great length.
+
+
+### 严格
+starchy adj 刻板的，拘谨的
+Museums are trying to shake off their starchy image.
+starchy adj 淀粉的 starchy foods
+
+
+strict adj 要求严格的，严厉的 My parents were very strict with me when I was young.
+strict adj 精确的，完全正确的；严谨的 a strict translation of the text
+strict adj 恪守信条的，严格遵循（某种生活方式）的；不折不扣的；（信条或原则）必须恪守的
+His parents were strict Catholics.
+
+
+rigorous adj 严密的，缜密的；严谨的 rigorous testing/checking/methods
+rigorous adj 严格的，严厉的
+the rigorous controls governing the sale of shares
+
+
+severe adj 非常严重的；剧烈的；惨重的
+Severe cutbacks in public spending have been announced.
+In parts of Africa there is a severe food/water shortage.
+severe adj 极度的；非常困难的 This will be a severe test of our strength.
+
+severe adj 不和善的；冷酷的；严厉的；苛刻的
+The president is currently facing severe criticism.
+There are severe penalties for failing to declare all your income to the Inland Revenue.
+
+severe adj 不加装饰的，朴素的，简朴的
+I don't like these severe modern buildings.
+She wore a severe black dress, and plain black shoes.
+
+
+rigid adj 僵硬的；固定的；不能弯曲的
+I was rigid with (= stiff and unable to move because of) fear.
+rigid adj 顽固的；不易改变的
+We were disappointed that they insisted on such a rigid interpretation of the rules.
+
+relentless adj 持续严厉的；持续强烈的
+relentless criticism/pressure
+relentless heat
+
+stiff adj 硬的，挺的，坚实的
+a stiff collar/This hair spray has made my hair stiff.
+stiff adj 不易弯曲的；不易活动的
+The handle on this door is rather stiff.
+stiff （人或身体部位）僵硬的，强直的
+Sitting still at a computer terminal all day can give you a stiff neck.
+stiff adj 拘谨的，局促的，生硬的
+The general is a tall man with steel spectacles and a stiff, pompous manner.
+stiff adj 严厉的，严格的；艰难的
+The athlete was given a stiff punishment for using drugs.
+Some colleges have stiffer entry requirements than others.
+stiff （价格）高昂的，过高的
+We had to pay a stiff membership fee to join the health club.
+
+stiff adv 十分，非常
+I got frozen stiff (= very cold) waiting at the bus stop.
+
+stiff noun …的人 a working stiff
+
+
+stringent adj 严格的; The most stringent laws in the world are useless unless there is the will to enforce them.
+stringent adj  紧缩的，银根紧的
+Already low living standards have been worsened by stringent economic reforms.
+
+tough adj 结实的；坚固的；坚强的
+You have to be tough to be successful in politics.
+adj 强硬的；严厉的
+There have been calls for tougher controls/restrictions on what online retailers are allowed to sell.
+tough adj 困难的；棘手的
+They've had an exceptionally tough life.
+tough adj （食物）老的，不易切开的，嚼不动的
+This steak is very tough.
+tough adj 粗鲁的；暴力的；不友善的
+a tough neighbourhood
 
 ### 节俭
 stint noun 工作期限；（从事某项活动的）规定期限 He has just finished a stint of compulsory military service.
@@ -569,16 +704,41 @@ thrift （美国）可用来储蓄和贷款购房的一类银行
 
 
 ### 奉献
-dedicate 奉献，献身; （为表示感情或敬意将著作、乐曲、艺术作品等） 题献给（某人、某事业等）(to); （在书、音乐或作品的前部） 题献辞; 以…供奉;
+dedicated adj 尽心尽力的，尽职尽责的
+She's completely dedicated to her work.
+The Green Party is dedicated to protecting the environment.
+dedicated adj 专用的，专门的
+a dedicated sports channel
 
-dedicated adj 专用的; 专注的，投入的; 献身的;
 
-generous adj 慷慨的，大方的; 丰盛的; 肥沃的; 浓厚的;
-benevolent adj 乐善好施的; 慈善的; 好心肠的; 与人为善的
+generous adj （尤指超乎一般或期望地）慷慨的，大方的；宽宏大量的，仁慈的
+ It was generous of you to lend me the money.
+ There's a generous (= kinder than deserved) review of the book in today's newspaper.
+ generous adj （尤指超过一般预期）大的；大量的；丰富的
+ a generous slice of cake
+
+
+benevolent adj 仁慈的，慈善的
+He was a benevolent old man and wouldn't hurt a fly.
 
 altruistic adj 利他的，无私心的
+I doubt whether her motives for donating the money are altruistic - she's probably looking for publicity.
 
-thoughtful adj 体贴的; 沉思的; 缜密思考过的，深思熟虑的;
+thoughtful adj 考虑周到的；计划周密的
+He has a thoughtful approach to his work.
+thoughtful adj 沉思的
+You look thoughtful.
+thoughtful adj 体贴的，关心的
+Thank you for calling when I was ill - it was very thoughtful of you.
+
+dedicate vt奉献，献出（全部精力、时间等）
+He has dedicated his life to scientific research.
+The new president said she would dedicate herself to protecting the rights of the sick and the homeless.
+dedicate vt （把书籍、戏剧、演出等）献给
+The book is dedicated to the author's husband.
+dedicate vt 为（尤指宗教建筑）举行奉献典礼；为…举行落成仪式
+The church was dedicated on 1 March 1805 to the local Saint Jude.
+
 
 contributory adj 捐献的；奉献的 The company offers a contributory pension plan (= one to which both the employee and employer pay money).
 contributory adj 起作用的；导致…的；促成的 Too little exercise is a contributory factor in heart disease.
@@ -593,27 +753,57 @@ The people offered a lamb on the altar as a sacrifice for their sins.
 
 
 # 兴奋
-thrill vt 使激动; 使陶醉; 使颤动、战栗或振动;
-thrill [病] 震颤; 震颤感; 兴奋感;
+thrill noun 兴奋；激动；紧张感
+the thrill of winning a competition
+It gave me a real thrill to see her again after so many years.
+thrill vt/vi 兴奋；激动；紧张感
+The 22-year-old swimmer thrilled the world with his performance.
 
-triumphant adj 得意洋洋的; 凯; 成功的; 欢欣鼓舞的;
-promising 有希望的
+triumphant adj 取得巨大成功的；欢欣鼓舞的；洋洋得意的
+It seemed as though the whole city had turned out for their team's triumphant homecoming.
+She emerged triumphant from the court after all the charges against her were dropped because of a lack of evidence.
 
+promising 有希望的；有出息的；有前途的
+They won the award for the most promising new band of the year.
+"How's your new venture going?" "It's looking quite promising."
 
 
 
 # 敏捷
 swift adj 迅速的;敏捷的;立刻的;突然发生的
+The police took swift action against the rioters.
 swift noun 雨燕;环球金融同业电讯会;[人]斯威夫特，《格利佛游记》作者
 swift adv 迅速地，敏捷地
 
-agile adj 灵活的; 灵巧的; 轻快的; 机敏的;
+agile adj 敏捷的，灵活的
+Moankeys are very agile climbers.
+agile adj 机敏的，机灵的，敏锐的
+For a man of 80, he has a remarkably agile mind.
+agile adj （工作中）见机行事的，反应快速的
 
-acute adj 尖的，锐的; 敏锐的，敏感的; 严重的，剧烈的; [医] 急性的;
 
-nimble adj 灵活的; 敏捷的; 机敏的; （头脑） 思路敏捷的，机智的;
+acute adj 十分严重的
+She felt acute embarrassment/anxiety/concern at his behaviour.
+The problem of poverty is particularly acute in rural areas.
+acute adj （病痛）急性的；剧烈的
+an acute attack of appendicitis
+acute adj （感官等）敏锐的，灵敏的；机敏的，有洞察力的
+acute eyesight/hearing
+a woman of acute intelligence/judgment
+acute adj 锐角的
+acute noun 尖音符号
+There's an acute accent on the e in "café".
 
-shrewd adj 精明的，敏锐的; 奸诈的，狡猾的; 有眼光的; 精于盘算的;
+
+nimble adj （行动）灵活的，敏捷的；（头脑）机敏的，敏锐的
+His nimble mind calculated the answer before I could key the numbers into my computer.
+nimble fingers/feet
+
+
+shrewd adj 明智的；精明的
+He was shrewd enough not to take the job when there was the possibility of getting a better one a few months later.
+She is a shrewd politician who wants to avoid offending the electorate unnecessarily.
+It was a shrewd move to buy your house just before property prices started to rise.
 
 apace adv 飞快，迅速 The project is coming on apace (= advancing quickly).
 
@@ -623,17 +813,29 @@ procrastinate vi 拖延，耽搁;
 I know I've got to deal with the problem at some point - I'm just procrastinating.
 
 
-slothful adj 懒惰的，懒散的，不活跃的;
+sloth noun 懒散，懈怠
+The report criticizes the government's sloth in tackling environmental problems.
+sloth noun 树懒
+Sloths live in Central and South America.
 
-delinquent adj 不尽责的，怠工的; 有过失的; 拖欠债务的;
-delinquent noun 流氓; 少年罪犯; 失职者;
-sluttish adj 懒惰的，邋遢的，淫荡的;
-lax adj 松懈的; 松弛的; <医>（肠）宽松的; 不严格的;
-lax noun 泻肚; （挪威，瑞典的） 鲑; 松元音;
+slothful adj 懒惰的，懒散的，不活跃的; slothful adolescents
+
+
+delinquent noun （通常指年轻的）违法者；不良青少年
+delinquent adj 不良的；违法的
+They are carrying out research on the causes of delinquent behaviour among young people.
+delinquent adj 迟付欠款的，未按时还款的，拖欠的
+She has been delinquent in paying her taxes.
+
 indolent adj 懒惰的，懒散的，不活跃的;
 
-delinquent adj 不尽责的，怠工的; 有过失的; 拖欠债务的;
-delinquent noun 流氓; 少年罪犯; 失职者;
+
+lax adj 马虎的
+The subcommittee contends that the authorities were lax in investigating most of the cases.
+lax 不严格的；不严厉的
+He took a gun through baggage control to highlight the lax security.
+lax adj 松音的
+
 
 sprawl vi （懒散地）摊开四肢坐（或躺）
 I knocked into her in the corridor and sent her sprawling (= knocked her over).
@@ -656,59 +858,25 @@ He's a very able student, he's just bone idle (= very lazy).
 idle vi （发动机）低速运转，空转
 He left the engine idling and ran into the shop.
 
-vacuum noun 真空
-vacuum noun 缺乏，空白
-The withdrawal of troops from the area has created a security vacuum which will need to be filled.
-in a vacuum 似在真空中；与世隔绝
-No artist works in a vacuum - we are all of us influenced by others.
-vacuum vi/vt 用吸尘器清扫
-Vacuum (up) the cake crumbs, would you?
-
-vacancy noun 空处；空位
-We wanted to book a hotel room in July but there were no vacancies.
-vacancy noun （职位）空缺
-There is a vacancy for a shop assistant on Saturdays.
-
-vacant adj 空的；未被占用的
-The hospital has no vacant beds.
-vacant adj （工作职位）空缺的
-The position fell (= became) vacant when Rodman was promoted.
-
-spacious adj 宽敞的，空间大的
-spacious accommodation
-
-
-
-
-
-
-# 谨慎的
-sophisticated 老于世故的;见多识广的
-
-prudent 小心的，慎重的; 精明的，节俭的; 顾虑周到的，稳健的; 世故的，精明的
-待人处事，对待事物问题的态度非常谨慎、慎重，或指在做决定和判断时慎重、 明智、深谋远虑。
-
-cautious adj 谨慎的，细心的，小心翼翼的 He's a cautious driver.
-cautious adj 经过仔细考虑的，斟酌过的 a cautious approach
-
-discretion noun 慎重; 考虑周到; 判断力，辨别力; 自行决定的自由;
-
-discreet adj 持重; 小心的; 谨慎的，慎重的; 考虑周到的; (言行十分谨慎)
-
-studious adj 好学的; 用功的; 仔细的; 故意的;
-
-starchy adj （食物） 含大量淀粉的; 刻板的，拘谨的;
-
-deliberate adj （常指坏事）有意的，故意的，蓄意的 a deliberate attack/insult/lie
-deliberate adj 慢吞吞的；小心谨慎的；沉稳的 From her slow, deliberate speech I guessed she must be drunk.
-deliberate vt/vi 慎重考虑；仔细讨论 The jury took five days to deliberate on the case.
-The committee has deliberated the question at great length.
 
 
 ### 平庸的
-aridity noun 荒芜; 干旱，乏味; 干燥性
+dull adj 枯燥的，乏味的，无趣的
+She wrote dull, respectable articles for the local newspaper.
+He's pleasant enough, but deadly dull.
+dull adj 模糊的；暗淡的；阴暗的
+We could just see a dull glow given off by the fire's last embers.
+uk The first day of our holiday was dull (= cloudy).
+dull adj （声音）沉闷的；（疼痛）隐约的
+The dull rumble of traffic woke her.
+She felt a dull ache at the back of her head.
+dull adj 不聪明的，愚笨的
 
-dull adj 迟钝的; 钝的; 呆滞的; 阴暗的;
+dull vt 缓和，缓解；减轻
+Homeless children sniff glue to dull their hunger pains.
+
+
+
 dull v 缓和; 减轻; 使阴暗;
 
 
@@ -747,10 +915,6 @@ futile adj 无效的，无用的; 没有出息的; 琐碎的，无关紧要的; 
 
 slouch vi 低头垂肩地站（或坐、走）；没精打采地站（或坐、走） Straighten your back - try not to slouch.
 slouch noun 无精打采的姿态（站、坐或走的一种姿势，肩部向前悬垂） He's developed a slouch from leaning over his books all day.
-
-
-
-
 
 ### 愤怒
 fury
@@ -879,6 +1043,14 @@ tease noun 爱嘲弄他人的人; 取笑卖弄风骚的人;
 
 disdain noun 鄙视，轻蔑;
 disdain vt 鄙视; 不屑于做，不愿意做;
+
+contempt noun 蔑视；鄙视；轻视；轻蔑
+At school she had complete contempt for all her teachers.
+hold sb/sth in contempt 对…不屑一顾
+contempt noun 藐视法庭（罪）
+The tobacco companies may be guilty of contempt of court for refusing to produce the documents.
+
+
 
 caustic adj <化>苛性的; 腐蚀性的; 尖刻的，刻薄的; [物] 焦散的;
 caustic adv 刻薄地，挖苦地;
@@ -1055,16 +1227,14 @@ brutal adj 残忍的; 野蛮的; 无情的; 不讲理的;
 
 inhumane adj 不仁慈的，无人道的，冷酷无情的;
 
-
-obscene adj 淫秽的; 猥亵的; 下流的; 可憎的;
-
 harsh adj 刺耳的; 残酷的; 粗糙的; 严厉的，严格的;
 
 merciless adj 冷酷无情的，残忍的，毫无怜悯之心的
 There are reports of merciless attacks on innocent civilians.
 There was no shelter from the merciless (= very strong) heat.
 
-
+obscene adj 淫秽的; 猥亵的; 下流的; 可憎的;
+sluttish adj 懒惰的，邋遢的，淫荡的;
 
 ### 腐
 erode vt 侵蚀，腐蚀;

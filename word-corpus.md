@@ -403,10 +403,11 @@ outright adv 彻底，完全；立刻；当场 I think cigarette advertising sho
 outright adj 完全的，彻底的 There was no outright winner in the election.
 
 
-
-
 ### 完整
-intact adj 完好无损; 原封不动的; 完整无缺的，未经触动的，未受损伤的; 完好无缺;
+intact adj 完好无损; 原封不动的; 完整无缺的，未经触动的
+The church was destroyed in the bombing but the altar survived intact.
+intact adj 未受损伤的; 完好无缺;
+It's difficult to emerge from such a scandal with your reputation still intact.
 
 exhaustive adj 详尽无遗; 彻底的，透彻的; 消耗的，使枯竭的; 详尽的，无遗的;
 
@@ -1056,9 +1057,15 @@ stringent adj 严格的; 迫切的; （货币） 紧缩的;
 
 squeeze
 
-squash vt 挤进; 将（某人[某物]）压扁; 使沉默; 平定（叛乱等）;
-squash vi 挤入; 受挤压; 发出挤压声;
-squash noun （软式） 墙网球; 南瓜小果（主要种类为笋瓜 winter squash 和西葫芦 summer squash）; 果汁汽水; 拥挤的人群;
+squash vt 把…压扁；把…挤扁 He accidentally sat on her hat and squashed it.
+squash vt （使）挤进；（把…）塞进 He tried to squash his ripped jeans into the suitcase while his mother wasn't looking.
+squash vt 粉碎；强行制止  Rumours of a possible takeover of the company were soon squashed by the management.
+squash noun 拥挤 There are over two hundred people coming to the party so it might be a bit of a squash.
+squash noun 壁球
+squash noun 果汁饮料
+squash 南瓜
+
+squish vt 压扁，挤扁 Don't sit on that bag - you'll squish the sandwiches.
 
 extrude vt （尤指通过狭小的出口）挤压出，挤压成，压制
 extruded aluminium rods
@@ -1553,50 +1560,7 @@ defiant adj 不接受批评的；不接受不同意见的
 The CEO was in a defiant mood as she entered the boardroom.
 
 
-### 严格
-strict
-rigorous adj 严格的; 严密的; 缜密的; 枯燥的;指严格到毫不宽容的地步。
-severe adj 严峻的; 严厉的; 剧烈的; 苛刻的;
-rigid adj 僵硬的; 严格的; （规则、方法等） 死板的; 刚硬的，顽固的;
 
-relentless adj 不懈的;坚韧的，不屈不挠的;不间断的;未减轻的
-relentless adj 不放弃的；严格的；苛刻的；无情的
-
-stiff adj 硬的，挺的，坚实的
-a stiff collar/This hair spray has made my hair stiff.
-stiff adj 不易弯曲的；不易活动的
-The handle on this door is rather stiff.
-stiff （人或身体部位）僵硬的，强直的
-Sitting still at a computer terminal all day can give you a stiff neck.
-stiff adj 拘谨的，局促的，生硬的
-The general is a tall man with steel spectacles and a stiff, pompous manner.
-stiff adj 严厉的，严格的；艰难的
-The athlete was given a stiff punishment for using drugs.
-Some colleges have stiffer entry requirements than others.
-stiff （价格）高昂的，过高的
-We had to pay a stiff membership fee to join the health club.
-
-stiff adv 十分，非常
-I got frozen stiff (= very cold) waiting at the bus stop.
-
-stiff noun …的人 a working stiff
-
-
-
-stringent adj 严格的; The most stringent laws in the world are useless unless there is the will to enforce them.
-stringent adj  紧缩的，银根紧的
-Already low living standards have been worsened by stringent economic reforms.
-
-tough adj 结实的；坚固的；坚强的
-You have to be tough to be successful in politics.
-adj 强硬的；严厉的
-There have been calls for tougher controls/restrictions on what online retailers are allowed to sell.
-tough adj 困难的；棘手的
-They've had an exceptionally tough life.
-tough adj （食物）老的，不易切开的，嚼不动的
-This steak is very tough.
-tough adj 粗鲁的；暴力的；不友善的
-a tough neighbourhood
 
 
 
@@ -1692,8 +1656,15 @@ latent noun 指纹，指印;
 camouflage noun 伪装; 掩饰; 〈喻〉幌子;
 camouflage vt 伪装; 掩饰; 欺瞒;
 
-disguise vt 掩盖; 化装; 隐瞒，掩饰; 伪装，假装;
-disguise noun 伪装; 伪装品; 用作伪装的东西; 托辞，借口;
+disguise vt 给…化装，给…乔装打扮；将…伪装起来
+He disguised himself by wearing a false beard.
+disguise vt 掩饰，隐藏（观点、感受等）
+I couldn't disguise my disappointment.
+
+disguise noun 化装用具（服饰）；用于伪装的东西
+He put on a large hat and glasses as a disguise and hoped no one would recognize him.
+伪装，化装
+She usually goes out in disguise to avoid being bothered by the public.
 
 
 ulterior adj 不可告人的; 隐秘的; 秘密的; 矢口否认的

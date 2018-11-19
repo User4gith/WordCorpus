@@ -501,9 +501,6 @@ accusation noun 指控，控告；指责；谴责 You can't just make wild accus
 prosecution noun （被）起诉；（被）检举；诉讼 A number of the cases have resulted in successful prosecution.
 the prosecution 控方律师，原告律师 The prosecution alleged that he lured the officer to his death by making an emergency call.
 
-
-
-
 audit noun 审计，查账;
 audit vt 审计，查账; 旁听;
 audit vi 审计;
@@ -562,6 +559,12 @@ plunder 抢劫; 掠夺物;
 trap vt 诱骗; 使受限制; 困住; 使（水与气体等）分离;
 trap noun 圈套; （对付人的） 计谋; （练习射击用的） 抛靶器; （捕捉动物的） 夹子;
 trap vi 设陷阱; 装捕捉机; 设圈套;
+
+synthetic adj 合成的，人造的 synthetic fibres
+synthetic adj 假的，做作的 She criticized the synthetic charm of TV hosts.
+
+
+
 
 
 ### 盗窃

@@ -487,11 +487,16 @@ spare vt 饶恕；不伤害；不毁坏 They asked him to spare the women and ch
 spare vt 使避免，使免遭
 It was a nasty accident - but I'll spare you (= I won't tell you) the gruesome details.
 spare vt （尤指在自己困难的情况下）抽出，拨出，匀出 I'd love to come, but I can't spare the time.
+Could you spare me £20?
 
 spare no effort/expense 不遗余力／不惜工本
 We will spare no effort to find out who did this.
 not spare yourself 竭尽全力，全力以赴
 She never spared herself in the pursuit of excellence.
+spare a thought for sb 替（某人）着想
+Spare a thought for me tomorrow, when you're lying on a beach, because I'll still be here in the office!
+to spare  剩下，多余
+If you have any woolyarn to spare when you've finished the sweater, can you make me some gloves?
 
 excess noun 过分；过量；过度
 An excess of enthusiasm is not always a good thing.
@@ -501,3 +506,24 @@ excess noun （保险的）免赔款，自负款
 She has an excess of £200 on her home insurance policy.
 excess adj 过多的；多余的，额外的
 Cut off any excess pastry and put it to one side.
+
+vacuum noun 真空
+vacuum noun 缺乏，空白
+The withdrawal of troops from the area has created a security vacuum which will need to be filled.
+in a vacuum 似在真空中；与世隔绝
+No artist works in a vacuum - we are all of us influenced by others.
+vacuum vi/vt 用吸尘器清扫
+Vacuum (up) the cake crumbs, would you?
+
+vacancy noun 空处；空位
+We wanted to book a hotel room in July but there were no vacancies.
+vacancy noun （职位）空缺
+There is a vacancy for a shop assistant on Saturdays.
+
+vacant adj 空的；未被占用的
+The hospital has no vacant beds.
+vacant adj （工作职位）空缺的
+The position fell (= became) vacant when Rodman was promoted.
+
+spacious adj 宽敞的，空间大的
+spacious accommodation

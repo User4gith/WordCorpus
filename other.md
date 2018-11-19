@@ -75,13 +75,7 @@ elastic noun 松紧带；橡皮带 His trousers were held up with a piece of ela
 
 
 
-squash vt 把…压扁；把…挤扁 He accidentally sat on her hat and squashed it.
-squash vt （使）挤进；（把…）塞进 He tried to squash his ripped jeans into the suitcase while his mother wasn't looking.
-squash vt 粉碎；强行制止  Rumours of a possible takeover of the company were soon squashed by the management.
-squash noun 拥挤 There are over two hundred people coming to the party so it might be a bit of a squash.
-squash noun 壁球
-squash noun 果汁饮料
-squash 南瓜
+
 
 determination noun 决心；毅力
 determination noun 决定，确定

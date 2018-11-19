@@ -417,6 +417,7 @@ drought noun 旱灾; 干旱（时期），旱季; （长期的） 缺乏; 枯竭
 This year (a) severe drought has ruined the crops.
 
 aridity 荒芜; 干旱，乏味; 干燥性
+
 barren adj 贫瘠的；不毛的 We drove through a barren, rocky landscape.
 barren adj 不妊的，不育的
 barren adj 无成果的；无效果的 She became very depressed during the barren years when she was unable to paint.
