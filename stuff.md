@@ -460,6 +460,13 @@ damp adj 微湿的，潮湿的; 消沉的，沮丧的; 沉闷的; 情绪低落�
 damp noun 潮湿; 消沉，失望; 矿井瓦斯; 有毒气体;
 damp vt 使潮湿; 使泄气，使沮丧; 抑制，阻抑; 使减弱;
 
+dampen vt 使潮湿；把…弄潮；使受潮
+Rain had dampened the tent so we left it to dry in the afternoon sun.
+dampen vt 使（尤指兴奋或喜悦之情）平静下来；稳定（情绪）；对…泼冷水
+Nothing you can say will dampen her enthusiasm.
+I didn't want to dampen his spirits.
+
+
 humid
 humidity （空气中的） 湿度; 潮湿，高温潮湿; 湿热; [物] 湿度
 moist 潮湿的; 微湿的; 多雨的; 含泪的;
@@ -492,6 +499,11 @@ dim adj 愚笨的，迟钝的 He's a nice guy, but a little dim.
 dim adj 前景暗淡的，不乐观的 The company's prospects for the future are rather dim.
 dim vt （使）变暗，（使）亮度降低 Someone dimmed the lights.
 dim vt （使）减弱，（使）变淡 Our hopes/expectations dimmed as the hours passed.
+
+opaque adj 不透明的；不透光的 opaque glass/tights
+opaque adj （文字或演讲）难理解的；晦涩的；含糊的
+I find her poetry a little too opaque.
+
 
 
 ### 浑浊
@@ -873,7 +885,31 @@ persist
 
 # spir
 
-spirit
+spirit  noun 精神；（尤指特定人群、活动、时代或地方的）主导精神
+The players have a very strong team spirit (= loyalty to each other).
+
+spirits 情绪；心境
+I've been in high/low spirits (= feeling happy/sad) lately.
+Her spirits lifted/rose (= she felt happier) as she read the letter.
+
+enter/get into the spirit 全身心投入；积极热情地参与
+They went to the tennis club a few times but never really got into the spirit of it
+
+spirit noun （独立于肉体的）精神，灵魂；心灵
+Although he's now living in America, I feel he's with me in spirit (= I feel he is present and is influencing me, in a way that is not physical).
+
+spirit noun 热情；活力；勇气
+The orchestra performed The Rite of Spring with great spirit.
+
+spirit noun 烈性酒/（尤用于清洁、混合油漆等的）工业酒精，酒精溶液
+Thin the paint with white spirit.用石油溶剂油稀释油漆。
+
+spirit sb/sth away, off, out, etc. 偷偷带走；神不知鬼不觉地弄走
+Somehow the prisoners managed to spirit news out to the world outside.
+
+
+
+
 dispirit
 
 spiritual 精神的; 心灵的; 高尚的，崇高的; 宗教的

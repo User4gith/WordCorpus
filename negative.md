@@ -1,3 +1,207 @@
+### 眩晕
+dizzy 头昏眼花的; 使人眩晕的，引起头晕的; 昏乱的; 愚蠢的;
+dizzy 使头晕眼花; 使发昏; 使昏乱; 使茫然;
+
+drowsy adj 睡意朦肬的，半梦半醒的，似睡非睡的 The room is so warm it's making me feel drowsy.
+
+muddle noun 混乱状态；糟糕局面 Whenever I go to Europe I get in a muddle about/over (= become confused about) how much things cost.
+
+faint adj 微弱的；不清晰的；微小的
+The lamp gave out a faint glow.
+There's not the faintest hope of ever finding him.
+not have the faintest idea 根本不知道
+I don't have the faintest idea what you're talking about!
+feel faint 虚弱无力；感到眩晕；快要晕倒似的
+She felt faint with hunger.
+faint vi 昏厥；晕倒
+He faints at the sight of blood.
+I nearly fainted in the heat.
+faint noun 昏厥；晕倒
+On receiving the news, she fell into a dead faint.
+
+
+
+### 迷
+astray adv 迷路地; 堕落，误入歧途地;
+astray adj 迷路的; 离开正轨的;
+
+vacant adj 空缺的; 茫然的; 空闲的; 空虚的;
+
+obsession noun 困扰；无法摆脱的念头；念念不忘的事（或人）
+her chocolate obsession
+He's always wanted to find his birth mother but recently it's become an obsession.
+
+
+# 混乱
+chaos
+mess
+litter
+
+### 怪诞；荒唐
+bizarre
+absurd
+ridiculous
+
+odd adj 奇怪的，古怪的；异常的；出人意料的
+Her father was an odd man.
+odd adj 不常发生的；不经常的
+She does the odd teaching job but nothing permanent.
+odd adj 奇数的，单数的
+The houses on this side of the street all have odd numbers.
+odd adj （指一对或一组事物中）单个的，单只的，不成对的
+He's got a whole drawer full of odd socks.
+
+
+oddity  怪人；怪事；反常现象
+Even today a man who stays at home to take care of the children is regarded as something of an oddity.
+
+
+clumsy
+gloomy
+scrupulous
+
+insane adj 疯癫的，精神失常的
+For the last ten years of his life he was clinically insane.
+insane adj 疯狂的；荒唐的
+It would be insane not to take advantage of this opportunity.
+the insane s精神病患者
+a hospital for the criminally insane
+
+eccentric adj 古怪的，异常的; 偏离轨道的; 离心的;
+eccentric noun 古怪的人; [物] 偏心轮;
+
+exotic adj 异国的; 外来的; 异乎寻常的，奇异的; 吸引人的;
+exotic noun 舶来品，外来物; 脱衣舞女;
+
+quirk noun 怪癖；古怪之处 You have to get used to other people's quirks and foibles.
+foible noun （无伤大雅的）怪癖，小毛病，小缺点 We all have our little foibles.
+
+
+#使恐惧
+terrify
+territory 领土
+
+horrify
+horror
+
+deter 威慑；使断念
+irritate 使烦躁；使疼痛；刺激
+threaten 危及; 恐吓; 预示（某事）; 预示凶兆;
+
+fright 使惊恐
+fray vt （使布、绳等） 磨损，磨破; 使（关系，神经等）紧张; 〈古〉吓唬，使惊恐; 〈古〉吵架，打架;
+fray noun 打斗，争吵; 争辩; （织物等的） 磨损处;
+
+formidable 可怕的；难以应付的，难以克服的
+
+astound 使震惊，使大吃一惊;
+
+dreadful 可怕的;糟糕的;令人畏惧的;讨厌的，糟透了的，丑陋的
+
+desperate adj 绝望的; 由绝望而引起的; 铤而走险的，孤注一掷的; 急切的，极度渴望的;
+
+
+# 使沮丧
+spirit 精神
+
+inspire vt 激励; 鼓舞; 启迪; 赋予灵感;
+inspire vi 吸，吸入;
+inspiring adj 鼓舞人心的; 激励的; 启发灵感的;
+
+
+afflict 折磨; 使受痛苦; 使苦恼
+affliction noun 痛苦；苦恼；折磨
+Malnutrition is one of the common afflictions of the poor.
+
+annoy v/n 打扰; 干扰; 使烦恼; 使恼怒;
+
+
+baffle vt 使受挫折; 使困惑，使迷惑; 用隔音板隔音; 挡住（水流等）;
+baffle noun 隔板，挡板; 迷惑; 遮护物，阻碍体; [军] 迷彩;
+
+bewilder vt 使迷惑; 使为难; 使手足无措; 使变糊涂;
+
+
+daunt 使吓倒；使气馁
+She was not at all daunted by the size of the problem.
+
+daunting adj 令人发怵的；使人气馁的
+The country was faced with the daunting prospect of overcoming four decades of division.
+
+depress
+
+discredit 使不可置信; 使被怀疑; 败坏…的名声; 拒绝相信; n 耻辱; 丧失名誉; 不信; 败坏名声的人或事;
+disenchantment 觉醒，清醒;
+disillusion 使不再抱幻想，使理想破灭;给…泼冷水;使醒悟
+disillusionment
+dispirit vt 使沮丧，使气馁;
+
+distract vt 使分心; 使混乱;
+distraction noun 心烦意乱，苦恼无聊 That dreadful noise is driving me to distraction.
+distraction noun 分心的事；分散注意力的东西 I can turn the television off if you find it a distraction.
+distraction noun 娱乐，消遣 one of the distractions of city life
+
+
+disorientate vt 使迷失方向;
+
+enchant 使心醉，使迷惑; 用魔法迷惑;
+
+
+frustrate 使懊丧
+
+fraught 充满的，满载的; 担心的，忧虑的;
+fraught 货物，装载物;
+fraught 装货于;
+
+grieve 使伤心; 使悲伤;
+
+obsession 着魔，萦绕; 使人痴迷的人（或物）; 摆脱不了的思想[情感等]; 妄想;
+perplex vt 使迷惑，使混乱; 使复杂化;
+
+stricken 受灾的; 被打击的; 受挫的; 患病的
+strike
+
+torture noun 折磨; 拷问; 痛苦; （精神上或肉体上的） 折磨;
+torture vt 使痛苦; 使苦恼; 使焦急; 曲解;
+
+upset v/n/adj 打乱，搅乱; 推翻，弄翻; 使心烦意乱; 使翻倒;
+
+muddle noun 糊涂，困惑; 混乱，杂乱;
+muddle vt 弄乱，弄糟; 使糊涂; 使微醉; 使咬字不清晰;
+muddle vi 对付; 混日子;
+
+perplex vt 使迷惑，使混乱; 使复杂化;
+
+fret vi 烦躁不安；苦恼，发愁 She spent the day fretting about/over what she'd said to Nicky.
+fret noun （吉他等弦乐器指板上定音的）品
+
+balk vi 犹豫
+I balked at the prospect of spending four hours on a train with him.
+balk noun 梁木；粗木材
+
+grim adj 令人担忧的，令人沮丧的
+The future looks grim.
+grim adj 忧愁的；严肃的
+Her face was grim as she told them the bad news.
+The expression on his face was one of grim determination.
+grim adj 令人不快的，讨厌的；丑陋的
+a grim-looking block of flats
+
+
+### 焦虑
+anxiety n 焦虑，不安，担心
+Children normally feel a lot of anxiety about their first day at school.
+noun 令人焦虑的事；焦虑的原因
+job anxieties
+anxiety noun 渴望，热望；急切
+Peter's leaving at the end of this week - hence his anxiety to get his work finished.
+anxiety 焦虑（症）
+He has helped patients suffering from anxiety, depression, and eating disorders.
+
+anxious adj 焦虑的，不安的，担心的
+The drought has made farmers anxious about the harvest.
+anxious adj 渴望做某事
+Developing countries that are anxious for hard currency can rarely afford to protect the environment.
 
 
 ### 剥夺
@@ -28,7 +232,17 @@ evaporate vt （使某物） 蒸发掉;
 evaporate vi 蒸发; 消失; 发散气体;
 evaporate vt 使脱水; 使蒸发; 使挥发; 使沉淀;
 
-eliminate vt 淘汰; 排除，消除; 除掉; <口>干掉;
+eliminate vt 排除；消除；清除
+A move towards healthy eating could help eliminate heart disease.
+We eliminated the possibility that it could have been an accident.
+The police eliminated him from their enquiries.
+
+eliminate vt （比赛中）淘汰
+He was eliminated in the third round of the competition.
+
+eliminate vt 消灭；干掉
+A police officer was accused of helping a drug gang eliminate rivals.
+
 
 ditch noun （尤指路边或田边用来供水、排水或划分土地的）沟渠，壕沟
 ditch vt 抛弃，遗弃，丢弃 The getaway car had been ditched a couple of miles away from the scene of the robbery.

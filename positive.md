@@ -1,3 +1,45 @@
+
+### 好奇
+conscious
+curious
+curiosity
+
+# 开心
+amusement noun 开心，愉悦，快乐
+She looked at him with amusement.
+I play the piano just for my own amusement (= to entertain myself, not other people).
+amusement noun 娱乐（活动）；消遣（方式）
+There was a range of fairground amusements, including rides, stalls, and competitions.
+
+relish vt 享受；喜欢
+I always relish a challenge.
+[ + -ing verb ] I don't relish telling her that her son has been arrested.
+relish vt 期盼；憧憬；指望
+She's relishing the prospect of studying in Bologna for six months.
+
+relish noun 佐料；调味品
+tomato and onion relish
+
+relish noun 享受；乐趣
+She ate her cake slowly and with relish.
+I have no relish for hunting and killing animals.
+
+
+# 兴奋
+thrill noun 兴奋；激动；紧张感
+the thrill of winning a competition
+It gave me a real thrill to see her again after so many years.
+thrill vt/vi 兴奋；激动；紧张感
+The 22-year-old swimmer thrilled the world with his performance.
+
+triumphant adj 取得巨大成功的；欢欣鼓舞的；洋洋得意的
+It seemed as though the whole city had turned out for their team's triumphant homecoming.
+She emerged triumphant from the court after all the charges against her were dropped because of a lack of evidence.
+
+promising 有希望的；有出息的；有前途的
+They won the award for the most promising new band of the year.
+"How's your new venture going?" "It's looking quite promising."
+
 # 豪华；壮丽……
 opulent 豪华
 luxurious
@@ -171,10 +213,3 @@ extensive adj 广阔的，广大的; 范围广泛的; [物] 广延的; [逻] 外
 capacious adj 宽敞的，气度宏大的;
 
 spacious adj 宽敞的; 广阔的; （知识） 广博的;
-
-# 开心
-amusement noun 开心，愉悦，快乐
-She looked at him with amusement.
-I play the piano just for my own amusement (= to entertain myself, not other people).
-amusement noun 娱乐（活动）；消遣（方式）
-There was a range of fairground amusements, including rides, stalls, and competitions.

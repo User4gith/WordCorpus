@@ -752,22 +752,6 @@ sacrifice noun 献祭，供奉；祭品，供品
 The people offered a lamb on the altar as a sacrifice for their sins.
 
 
-# 兴奋
-thrill noun 兴奋；激动；紧张感
-the thrill of winning a competition
-It gave me a real thrill to see her again after so many years.
-thrill vt/vi 兴奋；激动；紧张感
-The 22-year-old swimmer thrilled the world with his performance.
-
-triumphant adj 取得巨大成功的；欢欣鼓舞的；洋洋得意的
-It seemed as though the whole city had turned out for their team's triumphant homecoming.
-She emerged triumphant from the court after all the charges against her were dropped because of a lack of evidence.
-
-promising 有希望的；有出息的；有前途的
-They won the award for the most promising new band of the year.
-"How's your new venture going?" "It's looking quite promising."
-
-
 
 # 敏捷
 swift adj 迅速的;敏捷的;立刻的;突然发生的
@@ -992,13 +976,6 @@ scary adj 使人惊慌的; 胆小的，容易受惊的; 可怕的，吓人的;
 
 inept adj 笨拙的; 无能的，不称职的; 愚昧的，愚蠢的; 不恰当的;
 
-
-
-### 迷
-astray adv 迷路地; 堕落，误入歧途地;
-astray adj 迷路的; 离开正轨的;
-
-vacant adj 空缺的; 茫然的; 空闲的; 空虚的;
 
 
 ### 自负
@@ -1337,10 +1314,6 @@ rotten adv 非常; 极其;
 
 
 
-### 好奇
-conscious
-curious
-curiosity
 
 #### 刺激
 accelerate vt 促进; （使） 加快，（使）增速; 加速，催促; 速度增加;

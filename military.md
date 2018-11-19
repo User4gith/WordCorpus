@@ -123,26 +123,6 @@ hostility noun 敌意，不友好 They showed open (= obvious) hostility to/towa
 hostility noun 不同意，不喜欢
 hostilities noun 战斗；战争行为 Hostilities began/broke out just after midnight.
 
-======
-cesase vt 停止，中止
-Whether the protests will cease remains to be seen.
-ceasefire noun （通常指两军间的）停火协定
-declare a ceasefire
-
-withdraw vt/vi
-抽回；取回；提取；撤回；撤离；退出；移回
-The UN has withdrawn its troops from the country.
-不再说话；沉默；不与人交流
-As a child, she frequently withdrew into her own fantasy world.
-
-withdrawal noun 提款，取钱
-The bank became suspicious after several large withdrawals were made from his account in a single week.
-撤军
-The commander-in-chief was given 36 hours to secure a withdrawal of his troops from the combat zone.
-收回；退出
-Doctors demanded the withdrawal of the drug (from the market) after several cases of dangerous side-effects were reported.
-沉默寡言；孤僻
-Withdrawal is a classic symptom of depression.
 
 ======
 offence noun 犯罪行为；罪行 a serious/minor offence; Driving without a licence is an offence.
@@ -333,6 +313,11 @@ If someone insults you, don't retaliate as it only makes the situation worse.
 
 retaliate vt 回敬; 报复，反击;
 
+retaliatory adj 报复的；回击的
+retaliatory measures
+He urged people not to resort to retaliatory violence.
+
+
 avenge vt 为…复仇; 为…报复;
 He swore he would avenge his brother's death.
 
@@ -346,6 +331,7 @@ The red team revenged themselves on the blue team by winning the semifinal.
 
 
 
+
 ###########################
 saturate vt 使湿透；浸透；渗透
 The grass had been saturated by overnight rain.
@@ -356,7 +342,6 @@ saturate the market
 Since the US market has now been saturated, drug dealers are looking to Europe.
 
 a saturated fat 饱和脂肪
-
 
 
 infiltrate vt/vi （使）潜入；（使）渗透
@@ -374,3 +359,30 @@ spy vt （通常指一番搜寻后）看见，注意到 I think I've just spied 
 spook noun 鬼，幽灵 The film was dreadful - all spooks and vampires.
 spook noun 间谍，密探
 spook vt 惊吓；吓唬 Seeing the police car outside the house really spooked them.
+
+
+
+======
+cesase vt 停止，中止
+Whether the protests will cease remains to be seen.
+ceasefire noun （通常指两军间的）停火协定
+declare a ceasefire
+
+withdraw vt/vi
+抽回；取回；提取；撤回；撤离；退出；移回
+The UN has withdrawn its troops from the country.
+不再说话；沉默；不与人交流
+As a child, she frequently withdrew into her own fantasy world.
+
+withdrawal noun 提款，取钱
+The bank became suspicious after several large withdrawals were made from his account in a single week.
+撤军
+The commander-in-chief was given 36 hours to secure a withdrawal of his troops from the combat zone.
+收回；退出
+Doctors demanded the withdrawal of the drug (from the market) after several cases of dangerous side-effects were reported.
+沉默寡言；孤僻
+Withdrawal is a classic symptom of depression.
+
+truce noun 讲和（协议）；休战，停战（协定）
+After years of rivalry the two companies have agreed (us agreed to) a truce.
+The fragile truce between the two sides is not expected to last long.

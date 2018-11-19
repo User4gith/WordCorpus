@@ -1,4 +1,6 @@
 # 经济相关
+mercantilism 重商主义
+
 commerce noun 商务; 商业; 贸易;
 the world of commerce and industry
 
