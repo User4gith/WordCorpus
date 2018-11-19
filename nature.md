@@ -269,6 +269,15 @@ roast noun 大块烤肉
 oven noun 烤箱；烤炉
 a microwave oven
 
+toast noun 烤面包片，吐司 a slice of toast
+toast noun 祝酒；干杯
+Now, if you'd all please raise your glasses, I'd like to propose a toast to the bride and groom.
+
+toast vt 烤，烘 Do you want this bread toasted?
+toast vt 使暖和，给…烤火 He's just toasting his feet by the fire.
+toast vt 为…干杯 We toasted the happy couple.
+
+
 mill noun 磨坊，碾磨厂，磨粉厂 a pepper/coffee mill
 mill noun 制造厂，工厂 a cotton/paper/steel mill
 mill vt 磨；碾碎 The grain is still milled locally.
@@ -284,6 +293,10 @@ feast noun 盛宴；宴会 a wedding feast
 feast noun （感官）享受 His food is a feast for the eyes as well as the palate.
 feast noun 令人喜爱的事物 The  team contains a veritable feast of international talent.
 feast noun （宗教）节日
+
+
+banquet（正式的）宴会
+Medieval banquets are held in the castle once a month.
 
 # 动物相关
 

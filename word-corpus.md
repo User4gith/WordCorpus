@@ -54,6 +54,16 @@ He suffered from periodic bouts of insanity.
 bout noun 拳击比赛；摔跤比赛
 He's a former heavyweight champion and is expected to win the bout easily.
 
+hunk noun （尤指食物的）大片，厚片
+a hunk of bread/cheese/meat
+hunk 健壮迷人的男子
+
+hunker down vi 蹲着，蹲坐
+We hunkered down around the campfire, toasting marshmallows.
+hunker down vi 蹲守；准备长期呆在某处
+The press have hunkered down for the night outside the palace, waiting for news of the royal birth.
+
+
 # 一部分；
 portion 一部分; 一份遗产（或赠与的财产）; 嫁妆; 分得的财产;
 portion vt 把…分成份额; 分配; 把…分给(to); 命运注定;
@@ -82,7 +92,8 @@ cottage noun （通常指乡村中的）小屋，村舍
 They live in an idyllic country/thatched cottage, with roses around the door.
 We rented a little beach cottage on the North Caroline coast.
 
-
+bungalow 平房
+There were small, white bungalows dotted over the hillside.
 
 hut noun 小屋; 棚屋; 临时营房; 牢房;
 hut v 使住临时营房; 驻扎;

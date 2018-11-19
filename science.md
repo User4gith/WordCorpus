@@ -37,6 +37,11 @@ pathology
 astronomer
 
 ### 知识相关
+tertiary adj 第三的；第三级的；第三位的
+tertiary adj 高等教育的，大学教育的
+tertiary adj 第三产业的
+
+
 pore over
 skim
 tome
@@ -48,8 +53,8 @@ curriculum noun 课程
 dissertation 专题论文；学位论文
 Ann did her dissertation on Baudelaire.
 
+
 essay
 
-tertiary adj 第三的；第三级的；第三位的
-tertiary adj 高等教育的，大学教育的
-tertiary adj 第三产业的
+bibliography 参考书目，文献目录
+Other sources of information are found in the bibliography at the end of this article.
