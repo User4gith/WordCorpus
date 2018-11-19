@@ -439,6 +439,13 @@ proposal 建议; 提议; 求婚; 〈美〉投标;
 
 condemn  vt（通常因道义上的原因而） 谴责; 宣判; 宣布…不能使用; 迫使…陷于不幸的境地;
 
+jury 陪审团
+members of the jury
+陪审团成员
+The jury has/have been unable to return a verdict (= reach a decision).
+jury （竞赛的）裁判团，评判委员会
+
+
 verdict noun 裁定; （陪审团的） 裁决; （经过试验、检验或体验发表的） 决定; 意见;
 
 

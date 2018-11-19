@@ -37,18 +37,6 @@ grave noun 坟墓，墓穴; 埋葬…的地方; 下场; 死亡;
 exquisite adj 精致的; 细腻的; 优美的; 剧烈的;
 exquisite noun 过分讲究穿戴的人;
 
-elegant adj （人或其举止） 优美的; 漂亮的; 简炼的; 简洁的;
-
-
-grace noun 优雅; 恩泽; 慈悲; 魅力;
-grace v 使优美; 惠赐;
-
-stately 庄严的；高贵的
-noble adj 高尚的;贵族的;外表庄严和庄重的;表现出崇高的
-noble noun 尊贵的人;旧时在英国使用的金币
-
-solemn 庄重的; 庄严的，严肃的; 隆重的，神圣的; 犹豫的，阴沉的;
-
 orthodox 正统的
 
 premier
@@ -77,6 +65,25 @@ holy
 universe
 extreme adj 极端的，过激的; 极限的，非常的; 末端的; （政治上） 急进的
 extreme noun 极端; 困境; [数] 极限值; [常用复数] 在两末端的事物;
+
+### 高贵
+elegant adj （人或其举止） 优美的; 漂亮的; 简炼的; 简洁的;
+
+grace noun 优雅; 恩泽; 慈悲; 魅力;
+grace v 使优美; 惠赐;
+
+stately 庄严的；高贵的
+
+noble adj 高尚的;贵族的;外表庄严和庄重的;表现出崇高的
+noble noun 尊贵的人;旧时在英国使用的金币
+
+solemn 庄重的; 庄严的，严肃的; 隆重的，神圣的; 犹豫的，阴沉的;
+
+dignified adj 庄重的，端庄的；有尊严的
+a tall, dignified woman
+He has maintained a dignified silence about the rumours.
+The defeated candidate gave a dignified speech in which he congratulated his rival.
+
 
 ### 奇迹
 marvel noun 奇迹; 令人惊奇的事物（或事例）; 成就; 漫威

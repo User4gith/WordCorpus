@@ -812,7 +812,6 @@ apace adv 飞快，迅速 The project is coming on apace (= advancing quickly).
 procrastinate vi 拖延，耽搁;
 I know I've got to deal with the problem at some point - I'm just procrastinating.
 
-
 sloth noun 懒散，懈怠
 The report criticizes the government's sloth in tackling environmental problems.
 sloth noun 树懒
@@ -820,15 +819,14 @@ Sloths live in Central and South America.
 
 slothful adj 懒惰的，懒散的，不活跃的; slothful adolescents
 
-
-delinquent noun （通常指年轻的）违法者；不良青少年
-delinquent adj 不良的；违法的
-They are carrying out research on the causes of delinquent behaviour among young people.
-delinquent adj 迟付欠款的，未按时还款的，拖欠的
-She has been delinquent in paying her taxes.
-
 indolent adj 懒惰的，懒散的，不活跃的;
 
+listless adj 懈怠的，懒散的，无精打采的
+He's seemed listless and a little depressed ever since he got his exam results.
+
+
+slouch vi 低头垂肩地站（或坐、走）；没精打采地站（或坐、走） Straighten your back - try not to slouch.
+slouch noun 无精打采的姿态（站、坐或走的一种姿势，肩部向前悬垂） He's developed a slouch from leaning over his books all day.
 
 lax adj 马虎的
 The subcommittee contends that the authorities were lax in investigating most of the cases.
@@ -858,7 +856,11 @@ He's a very able student, he's just bone idle (= very lazy).
 idle vi （发动机）低速运转，空转
 He left the engine idling and ran into the shop.
 
-
+delinquent noun （通常指年轻的）违法者；不良青少年
+delinquent adj 不良的；违法的
+They are carrying out research on the causes of delinquent behaviour among young people.
+delinquent adj 迟付欠款的，未按时还款的，拖欠的
+She has been delinquent in paying her taxes.
 
 ### 平庸的
 dull adj 枯燥的，乏味的，无趣的
@@ -875,59 +877,110 @@ dull adj 不聪明的，愚笨的
 dull vt 缓和，缓解；减轻
 Homeless children sniff glue to dull their hunger pains.
 
+mediocre adj 普通的，平庸的，不够好的
+The film's plot is predictable and the acting is mediocre.
+Parents don't want their children going to mediocre schools.
 
-
-dull v 缓和; 减轻; 使阴暗;
-
-
-formality 礼节;拘谨;正式手续; 例行公事
-
-grind vt 折磨;磨碎，嚼碎
-grind noun 碾，磨;苦差事，苦活儿;〈美〉刻苦用功的学生;研细的程度
-
-listless adj 倦怠的; 百无聊赖的; 倦怠的，无精打采的; 冷淡的;
-
-mediocre
 
 pedestrian noun 行人; 步行者;
+A few pedestrians sheltered from the rain in doorways.
 pedestrian adj 乏味的，单调的；缺乏想象力的
 His speech was long and pedestrian.
+Her books, with few exceptions, are workmanlike but pedestrian.
 
 
 pavement noun 人行道; 硬路面; 铺过的路面; [动]铺石状构造[密生的齿列等] ;
 
 
+neutral adj 中立的，不偏不倚的
+If there's an argument between my daughter and her mother, it's important that I remain neutral.
+neutral adj （化学物质）中性的，既非酸性又非碱性的
+Pure water is neutral and has a pH of 7.
+neutral adj 不引人注意的
+Kelly wants dark red walls, but I'd like a more neutral colour like cream.
+
+neutral noun 空档
+to leave the car in neutral
+neutral 不活动；停滞
+After two years in neutral, the economy is finally moving forward again.
+neutral 中立者
+Sweden and Switzerland were neutrals during the war.
+
+
+stuffy adj （房间或建筑物）闷的，通风不畅的
+It's really hot and stuffy in here - let's open the window.
+The bedroom gets a little stuffy in the summer.
+stuffy adj 古板的，保守的，一本正经的
+She is trying to promote a less stuffy image of librarians.
+
+
+futile adj （行动）无作用的；无效的；不成功的
+Attempts to get supplies to the region are futile because troops will not allow the aid convoy to enter the city.
+All my attempts to cheer her up proved futile.
+
+==============
+tedious adj 单调乏味的，无趣的
+The problem is I find most forms of exercise so tedious.
+
+
+trivial adj 微不足道的，琐碎的；没有价值的
+I don't know why he gets so upset about something so trivial.
+trivial 容易解决的，不费吹灰之力的
+Getting computers to understand human language is not a trivial problem.
+
+treadmill 繁重无聊的重复性工作
+There were days when having kids seemed like an endless treadmill of feeding, washing, and nappy-changing.
+treadmill （锻炼用的）踏步机，跑步机
+
+
+formality noun 礼节；俗套；例行公事
+You'll have to sign the visitors' book, but it's just a formality.
+法定程序；正式手续
+We'll have to observe the formalities (= do what is expected).
+庄重，正规，适合正式场合
+She found the formality of the occasion rather daunting.
+A note of formality in his voice alerted her to the fact that others were listening.
+
 routine noun 常规; 例行程序; 生活乏味; （演出中的） 一套动作;
 routine adj 常规的; 例行的; 日常的; 普通的;
 
-trivial adj 琐碎的，无价值的; 平常的，平凡的; 不重要的; [生] 种的;
-treadmill 踏车; 单调的工作; （锻炼身体的） 跑步机
-
-tedious adj 冗长乏味的; 单调沉闷的; 令人生厌的;
-
-neutral adj 中立的; （化学中） 中性的; 暗淡的; 不带电的;
-neutral noun （汽车或其他机器的） 空挡位置; 中立人士; 中立国; 素净色;
-
-stuffy adj 闷热的，不通气的; 古板的，保守的; 枯燥无味的; 一本正经的;
-
-futile adj 无效的，无用的; 没有出息的; 琐碎的，无关紧要的; 一场空;
-
-
-slouch vi 低头垂肩地站（或坐、走）；没精打采地站（或坐、走） Straighten your back - try not to slouch.
-slouch noun 无精打采的姿态（站、坐或走的一种姿势，肩部向前悬垂） He's developed a slouch from leaning over his books all day.
-
 ### 愤怒
-fury
+fury noun
+He could hardly contain his fury.
+She flew into a fury at the suggestion.
 
 fume noun 烟气，烟雾; 愤怒，烦恼;
-fume vt 用烟熏; 烘制（木材等
-fume vi 冒烟; 发怒;
+fume vt 用烟熏; 烘制（木材等)
+fumes （浓重难闻，有时有害的）烟，烟雾，气
+Petrol fumes always make me feel ill.
+
+fume vi 发怒；生闷气
+I saw her a week after they'd had the argument and she was still fuming.
+The whole episode left me fuming at the injustice of it all.
 
 
-irritable 易怒的，急躁的; 过敏的; 应激性的; 毛躁;
+irritable adj 易怒的，暴躁的
+Be careful what you say - he's rather irritable today.
+"Don't disturb me again," she said in an irritable (= angry) voice.
 
-inflammable adj 易燃的; <口>易激动的，易激怒的;
-inflammable noun 易燃物
+
+inflammable adj 易燃的
+a highly inflammable liquid such as petrol
+inflammable 易怒的，性情暴躁的
+an inflammable situation/region
+a highly inflammable mix of outrage and bitterness
+
+outrage noun 愤慨，义愤
+These murders have provoked outrage across the country.
+Many politicians and members of the public expressed outrage at the verdict.
+outrage noun 暴行；（道义上）难以接受的事情；骇人听闻的行为
+The bomb, which killed 15 people, was the worst of a series of terrorist outrages.
+
+outrage （尤指不公平的行为或言论）使感到义愤，使愤慨，激怒
+Local people were outraged at the bombing.
+A proposed five percent cut in pay has outraged staff at the warehouse.
+outraged  愤怒的；愤慨的，义愤填膺的
+Outraged viewers jumped onto social media to complain about the ending of the series.
 
 ### 懦弱
 cower vi 畏缩，抖缩;
@@ -1159,7 +1212,9 @@ grudge vt 怀恨; 吝惜; 妒忌; 不情愿做;
 begrudge vt 嫉妒; 吝惜; 勉强做; 不乐意地付出;
 
 
-
+bitterness  苦味
+bitterness noun 愤怒；怨恨
+He was full of bitterness after he lost his job.
 
 ### 粗的
 barbaric adj  野蛮的; 蒙昧; 半开化的; 粗俗的

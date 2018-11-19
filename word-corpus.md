@@ -248,7 +248,11 @@ baffle noun 隔板，挡板; 迷惑; 遮护物，阻碍体; [军] 迷彩;
 bewilder vt 使迷惑; 使为难; 使手足无措; 使变糊涂;
 
 
-daunt 使气馁
+daunt 使吓倒；使气馁
+She was not at all daunted by the size of the problem.
+
+daunting adj 令人发怵的；使人气馁的
+The country was faced with the daunting prospect of overcoming four decades of division.
 
 depress
 
@@ -1998,8 +2002,15 @@ flush vi 冲刷; 脸红; 呈红色; 奔流;
 flush adj 满面红光的; 富足的，丰富的; 盈满的，没过的; 水平的，同高的;
 flush noun 奔流，涌出; 脸红或发亮; 发热; 强烈情感的冲动;
 
-grind vt 折磨;磨碎，嚼碎
-grind noun 碾，磨;苦差事，苦活儿;〈美〉刻苦用功的学生;研细的程度
+grind vt 碾碎，磨碎，把…磨成粉
+They grind the grain into flour (= make flour by crushing grain) between two large stones.
+grind vt 磨，把…磨锋利，把…磨光
+She has a set of chef's knives that she grinds every week.
+
+grind noun 令人厌倦的苦事，苦差事
+Having to type up my handwritten work was a real grind.
+grind noun 只会读书的无趣之人，书呆子
+
 
 refinement noun 精炼，提纯，净化; 改良品; 细微的改良，极致; 优雅，高贵的动作;
 
