@@ -88,6 +88,12 @@ lounge noun 客厅，起居室 All the family were sitting in the lounge watchin
 
 refectory noun （修道院、学校等的）食堂，餐厅
 
+canteen noun 食堂，餐厅，饮食部
+canteen noun （装有一整套刀、叉和勺的）餐具箱；一整套餐具
+We're giving them a canteen of cutlery as a wedding present.
+canteen noun （尤指士兵或旅行者用的）水壶
+
+
 cottage noun （通常指乡村中的）小屋，村舍
 They live in an idyllic country/thatched cottage, with roses around the door.
 We rented a little beach cottage on the North Caroline coast.
@@ -150,6 +156,13 @@ lane  车道；（田径比赛的）跑道；泳道
 I find driving in the fast lane very stressful.
 lane noun 航道，航线
 The English Channel is the busiest shipping lane in the world.
+
+alley noun 小街；小巷，胡同
+alley noun （尤指两边有树或灌木的）小径
+
+cabinet
+
+carpet
 
 
 # 时间相关
