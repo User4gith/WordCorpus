@@ -138,7 +138,6 @@ representative noun 代议制政体
 eligible adj 合适的; 在（法律上或道德上）合格的; 有资格当选的; 称心如意的;
 eligible noun 合格者; 合适者; 称心如意的人; 合乎条件的人（或东西）;
 
-unanimous adj 全体一致的; 一致同意的，无异议的;
 
 enfranchise vt 给予选举权; （从奴隶制中） 解放;
 Women in Britain were first enfranchised in 1918.
@@ -387,8 +386,12 @@ obligatory （因为常发生而）必然的，预料之中的；惯常的
 Several Secret Service agents surrounded the President, all wearing the obligatory raincoat and hat.
 
 
-requisition noun 征用，（财产或材料的正式）征用令; 申请书;
 requisition vt 征用，征发;
+The army requisitioned all the cars and trucks they could find.
+
+requisition noun 征用，（财产或材料的正式）征用令; 申请书;
+The staff made a requisition for new chairs and desks.
+
 
 concession noun （常指为结束争端而作出的）认可，让与，让步，妥协
 Both sides involved in the conflict made some concessions in yesterday's talks.
@@ -587,6 +590,13 @@ rob vt 抢劫; 抢夺，掠夺; 非法剥夺; 使丧失;
 rob vi 抢劫; 掠夺;
 robber noun 强盗，盗贼;
 robbery noun 抢劫；盗窃 The gang admitted they had committed four recent bank robberies.
+
+
+intruder noun 不受欢迎者，不速之客
+I feel like an intruder when I visit their home.
+
+intruder 闯入者，侵入者
+Intruders had entered the house through a back window.
 
 
 despoil vt 掠夺，抢劫;

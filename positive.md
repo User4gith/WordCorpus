@@ -82,8 +82,15 @@ Her speech was received with cheers and a standing ovation.
 cheer noun 欢乐，高兴；兴奋，振奋
 The victory in the by-election has brought great cheer to the Liberal Democrats.
 
+tickle vt 使觉得痒；挠（某人）的痒痒
+I tickled her feet and she laughed.
+tickle vi （使）发痒；（使）感到痒
+My nose is tickling, I think I'm going to sneeze.
 
+give sb a tickle 搔（某人）痒痒
+tickle （嗓子）痒，发痒
 
+​
 # 兴奋
 thrill noun 兴奋；激动；紧张感
 the thrill of winning a competition
@@ -206,7 +213,10 @@ keystone noun 重点; 要旨; 基本原理; 拱心石;
 crucial adj 至关重要的；关键的；决定性的 Her work has been crucial to the project's success.
 
 principal 主要的; 本金的; 最重要的; 资本的;
-principal noun 本金; 首长，负责人; 主要演员，主角; [法] 委托人，当事人;
+principal noun （中小学或学院的）校长
+principal noun 本金；可生息的资本
+She lives off the interest and tries to keep the principal intact.
+
 
 underlie vt 位于或存在于（某物）之下; 构成…的基础（或起因）; [经] 构成优先于…的财政要求;
 

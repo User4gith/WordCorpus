@@ -821,6 +821,15 @@ It was a shrewd move to buy your house just before property prices started to ri
 apace adv 飞快，迅速 The project is coming on apace (= advancing quickly).
 
 
+fleet noun 船队；（一国的）全部舰队，海军
+The entire Spanish fleet was defeated within 6 hours.
+fleet （由某人或某机构调度的）车队，机群
+He owns a fleet of taxis.
+
+fleet adj 跑得快的，快速的
+She was slight and fleet of foot/fleet-footed.
+
+
 # 拖延
 procrastinate vi 拖延，耽搁;
 I know I've got to deal with the problem at some point - I'm just procrastinating.

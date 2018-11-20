@@ -41,6 +41,17 @@ tertiary adj 第三的；第三级的；第三位的
 tertiary adj 高等教育的，大学教育的
 tertiary adj 第三产业的
 
+dean noun 系主任；学院院长
+She is the new dean of the Faculty of Social Sciences.
+dean noun （某行业或活动中的）元老，前辈，资深人物
+Parsons is the dean of the TV news correspondents at Channel Nine.
+
+dean noun （英格兰圣公会的）主任牧师；（天主教的）枢机主教长
+
+chancellor noun （政府）大臣，总理，大法官；（大学）校长
+
+principal
+
 
 pore over
 skim

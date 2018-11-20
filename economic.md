@@ -238,7 +238,13 @@ welfare noun福利救济；社会福利 Your taxes pay for welfare benefits such
 welfare noun （尤指人的）幸福，福祉；安康 These organizations have fought very hard for the rights and welfare of immigrants.
 
 compensate vt 抵消; 补偿，赔偿; 报酬;
+Victims of the crash will be compensated for their injuries.
+
 compensate vi 补偿，弥补;
+Nothing will ever compensate for his lost childhood.
+I took her swimming to compensate for having missed out on the cinema.
+We were late and I was driving fast to compensate.
+
 
 compensation 补偿，赔偿; 修正; 补救办法
 

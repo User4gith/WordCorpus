@@ -145,12 +145,31 @@ preserve noun 蜜饯；果酱
 
 reserve vt 把…专门留给；把…留作；保留 I reserve Mondays for tidying my desk and answering letters.
 reserve vt 预订；预约 I reserved a double room at the Lamb Hotel.
+
 reserve noun 拘谨；矜持；内向 I took her out fo a drink and tried to break through her reserve.
 reserve noun 贮藏（物）；储备（物）；备用（物） She keeps a little money in reserve (= for use if and when needed).
 reserve noun（尤指保护野生动物生存的）自然保护区，禁猎区，保护区
 reserve noun 保留态度；保留意见 I can recommend him to you without reserve.
 reserve noun 替补队员 We had two reserves in case anyone was injured.
+reserve noun （尤指拍卖中买方定的）底价，保留价格，最低价
+We set/put a reserve of €500 on the picture.
+
+conserve vt 保护；保藏；保存；保留；节约
+To conserve electricity, we are cutting down on our heating.
+conserve noun 蜜饯，果脯
+
+conservation noun （对动植物、自然地区、历史建筑等的）保护
+a conservation area
+
+conservation noun （对自然资源等的）保护，保存，节约
+Energy conservation reduces your fuel bills and helps the environment.
+
+
 the reserves 后备队员/后备军；后备部队
+
+
+
+
 
 security noun 保护（措施）；安全（保障） The station was closed for two hours because of a security alert.
 security noun 保安人员 You'll need to notify security if you want to work late in the office.
@@ -536,6 +555,9 @@ specification noun 规格; 说明书; 详述;
 brochure
 
 illustration
+
+pamphlet 小册子
+
 
 # 陶瓷
 ceramic adj 陶器的，与陶器有关的; 陶瓷的，陶制的; 制陶的;

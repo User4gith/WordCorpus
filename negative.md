@@ -32,12 +32,12 @@ vacant adj （工作职位）空缺的 The position fell (= became) vacant when 
 vacant adj 无聊的；茫然的；没精打采的 She had a vacant look/expression on her face.
 
 
-
 obsession noun 困扰；无法摆脱的念头；念念不忘的事（或人）
 her chocolate obsession
 He's always wanted to find his birth mother but recently it's become an obsession.
 
-
+perplex 使困惑，使茫然；使担忧
+The disease has continued to perplex doctors.
 
 # 混乱
 chaos
@@ -118,7 +118,11 @@ inspire vi 吸，吸入;
 inspiring adj 鼓舞人心的; 激励的; 启发灵感的;
 
 
-afflict 折磨; 使受痛苦; 使苦恼
+afflict vt 折磨; 使受痛苦; 使苦恼
+It is an illness that afflicts women more than men.
+a country afflicted by civil war
+
+
 affliction noun 痛苦；苦恼；折磨
 Malnutrition is one of the common afflictions of the poor.
 
@@ -317,6 +321,7 @@ intervention noun 介入，干涉，干预; 调解，排解;
 
 interfere vi 干涉，干预
 Interfering in other people's relationships is always a mistake.
+It's their problem and I'm not going to interfere.
 
 
 interference noun 干涉，干预
@@ -402,6 +407,20 @@ At lunchtime the streets were choked with traffic.
 choke vt （通常指在运动中关键时刻因丧失信心而）失败；怯场
 He could score points at will during the qualifying matches, but in the final he completely choked.
 
+handicap noun （精神或肉体的）残疾，缺陷
+In cases of severe mental handicap, constant supervision is recommended.
+
+handicap noun 障碍，阻碍
+I found that not having a car was quite a handicap while on holiday.
+
+handicap noun （让步赛中对强者施加的）不利条件；让步赛，让分比赛
+Handicaps give people with different abilities an equal chance of winning.
+
+handicap vt 阻碍
+Rescue efforts have been handicapped by rough seas and hurricane-force winds.
+
+handicapped adj （身体或精神）残疾的
+the handicapped （总称）残疾人
 
 ### 损害
 abuse vt （尤指为个人私利而）滥用；妄用 She is continually abusing her position/authority by getting other people to do things for her.

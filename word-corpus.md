@@ -6,8 +6,14 @@ craft
 draft 汇票; 草稿; 吃水; 选派;
 
 ### 附加
-accessory noun 附件; 从犯; （衣服的） 配饰; 妇女饰品;
-accessory adj 附属的; 附加的; 辅助的; 同谋的;
+accessory noun附件，配件，附属品；装饰品，配饰
+She wore a green wool suit with matching accessories (= shoes, hat, bag, etc.).
+Accessories for the top-of-the-range car include leather upholstery, electric windows, and a sunroof.
+
+
+accessory noun 同谋；帮凶，从犯
+an accessory to murder
+
 
 spare vt 节省，俭省; 不用，抽出，省掉; 宽恕，饶（命），救命，使某人免遭（麻烦等）; 出让，割爱，分让;
 spare adj 多余的，剩下的（钱等），空闲的（时间等）; 预备的，备用的，替换用的; 多余的，瘦的，少量的; 薄弱的，简陋的，粗陋的;
@@ -284,6 +290,11 @@ reconciliation noun 调和；和谐；一致
 
 homogenous adj 同质的，纯系的;
 
+unanimous adj （团体）意见一致的；（决定或裁决）一致通过的，获得全体支持的
+The jury returned a unanimous verdict of guilty after a short deliberation.
+After a lengthy discussion we reached a unanimous decision on the proposal.
+
+
 
 ### 合作
 cooperate vi 合作，配合，协助;
@@ -299,6 +310,8 @@ synthesis noun 合成
 synthesis noun 综合，融合
 
 solidarity noun 团结;
+The situation raises important questions about solidarity among member states of the UN.
+The purpose of the speech was to show solidarity with the country's leaders.
 
 
 solidify vt 使凝固，固化; 使结晶; 使团结;
@@ -666,7 +679,11 @@ attain vi 达到; 获得; 到达;
 
 mastery noun 精通，熟练; 统治，控制; 优势;
 
-undertake vt 承诺; 保证; 承担，从事; 同意，答应;
+undertake vt （开始）做，承担，从事（尤指耗时或困难之事）
+Students are required to undertake simple experiments.
+undertake 承诺，允诺，答应
+[ + to infinitive ] She undertook not to publish the names of the people involved.
+[ + that ] The government undertook that the buildings would not be redeveloped.
 
 pledge noun  保证，誓言; [法] 抵押权; 公约; （表示友谊的） 干杯;
 pledge vt 使发誓，保证; 典当，抵押;
@@ -674,7 +691,6 @@ pledge vt 许诺; 用…担保; 以誓言约束; 向…祝酒;
 
 recognition noun 认识，识别; 承认，认可; 褒奖; 酬劳;
 
-render v 给予; 使成为; 递交; 表达;
 
 sustain vt 保持，维持，使持续，使继续
 The economy looks set to sustain its growth into next year.
@@ -1281,6 +1297,16 @@ He refused to pay maintenance for his three children.
 maintenance noun 维持；保持 the maintenance of living standards
 
 
+render vt 使成为；使变得；使处于某种状态
+[ + adj ] His rudeness rendered me speechless.
+New technology has rendered my old computer obsolete.
+render vt 翻译；把…译成
+She is rendering the book into English from French.
+
+render vt 给予，提供；表达；表演
+The singers rendered the song with enthusiasm.
+We see that freight railroads make good profits while rendering excellent service.
+
 
 ### 迎合
 cater
@@ -1363,6 +1389,18 @@ eulogize vt 讴歌; 称赞，颂扬;
 appreciate vt 欣赏; 感激; 领会; 鉴别;
 appreciate vi （使） 增值，涨价;
 
+recognition noun 承认；认可；接受
+It's a new country, hoping for diplomatic recognition from the international community.
+[ + that ] There's a growing recognition that this country can no longer afford to be a nuclear power.
+
+recognition noun 赏识，赞赏；表彰
+Ella complained that the company never gave her any recognition for her work.
+He was presented with a gold watch in recognition of (= to show respect for) his years as club secretary.
+
+recognition noun 认出，认识；识别
+When he returned to his home town after the war, he found it had changed out of all/beyond all recognition (= it had changed so much that he no longer recognized it).
+
+
 
 ### 遵守
 stipulate vt （尤指在协议或建议中）规定，约定，讲明（条件等） ;
@@ -1399,7 +1437,19 @@ criterion noun 规范; （批评、判断等的） 标准，准则;
 doctrine noun 教条，教义; 法律原则; 声明; 古语] 所教的东西，教育;
 
 
-principle 原则，原理; 准则，道义; 道德标准; 本能;
+principle 原则，原理;
+The country is run on socialist principles.
+The organization works on the principle that all members have the same rights.
+
+principle noun （行为）准则；道德；为人之道
+She doesn't have any principles.
+Anyway, I can't deceive him - it's against all my principles.
+She'd never ask to borrow money, on principle.
+
+in principle 原则上，大体上，基本上
+In principle I agree with the idea, but in practice it's not always possible.
+
+
 discipline vt 训练; 使有纪律; 处罚; 使有条理;
 discipline noun 纪律; 学科; 训练; 符合行为准则的行为（或举止）;
 
@@ -1629,7 +1679,13 @@ multiply adv 多样地; 复合地; 多倍地; [电学] 并联地，多路地;
 multiply adj 多层的; 多样的; 多股的;
 
 ### 上升
-elevate vt 提高; 提升; 举起; 鼓舞;
+elevate vt 抬高；提高；使上升；举起
+The platform was elevated by means of hydraulic legs.
+elevate vt 提升；提高；改进
+They want to elevate the status of teachers.
+
+be elevated to sth 被提升为；被晋升为
+He has been elevated to deputy manager.
 
 
 escalator 自动扶梯
@@ -1833,6 +1889,7 @@ complex 情结; 建筑群; 相关联的一组事物; 不正常的忧虑;
 
 
 
+
 ### 缺陷
 faulty adj 错误的; 有错误的，有过失的，有缺点的; 不完美的;
 
@@ -1908,6 +1965,9 @@ circulation（报纸杂志的）发行量，销售量
 The paper has a circulation of 150,000.
 circulation（血液的）循环
 Exercise helps to improve circulation.
+
+emit vt 发出，射出，散发（光、噪声、气味或气体）
+The alarm emits infrared rays which are used to detect any intruder.
 
 
 ### 分发
