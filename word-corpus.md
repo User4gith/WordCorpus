@@ -63,6 +63,11 @@ We hunkered down around the campfire, toasting marshmallows.
 hunker down vi 蹲守；准备长期呆在某处
 The press have hunkered down for the night outside the palace, waiting for news of the royal birth.
 
+trifle noun 乳脂松糕，果酱松糕（一种甜点，包括一层水果海绵蛋糕、一层蛋奶沙司和一层奶油）
+trifle noun 琐事；零碎儿
+I brought a few trifles back from India - pieces of jewellery and fabric mainly.
+a trifle 稍微，略微
+I'm a trifle confused about the arrangements for tonight.
 
 # 一部分；
 portion 一部分; 一份遗产（或赠与的财产）; 嫁妆; 分得的财产;

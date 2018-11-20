@@ -19,6 +19,11 @@ They believe that judges are too lenient with terrorist suspects.
 dreadfully adv 非常糟糕地；恶劣地
 dreadfully adv 非常，极端地
 
+bitterly adv 愤怒地；痛苦地
+She wept bitterly at the news.
+He was bitterly disappointed not to get the job.
+
+
 lousy adj 糟糕的，差劲的
 I had a lousy weekend.
 lousy adj （表示觉得被侮辱了）糟糕的

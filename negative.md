@@ -22,14 +22,21 @@ On receiving the news, she fell into a dead faint.
 
 
 ### 迷
-astray adv 迷路地; 堕落，误入歧途地;
-astray adj 迷路的; 离开正轨的;
+astray adv 偏离正轨地；迷路地；离开正道地；误入歧途地
+The letter must have gone astray in the post.
+Her parents worried that she might be led astray (= encouraged to behave badly) by her unsuitable friends.
 
-vacant adj 空缺的; 茫然的; 空闲的; 空虚的;
+
+vacant adj 空的；未被占用的 The hospital has no vacant beds.
+vacant adj （工作职位）空缺的 The position fell (= became) vacant when Rodman was promoted.
+vacant adj 无聊的；茫然的；没精打采的 She had a vacant look/expression on her face.
+
+
 
 obsession noun 困扰；无法摆脱的念头；念念不忘的事（或人）
 her chocolate obsession
 He's always wanted to find his birth mother but recently it's become an obsession.
+
 
 
 # 混乱
@@ -77,7 +84,7 @@ quirk noun 怪癖；古怪之处 You have to get used to other people's quirks a
 foible noun （无伤大雅的）怪癖，小毛病，小缺点 We all have our little foibles.
 
 
-#使恐惧
+# 使恐惧
 terrify
 territory 领土
 
@@ -99,6 +106,8 @@ astound 使震惊，使大吃一惊;
 dreadful 可怕的;糟糕的;令人畏惧的;讨厌的，糟透了的，丑陋的
 
 desperate adj 绝望的; 由绝望而引起的; 铤而走险的，孤注一掷的; 急切的，极度渴望的;
+
+scary adj 使人惊慌的; 胆小的，容易受惊的; 可怕的，吓人的; a scary movie/story
 
 
 # 使沮丧
@@ -417,6 +426,13 @@ devastate vt 毁灭; 破坏; 蹂躏; 使荒废;
 
 deteriorate vt 使恶化;
 deteriorate vi 恶化，变坏;
+
+
+detrimental adj 有危害的，有损害的
+These chemicals have a detrimental effect/impact on the environment.
+Their decision could be detrimental to the future of the company.
+detrimental noun 有害的人（或物）; 不受欢迎的求婚者;
+
 
 demolish vt 推翻; 摧毁，拆毁（建筑物等）; 毁坏，破坏; 驳倒（论点、理论等）;
 

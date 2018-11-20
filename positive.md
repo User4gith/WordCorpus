@@ -1,3 +1,53 @@
+# 精确
+precision noun 精确度，准确（性）; [语] 精确;
+precision adj 精确的，准确的，细致的; 严守标准的; 行动精确的;
+
+
+precise adj 精密; 精确的; 清晰的; 正规的;
+accurate adj 精确的，准确的; 正确无误的;
+accuracy noun 精确（性），准确（性）;
+
+delicate adj 微妙的; 熟练的; 纤弱的; 易损的;
+
+
+exact adj 准确的; 严密的; 精密的，精确的;
+exact vt 要求; 苛求; 迫使; 强求;
+
+tenable adj （观点）站得住脚的；（职位）可保持一段时间的
+His theory is no longer tenable in the light of the recent discoveries.
+
+explicit adj 清楚明白的；明确的；不含糊的
+She was very explicit about (= said very clearly and exactly) what she thought was wrong with the plans.
+explicit adj （描绘性或暴力）赤裸裸的，露骨的
+a sexually explicit movie
+
+genuine adj 真正的；非伪造的；名副其实的
+If it is a genuine Michelangelo drawing, it will sell for millions.
+genuine adj 真诚的；诚实的；真心的 He's a very genuine person.
+genuinely adv 确实；的确 I'm genuinely sorry for what I said.
+
+authentic adj 真的；真正的；可靠的；可信的
+He was there and saw what happened, so his is the only authentic account.
+
+subtle adj 隐约的；暗淡的；不易察觉的，不明显的；微妙的
+The room was painted a subtle shade of pink.
+The play's message is perhaps too subtle to be understood by young children.
+subtle adj 细微的；细致的
+There is a subtle difference between these two plans.
+subtle adj 微妙的，精妙的；巧妙的
+a subtle plan/suggestion
+
+
+### 虚伪
+deceptive adj 有欺骗性的，骗人的；造成假象的
+It's deceptive - from the outside the building looks small, but inside it's very big.
+
+deception 骗局; 瞒骗，欺诈
+He was found guilty of obtaining money by deception.
+
+synthetic adj 合成的，人造的 synthetic fibres
+synthetic adj 假的，做作的 She criticized the synthetic charm of TV hosts.
+
 
 ### 好奇
 conscious
@@ -23,6 +73,15 @@ tomato and onion relish
 relish noun 享受；乐趣
 She ate her cake slowly and with relish.
 I have no relish for hunting and killing animals.
+
+cheer vi 欢呼；喝彩；鼓舞，振奋
+Everyone cheered as the winners received their medals.
+He was cheering for the other side.
+cheer noun 欢呼声；喝彩声
+Her speech was received with cheers and a standing ovation.
+cheer noun 欢乐，高兴；兴奋，振奋
+The victory in the by-election has brought great cheer to the Liberal Democrats.
+
 
 
 # 兴奋

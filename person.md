@@ -326,6 +326,15 @@ keen vi （尤指因某人死去而）恸哭
 
 keenly
 
+fierce 猛烈的；激烈的；骇人的
+Two men were shot during fierce fighting last weekend.
+fierce 狂暴的
+Fierce winds prevented the race from taking place.
+fierce 强烈的；狂热的
+The expansion plans will face fierce opposition/resistance from environmentalists.
+fierce 困难的
+The chemistry exam was fierce!
+
 ### 温和
 mild adj 温和的；和缓的；轻微的
 She can't accept even mild criticism of her work.
@@ -559,21 +568,32 @@ To be perfectly frank with you, I don't think she's the person for the job.
 
 frank vt 在（邮票）上盖戳；在（信封）上盖戳表示邮资已付
 
-
-simplicity noun 简单，简易 The advantage of the plan is its simplicity.
-simplicity noun 天真；纯朴;朴素，简朴
-The old people led a life of great simplicity (= with few possessions and little money).
-
-
 pragmatic adj 讲究实际的，重实效的；实用主义的
 In business, the pragmatic approach to problems is often more successful than an idealistic one.
 
 undisguised adj （情感）不加掩饰的
 She looked at him with undisguised contempt.
 
-fossil noun  化石
-fossil noun 老人；（尤指）老顽固，思想僵化的人，老古董
 
+simplicity noun 简单，简易 The advantage of the plan is its simplicity.
+simplicity noun 天真；纯朴;朴素，简朴
+The old people led a life of great simplicity (= with few possessions and little money).
+
+plain 朴素的；不加修饰的；简单的
+She wore a plain black dress.
+He prefers plain food - nothing too fancy.
+
+plain adj 清楚的，明显的
+It's quite plain that they don't want to speak to us.
+I made it quite plain (that) (= explained clearly that) I wasn't interested.
+
+plain adj （表示强调）完全的
+It was plain stupidity on Richard's part.
+plain adv 完全地，简直
+I mean, taking the wrong equipment with you - that's just plain stupid.
+
+plain （尤指女性）相貌平平的，不好看的
+She had been a very plain child.
 
 ### 辛勤/仔细
 industrious adj 勤劳的，勤奋的
@@ -649,6 +669,13 @@ severe adj 不加装饰的，朴素的，简朴的
 I don't like these severe modern buildings.
 She wore a severe black dress, and plain black shoes.
 
+harsh adj 令人不快的；严酷的；（无端地）严厉的
+harsh criticism
+The children had had a harsh upbringing.
+We thought the punishment was rather harsh for such a minor offence.
+harsh 刺眼的；刺耳的；过于强烈的
+harsh chemicals/lighting
+
 
 rigid adj 僵硬的；固定的；不能弯曲的
 I was rigid with (= stiff and unable to move because of) fear.
@@ -693,6 +720,9 @@ tough adj （食物）老的，不易切开的，嚼不动的
 This steak is very tough.
 tough adj 粗鲁的；暴力的；不友善的
 a tough neighbourhood
+
+fossil noun  化石
+fossil noun 老人；（尤指）老顽固，思想僵化的人，老古董
 
 ### 节俭
 stint noun 工作期限；（从事某项活动的）规定期限 He has just finished a stint of compulsory military service.
@@ -750,7 +780,6 @@ sacrifice noun 牺牲；献出
 We had to make sacrifices in order to pay for our children's education.
 sacrifice noun 献祭，供奉；祭品，供品
 The people offered a lamb on the altar as a sacrifice for their sins.
-
 
 
 # 敏捷
@@ -966,30 +995,73 @@ A proposed five percent cut in pay has outraged staff at the warehouse.
 outraged  愤怒的；愤慨的，义愤填膺的
 Outraged viewers jumped onto social media to complain about the ending of the series.
 
+
+### 不满
+discontent adj 不满的; 不安分的; 不快的;
+discontent noun 不满，不平; 不愉快; 不满的人;
+discontent v 使不满意; 使不快;
+
+abhorrent adj 令人厌恶的;
+Racism of any kind is abhorrent to me.
+我对任何形式的种族主义都深恶痛绝。
+
+abhorrent adv 令人厌恶地;
+
+abide vt （因为厌恶而）不能忍受，无法容忍
+He couldn't abide laziness.
+abide vi 居住；逗留；停留
+He abided in the wilderness for forty days.
+
+jeslousy noun 妒忌；妒羡
+He broke his brother's new bike in a fit of jealousy.
+She was consumed by/eaten up with jealousy (= she was very jealous) when she heard that he had been given a promotion.
+
+
+
 ### 懦弱
-cower vi 畏缩，抖缩;
+cower vi 蜷缩；退缩；畏缩 Stop cowering! I'm not going to hit you.
+
+cowardice noun 懦弱，胆怯;
+
+timid adj 羞怯的；胆小的，胆怯的 Kieran is a timid child.
+My dog is a little timid - especially around other dogs.
 
 
-cowardice 懦弱，胆怯;
-timid adj 胆小的; 羞怯的; 怕人; 羞手羞脚;
-scary adj 使人惊慌的; 胆小的，容易受惊的; 可怕的，吓人的;
-
-inept adj 笨拙的; 无能的，不称职的; 愚昧的，愚蠢的; 不恰当的;
+inept adj 无能的；笨拙的；无效的
+an inept comment/remark
+He was criticized for his inept handling of the situation.
 
 
 
 ### 自负
 arrogance noun 气焰; 傲慢，自大，自负
+I can't stand that man and his arrogance
 
-pretentious adj 狂妄的，自命不凡的，自负的; 虚伪的，矫饰的，做作的;
-snobbish adj 势利眼的; 谄上傲下的; 恃才傲物的; 假充内行的;
+pretentious adj （尤指在文学艺术方面）炫耀的，矫饰的，自以为是的
+a pretentious art critic
+The novel deals with grand themes, but is never heavy or pretentious.
 
-exaggerate vt 夸张; （使） 扩大; （使） 增加;
-magnify vt 放大; 夸大; 赞美; 夸奖;
-magnify vi 放大; 有放大能力;
+snobbish adj 势利的；爱虚荣的 My brother is very snobbish about cars.
 
-boast vt 夸口说; 自夸，自吹自擂; 以有…而自豪; 自负有;
-boast noun 夸口，自负; 自负的事物，引以为傲的东西; 自夸的话; 扬言;
+
+exaggerate vt/vi 夸张；夸大；对…言过其实
+The threat of attack has been greatly exaggerated.
+Don't exaggerate - it wasn't that expensive.
+
+magnify vt 放大，扩大
+Although our skin looks smooth, when magnified it is full of bumps and holes.
+magnify vt 加强，使（问题）更严重
+The hot summer magnified the racial tensions in the community.
+
+boast vi/vt 自吹自擂，吹嘘，夸耀
+He didn't talk about his exam results in case people thought he was boasting.
+Parents enjoy boasting about their children's achievements.
+
+boast vt 拥有（值得自豪的东西）
+Ireland boasts beautiful beaches, great restaurants, and friendly locals.
+
+boast noun 夸耀
+It is her proud boast that she has never missed a single episode of the show.
 
 flourish vt 茁壮成长；繁荣；蓬勃发展 My tomatoes are flourishing this summer - it must be the warm weather.
 flourish vt （为引人注意）挥舞 She came in smiling, flourishing her exam results.
@@ -1010,16 +1082,12 @@ He's a pompous old prig who's totally incapable of taking a joke.
 He can sometimes sound a little pompous when he talks about acting.
 
 
-### 虚伪
-deceptive 虚伪的; 欺诈的，骗人的; 靠不住的; 迷惑的;
-deception 骗局; 瞒骗，欺诈
-
-plagiarise vt 剽窃，抄袭;
-
 ### 贪婪的
 cormorant 鸬鹚，贪婪的人 / 贪婪的
-greedy 贪婪的; 贪心的; 贪吃的; 渴望的;
 
+greedy adj 贪吃的；贪财的；贪婪的
+greedy, selfish people
+He's greedy for power/success.
 
 
 
@@ -1027,7 +1095,19 @@ greedy 贪婪的; 贪心的; 贪吃的; 渴望的;
 reptile noun 爬行动物; 卑鄙的人;
 reptile adj 爬虫类的; 卑鄙的;
 
-creep noun 爬行，蠕动; 虫爬着似的感觉，毛骨悚然; 卑鄙小人，谄媚者;
+creep vi （通常指为避免注意而）缓慢行进，悄悄移动，潜行
+She turned off the light and crept through the door.
+Someone was creeping around outside my window.
+The traffic was creeping along at a snail's pace.
+
+creep noun 谄媚者，奴颜婢膝者，阿谀奉承者
+Making coffee for the boss again? You creep!
+creep noun 讨厌鬼，令人恶心的人（尤指男人）
+He was such a creep - he was always staring at me in the canteen.
+
+give sb the creeps 使…毛骨悚然；使…紧张害怕
+Living next to a graveyard would give me the creeps.
+
 
 vile adj 邪恶的；卑鄙的；可耻的
 This vile policy of ethnic cleansing must be stopped.
@@ -1038,41 +1118,53 @@ He's in a vile mood/temper today.
 他今天的情绪／脾气很糟糕。
 
 
-brazen adj 无耻的; 黄铜制的; 坚硬的; 声音响亮刺耳的;
-brazen vt 无耻的; 黄铜制的; 坚硬的; 声音响亮刺耳的;
+brazen adj 毫不隐瞒的，明目张胆的
+brazen cheating
+He told me a brazen lie.
 
 
 ### 狡猾的
-shrewd adj 精明的，敏锐的; 奸诈的，狡猾的; 有眼光的; 精于盘算的;
-
-
 serpent noun 蛇; 狡猾的人
 
 tricky adj 难办的；难对付的 I'm in a tricky situation - whatever I do I'll offend someone.
+It's tricky to learn to ride a skateboard, but you never forget how.
+
 tricky adj 欺骗性的；狡猾的；诡计多端的 He's a tricky one.
 
+greasy adj 沾满油脂的；含脂肪的；油腻的
+greasy food/dishes/skin/hair
+
+slippery adj 湿滑的，容易打滑的
+The road was wet and slippery.
+slippery adj 狡猾的，滑头的
+He's as slippery as an eel - you can never get a straight answer out of him.
+He's a slippery customer (= person), and I've never felt comfortable with him.
 
 
+plausible adj 貌似真实（或可信）的
+a plausible explanation/excuse
+plausible adj 花言巧语的，巧舌如簧的
+a plausible salesman
 
-### 油滑的
-greasy adj 油腻的; 谄媚的; 含脂肪多的;
-
-
-slippery adj 滑溜的; 狡猾的; 不可靠的;
-
-subtle 微妙的; 巧妙的; 敏感的; 狡猾的
-
-plausible adj 貌似真实的; 貌似有理的; 花言巧语的; 有眉有眼
 
 ### 嘲笑
-taunt vt 嘲笑，奚落; 用嘲笑刺激;
-taunt adj 讥讽; 嘲弄，奚落; 嘲弄的对象，笑柄;
-tease vt 挑逗; 取笑，戏弄; 强要;
-tease vi 梳理（羊毛等）; 起绒;
-tease noun 爱嘲弄他人的人; 取笑卖弄风骚的人;
+taunt vt 嘲笑；讥讽；嘲弄
+The other kids used to taunt him in the playground because he was fat and wore glasses.
 
-disdain noun 鄙视，轻蔑;
-disdain vt 鄙视; 不屑于做，不愿意做;
+tease vi/vt 戏弄，逗弄；取笑，招惹
+I used to hate being teased about my red hair when I was at school.
+I was just teasing, I didn't mean to upset you.
+
+tease vi 梳理（羊毛等）; 起绒;
+
+tease noun 爱嘲弄他人的人; 取笑卖弄风骚的人;
+Johnny, don't be such a tease - leave your sister alone!
+
+
+disdain noun 鄙视，轻蔑; He regards the political process with disdain.
+disdain vt 轻视，蔑视，鄙视 The older musicians disdain the new, rock-influenced music.
+disdain to do sth 不屑于做…
+
 
 contempt noun 蔑视；鄙视；轻视；轻蔑
 At school she had complete contempt for all her teachers.
@@ -1081,14 +1173,11 @@ contempt noun 藐视法庭（罪）
 The tobacco companies may be guilty of contempt of court for refusing to produce the documents.
 
 
+caustic adj 苛性的，腐蚀性的 a caustic substance
+caustic adj （话语或说话方式）刻薄的，尖刻的，挖苦的
+caustic comments尖刻的评论
+She's famous in the office for her caustic wit.
 
-caustic adj <化>苛性的; 腐蚀性的; 尖刻的，刻薄的; [物] 焦散的;
-caustic adv 刻薄地，挖苦地;
-caustic noun 焦散线，焦散面; 刻薄，讽刺; [化] 苛性碱; [医] 腐蚀剂;
-
-trifle noun 琐事; 蛋糕; 少量;
-trifle vi 轻视，藐视; 嘲弄; 随意摆弄，玩弄;
-trifle vt 浪费（时间或金钱）; 虚度;
 
 slight adj 少量的，微小的 She had a slight headache.
 slight adj （人）瘦小的，纤弱的 Like most long-distance runners she is very slight.
@@ -1097,22 +1186,37 @@ slight noun 轻视；冷落 I regarded her failure to acknowledge my greeting as
 
 
 
-### 贬
+### 诽谤
 disparage vt 贬低; 轻视; 批评; 非难;
+The actor's work for charity has recently been disparaged in the press as an attempt to get publicity.
 
-libel noun 诽谤罪; 中伤; 文字诽谤; 诋毁;
-libel vt 对…进行诽谤; 发表文字诽谤;
+libel noun （文字性的）诬蔑，诽谤，中伤
+She threatened to sue the magazine for libel.
 
-smear vt 弄脏; 涂沫，敷; 污蔑，诋毁; 〈俚〉彻底击败，摧毁;
-smear noun 污迹，污点; 黏稠物; （显微镜的） 涂片; 诽谤，诋毁;
-smear vi 被弄脏，变脏;
 
-slander noun 口头诽谤; 口头诽谤罪;
-slander v 诋毁; 中伤; 口头诽谤;
+smear vt 涂抹（黏腻的东西）
+The children had smeared peanut butter all over the sofa.
+Can you explain why the front of your car is smeared with blood?
 
-neglect vt 疏于照管；忽视，疏忽 He neglects that poor dog - he never takes him for walks or gives him any attention.
-neglect to do sth 疏忽，疏漏，忘记做 I'd neglected to give him the name of the hotel where I'd be staying.
-neglect noun 疏忽，忽视；疏于照管 Both parents were found guilty of neglect and their child was taken away from them.
+smear vt 诽谤，污蔑
+She decided to sue for libel after the newspaper smeared her private life.
+
+smear noun 污点（将某种液体或稠厚物质涂在表面上形成的污点）
+You'd look very stylish if it wasn't for that smear of ketchup on your shirt.
+
+smear noun 诽谤，污蔑
+The prime minister has dismissed the allegations as smears and innuendo.
+She claims she was the victim of a smear campaign (= repeated attempts to damage her reputation).
+
+
+slander noun 诽谤，诋毁
+The doctor is suing his partner for slander.
+She regarded his comment as a slander on her good reputation.
+
+slander vt 诽谤，诋毁
+
+
+# 忽略
 
 trivialize vt 使显得不重要
 I don't want to trivialize the problem, but I do think there are more important matters to discuss.
@@ -1123,7 +1227,11 @@ devalue vt 贬低；轻视
 I don't want to devalue his achievement, but he managed to get a promotion without working very hard.
 
 
-# 忽略
+neglect vt 疏于照管；忽视，疏忽 He neglects that poor dog - he never takes him for walks or gives him any attention.
+neglect to do sth 疏忽，疏漏，忘记做 I'd neglected to give him the name of the hotel where I'd be staying.
+neglect noun 疏忽，忽视；疏于照管 Both parents were found guilty of neglect and their child was taken away from them.
+
+
 disregard noun 忽视，漠视，无视
 What amazes me is her complete disregard for anyone else's opinion.
 
@@ -1131,46 +1239,30 @@ disregard vt 忽视，无视，不理会
 He told us to disregard everything we'd learned so far and start again.
 
 
-neglect vt 忽略; 疏忽; 遗漏; 疏于照顾;
-neglect noun 怠慢; 玩忽; 被忽略的状态;
-
-trivialise vt <贬>使显得琐碎[不重要、不难等]，轻视;
-
-
 detached adj 分离的，分开的；拆下的 The label became detached from your parcel.
 detached adj （房子）独幢的，独立的 Prices are rising so fast that people can't afford detached houses.
 detached adj 认为与己无关的；毫不关心的，心不在焉的 She seemed a bit detached, as if her mind were on other things.
 
 
-
-
-
-### 不满
-discontent adj 不满的; 不安分的; 不快的;
-discontent noun 不满，不平; 不愉快; 不满的人;
-discontent v 使不满意; 使不快;
-
-abhorrent adj 令人厌恶的;
-Racism of any kind is abhorrent to me.
-我对任何形式的种族主义都深恶痛绝。
-
-abhorrent adv 令人厌恶地;
-
-abide vt （因为厌恶而）不能忍受，无法容忍
-He couldn't abide laziness.
-abide vi 居住；逗留；停留
-He abided in the wilderness for forty days.
-
-jeslousy noun 妒忌；妒羡
-He broke his brother's new bike in a fit of jealousy.
-
-
 ### 怨恨
-spite n/v 怨恨; 恶意; 恶事;
+in spite of sth 尽管；不顾，不管
+In spite of his injury, Ricardo will play in Saturday's match.
+in spite of yourself 不由自主地
+She started to laugh, in spite of herself .
 
-loathe vt 憎恨，厌恶（某人、某事物）; [口]极不喜欢（某事物）;
-loathing noun
-loathing v 憎恨，厌恶( loathe的现在分词); 极不喜欢;
+spite noun 恶意；怨恨
+He's the sort of man who would let down the tyres on your car just out of/from spite.
+
+spite vt 刁难；存心使苦恼；故意伤害
+I almost think he died without making a will just to spite his family.
+
+loathe vt 恨，憎恨；厌恶
+From an early age the brothers have loathed each other.
+I loathe doing housework.
+
+be loath to do sth 不愿做…，不情愿干…
+I'm loath to spend it all at once.
+
 
 bully vt 恐吓，威逼; 盛气凌人，以强凌弱;
 Our survey indicates that one in four children is bullied at school.
@@ -1180,13 +1272,24 @@ bully noun 恃强凌弱者，以大欺小者
 Teachers usually know who the bullies are in a class.
 
 
+resent vt 感到愤恨；不满；憎恶
+She bitterly resented her father's new wife.
+He resents having to explain his work to other people.
 
-resent vt 怨恨; 愤恨; 厌恶; 对…感到愤怒;
+grudge noun 怨恨，嫌隙，积怨
+I don't bear any grudge against you.
+Amanda still has/holds a grudge against me for refusing to lend her that money.
 
-grudge noun 怨恨; 妒忌; 不满; 恶意;
-grudge vt 怀恨; 吝惜; 妒忌; 不情愿做;
+grudge vt 吝惜；勉强地做，勉强地给
+She grudged every hour she spent helping him.
+grudge vt 认为…不应得到；忌妒
+[ + two objects ] I don't grudge you your holiday, it's just that you've chosen a bad time to go.
 
-begrudge vt 嫉妒; 吝惜; 勉强做; 不乐意地付出;
+begrudge vt 羡慕；嫉妒
+[ + two objects ] I don't begrudge him his freedom.
+抱怨，发牢骚
+They begrudged every day they had to stay with their father.
+[ + -ing verb ] She begrudged paying so much for an ice cream cone.
 
 
 bitterness  苦味
@@ -1194,23 +1297,58 @@ bitterness noun 愤怒；怨恨
 He was full of bitterness after he lost his job.
 
 ### 粗的
-barbaric adj  野蛮的; 蒙昧; 半开化的; 粗俗的
+barbaric adj  残暴的；野蛮的；粗俗的
+She found the idea of killing animals for pleasure barbaric.
+barbaric acts of violence
 
-discourteous adj 粗鲁的，无礼的，失礼的;
 
-vulgar adj 庸俗的，俚俗的，粗俗的; 一般大众的，老百姓的; 粗野的，下流的;
+discourteous adj 粗鲁的，粗暴的，失礼的
+The employees were unhelpful and discourteous.
 
-reckless adj 鲁莽的，不顾危险的; 粗心大意的; 满不在乎的; 胆大妄为;
+
+vulgar adj 粗俗的；庸俗的；不雅的
+Isn't it rather vulgar to talk about how much money you earn?
+I've no idea how much the clothes cost because there was nothing so vulgar as a price tag in evidence.
+
+vulgar adj 粗俗的；（尤指）下流的，猥亵的
+It was an extremely vulgar joke.
+
+
+reckless adj 鲁莽的；轻率的；不顾后果的
+He was found guilty of reckless driving.
 
 coarse adj 粗糙的；不光滑的；不柔软的；粗大的
 coarse sand/breadcrumbs
 coarse adj 粗俗的；粗野的；无礼的
 a coarse joke
 
+crude 粗糙的；简陋的；粗制的；未加修饰的
+a crude device/weapon
+crude 粗俗的；粗野的；无礼的
+a crude remark/comment
+crude noun 原油
 
 ### 恶的
-venomous 有毒的; 恶意的; （蛇等） 分泌毒液的; <书>恶毒的;
-poisonous adj 有毒的; 有害的; 恶意的; <口>讨厌的;
+venomous adj 毒／ 有毒的，有害的／ 充满愤怒的；愤恨的；咬牙切齿的
+a venomous snake
+venomous 充满愤怒的；愤恨的；咬牙切齿的
+Ms Brown has launched a venomous attack against the newspaper.
+
+vicious adj 邪恶的；恶毒的；凶暴的
+a vicious thug
+a vicious dog
+The police said that this was one of the most vicious attacks they'd ever seen.
+vicious adj 严重的；剧烈的，恶毒的
+a large collection of vicious medieval torture instruments
+I have a vicious headache.
+
+
+poisonous adj 有毒的，有害的
+Can you tell the difference between poisonous mushrooms and edible varieties?
+poisonous adj （动物或昆虫）有毒的
+a poisonous snake
+令人不快的；恶意的
+He said some poisonous things to me.
 
 nasty adj 糟糕的；令人不快的，让人讨厌的
 There's a nasty smell in here.
@@ -1224,57 +1362,82 @@ have a nasty feeling
 有种不祥的预感
 I've got a nasty feeling that I forgot to tell Joe I couldn't come.
 
-malevolent 恶毒的; 凶狠; 心肠坏的; 幸灾乐祸的;
+malevolent 恶意的；恶毒的；有害的
+The central character is a malevolent witch out for revenge.
+I could feel his malevolent gaze as I walked away.
 
-fierce 猛烈的; 凶猛的，残忍的; 狂热的
 
-cruel adj 残酷的，残忍的; 使人痛苦的，让人受难的; 无情的，严酷的;
-
-crude 简陋的; 粗糙的，粗杂的; 粗鲁的; 天然的，未加工的;
+cruel adj 残忍的；残酷的；刻毒伤人的
+Don't tease him about his weight - it's cruel.
+Children can be very cruel to each other.
+令人痛苦的
+His death was a cruel blow.
 
 notorious adj 臭名昭著的; 声名狼藉的; 臭名远扬的; 恶名昭著;
 The company is notorious for paying its bills late.
 
-notoriety
-
-foul adj [体] 违反规则的，犯规的; 邪恶的; 难闻的，有恶臭的; 下流的;
-foul vt 纠缠，纠结; [体] 违反规则的;
-foul vt 弄脏，使污秽; 使纠缠; 使阻塞;
-
-sinister adj 险恶的; 危险的; 不吉祥的; 凶兆的;
+notoriety noun 臭名昭著，声名狼藉
+He achieved/gained notoriety for being difficult to work with as an actor.
 
 
-vicious adj 邪恶的，恶毒的; 有恶意的; 凶猛的; 有缺点的;
+foul adj 极其令人不快的；恶劣的
+Those toilets smell foul!
+I've had a foul day at work.
+foul adj （言语或语言）脏话连篇的，粗鲁的，下流的
+There's too much foul language on TV these days.
+
+foul noun 犯规 He was sent off for a foul on the French captain.
+
+foul vt  [体] 违反规则的;
+foul vt 弄脏；污染
+The oil spill fouled the river and destroyed habitats.
 
 
-detrimental adj 有害的; 不利的;
-detrimental noun 有害的人（或物）; 不受欢迎的求婚者;
+sinister adj 不祥的，有凶兆的
+The ruined house had a sinister appearance.
+A sinister-looking man sat in the corner of the room.
 
-ruthless adj  狠; 残忍的; 无情的，冷酷的; 辣;
+
+ruthless adj 无情的；冷酷的；残忍的
 Some people believe that to succeed in this world you have to be ruthless.
+a ruthless dictator
 
 heartless adj  无情无义; 无情的，狠心的; 没良心; 薄情无义;
 brutal adj 残忍的; 野蛮的; 无情的; 不讲理的;
 
 
-inhumane adj 不仁慈的，无人道的，冷酷无情的;
+inhumane adj 不仁慈的；不人道的
+Conditions for prisoners were described as inhumane.
+Many people believe factory farming is inhumane.
 
-harsh adj 刺耳的; 残酷的; 粗糙的; 严厉的，严格的;
 
 merciless adj 冷酷无情的，残忍的，毫无怜悯之心的
 There are reports of merciless attacks on innocent civilians.
 There was no shelter from the merciless (= very strong) heat.
 
-obscene adj 淫秽的; 猥亵的; 下流的; 可憎的;
+obscene adj猥亵的；淫秽的；下流的；粗俗的
+In the raid, police found several boxes of obscene DVDs.
+obscene adj 伤风败俗的；骇人听闻的；令人震惊的
+The salaries some bankers earn are obscene.
+
 sluttish adj 懒惰的，邋遢的，淫荡的;
 
 ### 腐
-erode vt 侵蚀，腐蚀;
-erode vi 逐渐毁坏; 削弱，损害;
-erosion noun 糜烂; 烧蚀; 腐蚀，侵蚀，磨损; 磨蚀;
+erode vi/vt 侵蚀，腐蚀；磨损
+Wind and rain have eroded the statues into shapeless lumps of stone.
+The cliffs are eroding several feet a year.
+erode vi/vt 削弱；逐步破坏
+His behaviour over the last few months has eroded my confidence in his judgment.
 
 
-corrode vt 使腐蚀，侵蚀;
+erosion noun 侵蚀；腐蚀；磨损
+soil/coastal erosion
+erosion 削弱；逐步的破坏
+The survey reveals a gradual erosion of the president's popularity and support.
+
+corrode vt/vi （使）腐蚀；侵蚀
+Steel tends to corrode faster in a salty atmosphere.
+
 
 corrupt adj 贪赃舞弊的；以权谋私的；腐败的
 The whole system was corrupt - every official she approached wanted money before helping her.
@@ -1289,11 +1452,6 @@ The study claimed that violence on television corrupts the minds of children.
 corrupt vt 损坏（计算机上的信息）
 Most of the data on the hard drive was corrupted when the power went out.
 
-
-
-
-decrepit adj 衰朽; 衰老的，老朽的，破旧的; 头童齿豁; 蓬头历齿;
-
 decay vi/vt 腐蚀；衰败，衰弱
 The role of the extended family has been decaying for some time.
 Sugar makes your teeth decay.
@@ -1305,15 +1463,26 @@ The buildings had started to fall into decay.
 This industry has been in decay for some time.
 
 
-stale adj 陈腐的; 不新鲜的; 走了味的;
-stale v 变陈旧; 变得不新鲜; （牛马、骆驼等） 撒尿;
-stale noun （牛马、骆驼的） 尿;
 
-rotten adj 腐烂的; 恶臭的; 堕落的; 极坏的;
-rotten adv 非常; 极其;
+stale adj （通常指因久放）不新鲜的，走味的
+The bread/biscuits/cake had gone stale.
+stable adj 过时的，老套的，没有新意的
+stale jokes/news
+stale（对所做之事）厌倦的，腻烦的
+They had been working together for over five years and they had both become a little stale.
+
+
+rotten adj 腐烂的；腐朽的；变质的
+The room smelled of rotten vegetables.
+rotten adj 极差的，糟糕透顶的，恶劣的
+rotten weather
+It was rotten of you to leave without saying goodbye.
 
 
 
+decrepit adj 破旧的，年久失修的；破烂不堪的；老朽的
+Most of the buildings were old and decrepit.
+A decrepit old man sat on a park bench.
 
 #### 刺激
 accelerate vt 促进; （使） 加快，（使）增速; 加速，催促; 速度增加;
@@ -1426,15 +1595,3 @@ strain noun 血统，家族; 性格，脾气; 语气; 一段音乐;
 compatible
 
 tighten vt 收紧; （使） 变紧; （使） 绷紧; 加紧;
-
-
-
-
-# 延展
-stretch v 伸展; 延伸; 持续; 包括
-stretch noun 伸展; 弹性; 一片; 一段时间;
-stretch adj 可伸缩的; 弹性的;
-
-tensile adj 拉力的; 张力的; 可伸展的; 可拉长的;
-
-malleable adj 可锻造的，有延展性的; 韧性的;

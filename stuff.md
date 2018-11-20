@@ -537,6 +537,18 @@ brochure
 
 illustration
 
+# 陶瓷
+ceramic adj 陶器的，与陶器有关的; 陶瓷的，陶制的; 制陶的;
+ceramic noun 陶瓷制品; 陶瓷器; 制陶艺术; 陶瓷装潢艺术;
+
+pottery noun 陶瓷制造（术），陶艺
+陶器，陶瓷器皿
+They sell pottery and other handmade goods.
+
+
+porcelain noun 瓷 The tea cups are (made of) porcelain.
+porcelain noun 瓷器 He had a fine collection of Meissen porcelain.
+
 # 皮革；羽毛
 leather
 feather
@@ -601,6 +613,18 @@ variety
 variation
 verify
 
+
+# 延展
+stretch v 伸展; 延伸; 持续; 包括
+stretch noun 伸展; 弹性; 一片; 一段时间;
+stretch adj 可伸缩的; 弹性的;
+
+tensile adj 拉力的; 张力的; 可伸展的; 可拉长的;
+
+malleable adj 可锻造的，有延展性的; 韧性的;
+
+
+
 # 陡峭
 
 steep adj 陡峭的，险峻的; 过分的，夸张的; 极高的; 急剧升降的;
@@ -660,38 +684,6 @@ prevalence noun 流行; 盛行; 普遍; （疾病等的） 流行程度;
 modish adj 流行的，时髦的;
 
 
-# 精确
-precision noun 精确度，准确（性）; [语] 精确;
-precision adj 精确的，准确的，细致的; 严守标准的; 行动精确的;
-
-
-precise adj 精密; 精确的; 清晰的; 正规的;
-accurate adj 精确的，准确的; 正确无误的;
-accuracy noun 精确（性），准确（性）;
-
-delicate adj 微妙的; 熟练的; 纤弱的; 易损的;
-
-
-exact adj 准确的; 严密的; 精密的，精确的;
-exact vt 要求; 苛求; 迫使; 强求;
-
-tenable adj （观点）站得住脚的；（职位）可保持一段时间的
-His theory is no longer tenable in the light of the recent discoveries.
-
-explicit adj 清楚明白的；明确的；不含糊的
-She was very explicit about (= said very clearly and exactly) what she thought was wrong with the plans.
-explicit adj （描绘性或暴力）赤裸裸的，露骨的
-a sexually explicit movie
-
-genuine adj 真正的；非伪造的；名副其实的
-If it is a genuine Michelangelo drawing, it will sell for millions.
-genuine adj 真诚的；诚实的；真心的 He's a very genuine person.
-genuinely adv 确实；的确 I'm genuinely sorry for what I said.
-
-authentic adj 真的；真正的；可靠的；可信的
-He was there and saw what happened, so his is the only authentic account.
-
-
 
 
 # 明显
@@ -713,17 +705,7 @@ analogous adj 相似的，可比拟的; <生>同功的; 模拟式;
 similar
 resemble vt 像；看起来像；与…相似 You resemble your mother very closely.
 
-# 陶瓷
-ceramic adj 陶器的，与陶器有关的; 陶瓷的，陶制的; 制陶的;
-ceramic noun 陶瓷制品; 陶瓷器; 制陶艺术; 陶瓷装潢艺术;
 
-pottery noun 陶瓷制造（术），陶艺
-陶器，陶瓷器皿
-They sell pottery and other handmade goods.
-
-
-porcelain noun 瓷 The tea cups are (made of) porcelain.
-porcelain noun 瓷器 He had a fine collection of Meissen porcelain.
 
 
 # cate

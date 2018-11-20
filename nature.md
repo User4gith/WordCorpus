@@ -231,8 +231,6 @@ Drain the rice, stir in the salmon and season to taste (= so that it has the tas
 season vt 使（木头）风干
 
 
-
-
 savour vt 细品，享用（食物）
 It was the first chocolate he'd tasted for over a year, so he savoured every mouthful.
 savour noun 乐趣；趣味；情趣
@@ -281,6 +279,28 @@ toast vt 为…干杯 We toasted the happy couple.
 mill noun 磨坊，碾磨厂，磨粉厂 a pepper/coffee mill
 mill noun 制造厂，工厂 a cotton/paper/steel mill
 mill vt 磨；碾碎 The grain is still milled locally.
+
+chop vt 劈；砍；剁碎，切碎
+He was chopping wood in the yard.
+Chop (up) the onions and carrots roughly.
+
+chop vt 减少，削减（资金或生意）；终止（生意）
+Because of lack of funding many long-term research projects are being chopped.
+
+chop noun 带骨的肉块；排骨 a lamb/pork chop
+
+the chop 解雇；裁员
+If you're late for work again, you'll be for the chop.
+the chop（工厂、学校等的）结束，终止
+When the reorganization occurs, the smaller departments will be the first for the chop.
+
+chops （人或动物）嘴周围的地方 a dog licking its chops
+chops 演奏乐器技巧；吹管乐器（如萨克斯）时用嘴的方式
+chops （做好…所需的）能力，技巧，经验
+She just doesn't have the chops for this demanding role.
+
+
+cutlery noun （刀、叉、匙等）餐具
 
 
 buffet noun 自助餐 Are you having a sit-down meal or a buffet at the wedding?

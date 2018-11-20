@@ -613,7 +613,10 @@ penalty
 penalise vt 对…予以惩罚; 使处于不利地位;
 
 
-allegation
+allegation （未经证实的）指责，指控
+Several of her patients have made allegations of professional misconduct about/against her.
+[ + that ] Allegations that Mr Dwight was receiving money from known criminals have caused a scandal.
+
 sanction
 
 impose
