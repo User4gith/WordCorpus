@@ -146,7 +146,14 @@ Women in Britain were first enfranchised in 1918.
 suffrage
 
 delegate noun 代表，代表团成员;
-delegate vt 委派代表; 授权给; [法律] 债务转移;
+Delegates have voted in favour of the motion.
+Each union elects several delegates to the annual conference.
+
+delegate vt （把…）委派（给…），（把…）委托（给…）；授权（给…）
+As a boss you have to delegate (responsibilities to your staff).
+Authority to make financial decisions has been delegated to a special committee.
+选出（尤指会议的）代表
+A group of four teachers were delegated to represent their colleagues at the union conference.
 
 constituent noun 选民; 成分，构成部分; 委托人
 constituent adj 构成的，组成的; 选举的; 有选举权的;

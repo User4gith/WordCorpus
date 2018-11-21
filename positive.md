@@ -90,6 +90,16 @@ My nose is tickling, I think I'm going to sneeze.
 give sb a tickle 搔（某人）痒痒
 tickle （嗓子）痒，发痒
 
+delight noun 欣喜；满足；惬意
+My sister's little boy is a real delight.
+The children squealed in delight when they saw all the presents under the Christmas tree.
+the delights of sth…的乐趣
+We're just discovering the delights of being retired.
+
+delight vt 使高兴；使满足
+Peter's academic success delighted his family.
+
+
 ​
 # 兴奋
 thrill noun 兴奋；激动；紧张感
