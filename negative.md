@@ -110,6 +110,16 @@ desperate adj 绝望的; 由绝望而引起的; 铤而走险的，孤注一掷�
 scary adj 使人惊慌的; 胆小的，容易受惊的; 可怕的，吓人的; a scary movie/story
 
 
+panic noun 恐慌，惊慌
+a state of panic
+Carmel was in a panic about her exam.
+He got in(to) a panic that he would forget his lines on stage.
+
+panic vt/vi  （使）恐慌，（使）惊慌失措
+The sound of gunfire panicked the crowd.
+The boss always panics over/about the budget every month.
+
+
 # 使沮丧
 spirit 精神
 
@@ -344,7 +354,9 @@ block vt 阻止; 阻塞; 限制;
 
 
 curb noun 限制，抑制; 勒马绳，马衔索; （人行道的） 镶边; （证券的） 场外市场
+You must try to put a curb on your bad temper/spending habits.
 curb vt 制止，束缚; 给（马）扣上马衔; 给…加路缘; 在…处设井栏;
+The government should act to curb tax evasion.
 
 compel vt 强迫，迫使; 强制发生，使不得不;
 compelling adj 引人入胜的; 扣人心弦的; 非常强烈的; 不可抗拒
@@ -352,7 +364,26 @@ compelling adj 引人入胜的; 扣人心弦的; 非常强烈的; 不可抗拒
 restrict vt 限制，限定; 约束，束缚
 
 constrain vt 约束; 限制; 强迫; 强使;
+The country's progress was constrained by a leader who refused to look forward.
+
+
+
 restrain vt 制止; 抑制，压抑; 限定，限制; 监禁;
+When he started fighting, it took four police officers to restrain him.
+She was so angry that she could hardly restrain herself.
+You should try to restrain your ambitions and be more realistic.
+Growth in car ownership could be restrained by increasing taxes.
+
+restraint noun 克制；平心静气；冷静
+He showed admirable restraint, and refused to be provoked.
+The security forces exercised (= used) great restraint by not responding to hostile attacks and threats.
+
+restraint noun 阻止；抑制，遏制
+Lack of space is the main restraint on the firm's expansion plans.
+During the recession, the government opted for a policy of pay/wage restraint rather than a reduction in public investment.
+
+keep/place sb under restraint 限制（某人）的人身自由；对（某人）进行管制
+The two prisoners were kept under restraint while they were transported between prisons.
 
 refrain vt 抑制，克制;
 refrain vi 忍耐，节制;
@@ -535,6 +566,18 @@ humiliate vt 羞辱，使丢脸
 How could you humiliate me by questioning my judgment in front of everyone like that?
 England were humiliated (= completely defeated) in last night's match.
 
+
+toll noun （道路、桥梁等的）通行费
+Tolls are now collected electronically on most motorways.
+toll noun 长途电话费 Is Bayonne a toll call (= a more expensive phone call) from New York?
+toll noun 伤亡；损失；破坏
+Independent sources say that the death toll from the earthquake runs into thousands.
+
+toll vi/vt （使）缓慢而反复地鸣响
+In the distance, a church bell tolled the hour (= showed the time by ringing).
+
+
+
 ### 责骂
 scold vt 责骂
 scold vi 责骂; 斥责;
@@ -642,3 +685,19 @@ The policy has caused fierce/heated controversy ever since it was introduced.
 # 矛盾
 discrepancy 矛盾; 不符合（之处）
 controversial 有争议的，引起争议的，被争论的; 好争论的
+
+
+# 妥协
+compromise noun 妥协；折中；让步；和解
+It is hoped that a compromise will be reached in today's talks.
+In a compromise between management and unions, a four percent pay rise was agreed in return for an increase in productivity.
+
+compromise vi 妥协；折中；让步
+Party unity is threatened when members will not compromise.
+
+compromise vt 放弃；背离，违背；降低
+Don't compromise your beliefs/principles for the sake of being accepted.
+If we back down on this issue, our reputation will be compromised.
+
+compromise vt 损害，伤害，危及
+We would never compromise the safety of our passengers.

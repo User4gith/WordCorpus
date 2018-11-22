@@ -37,6 +37,12 @@ There is a subtle difference between these two plans.
 subtle adj 微妙的，精妙的；巧妙的
 a subtle plan/suggestion
 
+immaculate adj 洁净的，整洁的
+dressed in an immaculate white suit
+immaculate adj 完美的
+He gave an immaculate performance as the aging hero.
+
+
 
 ### 虚伪
 deceptive adj 有欺骗性的，骗人的；造成假象的
@@ -99,6 +105,8 @@ We're just discovering the delights of being retired.
 delight vt 使高兴；使满足
 Peter's academic success delighted his family.
 
+spree noun  （常指过分的）玩乐；短暂的放纵
+I went on a drinking/shopping/spending spree on Saturday.
 
 ​
 # 兴奋
@@ -115,6 +123,12 @@ She emerged triumphant from the court after all the charges against her were dro
 promising 有希望的；有出息的；有前途的
 They won the award for the most promising new band of the year.
 "How's your new venture going?" "It's looking quite promising."
+
+feverish adj 发烧的，发热的
+I'm feeling a bit feverish - I hope it's not the start of flu.
+feverish 异常兴奋的；十分活跃的
+Have you seen the feverish activity in the kitchen?
+
 
 # 豪华；壮丽……
 opulent 豪华

@@ -252,6 +252,9 @@ sausage 香肠，腊肠; 〈口〉德国人;
 
 starchy adj （食物） 含大量淀粉的; 刻板的，拘谨的;
 
+gruel noun （尤指旧时的）稀粥，燕麦粥
+congee
+
 grill vt 烧烤;
 grill vt 拷问，盘问;
 grill noun 烤架; 烤肉; 格板; 烧烤餐馆;
@@ -403,6 +406,8 @@ owl 猫头鹰; 夜猫子; 惯于晚上活动的人; （像猫头鹰一样） 机
 
 claw noun（兽类或鸟类的）爪，脚爪
 talon （尤指猛禽的）爪
+
+falcon s
 
 hawk noun 鹰
 hawk noun （主张采取强硬政治路线的）鹰派人物

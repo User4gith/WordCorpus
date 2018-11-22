@@ -118,6 +118,11 @@ The stakes are pushed or hammered into the ground and can be used for supporting
 stake vt 以…来打赌，投下…的赌注 At the roulette table, he staked $10,000 on number 21.
 stake vt 用桩支撑；把…系于桩上 Tomato plants should be staked.
 
+
+dividend noun 红利，股息
+Dividends will be sent to shareholders.
+
+
 ### 效率相关
 efficiency noun 功效; 效率，效能; 实力，能力; [物] 性能;
 efficient adj 效率高的；有能力的；有效的；生效的
@@ -327,9 +332,7 @@ bankrupt noun 破产者 He was declared a bankrupt in 2011.
 bankrupt vt 使某人破产 They feared that the loss would bankrupt them.
 
 
-
-
-
+===================
 
 indebted adj 感激的
 We're deeply indebted to you for your help.
@@ -369,6 +372,26 @@ slump vi （价格、价值或销售额）猛跌，突然下降
 slump vi 沉重地坐下（或倒下）
 slump noun （价格、价值、销售额等的）猛跌，暴跌
 slump noun 萧条（期），衰落
+
+slack adj 不紧的，松的
+These tent ropes are too slack - they need tightening.
+slack 萧条的，不景气的；冷清的；懈怠的
+Business is always slack at this time of year.
+
+slack noun 松弛，不紧
+There's too much slack in these ropes.
+
+slack vi 松懈，懈怠
+Everyone slacks off/up at the end of the week.
+You'll be in trouble if you're caught slacking on the job.
+
+slacken vi/vt （使）变松，（使）松开
+Slacken the reins or you'll hurt the horse's mouth.
+
+slacken vi/vt 放慢，放松，减缓
+He stooped to pick it up, without slackening his pace (= without walking more slowly).
+The pace of trading slackened during the winter months.
+
 
 
 ### 繁荣
@@ -413,6 +436,18 @@ the extravagant lifestyle of a movie star
 extravagant adj 过度的；不切实际的
 The product does not live up to the extravagant claims of the advertisers.
 
+flashy adj （因艳丽、巨大和昂贵而）显眼的，俗艳的
+flashy gold jewellery
+flashy clothes
+
+spendthrift noun 挥霍者，花钱无度的人
+
+
+overdraft 透支额
+to run up/pay off an overdraft
+The bank offers overdraft facilities.
+
+========================
 impoverish vt 使贫穷; 使贫瘠或恶化; 耗尽…的力气;
 
 
@@ -483,6 +518,11 @@ supplementary adj 额外 a supplementary income
 redundant adj （尤指词、短语等）多余的，不需要的，累赘的，啰唆的 In the sentence "She is a single unmarried woman", the word "unmarried" is redundant.
 
 redundant adj 失业的，被解雇的，被裁减的 To keep the company alive, half the workforce is being made redundant.
+
+redundancy noun 失业，被解雇，被裁减
+The economic downturn has meant 10,000 redundancies in the Northeast.
+redundancy noun （尤指词、短语等的）多余，累赘，啰唆
+
 
 spare noun 备用品
 spare adj 额外的，备用的；多余的 We have a spare room if you want to stay overnight with us.

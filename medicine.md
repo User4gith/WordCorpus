@@ -146,6 +146,9 @@ mortality noun 死亡数量，死亡率 Infant mortality is much higher in the p
 infirmity （尤指因年迈而长期）病弱的，需要照顾的  She suffered from a long list of infirmities.
 ailment 小病，微恙 Treat minor ailments yourself.
 
+wan adj  （面部）苍白的，显得疲惫的
+
+
 fragile adj 易损坏的；易碎的；脆弱的 I felt rather fragile (= weak) for a few days after the operation.
 
 frail adj 脆弱的；虚弱的；易碎的；易受损的 I last saw him just last week and thought how old and frail he looked.
@@ -229,6 +232,8 @@ pill noun 令人讨厌的人 Jennifer was being such a pill today.
 pill noun （衣服或布料上的）球粒，纤维绒球 She sat there sulking and picking the pills off her sweater.
 
 medication noun 药物，药剂 He is currently on/taking medication for his heart.
+
+ointment noun 药膏，软膏，油膏
 
 inject vt 注射；给…注射 Phil's a diabetic and has to inject himself with insulin every day.
 inject vt 投入；增添；引入，带来 A large amount of money will have to be injected into the company if it is to survive.

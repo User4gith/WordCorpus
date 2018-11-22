@@ -173,7 +173,25 @@ alley noun （尤指两边有树或灌木的）小径
 
 cabinet
 
-carpet
+carpet noun 地毯；地毯织物
+We've just had a new carpet fitted/laid in our bedroom.
+We've got fitted (= cut to fit exactly) carpets in the bedrooms.
+（覆盖地面的）一层
+a carpet of snow
+
+carpet vt 在…上铺地毯
+We need to carpet the stairs.
+be carpeted with sth 覆盖着一层…，铺着一层…
+In spring this area is carpeted with bluebells.
+春天，这儿遍地都是蓝钟花。
+
+kiosk （售糖果、饮料、报纸等的）小亭；售货亭 a station kiosk
+公用电话亭（同 telephone box）
+
+lawn noun （尤指房屋附近或公园的）草地，草坪
+Will you mow the lawn at the weekend?
+
+
 
 
 # 时间相关
@@ -210,6 +228,11 @@ She didn't mix with her contemporaries, preferring the company of older people.
 temporary 暂时的；
 transient adj 短暂的; 转瞬即逝的; 临时的
 transient noun 临时旅客; 瞬变现象; 候鸟;
+
+blip noun （计算机屏幕上，有时带有短促尖锐响声的）光点
+blip noun 暂时的改变；临时的变化
+Last month's rise in inflation was described by the chancellor as only a blip.
+
 
 
 permanent 永久的
@@ -928,7 +951,25 @@ He has a good grasp of the issues.
 contract 签合同; 缩小; 感染;
 stringent adj 严格的; 迫切的; （货币） 紧缩的;
 
-squeeze
+squeeze vt （尤指从各方面）挤压，捏，挤，榨
+Cut the lemon in half and squeeze the juice into the bowl.
+Once he had finished cleaning the floor, he squeezed the cloth out.
+
+squeeze vt 给…带来财务困难，使陷入财务困境
+Small businesses are being squeezed by heavy taxation.
+
+squeeze vi （困难地）挤进，挤过
+She squeezed through the crowd and found a seat at the front.
+
+squeeze noun 挤压，捏；榨
+She gave the present a quick squeeze and tried to guess what was inside.
+squeeze noun 拥挤；挤入（人或物被推入或被强迫进入一个小的空间内）
+I can give you a lift, but it'll be a tight squeeze as I'm taking four other people as well.
+squeeze noun 减少；削减；限制
+The squeeze on profits in the oil industry has led to thousands of redundancies.
+squeeze noun 通货紧缩，银根紧缩
+The government has imposed a sharp credit squeeze in an attempt to hold down inflation.
+
 
 squash vt 把…压扁；把…挤扁 He accidentally sat on her hat and squashed it.
 squash vt （使）挤进；（把…）塞进 He tried to squash his ripped jeans into the suitcase while his mother wasn't looking.
@@ -1128,8 +1169,14 @@ forecast noun 预报; 预言;
 predict
 anticipate
 expect
-speculate vt 思索，猜测，推测;
-speculate vi 推测; 投机; 思索;
+speculate vi 猜测；推测，推断
+I don't know why she did it - I'm just speculating.
+A spokesperson declined to speculate on the cause of the train crash.
+Journalists are speculating about whether interest rates will be cut.
+
+speculate vi 投机，做投机买卖
+He made his money speculating on the London gold and silver markets.
+
 
 cognitive adj 认知的; 认识的;
 
@@ -1560,6 +1607,17 @@ The child shrank behind the sofa as his father shouted at him.
 shrink noun 精神病医生
 I was so depressed that I ended up going to see a shrink.
 
+reduction noun  减少；减小；降低；缩小
+a reduction in traffic
+reduction 缩影（照片或图片的一个拷贝，比原件小）
+
+
+wane vi 衰减；减弱
+By the late 70s the band's popularity was beginning to wane.
+wane vi （月亮）开始形成残月，亏缺
+
+on the wane （权力、人气等）衰落，减弱
+There are signs that support for the group is on the wane.
 
 ### 隐藏hide
 conceal
@@ -1719,6 +1777,14 @@ There was a sudden spurt of activity in the housing market.
 spurt noun （液体等的）喷射
 The water came out in spurts.
 
+stride noun 进展，进步
+The West made impressive strides in improving energy efficiency after the huge rises in oil prices during the 70s.
+The group has made strides to expand internationally.
+stride noun 大步，阔步
+She attributes her record-breaking speed to the length of her stride.
+
+stride vi 大步快走，阔步行进
+She strode purposefully up to the desk and demanded to speak to the manager.
 
 
 ### 超过
@@ -1735,6 +1801,10 @@ outweigh vt 在重量上超过; 比…重要; 胜过，强过; 比…有价值;
 exorbitant adj 过度的，极高的;
 
 transcend vt 超越，超出…的限度; 优于或胜过…; 高于或独立于（宇宙）而生存;
+
+outstrip vt （在数量、程度或成就上）超过，胜过
+The demand for food in the war zone now far outstrips supply.
+
 
 ### 优先
 precede vt 在…之前发生或出现，先于; 在…之上，优于; 给…作序; 处于…前面的位置;
@@ -1821,6 +1891,26 @@ grope vi 触摸，试探着前进; 探索，摸索;
 grope vt 摸索（路）; <俚>抚摸身体;
 grope noun 摸索，探索;
 
+drag vt 拖，拉，拽，牵引
+Pick the chair up instead of dragging it behind you!
+She dragged the canoe down to the water.
+drag vt 硬拖，硬拉，硬拽
+She had to drag her kids away from the toys.
+I really had to drag myself out of bed this morning.
+drag vt 插入（话题），把…扯进（谈话中）
+She's always dragging sex into the conversation.
+drag vt 用拖网在…中打捞
+They found the man's body after dragging the canal.
+
+drag vi （电影或表演等）枯燥；拖拖拉拉
+The first half of the movie was interesting but the second half dragged (on).
+
+drag noun 麻烦；苦差事；讨厌的事
+Filling in forms is such a drag!
+drag noun 空气阻力；液体阻力
+Engineers are always looking for ways to minimize drag when they design new aircraft.
+drag noun 吸一口（烟）
+Taking a deep drag of/on his cigarette he closed his eyes and sighed.
 
 
 haul n/v 拖，拉
@@ -1914,6 +2004,13 @@ leak noun 泄漏，漏洞; 裂缝; 漏出物; （俚语） 撒尿;
 
 ### 修正
 modify
+
+revise vt 修订；修正；修改
+His helpfulness today has made me revise my original opinion/impression of him.
+His publishers made him revise his manuscript three times.
+
+revise vi/vt 复习；温习
+We're revising (algebra) for the test tomorrow.
 
 
 rehabilitate vt 使康复; 使复原，修复; 使恢复原状; 使恢复名誉;

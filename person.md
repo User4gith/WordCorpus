@@ -551,6 +551,13 @@ If teaching paid more it might attract people of (a) higher calibre.
 The competition entries were of such (a) high calibre that judging them was very difficult.
 calibre noun （尤指枪炮的）内径，口径；（子弹的）直径，弹径
 
+prowess 杰出的才能；高超的技能
+He's always boasting about his sexual prowess.
+athletic/sporting prowess
+
+inability noun 无能，无力
+[ + to infinitive ] Inability to use a computer is a serious disadvantage when you are applying for jobs.
+
 
 ### 直率的
 blunt adj （铅笔、刀等）钝的，不锋利的
@@ -617,6 +624,8 @@ diligence 勤勉，勤奋
 prudent adj 谨慎的，慎重的；精明的
 [ + to infinitive ] It's always prudent to read a contract carefully before signing it.
 
+prudence noun
+Western businessmen are showing remarkable prudence in investing in the region
 
 cautious adj 谨慎的，细心的，小心翼翼的 Someone who is cautious avoids risks.
 He's a cautious driver.
@@ -1004,6 +1013,16 @@ A proposed five percent cut in pay has outraged staff at the warehouse.
 outraged  愤怒的；愤慨的，义愤填膺的
 Outraged viewers jumped onto social media to complain about the ending of the series.
 
+temper noun 脾气；易怒
+He's got a really bad temper.
+
+temper noun 性情，情绪
+He appears to be a man of calm and even temper.
+
+temper vt 使缓和；使变温和；使变淡
+My enthusiasm for the venture was tempered by my knowledge of the hard work that would be involved.
+I learned to temper my criticism.
+
 
 ### 不满
 discontent adj 不满的; 不安分的; 不快的;
@@ -1193,6 +1212,19 @@ slight adj （人）瘦小的，纤弱的 Like most long-distance runners she is
 slight vt 轻视，冷落；怠慢 I felt slighted when my boss thanked everyone but me for their hard work.
 slight noun 轻视；冷落 I regarded her failure to acknowledge my greeting as a slight.
 
+overlook vt 眺望；（尤指）俯瞰，俯视
+Our hotel room overlooked the harbour.
+The house is surrounded by trees, so it's not overlooked at all (= it cannot be seen from any other buildings).
+
+overlook vt 忽视；忽略，没注意到
+I think there is one key fact that you have overlooked.
+No one will be overlooked when we select players for the team.
+
+overlook vt 宽恕，不计较；对…视而不见
+I'm prepared to overlook his behaviour this time.
+
+overlook noun 观察位置
+There are lots of scenic overlooks along the road from New York to Montreal.
 
 
 ### 诽谤

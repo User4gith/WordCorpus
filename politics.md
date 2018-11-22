@@ -19,6 +19,8 @@ reign vt 想法、情感或氛围盛行，成为最显著的;
 reign noun 君主的统治; 君主统治时期; 任期; 当政期;
 
 rein noun 缰绳; 驾驭（法）; 统治手段; 控制（权）;
+You pull on both reins to stop or slow a horse, but only the left rein to turn left.
+I always put my son on reins when we go shopping.
 rein vt 驾驭; 勒缰绳使（马）停步; 严格控制;
 rein vi 勒住马;
 
@@ -117,7 +119,15 @@ unilateral 片面的; 单边的，一方的; 单方有义务的; 仅由一方实
 
 ally noun 联盟; 同盟国，同盟者; 助手，支持者; 协约国;
 ally vt （使） 联盟，（使）同盟; （使） 结盟，（使）联姻;
+
 alignment noun 结盟; 队列，排成直线; 校直，调整; [工] 准线;
+
+league noun （体育项目）联合会，联赛，联盟
+Who do you think will win the league championship this year?
+
+league noun 联盟，联合会
+the League of Nations
+
 
 
 ### 选举
@@ -143,20 +153,24 @@ enfranchise vt 给予选举权; （从奴隶制中） 解放;
 Women in Britain were first enfranchised in 1918.
 
 
+constituent noun 选民; 成分，构成部分; 委托人
+constituent adj 构成的，组成的; 选举的; 有选举权的;
+
 suffrage
 
 delegate noun 代表，代表团成员;
 Delegates have voted in favour of the motion.
 Each union elects several delegates to the annual conference.
 
-delegate vt （把…）委派（给…），（把…）委托（给…）；授权（给…）
+delegate vt/vi （把…）委派（给…），（把…）委托（给…）；授权（给…）
 As a boss you have to delegate (responsibilities to your staff).
 Authority to make financial decisions has been delegated to a special committee.
-选出（尤指会议的）代表
+delegate vt 选出（尤指会议的）代表
 A group of four teachers were delegated to represent their colleagues at the union conference.
 
-constituent noun 选民; 成分，构成部分; 委托人
-constituent adj 构成的，组成的; 选举的; 有选举权的;
+earmark vt 划拨（款项）；指定…作特定用途
+Five billion dollars of this year's budget is already earmarked for hospital improvements.
+
 
 
 register
@@ -168,6 +182,60 @@ privilege vt 给与…特权，特免;
 
 influential adj 有影响力的
 She wanted to work for a bigger and more influential (= powerful) newspaper.
+
+### 税
+levy noun 征收额；税款 They imposed a five percent levy on alcohol.
+tariff noun 关税；关税表
+
+
+
+# legal
+legislative adj （关于） 立法的; 立法决定的; 有权立法的，用以立法的; 立法机构的;
+legislative noun 立法机关; 立法权;
+
+
+legislation noun 立法，制定法律; 法律，法规;
+enact vt 制定法律; 规定; 颁布，颁布; 担任…角色;
+
+promulgate 公布; 传播; 宣扬（某事物）; 颁布（法令、新法律等）;
+
+stipulate vt （尤指在协议或建议中）规定，约定，讲明（条件等） ;
+stipulate vi 规定，明确要求;
+stipulate 有托叶的;
+
+treaty noun 条约；协定
+We've signed/concluded a treaty with neighbouring states to limit emissions of harmful gases.
+
+embargo noun （尤指暂时禁止贸易或提供消息的）禁令，禁运；限制
+They have put an embargo on imports of clothing.
+embargo vt 禁止与（另一国家）通商；对…禁运
+They are planning to embargo oil imports.
+
+outlaw noun （尤指旧时的）不法之徒，草寇 Robin Hood was an outlaw who lived in the forest and stole from the rich to give to the poor.
+outlaw vt 使成为非法；禁止；取缔 The new law will outlaw smoking in public places.
+
+resolution noun 决议；正式决定 The United Nations passed (= voted to support) a resolution to increase aid to developing nations.
+resolution noun 决心；决定 I made a resolution to give up chocolate.
+resolution noun 决意；坚决 He showed great resolution in facing the robbers.
+resolution noun 解决；解除；消除 a successful resolution to the crisis
+resolution noun 清晰度，分辨率 a high/low resolution image
+resolution noun 分解；解析 the resolution of oil into bitumen and tar
+
+decree noun 法令，政令；命令
+More than 200 people were freed by military decree.
+decree vt 颁布法令，下达政令；发出命令
+They decreed an end to discrimination on grounds of age.
+[ + that ] After the earthquake, the government decreed that all new buildings must be built according to the new standards.
+
+edict noun 法令，命令
+The City Council issued an edict against spitting in the street.
+a religious edict
+
+ratify vt （尤指政府或组织）正式批准，使正式生效，正式签署
+Many countries have now ratified the UN convention on the rights of the child.
+The decision will have to be ratified (= approved) by the executive board.
+
+d
 
 ### 鉴定
 authenticate 证明是真实的、可靠的或有效的; 鉴定，使生效
@@ -209,7 +277,10 @@ protest noun 抗议; 反对; 申明;
 protest vi 抗议; 断言;
 protest vt 抗议; 声明反对; 断言;
 
-portester
+protester
+
+crackdown noun 制裁；处罚；打击；镇压
+There has been a series of government crackdowns on safety in factories.
 
 
 suppression noun 抑制; 压制; 镇压; 禁止;
@@ -225,6 +296,14 @@ He criticized the school for trying to subdue individual expression.
 
 persecution noun（因种族、宗教、政治信仰）迫害；虐待；烦扰，纠缠
 They left the country out of fear of persecution.
+
+====================
+sanctuary 庇护，保护；避难所，庇护所
+Illegal immigrants found/sought/took sanctuary in a local church.
+sanctuary 禁猎区，鸟兽保护区
+a wildlife/bird sanctuary
+sanctuary noun 圣殿，圣堂
+
 
 refuge noun 避难（所）；庇护（所）；慰藉
 These people are seeking/taking refuge from persecution.
@@ -258,6 +337,13 @@ constitution 宪法/体质/组成
 institute 学院/建立；着手（vt）She is threatening to institute legal proceedings against the hospital.
 institution 机构/制度/
 
+cabinet noun 内阁
+The Cabinet meet/meets every Thursday.
+The President is completing the selection of his new Cabinet.
+cabinet 贮藏柜；陈列柜；橱柜
+Valuable pieces of china were on display in a glass-fronted cabinet.
+
+
 territory noun 领土；领域；领地；活动范围
 The UN is sending aid to the occupied territories.
 territory noun 领域；地盘（某一动物或人想控制的、或认为属于它或他的区域）
@@ -269,49 +355,15 @@ territorial adj 领土的；领地的；土地的
 a territorial dispute
 Some animals and birds are territorial (= they mark out areas which they defend against others).
 
+terrain noun 地形，地势；地带
+The car handles particularly well on rough terrain.
+
 
 realm noun （兴趣或活动的）界，领域，范围
 Her interests are in the realm of practical politics.
 realm noun 王国
 The matter was hotly debated in all the towns of the realm.
 
-### 税
-levy noun 征收额；税款 They imposed a five percent levy on alcohol.
-tariff noun 关税；关税表
-
-
-
-# legal
-legislative adj （关于） 立法的; 立法决定的; 有权立法的，用以立法的; 立法机构的;
-legislative noun 立法机关; 立法权;
-
-
-legislation noun 立法，制定法律; 法律，法规;
-enact vt 制定法律; 规定; 颁布，颁布; 担任…角色;
-
-promulgate 公布; 传播; 宣扬（某事物）; 颁布（法令、新法律等）;
-
-stipulate vt （尤指在协议或建议中）规定，约定，讲明（条件等） ;
-stipulate vi 规定，明确要求;
-stipulate 有托叶的;
-
-treaty noun 条约；协定
-We've signed/concluded a treaty with neighbouring states to limit emissions of harmful gases.
-
-embargo noun （尤指暂时禁止贸易或提供消息的）禁令，禁运；限制
-They have put an embargo on imports of clothing.
-embargo vt 禁止与（另一国家）通商；对…禁运
-They are planning to embargo oil imports.
-
-outlaw noun （尤指旧时的）不法之徒，草寇 Robin Hood was an outlaw who lived in the forest and stole from the rich to give to the poor.
-outlaw vt 使成为非法；禁止；取缔 The new law will outlaw smoking in public places.
-
-resolution noun 决议；正式决定 The United Nations passed (= voted to support) a resolution to increase aid to developing nations.
-resolution noun 决心；决定 I made a resolution to give up chocolate.
-resolution noun 决意；坚决 He showed great resolution in facing the robbers.
-resolution noun 解决；解除；消除 a successful resolution to the crisis
-resolution noun 清晰度，分辨率 a high/low resolution image
-resolution noun 分解；解析 the resolution of oil into bitumen and tar
 
 
 # 政治从业
@@ -573,9 +625,22 @@ intrigue vt 以谋略达成; 激起…的好奇心;
 plunder 掠夺; 偷; 私吞;
 plunder 抢劫; 掠夺物;
 
-trap vt 诱骗; 使受限制; 困住; 使（水与气体等）分离;
-trap noun 圈套; （对付人的） 计谋; （练习射击用的） 抛靶器; （捕捉动物的） 夹子;
-trap vi 设陷阱; 装捕捉机; 设圈套;
+
+trap noun 陷阱；夹子；捕捉器
+The fox got its foot caught in a trap.
+trap noun 圈套；诡计
+The undercover agents went to the rendezvous knowing that it might be a trap.
+
+trap vt 设陷阱（或夹子、捕捉器）捕捉
+She survived in the wilderness by eating berries and trapping small animals and birds.
+trap vt （尤指为利用而）收集，存住，保存（热量、水等）
+A greenhouse stays warm because the glass traps the heat of the sun.
+
+be trapped 被困住；陷入困境
+The two men died when they were trapped in a burning building.
+be trapped into (doing) sth 被迫做；被诱骗做
+She had been trapped into saying something she did not mean.
+
 
 synthetic adj 合成的，人造的 synthetic fibres
 synthetic adj 假的，做作的 She criticized the synthetic charm of TV hosts.

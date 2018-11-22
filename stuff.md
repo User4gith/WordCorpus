@@ -16,6 +16,14 @@ axle
 valve noun 阀；活门；（心脏或血管的）瓣膜 The valve failed to open/close.
 valve noun （喇叭等乐器的）阀键，活塞
 
+brake 刹车；闸，制动器
+She had no brakes on her bicycle.
+
+brake vi 刹住；刹车
+When it's icy, brake gently.
+He would drive very fast and brake hard/sharply at the last minute.
+
+
 gadget noun 小器具；小装置；小玩意儿 Have you seen this handy little gadget - it's for separating egg yolks from whites.
 
 lever noun 杠杆; 操作杆; 工具;
@@ -57,8 +65,24 @@ buckle vt/vi （皮带等的）搭扣，扣环
 buckle vt/vi 弯曲；变形 The intense heat from the fire had caused the factory roof to buckle.
 buckle under sth 屈服于（困境）But these were difficult times and a lesser man would have buckled under the strain.
 
+crane noun 起重机，吊车
+The crane lifted the container off the ship.
+crane vi/vt 伸长（脖子），探着身子（看）
+He craned forward to see the procession.
+Mike was craning his neck to get the first glimpse of the car.
+
 
 ventilation noun 通风（设备）；空气流通（设备）
+Her room had poor ventilation and in summer it became unbearably stuffy.
+
+refrigerate vt （通常指在冰箱中）冷藏，冷冻，保鲜（尤指食物饮料）
+Fresh orange juice should be refrigerated after opening and drunk within three days.
+
+refrigerant noun
+
+thermostat noun 温度自动调节器，恒温器
+a central heating thermostat
+
 
 hoover 真空吸尘器（同 vacuum）
 Vacuum
@@ -154,6 +178,9 @@ reserve noun 替补队员 We had two reserves in case anyone was injured.
 reserve noun （尤指拍卖中买方定的）底价，保留价格，最低价
 We set/put a reserve of €500 on the picture.
 
+the reserves 后备队员/后备军；后备部队
+
+
 conserve vt 保护；保藏；保存；保留；节约
 To conserve electricity, we are cutting down on our heating.
 conserve noun 蜜饯，果脯
@@ -163,10 +190,6 @@ a conservation area
 
 conservation noun （对自然资源等的）保护，保存，节约
 Energy conservation reduces your fuel bills and helps the environment.
-
-
-the reserves 后备队员/后备军；后备部队
-
 
 
 
@@ -179,7 +202,7 @@ security noun 保证金；担保品 She used her shares in the company as securi
 securitise noun 证券；债券
 
 # 参加
-participate vi 参加某事; 分享某事;
+participate vi 参加某事; 分享某事;She never participates in any of our discussions, does she?
 participate vt 得到或接受某部分东西;
 
 participant noun 参加者，参与者; 与会代表; 参与国; 关系者;
@@ -377,7 +400,11 @@ snake neike
 
 
 ### 切
-carve 雕刻; 切，切开; 创制，开创
+carve vi/vt （尤指在石头或木头上）雕刻
+He carved her name on a tree.
+carve 把（熟肉）切成小片
+Would you like me to carve (the chicken)?
+
 blade
 shave vt 剃，削去; 修剪; 切成薄片; 掠过;
 injection 注射; 注射剂; [医] 充血; （卫星等的） 入轨;
@@ -387,6 +414,17 @@ inscribe vt 雕，刻; 题写，题献;
 engrave vt 在（金属、石头等）上雕刻（字、图案等）The jeweller skilfully engraved the initials on the ring.
 inscribe vt 题写；刻，雕
 The wall of the church was inscribed with the names of the dead from World War I.
+
+notch noun （硬物表面的）V形槽口，V形切
+The stick has two notches, one at each end.
+notch noun 等级，档次
+Among current players, she is rated a notch above (= is better than) the rest.
+
+noun vt 在…上切V形槽口，在…上刻V形切口
+
+notch sth up 险胜，侥幸取胜
+She has recently notched up her third win at a major ski event.
+
 
 # 裸
 naked adj 裸体的，裸露的; 率直的，赤裸裸的; 缺乏保护; 不加掩饰的;
@@ -446,6 +484,21 @@ pessimistic
 # 主/客观
 subject
 object
+
+# 进出
+inhale vt/vi 吸气；吸入
+She flung open the window and inhaled deeply.
+She became ill shortly after inhaling the fumes.
+inhale vt 狼吞虎咽
+Tony inhaled his burger.
+
+exhale vt/vi 呼出，吐出（肺中的空气），呼气
+Take a deep breath in then exhale into the mouthpiece.
+
+
+influx 涌进；汇集
+Turkey is expecting an influx of several thousand refugees over the next few days.
+
 
 # 保守/激进
 conservative adj 保守的；守旧的
@@ -531,7 +584,13 @@ muddy adj 泥泞的; 暗的; 模糊的; 糊涂的;
 muddy vt 使沾上泥; 把…弄糊涂;
 muddy vi 变得泥泞，沾满烂泥;
 
-murky adj 阴暗的，昏暗的; 朦胧的，含糊的，暧昧的; （指水） 脏的，（雾等）浓的; （陷入）心中无数的困境（或险境） ;
+murkey adj 黑暗的；不清楚的；肮脏的
+The river was brown and murky after the storm.
+murkey adj （形势）复杂难懂的，不明朗的
+He became involved in the murky world of international drug-dealing.
+I don't want to get into the murky waters of family arguments.
+
+
 feculent
 
 
@@ -662,9 +721,49 @@ She wore a dress of the sheerest silk.
 sheer vi 突然变向
 I thought the boats were going to collide, but one sheered off/away at the last second.
 
-
-
 sheer noun 舷弧; 单锚系泊的船位; 偏离的方向; 船体型线;
+
+rough adj 高低不平的；崎岖的；难行的
+It was a rough mountain road, full of stones and huge holes.
+rough adj （表面）粗糙的，毛糙的，不平滑的
+My hands get very rough in the cold.
+rough adj 粗略的；大致的；近似的
+This is only a rough guess.
+rough adj 粗制滥造的；简陋的；粗糙的
+I made a rough table out of some old boxes.
+rough adj 粗暴的，粗野的；猛烈的；充斥暴力的，危险的
+The other boys were rough, always looking for a fight.
+rough adj 艰难的；艰苦的；令人不快的
+It must be rough to have two kids and nowhere to live.
+rough adj 不舒服的，不适的，生病的
+You look a bit rough - how much did you have to drink last night?
+
+
+rough adj （尤指酒类饮料）涩味的，辣嗓子的，劣质的
+rough adj 声音粗哑的，难听的
+rough adj （机器状况不佳而）发出刺耳声音的，发出杂音的
+
+
+rough adj （土地）未开垦的，杂草丛生的，荒的
+
+
+rough adj （天气）有狂风大浪的
+I'm always seasick if the water/wind/sea/weather is rough.
+
+rough noun 粗人，莽汉，暴徒
+a gang of drunken young roughs
+
+rough adv 粗野地；粗鲁地
+The local team had a bad reputation for playing rough.
+
+
+rougu it （暂时）将就度日，因陋就简地生活
+While the house was being decorated we roughed it in a tent.
+in rought 粗略地；大概地；大致上
+His first plans were drawn up in rough.
+live/sleep rough 风餐露宿
+When we ran out of money, we slept rough for a week.
+
 
 
 cliff
@@ -886,6 +985,21 @@ Drinking a lot of water counteracts the dehydrating effects of hot weather.
 consist 在于; 由…组成; 符合;
 
 persist
+
+# dge
+budge vt/vi （使）轻微移动
+I've tried moving the desk but it won't budge/I can't budge it.
+
+budge vt/vi （使）改变主意
+I've tried persuading her, but she won't budge.
+
+fudge noun 乳脂软糖
+fudge noun 含糊其辞（避免作出明确确定或给出明确答案）
+She suspects that this compromise deal will be nothing more than a fudge.
+
+fudge vt 回避；搪塞；敷衍；含糊其辞
+The government continues to fudge the issue by refusing to give exact figures.
+
 
 # spir
 
