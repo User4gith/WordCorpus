@@ -59,6 +59,14 @@ jaw noun 闲谈 I met Jane and we had a good jaw over lunch.
 jaw vt He was jawing away to his girlfriend for hours on the phone.
 
 
+skeleton noun 骨骼，骨架
+We found an old sheep skeleton up on the cliffs.
+Her long illness reduced her to a skeleton (= made her very thin).
+skeleton 框架；梗概，纲要
+The skeleton of my book is written/My book is in skeleton form - now I just have to add the details.
+
+corpse noun （通常指人的）尸体
+
 ### 毒
 poison  Her drink had been laced with a deadly poison.
 poison vt 毒杀，毒害，使中毒 Four members of the family had been poisoned, but not fatally.
@@ -234,6 +242,11 @@ pill noun （衣服或布料上的）球粒，纤维绒球 She sat there sulking
 medication noun 药物，药剂 He is currently on/taking medication for his heart.
 
 ointment noun 药膏，软膏，油膏
+syrup noun 浓糖水
+Make a syrup by boiling 100 g sugar in 300 ml water.
+糖浆（一种药）
+cough syrup
+
 
 inject vt 注射；给…注射 Phil's a diabetic and has to inject himself with insulin every day.
 inject vt 投入；增添；引入，带来 A large amount of money will have to be injected into the company if it is to survive.

@@ -629,6 +629,26 @@ Nothing can describe the torments we went through while we were waiting for news
 torment vt 使折磨，使痛苦; 使烦乱; 纠缠;
 It tormented me all day - had I said the wrong thing and hurt her feelings?
 
+sting vi/vt （昆虫、植物或动物）叮，刺，蜇
+I got stung by a wasp yesterday.
+sting vi/vt 引起刺痛，引起灼痛
+The soap/smoke/sweat stung my eyes.
+This type of disinfectant doesn't sting, even if you put it on a fresh cut.
+
+sting vi/vt （伤害人的话）刺痛，使苦恼
+She knew he was right, but his words still stung.
+He was stung by her criticisms.
+She managed to give a stinging reply (= an angry answer intended to upset), before slamming down the phone.
+
+sting 向…索要惊人高价；敲诈
+The bank stung me for £50 in charges when I got overdrawn.
+
+sting noun （眼睛、皮肤等的）灼痛，刺痛；蜇
+She had several bee stings.
+sting noun 痛苦；刺痛，刺伤；刺激 [ S ] the feeling of being upset by something
+the sting of defeat
+sting noun （昆虫或动物的）刺，蜇刺，蜇针；（植物的）刺毛
+
 
 ### 污染
 stain v 玷污，染污; 败坏（名声）; 给…染色;

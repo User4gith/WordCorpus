@@ -83,6 +83,10 @@ refrigerant noun
 thermostat noun 温度自动调节器，恒温器
 a central heating thermostat
 
+radiator noun （通常指依靠水循环的）暖气装置；散热器；冷却器
+When we installed the central heating, we put a radiator in every room.
+My car engine overheated because the water had leaked out of the radiator.
+
 
 hoover 真空吸尘器（同 vacuum）
 Vacuum

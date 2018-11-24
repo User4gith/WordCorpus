@@ -297,6 +297,15 @@ He criticized the school for trying to subdue individual expression.
 persecution noun（因种族、宗教、政治信仰）迫害；虐待；烦扰，纠缠
 They left the country out of fear of persecution.
 
+subside vi （状况）趋于平缓，平息
+The police are hoping that the violence will soon subside.
+As the pain in my foot subsided, I was able to walk the short distance to the car.
+subside vi （建筑物、地面或水面）下沉，下陷，沉降
+There is a danger that many homes will subside because of the drought.
+Eventually the flood waters began to subside.
+
+
+
 ====================
 sanctuary 庇护，保护；避难所，庇护所
 Illegal immigrants found/sought/took sanctuary in a local church.
