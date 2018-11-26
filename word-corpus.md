@@ -192,6 +192,21 @@ lawn noun （尤指房屋附近或公园的）草地，草坪
 Will you mow the lawn at the weekend?
 
 
+wardrobe [c]noun 衣橱，衣柜；（某人的）全部衣服
+He hung his suit in the wardrobe.
+She was showing me her new built-in/fitted wardrobes.
+wardrobe [u]（剧院等的）服装保管部，戏装部
+He's in charge of wardrobe at the local amateur theatre.
+
+cushion noun[c] 垫子；座垫；靠垫
+She sank back against/into the cushions.
+cushion of air 气垫
+A hovercraft travels on a cushion of air.
+
+cushion noun[c] 起保护（或缓冲）作用的事物
+You should aim to build up a cushion of money in case of emergencies.
+cushion vt 对（某事物的影响或力量）起缓冲作用
+The soft grass cushioned his fall.
 
 
 # 时间相关
@@ -269,7 +284,15 @@ fatigue vt 使疲劳; 使疲乏;
 fatigue vi 疲劳;
 
 exuberant 生气勃勃的;（活力）充沛的;茂盛的，繁茂的;（词藻）过于华丽的，极度的
-vigorous 精力充沛的
+
+vigorous adj 充满活力的；有力量的；精力旺盛的
+a vigorous debate
+He takes plenty of vigorous exercise.
+
+vigorous adj 健壮的；强壮的
+Cutting the bush back in the autumn will help promote vigorous growth in the spring.
+
+
 energetic adj
 
 dynamic adj 动态的; 动力的，动力学的; 充满活力的，精力充沛的; 不断变化的，充满变数的;
@@ -588,6 +611,11 @@ acquaint vt 使熟悉; 使认识; 把某事通知某人，告知;
 
 allude vi 暗指; 间接提到;
 allude to
+
+convince vt 说服；使相信；使信服
+He managed to convince the jury of his innocence.
+[ + (that) ] It's useless trying to convince her (that) she doesn't need to lose any weight.
+[ + to infinitive ] I hope this will convince you to change your mind.
 
 persuade vt 说服; 劝说; 使相信; 使信服; If she doesn't want to go, nothing you can say will persuade her.
 
@@ -1753,8 +1781,19 @@ escalate vi 逐步扩大; 逐步上升; （战争） 逐步升级; 像乘自动�
 
 
 
-ascend vt 攀登; 继承; 占领;
+ascend vt/vi 上升；攀登；登上
+They slowly ascended the steep path up the mountain.
+There's a long flight of steps ascending (= leading up) to the cathedral doors.
+
+ascend vi 登上高的职位；升级，晋级
+He eventually ascended to the position of chief executive.
+
 ascend vi 上升; 爬坡; 追溯;
+
+ascending adj （规模、价值等）上升的，增长的
+I shall list my objections to the plan in ascending order of importance.
+ascend （尤指神经通路）上行的，上升的
+
 
 surge noun 汹涌; 大浪，波涛;
 surge v 汹涌; 起大浪，蜂拥而来;

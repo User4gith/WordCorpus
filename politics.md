@@ -129,52 +129,47 @@ league noun 联盟，联合会
 the League of Nations
 
 
+# stitution
+charter
+legislation
+constitution 宪法/体质/组成
 
-### 选举
-accountable adj 应负责任的；应作解释的；应加以说明的
-Politicians should be accountable to the public who elected them.
-accountability noun
+institute 学院/建立；着手（vt）She is threatening to institute legal proceedings against the hospital.
+institution 机构/制度/
 
-candidate noun 报考者; 申请求职者; 攻读学位者; 最后命运或结局如何已显然可见者;
-
-representative noun 代表；代理人
-The firm has representatives in every major city.
-representative adj 有代表性的；典型的；代表…的
-Are your views/opinions representative of all the workers here?
-a representative sample/cross-section/selection
-representative noun 代议制政体
-
-
-eligible adj 合适的; 在（法律上或道德上）合格的; 有资格当选的; 称心如意的;
-eligible noun 合格者; 合适者; 称心如意的人; 合乎条件的人（或东西）;
+cabinet noun 内阁
+The Cabinet meet/meets every Thursday.
+The President is completing the selection of his new Cabinet.
+cabinet 贮藏柜；陈列柜；橱柜
+Valuable pieces of china were on display in a glass-fronted cabinet.
 
 
-enfranchise vt 给予选举权; （从奴隶制中） 解放;
-Women in Britain were first enfranchised in 1918.
+territory noun 领土；领域；领地；活动范围
+The UN is sending aid to the occupied territories.
+territory noun 领域；地盘（某一动物或人想控制的、或认为属于它或他的区域）
+The robin keeps other birds off that part of the garden - that's his territory.
+territory noun （知识等的）领域，范围（你了解或有经验的科目）
+The director is back on familiar territory with his latest film.
+
+territorial adj 领土的；领地的；土地的
+a territorial dispute
+Some animals and birds are territorial (= they mark out areas which they defend against others).
+
+terrain noun 地形，地势；地带
+The car handles particularly well on rough terrain.
 
 
-constituent noun 选民; 成分，构成部分; 委托人
-constituent adj 构成的，组成的; 选举的; 有选举权的;
+realm noun （兴趣或活动的）界，领域，范围
+Her interests are in the realm of practical politics.
+realm noun 王国
+The matter was hotly debated in all the towns of the realm.
 
-suffrage
-
-delegate noun 代表，代表团成员;
-Delegates have voted in favour of the motion.
-Each union elects several delegates to the annual conference.
-
-delegate vt/vi （把…）委派（给…），（把…）委托（给…）；授权（给…）
-As a boss you have to delegate (responsibilities to your staff).
-Authority to make financial decisions has been delegated to a special committee.
-delegate vt 选出（尤指会议的）代表
-A group of four teachers were delegated to represent their colleagues at the union conference.
-
-earmark vt 划拨（款项）；指定…作特定用途
-Five billion dollars of this year's budget is already earmarked for hospital improvements.
+agrarian adj 土地的，耕地的；土地所有制的
+This is prime agrarian land.
+agrarian adj 农业的；农村的
+This part of the country is mainly agrarian.
 
 
-
-register
-enrolment
 
 ### 权
 privilege noun 特权; （因财富和社会地位而仅有部分人享有的） 权益; 免责特权; 特殊荣幸;
@@ -235,7 +230,7 @@ ratify vt （尤指政府或组织）正式批准，使正式生效，正式签�
 Many countries have now ratified the UN convention on the rights of the child.
 The decision will have to be ratified (= approved) by the executive board.
 
-d
+
 
 ### 鉴定
 authenticate 证明是真实的、可靠的或有效的; 鉴定，使生效
@@ -260,6 +255,52 @@ The agency was not accredited by the Philippine Consulate to offer contracts to 
 verify vt 核实; 证明; 判定;
 verification noun 核实; 证明; 证实; <哲>（指通过经验）证明（某命题正确）;
 
+
+### 选举
+accountable adj 应负责任的；应作解释的；应加以说明的
+Politicians should be accountable to the public who elected them.
+accountability noun
+
+candidate noun 报考者; 申请求职者; 攻读学位者; 最后命运或结局如何已显然可见者;
+
+representative noun 代表；代理人
+The firm has representatives in every major city.
+representative adj 有代表性的；典型的；代表…的
+Are your views/opinions representative of all the workers here?
+a representative sample/cross-section/selection
+representative noun 代议制政体
+
+
+eligible adj 合适的; 在（法律上或道德上）合格的; 有资格当选的; 称心如意的;
+eligible noun 合格者; 合适者; 称心如意的人; 合乎条件的人（或东西）;
+
+
+enfranchise vt 给予选举权; （从奴隶制中） 解放;
+Women in Britain were first enfranchised in 1918.
+
+
+constituent noun 选民; 成分，构成部分; 委托人
+constituent adj 构成的，组成的; 选举的; 有选举权的;
+
+suffrage
+
+delegate noun 代表，代表团成员;
+Delegates have voted in favour of the motion.
+Each union elects several delegates to the annual conference.
+
+delegate vt/vi （把…）委派（给…），（把…）委托（给…）；授权（给…）
+As a boss you have to delegate (responsibilities to your staff).
+Authority to make financial decisions has been delegated to a special committee.
+delegate vt 选出（尤指会议的）代表
+A group of four teachers were delegated to represent their colleagues at the union conference.
+
+earmark vt 划拨（款项）；指定…作特定用途
+Five billion dollars of this year's budget is already earmarked for hospital improvements.
+
+
+
+register
+enrolment
 
 ### 抗议
 propose vt 求婚; 提议，建议; 打算，计划; 推荐，提名;
@@ -338,40 +379,6 @@ convoke vt 召集，召开（会议）
 
 
 
-# stitution
-charter
-legislation
-constitution 宪法/体质/组成
-
-institute 学院/建立；着手（vt）She is threatening to institute legal proceedings against the hospital.
-institution 机构/制度/
-
-cabinet noun 内阁
-The Cabinet meet/meets every Thursday.
-The President is completing the selection of his new Cabinet.
-cabinet 贮藏柜；陈列柜；橱柜
-Valuable pieces of china were on display in a glass-fronted cabinet.
-
-
-territory noun 领土；领域；领地；活动范围
-The UN is sending aid to the occupied territories.
-territory noun 领域；地盘（某一动物或人想控制的、或认为属于它或他的区域）
-The robin keeps other birds off that part of the garden - that's his territory.
-territory noun （知识等的）领域，范围（你了解或有经验的科目）
-The director is back on familiar territory with his latest film.
-
-territorial adj 领土的；领地的；土地的
-a territorial dispute
-Some animals and birds are territorial (= they mark out areas which they defend against others).
-
-terrain noun 地形，地势；地带
-The car handles particularly well on rough terrain.
-
-
-realm noun （兴趣或活动的）界，领域，范围
-Her interests are in the realm of practical politics.
-realm noun 王国
-The matter was hotly debated in all the towns of the realm.
 
 
 

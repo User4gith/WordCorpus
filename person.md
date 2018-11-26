@@ -1629,10 +1629,92 @@ intensive
 intense adj 热情的，强烈的，紧张的
 tense adj 拉紧的; 肌肉绷紧的; 神经紧张的
 tense v 使或变的紧张;
+tensile adj 拉力的; 张力的; 可伸展的; 可拉长的;
 
-strain 拉紧，拉伤; 用力拉;; 扭伤; 歪曲;
-strain noun 血统，家族; 性格，脾气; 语气; 一段音乐;
+strain  [ C usually singular or U ]noun 压力；拉力，张力；作用力
+The hurricane put such a strain on the bridge that it collapsed.
+As you get older, excess weight puts a lot of strain on the heart.
+
+strain  [ C ]noun （肌肉等软组织的）损伤，拉伤，扭伤
+a groin/hamstring strain
+
+strain  [ C or U ] noun 压力；紧张
+She's a lot better than she was but she's still not ready to face the stresses and strains of a job.
+He's been under a lot of strain recently.
+
+strain [ C ] a particular type or quality
+类型；品质；个性特点，禀性
+A strain of puritanism runs through all her work.
+
+strain [ C ]（动植物的）品系，株系，品种
+Scientists have discovered a new strain of the virus which is much more dangerous.
+
+strains noun 旋律；曲调
+I could hear the strains of Mozart in the background.
+
+strain vt 滤，过滤（食物）
+Could you strain the vegetables, please.
+
+strain vi/vt （使）紧张，（使）承受压力；拉紧，绷紧；损伤
+I've put on such a lot of weight recently - this dress is straining at the seams.
+I strained a muscle in my back playing squash.
 
 compatible
 
 tighten vt 收紧; （使） 变紧; （使） 绷紧; 加紧;
+
+# 延展
+malleable adj 可锻造的，有延展性的; 韧性的;
+
+stretch vt 伸出；伸长；拉伸
+I tripped on a piece of wire that someone had stretched across the path.
+She stretched out her hand and helped him from his chair.
+stretch vi 舒展；展开，铺开；延伸
+A huge cloud of dense smoke stretched across the horizon.
+The refugee camps stretch as far as the eye can see.
+
+stretch vi 伸展，舒展（四肢）
+It's a good idea to stretch before you do vigorous exercise.
+stretch vi/vt （使弹性物）拉长，伸长；拽长
+an exercise to stretch the leg muscles
+This substance stretches to any shape you want.
+
+stretch vt 到…的限度；超过…的限度；竭尽
+Many families' budgets are already stretched to breaking point.
+This movie really stretches the patience of the audience to the limit.
+stretch vt （工作或任务）使施展本领，对…具有挑战性
+My present job doesn't stretch me, so I'm looking for something more demanding.
+
+stretch vi 延续
+The dispute stretches back over many years.
+Although we were supposed to finish this month, it looks like the work will stretch well into next year.
+stretch vt 延长（…的期限）
+I'd like to stretch my mortgage payments out over a longer period if possible.
+
+
+stretch  [ C usually singular ]noun （土地或水域的）一片，一段
+This particular stretch of coast is especially popular with hikers.
+Some very rare birds inhabit our stretch of the river.
+stretch  [ C usually singular ]noun （赛跑的）阶段；一段跑道
+She looked certain to win as she entered the final stretch.
+
+stretch [ C usually singular ] a continuous period of time（连续的）一段时间
+The elderly generally need far less rest than the young, and tend to sleep in several short stretches.
+stretch [ C usually singular ] informal a period of time that a criminal spends in prison 服刑期
+Her brother's doing a ten-year stretch for armed robbery.
+
+at a stretch [continuously or without any interruptions]连续地，不间断地
+There's no way I could work for ten hours at a stretch.
+
+stretch [ C usually singular ] a job, task , or role that is difficult for someone because it is very different from what they usually do （演员的）有难度的表演，拓宽戏路的表演
+Playing a budding opera star was not much of a stretch for this classically trained singer.
+
+stretch [ C ] noun 伸展，舒展
+I always have a good stretch when I get up in the morning.
+
+stretch [ C usually singular ] the fact that something has gone past its usual limits
+超过限度；过分；离谱；破例
+His idea may be a stretch, but it's not outside the realm of possibility.
+
+stretch [ U ] noun 弹性
+This fabric doesn't have much stretch in it, does it?

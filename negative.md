@@ -212,6 +212,7 @@ a grim-looking block of flats
 
 
 ### 焦虑
+
 anxiety n 焦虑，不安，担心
 Children normally feel a lot of anxiety about their first day at school.
 noun 令人焦虑的事；焦虑的原因
@@ -225,6 +226,13 @@ anxious adj 焦虑的，不安的，担心的
 The drought has made farmers anxious about the harvest.
 anxious adj 渴望做某事
 Developing countries that are anxious for hard currency can rarely afford to protect the environment.
+
+
+strained adj （关系）紧张的，恶化的
+Relations between the two countries have become strained (= difficult) recently.
+strained adj 紧张的，焦虑的，神色不安的
+She was looking strained and had dark circles beneath her eyes.
+Jean felt uncomfortable but managed to force a strained smile.
 
 
 ### 剥夺

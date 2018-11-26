@@ -64,6 +64,11 @@ curriculum noun 课程
 dissertation 专题论文；学位论文
 Ann did her dissertation on Baudelaire.
 
+thesis 论文
+a doctoral thesis (= for a PhD)
+thesis 论题，命题；论点
+Their main thesis was that war was inevitable.
+
 
 essay
 

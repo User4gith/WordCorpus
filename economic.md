@@ -55,6 +55,10 @@ merchandise vi 经商;
 procurement noun 采购 a substantial budget for the procurement of military supplies
 invoice 发票
 
+cheque 支票
+I wrote him a cheque for £50.
+
+
 lucrative adj （尤指生意、职位或活动）赚钱的，盈利的
 The merger proved to be very lucrative for both companies.
 
@@ -131,6 +135,28 @@ effective adj 能产生预期结果的；有效的
 
 
 # 工作
+vocation （值得投入所有时间和精力的）职业，工作；（认为某种职业适合自己的）使命感
+To work in medicine, you should have a vocation for it.
+
+analyse vt 分析
+Researchers analysed the purchases of 6,300 households.
+
+analytics noun （电脑的）分析方法
+analytics noun 通过分析所得数据
+This technology provides detailed analytics about campaign reach.
+
+analyst
+
+analytical adj 分析的；善于分析的
+He has a very analytical mind.
+
+============
+analysis noun 分析
+Chemical analysis revealed a high content of copper.
+I was interested in Clare's analysis of (= examination of and judgment about) the situation.
+
+
+
 incumbent adj 义不容辞的; 在职的; 靠在[压在]上面的; 弯垂下来的
 incumbent noun 在职者; 教会中的任职者; 〈英〉教区牧师;
 personnel noun （公司、组织或军队的）全体人员，员工，职员
@@ -500,11 +526,23 @@ inadequate adj （处理事情）信心不足的
 
 insufficient adj 不够的，不足的；不充分的
 deficiency noun 不足
+
 scarce adj 难得的，稀有的，罕见的
-scarce adj not easy to find or get
-scarcely adv 勉强；几乎不
+Food and clean water were becoming scarce.
+scarce resources
+
+scarce adv 几乎没有
+I could scarce believe my eyes.
+
+scarcely [almost not]adv 勉强；几乎不
+I was scarcely able to move my arm after the accident.
+I could scarcely believe it when she said she wanted to marry me.
+
 scarcely adv 刚…就
+I had scarcely sat down/Scarcely had I sat down to eat when the phone rang.
+
 scarcely adv 决不
+I'd scarcely have done it if I didn't think it was absolutely necessary!
 
 dearth noun 缺乏，稀少;
 

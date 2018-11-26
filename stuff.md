@@ -638,6 +638,17 @@ porcelain noun 瓷器 He had a fine collection of Meissen porcelain.
 leather
 feather
 
+velvet  noun [ U ] 丝绒；平绒；天鹅绒
+Her skin was as soft as velvet.
+
+velvet adj 天鹅绒制的；天鹅绒的
+a velvet dress
+velvet curtains/cushions
+
+velvet adj 柔软光滑的；天鹅绒般的（通常为暗色的）
+under a wonderful velvet sky
+
+
 # 线相关
 cable noun 缆绳，绳索; [电学] 电缆; （系船用的） 缆绳; （船只、桥梁等上的） 巨缆;
 cable vt 发电报至; 电传; 固定系牢;
@@ -648,7 +659,12 @@ cord vt 用绳子捆绑; 堆积（柴薪）;
 
 
 fibre
-linen
+
+linen [u]亚麻布
+a linen jacket
+linen [u]（桌布、床单等）亚麻制品；仿亚麻制品
+bed linen
+
 
 string
 strap vt 用带捆扎; 用皮带抽打; 拼命工作;
@@ -661,6 +677,25 @@ strip noun 长条，条板; 带状地带（或森林、湖面等）; （足球�
 stripe noun 条纹; 种类; 军士军阶; 犯人穿的横条囚衣;
 strip vt 使带有条纹;
 
+streak noun 条纹；条痕
+The window cleaner left dirty streaks on the windows.
+I dye my hair to hide my grey streaks.
+streak noun （常指不好的）特点，个性特征
+Her stubborn streak makes her very difficult to work with sometimes.
+
+streak noun 一阵好运；一阵霉运
+I just hope my lucky streak continues until the world championships.
+
+streak vi （通常指沿直线）飞奔，疾驰
+The motorbike streaked off down the street.
+streak vi （在公共场所）裸奔
+
+be streaked 带有条纹；带有条痕
+Her clothes were streaked with mud.
+White marble is frequently streaked with grey, black, or green.
+
+bloodshot （眼睛）充血的，布满血丝的
+Hayfever gives me a runny nose and bloodshot eyes.
 
 textile
 
@@ -687,6 +722,11 @@ variety noun 综艺表演；杂耍表演 variety show
 
 variability noun 变化性，易变，变化的倾向; 变率;
 
+various adj 各种不同的；各种各样的
+We had various problems on our journey, including a flat tyre.
+Various people whom we weren't expecting turned up at the meeting.
+
+
 diverse adj 多种多样的，形形色色的
 New York is a very culturally/ethnically diverse city.
 diverse adj 不同的，相异的
@@ -697,16 +737,6 @@ We hold very diverse views on the topic.
 variety
 variation
 verify
-
-
-# 延展
-stretch v 伸展; 延伸; 持续; 包括
-stretch noun 伸展; 弹性; 一片; 一段时间;
-stretch adj 可伸缩的; 弹性的;
-
-tensile adj 拉力的; 张力的; 可伸展的; 可拉长的;
-
-malleable adj 可锻造的，有延展性的; 韧性的;
 
 
 

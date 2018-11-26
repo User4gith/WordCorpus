@@ -29,6 +29,11 @@ genuinely adv 确实；的确 I'm genuinely sorry for what I said.
 authentic adj 真的；真正的；可靠的；可信的
 He was there and saw what happened, so his is the only authentic account.
 
+sincere adj （人、感情或行为）真诚的，诚实的
+a sincere apology
+He seems so sincere.
+
+
 subtle adj 隐约的；暗淡的；不易察觉的，不明显的；微妙的
 The room was painted a subtle shade of pink.
 The play's message is perhaps too subtle to be understood by young children.
@@ -150,6 +155,9 @@ brilliance 光彩; 光辉; （卓越的） 才华; 光亮;
 brilliant adj 才华横溢的; 明亮的; <非正式>美好的; 闪耀的
 
 magnificent adj 壮丽的; 瑰丽的; 伟大的，高尚的; 华丽的，高贵的;
+a magnificent view
+a magnificent piece of writing
+
 
 splendid adj 壮观的，豪华的; 极好的或令人满意的; 闪亮的; 为众人所推崇的;
 spectacular adj 惊人的; 场面富丽的，壮观的; 引人注意的; 惊动一时的;
@@ -284,6 +292,28 @@ monumental adj 巨大的
 a monumental waste of time
 
 
+elementary adj 基本的
+I have an elementary knowledge of physics.
+elementary adj 初级的；基础的
+This book contains a series of elementary exercises for learners.
+
+prime adj 首要的，主要的；基本的
+This is a prime example of 1930s architecture.
+the prime suspect in a murder investigation
+
+prime adj 质量最好的，一流的
+prime beef
+The hotel is in a prime location in the city centre.
+
+prime noun 全盛时期；盛年，壮年时期
+This is a dancer in her prime.
+Middle age can be the prime of life if you have the right attitude.
+
+prime vt 事先给（某人）提供情况，使有所准备
+I'd been primed so I knew not to mention her son.
+
+prime vt 在（木质表面）上涂底漆（或底色）
+为…装雷管（或火药）
 
 
 # 大

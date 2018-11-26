@@ -46,6 +46,16 @@ Next time you have the till open, could you give me some change?
 till vt 耕，犁（土地）
 This piece of land has been tilled for hundreds of years.
 
+tractor 拖拉机
+
+trailer noun 拖车；挂车
+The car was pulling a trailer with a motorcycle on it.
+trailer noun （大卡车的）挂车
+trailer noun 旅行拖车
+trailer （影视节目、广播的）预告片
+I saw a trailer for the new series of "Game of Thrones" last night.
+
+
 
 hatch vi/vt 孵出，孵蛋，出壳
 hatch vt 策划（尤指秘密计划）
@@ -186,6 +196,18 @@ mulberry noun 桑树; 桑葚; 桑园;
 
 almond 杏树
 
+vinegar 醋
+wine vinegar
+
+ginger 姜，生姜
+ginger noun 姜黄色，赤黄色
+ginger 长着姜黄色头发的人
+[ as form of address ] Hey, ginger, what are you doing?
+
+ginger adj 姜黄色的，赤黄色的
+His nickname was Ginger because of his ginger hair.
+
+
 ### 食物
 cuisine noun 烹饪，烹调 French cuisine
 
@@ -277,6 +299,19 @@ Now, if you'd all please raise your glasses, I'd like to propose a toast to the 
 toast vt 烤，烘 Do you want this bread toasted?
 toast vt 使暖和，给…烤火 He's just toasting his feet by the fire.
 toast vt 为…干杯 We toasted the happy couple.
+
+
+bake vi/vt 烘，烤
+I made the icing while the cake was baking.
+freshly baked bread
+Bake at 180°C for about 20 minutes.
+Bake for 5–7 minutes in a preheated oven.
+
+bake vi/vt 烧硬（砖块等）
+
+bake vi 感到很热
+It's baking outside.
+You'll bake in that fleece jacket!
 
 
 mill noun 磨坊，碾磨厂，磨粉厂 a pepper/coffee mill
