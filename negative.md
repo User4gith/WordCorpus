@@ -584,6 +584,8 @@ Independent sources say that the death toll from the earthquake runs into thousa
 toll vi/vt （使）缓慢而反复地鸣响
 In the distance, a church bell tolled the hour (= showed the time by ringing).
 
+tamper with sth 胡乱摆弄；擅自改动；蓄意破坏
+I could see immediately that the lock had been tampered with.
 
 
 ### 责骂

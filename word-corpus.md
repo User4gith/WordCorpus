@@ -441,6 +441,22 @@ whirl 旋转，回旋; 急走，飞奔; 头晕眼花
 
 distortion noun 扭曲，变形; 失真，畸变; [心理学] 扭转;
 
+
+circuit [c]noun 巡回；巡游；巡回之地
+They first met each other on the tennis circuit (= while at different tennis competitions).
+He was a familiar figure on the lecture circuit.
+circuit [c]巡回审判区
+The judge had served for many years on the northeastern Circuit.
+
+circuit [c]环行物；（尤指）环形道路（或路线、赛道）
+They test the car tyres on a motor racing circuit.
+
+circuit [c]（电流的）电路；（液体的）回路
+A defect was found in the water-cooling/electrical circuit.
+
+
+
+
 # 缠绕
 entwine vt 缠绕，盘绕;
 
@@ -1763,6 +1779,14 @@ consolidate vi 合并; 统一; 联合;
 multiply vt 乘; （使） 相乘; （使） 增加; （使） 繁殖;
 multiply adv 多样地; 复合地; 多倍地; [电学] 并联地，多路地;
 multiply adj 多层的; 多样的; 多股的;
+
+propel vt 推进，推动
+a rocket propelled through space
+The Kon-Tiki sailed across the Pacific Ocean propelled by wind power.
+
+propel sb into/to/towards sth 推动（某人）做…／将（某人）推向（某一境地）
+The film propelled him to international stardom.
+
 
 ### 上升
 elevate vt 抬高；提高；使上升；举起

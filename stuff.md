@@ -91,6 +91,10 @@ My car engine overheated because the water had leaked out of the radiator.
 hoover 真空吸尘器（同 vacuum）
 Vacuum
 
+smelter noun 冶炼厂；熔炉
+foundry noun 铸造厂；铸造车间
+
+
 
 # 宗教
 religion

@@ -178,6 +178,17 @@ privilege vt 给与…特权，特免;
 influential adj 有影响力的
 She wanted to work for a bigger and more influential (= powerful) newspaper.
 
+consent noun [u]许可，允许；同意
+They can't publish your name without your consent.
+You can only come on the trip if your parents give their consent.
+by common consent 大多数人同意；普遍认可
+Her latest novel, by common consent, is her best yet.
+
+consent vi 同意；答应；许可，允许
+[ + to infinitive ] Very reluctantly, I've consented to lend her my car.
+My aunt never married because her father wouldn't consent to her marriage.
+
+
 ### 税
 levy noun 征收额；税款 They imposed a five percent levy on alcohol.
 tariff noun 关税；关税表
