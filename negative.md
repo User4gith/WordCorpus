@@ -591,6 +591,11 @@ In the distance, a church bell tolled the hour (= showed the time by ringing).
 tamper with sth 胡乱摆弄；擅自改动；蓄意破坏
 I could see immediately that the lock had been tampered with.
 
+adverse adj 不利的；负面的；有害的
+The match has been cancelled because of adverse weather conditions.
+They received a lot of adverse publicity/criticism about the changes.
+
+
 
 ### 责骂
 scold vt 责骂
@@ -621,6 +626,13 @@ haunt vt （鬼魂）经常出没
 A ghostly lady is said to haunt the stairway looking for her children.
 haunt noun 常去的地方
 This bar used to be one of your old haunts, didn't it, Jake?
+
+
+disturbance noun 干扰，滋扰
+Residents are tired of the disturbance caused by the nightclub.
+Phone calls are the biggest disturbance at work.
+disturbance noun 骚乱；纷乱；暴力事件
+There was a minor disturbance during the demonstration, but nobody was injured.
 
 
 ### 痛苦

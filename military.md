@@ -1,4 +1,13 @@
 # 军事相关
+military adj 军事的；军用的
+foreign military intervention
+military adj 富有军队特点的
+military precision
+
+the military noun 武装部队；军方
+The military has opposed any cuts in defence spending.
+
+
 corps noun 特种部队；特殊兵种；军（团） the intelligence corps
 corps noun （从事同类活动的）一群人 the press corps
 

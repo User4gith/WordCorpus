@@ -847,10 +847,21 @@ modish adj 流行的，时髦的;
 
 # 明显
 apparent adj 易看见的，可看见的; 显然的，明明白白的; 貌似的，表面的; 显见;
-notable adj 显著的; 著名的; 值得注意的;
-notable noun 名人; 显要人物;
 
 noticeable 显而易见的，明显的; 引人注目的，令人瞩目的; 显著的，重要的; 可以察觉的;
+
+manifest vt  显示；表现；表明
+The workers chose to manifest their dissatisfaction in a series of strikes.
+The illness first manifested itself in/as severe stomach pains.
+Lack of confidence in the company manifested itself in a fall in the share price.
+
+manifest adj 明显的，显而易见的
+manifest relief
+manifest lack of interest
+
+manifest noun 货单；旅客名单
+He had been listed on the manifest for the flight but it could not be confirmed if he had boarded.
+
 
 ### 同一的；鉴别
 identical
@@ -860,7 +871,14 @@ identify
 identification noun 认同; 鉴定，识别; 验明; 身份证明;
 
 # 相似
+analogy noun 类似；类比；比拟；类推
+He drew an analogy between the brain and a vast computer.
+It is sometimes easier to illustrate an abstract concept by analogy with (= by comparing it with) something concrete.
+
+
 analogous adj 相似的，可比拟的; <生>同功的; 模拟式;
+
+
 similar
 resemble vt 像；看起来像；与…相似 You resemble your mother very closely.
 

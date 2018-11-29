@@ -101,6 +101,8 @@ friction 摩擦
 
 ### 建筑
 hamlet noun 哈姆雷特; 村子; 〈英〉（无教堂的）小村庄; 〈比喻〉优柔寡断的人;
+
+
 abode noun 住所; 公寓; <古>（在某地的）暂住; 逗留;
 abode vt <古>预兆，预示;
 
@@ -668,7 +670,9 @@ explanation
 elucidate vt 阐明，解释
 
 ### 说
-acquaint vt 使熟悉; 使认识; 把某事通知某人，告知;
+acquaint vt 使认识；使了解；使熟悉；使知悉
+Take time to acquaint yourself with the rules.
+The Broadcasting Museum offers workshops to acquaint children with the world of radio.
 
 allude vi 暗指; 间接提到;
 allude to
@@ -752,6 +756,8 @@ confront 面对; 使面对面，使对质; 碰到，遇到; 比较;
 incur vt 遭受; 招致，引起
 
 conduce vi 有益，有贡献于，导致;
+the belief that technological progress conduces to human happiness
+
 
 embrace vt 拥抱;
 embrace vt 接受; 信奉; 包括; 包含;
@@ -1150,8 +1156,10 @@ digest vi 消化; 吸收食物; [化学] 加热;
 engross 使全神贯注;
 embrace 接受; 信奉; 包括; 包含;
 
-incorporate vt 包含; 组成公司; 使混合; 使具体化;
 incorporate vi 合并; 包含; 吸收; 混合;
+Suggestions from the survey have been incorporated into/in the final design.
+This aircraft incorporates several new safety features.
+
 
 soak sth up 吸收，吸掉（液体）
 I tried to soak up most of the spilled milk with a dishcloth.
@@ -1359,8 +1367,12 @@ engage vi 从事; 与…建立密切关系; 衔接; 紧密结合;
 impose vt 强加; 征税; 以…欺骗
 impose vi 利用; 欺骗; 施加影响;
 
-implement vt 实施，执行; 使生效，实现; 落实（政策）; 把…填满;
-implement noun 工具，器械; 家具; 手段; [法]履行（契约等）;
+implement vt 实施，贯彻
+The changes to the national health system will be implemented next year.
+implement noun 工具，器具
+garden/household/agricultural implements
+Shopkeepers are not supposed to sell knives and other sharp implements to children.
+
 
 tackle noun 用具，装备; 索具; 阻挡; 阻截队员;
 tackle vt 着手处理; [橄榄球]擒住并摔倒（一名对方球员）; 给（马）配上挽具;
@@ -1933,7 +1945,10 @@ The management did not seem to consider office safety to be a priority.
 
 
 ### 转移
-convey vt 表达; 传达，传递; 运送，输送; [法]让与，转让（财产等）;
+convey vt 表达，传达（思想、感情或想法）
+His poetry conveys a great sense of religious devotion.
+[ + question word ] I tried to convey in my speech how grateful we all were for his help.
+
 
 convert vt/vi （使）改变，（使）转变；（使）改信；（使）皈依
 Could we convert the small bedroom into a second bathroom?
@@ -2110,7 +2125,11 @@ defect noun 瑕疵，毛病; 欠缺，缺点;
 defect vi 叛逃; 背叛;
 
 
-demerit noun <正>缺点，过失，短处;
+demerit noun 缺陷；劣势
+We need to consider the merits and demerits of the plan.
+demerit（尤指学校给学生的）记过，过失分
+She got three demerits for lateness on this term's report.
+
 
 leak vi 漏出; 透露; （指消息，秘密等） 泄密; 漏电，漏水;
 leak vt 使泄露; <非正式> 擅自公开;
@@ -2223,6 +2242,7 @@ crushing adj 非常严重的
 The news came as a crushing blow.
 
 debris noun 碎片，残骸; 残渣; [地] 岩屑; 垃圾，破片;
+Debris from the aircraft was scattered over a large area.
 
 
 disintegrate 使某物碎裂，崩裂; 使某物衰微，瓦解，分崩离析

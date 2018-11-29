@@ -206,6 +206,15 @@ She moved to London in search of fame and fortune.
 
 fame vt 使闻名; 使出名; 使有名望; <古>盛传;
 
+notable adj 显要的；显著的；值得注意的
+a notable collection of rare plants
+Getting both sides to agree was a notable achievement.
+This attractive building is particularly notable for its woodland setting.
+
+notable noun 显要人物；名流
+Other notables among his pupils were the kings of Saudi Arabia and Thailand.
+
+
 ### 尊敬
 esteem noun 尊敬，敬重；好评
 There has been a drop in public esteem for teachers.
@@ -1050,9 +1059,16 @@ He couldn't abide laziness.
 abide vi 居住；逗留；停留
 He abided in the wilderness for forty days.
 
-jeslousy noun 妒忌；妒羡
+jealousy noun 妒忌；妒羡
 He broke his brother's new bike in a fit of jealousy.
 She was consumed by/eaten up with jealousy (= she was very jealous) when she heard that he had been given a promotion.
+
+irony noun 具有讽刺意味的情况；出乎意料的情况；令人啼笑皆非的事情
+The irony (of it) is that the new tax system will burden those it was intended to help.
+
+irony noun 反语；讽刺
+Her voice heavy with irony, Simone said, "We're so pleased you were able to stay so long." (= Her voice made it obvious they were not pleased.)
+
 
 
 

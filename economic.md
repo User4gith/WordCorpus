@@ -91,12 +91,36 @@ The declarer must make as many tricks as his bid has promised.
 Her bid for re-election was unsuccessful.
 The company has managed to fight off a hostile takeover bid (= an attempt by another company to take control of it).
 
-bargain noun 交易; 契约，协定; 特价商品; 便宜货;
-bargain vt 做交易;
-bargain vi 讨价还价; 达成协议;
+bargain noun 便宜货，廉价品
+This coat was half-price - a real bargain.
+The sales had started and the bargain hunters (= people looking for things at a low price) were out in force.
+bargain noun 协议；交易
+"I'll clean the kitchen if you clean the car." "OK, it's a bargain."
+The management and employees eventually struck/made a bargain (= reached an agreement).
 
-margin noun 边缘，范围; 极限; 利润，盈余; （版心外） 的空白;
-margin vt 留边; 成为…的边; 加边于，围绕; 为…加旁注;
+bargain vi/vt 讨价还价（如价格，工资或工作条件等）
+Unions bargain with employers for better rates of pay each year.
+
+
+margin noun 差数，差额
+The Senate approved the use of military force by a margin of 52 votes to 47.
+margin noun 利润
+Our increased profits are due to improved margins and successful cost control.
+Using cheap labour increases profit margin.
+
+margin noun 页边空白，白边
+If I have any comments to make, I'll write them in the margin.
+margin noun 边，缘，边沿，边缘
+The plant tends to grow in the lighter margins of woodland areas.
+on the margins of sth （某人）处于…的边缘，对…稍有涉足
+He spent the 1980s on the margins of British politics.
+We need to reach out to those on the margins of society.
+
+margin noun 备用的（金钱，时间等）
+There is not much margin for creativity in a job like this.
+They allow an additional safety margin of five minutes between planes taking off.
+
+
 
 
 acquisition 收购; 获得; 购置物; 获得物

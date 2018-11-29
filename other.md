@@ -36,8 +36,13 @@ awful
 merely adv （用于强调所说的即为所想表达的）仅仅，只，不过
 I wasn't complaining, I merely said that I was tired.
 
+marginally adv 稍微地，略微地
+marginally more expensive
+
+
 barely adv 仅；刚好；几乎没有 They have barely enough (= no more than what is needed) to pay the rent this month.
-barely adv 仅；刚好；几乎没有 They have barely enough (= no more than what is needed) to pay the rent this month.
+She was barely (= only just) 15 when she won her first championship.
+
 exclusively adv 仅仅；专门；单独 This offer is available exclusively to our established customers.
 
 scarcely adv 勉强；几乎不
