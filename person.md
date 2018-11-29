@@ -433,6 +433,12 @@ I'd like to thank the staff for having shown such commitment.
 commitment noun 必须做（或处理）的事情
 I've got too many commitments at the moment to do an evening class.
 
+propriety noun （行为）端正，得体，合宜
+The director insisted that there was no question as to the propriety of how the funds were raised.
+She was careful always to behave with propriety.
+
+proprieties noun 礼仪，礼节
+They'd invited us to dinner so we thought we'd better observe the proprieties and invite them back.
 
 
 # 自制的
@@ -721,7 +727,7 @@ Already low living standards have been worsened by stringent economic reforms.
 
 tough adj 结实的；坚固的；坚强的
 You have to be tough to be successful in politics.
-adj 强硬的；严厉的
+tough adj 强硬的；严厉的
 There have been calls for tougher controls/restrictions on what online retailers are allowed to sell.
 tough adj 困难的；棘手的
 They've had an exceptionally tough life.
@@ -798,7 +804,7 @@ swift noun 雨燕;环球金融同业电讯会;[人]斯威夫特，《格利佛�
 swift adv 迅速地，敏捷地
 
 agile adj 敏捷的，灵活的
-Moankeys are very agile climbers.
+Monkeys are very agile climbers.
 agile adj 机敏的，机灵的，敏锐的
 For a man of 80, he has a remarkably agile mind.
 agile adj （工作中）见机行事的，反应快速的
@@ -837,6 +843,10 @@ He owns a fleet of taxis.
 
 fleet adj 跑得快的，快速的
 She was slight and fleet of foot/fleet-footed.
+
+
+impish adj 顽童似的，顽皮的
+At 70, he still retains his impish grin.
 
 
 # 拖延
@@ -1283,6 +1293,10 @@ He told us to disregard everything we'd learned so far and start again.
 detached adj 分离的，分开的；拆下的 The label became detached from your parcel.
 detached adj （房子）独幢的，独立的 Prices are rising so fast that people can't afford detached houses.
 detached adj 认为与己无关的；毫不关心的，心不在焉的 She seemed a bit detached, as if her mind were on other things.
+
+
+indifference 不感兴趣的；不关心的，冷淡的
+Many native speakers of a language show indifference to/towards grammatical points.
 
 
 ### 怨恨

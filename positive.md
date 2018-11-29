@@ -336,3 +336,9 @@ extensive adj 广阔的，广大的; 范围广泛的; [物] 广延的; [逻] 外
 capacious adj 宽敞的，气度宏大的;
 
 spacious adj 宽敞的; 广阔的; （知识） 广博的;
+
+# 使安心
+reassure vt 使安心；使打消疑虑；安慰
+[ + to infinitive ] I was nervous on my first day at college, but I was reassured to see some friendly faces.
+reassure vt 使安心；使打消疑虑；安慰
+[ + to infinitive ] I was nervous on my first day at college, but I was reassured to see some friendly faces.

@@ -75,6 +75,16 @@ I brought a few trifles back from India - pieces of jewellery and fabric mainly.
 a trifle 稍微，略微
 I'm a trifle confused about the arrangements for tonight.
 
+rash noun 皮疹，疹子
+I've got an itchy rash all over my chest.
+
+a rash of sth （一下子出现的）大量令人不快的事
+There has been a rash of robberies/accidents/complaints in the last two months.
+
+rash adj 轻率的；鲁莽的；毛躁的
+That was a rash decision - you didn't think about the costs involved.
+
+
 # 一部分；
 portion 一部分; 一份遗产（或赠与的财产）; 嫁妆; 分得的财产;
 portion vt 把…分成份额; 分配; 把…分给(to); 命运注定;
@@ -248,6 +258,10 @@ blip noun （计算机屏幕上，有时带有短促尖锐响声的）光点
 blip noun 暂时的改变；临时的变化
 Last month's rise in inflation was described by the chancellor as only a blip.
 
+tentative adj （计划、想法、建议、行动等）试验（性）的，试探（性）的，暂时的
+I have tentative plans to take a trip to Seattle in July.
+
+
 
 
 permanent 永久的
@@ -344,6 +358,16 @@ After a lengthy discussion we reached a unanimous decision on the proposal.
 
 ### 合作
 cooperate vi 合作，配合，协助;
+
+
+collaborate vi 合作；协作
+Two writers collaborated on the script for the film.
+A German company collaborated with a Swiss firm to develop the product.
+
+collaborate vi 勾结；通敌，叛国
+Anyone who was suspected of collaborating with the occupying forces was arrested.
+
+
 collaboration 合作，协作; 通敌，勾结;
 
 
@@ -603,7 +627,15 @@ The muse has left me - I haven't written any poetry for months!
 
 # 宣称
 allege vt 断言，宣称，辩解; 提出…作为理由;
-assert vt 声称，断言; 维护，坚持; 坚持自己的主张; 生效;
+
+assert vt 断言；肯定地说
+[ + that ] He asserts that she stole money from him.
+assert vt 主张；维护；坚持
+Throughout the Cold War, the Allies asserted their right to move freely between the two Berlins.
+She very rarely asserts her authority over the children.
+
+assert yourself 坚持自己的主张；表现坚定
+I really must assert myself more in meetings.
 
 declare vt 宣布；声明；公布
 They declared their support for the proposal
@@ -617,6 +649,19 @@ He confessed to sleeping/having slept through most of the movie.
 It was all very confusing, I must confess.
 忏悔
 to confess your sins
+
+concede vt （常指不情愿地）承认
+[ + (that) ] The government has conceded (that) the new tax policy has been a disaster.
+[ + speech ] "Well okay, perhaps I was a little hard on her," he conceded.
+concede vi/vt 认输；承认（失败）
+He kept on arguing and wouldn't concede defeat.
+She conceded even before all the votes had been counted.
+
+concede（不情愿地）让步，答应给，让与
+The president is not expected to concede these reforms.
+He is not willing to concede any of his power/authority.
+
+
 
 # 解释
 explanation
@@ -689,6 +734,10 @@ She was pumping me for details of the new project.
 originate vi 起源，发源，发端；产生 Although the technology originated in the UK, it has been developed in the US
 originate vt 最早开始；创始，开创 Who originated the saying "Small is beautiful"?
 
+provenance noun 起源；出处
+jewels of uncertain provenance.
+This raised doubts about the provenance of the painting.
+I don't need to see a label to identify the provenance of a garment that someone is wearing.
 
 
 
@@ -1520,6 +1569,16 @@ submit vi/vt 顺从，屈服；不得以接受
 We protested about the changes for a long time, but in the end we had to submit.
 She decided to resign from the party rather than submit herself to the new rules.
 
+compliant adj 顺从的，听从的；服从的
+a compliant child
+compliant adj 合规的
+The company expects to be reclassified as soon as its factories are fully compliant with the Federal Clean Air Act.
+
+compliance noun 服从；遵守；依从
+It is the job of the inspectors to enforce compliance with the regulations.
+顺从，屈从
+It's his compliance that amazes me.
+
 
 ### 则
 criteria noun
@@ -1559,10 +1618,6 @@ defiant adj 对抗的，违抗的；挑衅的
 The protesters blocking the entrance to the offices remained defiant this morning.
 defiant adj 不接受批评的；不接受不同意见的
 The CEO was in a defiant mood as she entered the boardroom.
-
-
-
-
 
 
 ### 缩减

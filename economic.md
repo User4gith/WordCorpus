@@ -32,6 +32,10 @@ entrepreneur noun <法>企业家; 主办人; 承包人;
 monopolist 专利者; 大资本家
 monopoly 垄断; 专卖; 垄断者; 专利品;
 
+vendor 小贩；摊主；卖主
+For the past few months she's been working as a street vendor, selling fruit and vegetables.
+
+
 dealer 商人
 retailer noun 零售商，零售店; 传播的人，处散布闲话的人;
 kiosk noun （售糖果、饮料、报纸等的）小亭；售货亭
@@ -54,6 +58,9 @@ merchandise vi 经商;
 
 procurement noun 采购 a substantial budget for the procurement of military supplies
 invoice 发票
+
+ledger 分类账
+
 
 cheque 支票
 I wrote him a cheque for £50.
@@ -418,7 +425,21 @@ slacken vi/vt 放慢，放松，减缓
 He stooped to pick it up, without slackening his pace (= without walking more slowly).
 The pace of trading slackened during the winter months.
 
+trough noun 槽；饮水槽；饲料槽
+cows at the feeding trough
 
+trough 低谷；低谷期，萧条期
+Investing small amounts regularly is a good way of smoothing out the peaks and troughs of the stock market.
+
+trough noun 低压槽，槽形低压
+A trough of low pressure over hilly areas will bring heavy thunderstorms overnight.
+
+trough vt 大吃；饕餮（快速而热切地吃某物，特别是大量地吃）
+She was sitting there troughing chocolate.
+trough vi 在上升之前落入（程度，价格等）低谷
+The economy troughed six months ago and is now growing again.
+
+trougher noun 大吃者；饕餮者（非常快地吃大量食物的人）
 
 ### 繁荣
 burgeon vi 迅速发展；快速生长

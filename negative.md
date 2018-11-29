@@ -235,6 +235,10 @@ She was looking strained and had dark circles beneath her eyes.
 Jean felt uncomfortable but managed to force a strained smile.
 
 
+faze vt 使慌乱；使担忧；使惊慌失措
+No one is fazed by the sight of guns here any more.
+
+
 ### 剥夺
 bereave vt 使失去（希望、生命等）; （尤指死亡）使丧失（亲人、朋友等） ; 使孤寂; <废>抢走（财物）;
 

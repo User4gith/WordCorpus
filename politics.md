@@ -438,6 +438,12 @@ It was Pavarotti in the 1980s who really popularized opera.
 popularize vt 使普及
 Television has an important role to play in popularizing new scientific ideas.
 
+hype noun（新闻媒体的）大肆宣传，炒作
+media hype
+There's been a lot of hype around/surrounding his latest film.
+
+hype vt （通过新闻媒体）大肆宣传，炒作
+It's being hyped as the musical event of the year.
 
 
 # 义务；权利
@@ -729,3 +735,7 @@ Several of her patients have made allegations of professional misconduct about/a
 sanction
 
 impose
+
+confiscate vt （通常指作为惩罚）没收，把…充公
+Miss Edwards confiscated my phone!
+His passport was confiscated by the police to prevent him from leaving the country.
