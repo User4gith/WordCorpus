@@ -828,7 +828,10 @@ burrow noun 地洞;
 # 模仿
 mock
 simulate
+
 emulate 仿真; 竞争; 努力赶上;
+They hope to emulate the success of other software companies.
+
 
 imitate
 mime

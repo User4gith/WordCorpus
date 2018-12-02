@@ -34,6 +34,9 @@ anthropology
 geology
 pathology
 
+calligraphy noun 
+
+
 astronomer
 
 ### 知识相关

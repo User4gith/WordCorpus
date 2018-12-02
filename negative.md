@@ -610,6 +610,11 @@ censure noun 责备; 指责，谴责; 斥责;
 
 condemn vt（通常因道义上的原因而） 谴责; 宣判; 宣布…不能使用; 迫使…陷于不幸的境地;
 The film was condemned for its sexism.
+The terrorist action has been condemned as an act of barbarism and cowardice.
+
+condemnation noun 谴责，指责，声讨
+The shooting of the police officer has received universal condemnation.
+
 
 ### 折磨
 plague vt 不断困扰；折磨；使受煎熬 My shoulder's been plaguing me all week.

@@ -832,6 +832,19 @@ The political system established in 1400 endured until about 1650.
 inflict vt 把…强加给，使承受，遭受; 给予（打击等）; 处以刑罚，加刑;
 The suffering inflicted on these children was unimaginable.
 
+prop vt 支撑；支持
+I propped my bike (up) against the wall.
+She was sitting at the desk with her chin propped on her hands.
+
+prop noun 道具
+The set is minimal and the only props used in the show are a table, a chair, and a glass of water.
+
+prop noun 支撑物
+I need some sort of a prop to keep the clothes line up.
+
+props 对（某人的）尊重
+I have to give her props for being such a great athlete.
+
 
 ###  追求
 aspire vi 渴望，立志，追求; 〈诗，古〉登，升，高耸;
@@ -866,6 +879,8 @@ The doctors made one last desperate attempt/effort to save the boy's life.
 desperate 疯狂的；狂暴的
 This man is desperate and should not be approached since he may have a gun.
 
+garner vt （通常指做大量工作或历经很多困难而）收集，积累，获得
+Coppola garnered several Oscar awards for "The Godfather".
 
 
 
@@ -1220,7 +1235,10 @@ perception 知觉; 观念; 觉察（力）; （农作物的） 收获;
 
 speculation 投机活动; 投机买卖; 思考; 推断
 spectator 观众，旁观者
+
 scrutiny noun 监督; 细看，细阅; 仔细的观察;
+The government's record will be subjected to/come under (close) scrutiny in the weeks before the election.
+
 
 probe noun 探头; [医] （对伤处等的） 针探，探查; [医] 探针，取样器; 探测仪;
 probe vt 探索，调查; 用探针（或探测器等）探查，探测;

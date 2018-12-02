@@ -498,8 +498,17 @@ concession 特许经营权；特许销售权
 
 entitle vt 使有资格; 给…定名; 给与…权利; 称做;
 
+
+warrant vt 使有必要
+Obviously what she did was wrong, but I don't think it warranted such a severe punishment.
+It's a relatively simple task that really doesn't warrant a great deal of time being spent on it.
+
+warrant vt 担保，保证；许诺
+He's to blame, I'll warrant (you).
+
 warrant noun 授权证; 许可证; 正当理由; 依据;
-warrant vt 保证，担保; 授权，批准; 辩解;
+Judge La Riva had issued an arrest warrant/a warrant for his arrest.
+
 
 pledge noun 保证，誓言; [法] 抵押权; 公约; （表示友谊的） 干杯;
 pledge vi 使发誓，保证; 典当，抵押;
