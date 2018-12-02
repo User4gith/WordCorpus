@@ -698,12 +698,22 @@ be streaked 带有条纹；带有条痕
 Her clothes were streaked with mud.
 White marble is frequently streaked with grey, black, or green.
 
+strand （线、绳等的）缕，股
+She tucked a loose strand of hair behind her ears.
+a strand of dental floss
+strand noun （完整故事、主题或情况的）部分，方面
+There are so many different strands to the plot that it's hard to follow.
+
+
+
 bloodshot （眼睛）充血的，布满血丝的
 Hayfever gives me a runny nose and bloodshot eyes.
 
 textile
 
 wire 电线; 金属丝; 电报; （木偶的） 牵线，操纵绳，背后操纵的势力，秘密引线，秘密策略;
+
+
 
 # 连续
 continuity noun 连续性，持续性，连贯性
@@ -735,6 +745,12 @@ diverse adj 多种多样的，形形色色的
 New York is a very culturally/ethnically diverse city.
 diverse adj 不同的，相异的
 We hold very diverse views on the topic.
+
+volatile adj 不稳定的；易变的；易怒的，喜怒无常的
+Food and fuel prices are very volatile in a war situation.
+He had a volatile temper and couldn't have been easy to live with.
+volatile adj （液体或固体）易挥发的，易气化的
+
 
 
 # 变化

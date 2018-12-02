@@ -290,6 +290,21 @@ legal remedy (依法的）解决办法，救济 We have exhausted all possible l
 remedy vt 补救；纠正；改进 This mistake must be remedied immediately.
 
 
+ease vi/vt 减轻；减低；缓解
+To ease the problem of overcrowding, new prisons will be built.
+After the arrival of the United Nations soldiers, tension in the area began to ease.
+ease vt （使）小心缓慢地移动；（使）缓缓移动
+She eased the key into the lock, anxious not to wake anyone.
+
+ease noun 容易，不费力；舒适，安逸，自在
+She won the 400 metre race with ease.
+The doors are extra-wide for ease of access (= so that people can get in without difficulty).
+
+ease adj 不拘束的；放松的
+He felt completely at ease.
+She soon put/set me at ease (= made me relaxed) .
+
+
 ### 重做某事
 renewal noun 重建，重生; 更新，革新; 重申; 合同的续订;
 

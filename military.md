@@ -300,6 +300,13 @@ intern noun <美>住院实习医生; 拘禁（俘虏等）; 扣留（船只等�
 intern vt （尤指战时因政治或军事原因）拘禁，扣押，关押
 Many foreigners were interned for the duration of the war.
 
+ransom noun 赎金
+a ransom demand/note
+The gang held the racehorse to/for ransom.
+ransom vt （付钱）赎（人），赎出，赎回
+Her father ransomed her for a million dollars.
+
+
 
 #################################
 vigilance noun 警觉；警戒；警惕 The police said that it was thanks to the vigilance of a neighbour that the fire was discovered before it could spread.

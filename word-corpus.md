@@ -46,7 +46,17 @@ huddle vt 使聚集; 使蜷曲起来; 草率地行事;
 
 bubble
 
-bulk noun （大） 体积; 大块，大量; 大多数，大部分; 主体;
+bulk noun 巨大的东西；大块，大团
+She eased her large bulk out of the chair.
+bulk noun 大规模；大量
+It was a document of surprising bulk.
+
+in bulk noun 大量，批量
+The office buys paper in bulk to keep down costs.
+
+the bulk of sth 大部分
+In fact, the bulk of the book is taken up with criticizing other works.
+
 bulk vt 变得越来越大（或重要）;
 bulk vi 显得庞大; 形成大块; 堆积起来;
 
@@ -480,7 +490,17 @@ They test the car tyres on a motor racing circuit.
 circuit [c]（电流的）电路；（液体的）回路
 A defect was found in the water-cooling/electrical circuit.
 
+wiggle vt（使）扭动；（使）摆动
+He tried wiggling the control stick but nothing happened.
 
+wiggle noun 扭动；摆动
+With a wiggle of her hips, she pulled up her trousers.
+
+tweak vt 扭，拧
+Standing in front of the mirror she tweaked a strand of hair into place.
+tweak vt 稍稍改进
+The software is pretty much there - it just needs a little tweaking.
+You just need to tweak the last paragraph and then it's done.
 
 
 # 缠绕

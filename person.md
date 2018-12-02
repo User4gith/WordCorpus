@@ -994,6 +994,11 @@ A note of formality in his voice alerted her to the fact that others were listen
 routine noun 常规; 例行程序; 生活乏味; （演出中的） 一套动作;
 routine adj 常规的; 例行的; 日常的; 普通的;
 
+ponderous adj （因重或大而）行动迟缓的，笨拙的
+He had a slow and ponderous manner.
+ponderous （书、讲话或写作风格）严肃而乏味的，呆板的，生硬的
+The ponderous reporting style makes the evening news dull viewing.
+
 ### 愤怒
 fury noun
 He could hardly contain his fury.
@@ -1199,6 +1204,16 @@ plausible adj 貌似真实（或可信）的
 a plausible explanation/excuse
 plausible adj 花言巧语的，巧舌如簧的
 a plausible salesman
+
+
+dodgy adj 不诚实的，不怀好意的
+a dodgy deal
+They got involved with a dodgy businessman and lost all their savings.
+dodgy adj 不可靠的；有风险的
+The weather might be a bit dodgy at this time of year.
+dodgy adj 可能要断的；可能会痛苦的
+Careful - that chair's a bit dodgy.
+Ever since the accident I've had this dodgy leg.
 
 
 ### 嘲笑
