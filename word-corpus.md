@@ -328,7 +328,10 @@ vibrant 振动的; 响亮的; 充满生气的;
 
 
 ### 一致
+
 coherent adj 连贯的; 一致的; 条理分明的; 清楚明白的;
+
+
 cohesion  凝聚，内聚; （各部的） 结合; [力] 内聚力; [植] 连着
 
 coordinate vt 使协调，使调和; 整合; 使（身体各部份）动作协调; （衣服、布料等） 搭配;
@@ -1242,6 +1245,11 @@ grope noun 摸索，探索;
 
 ## 检查
 ascertain vt 弄清，确定，查明
+The police have so far been unable to ascertain the cause of the explosion.
+
+ascertain vt 确信
+[ + that ] I ascertained that no one could overhear us before I told Otto the news.
+
 
 check 检查
 
@@ -1298,6 +1306,11 @@ The revolutionaries' assumption of power took the army by surprise.
 
 
 theoretical
+
+
+posit vt 假想，设想
+[ + that ] If we posit that wage rises cause inflation, it follows that we should try to minimize them.
+
 
 ### 预测
 
@@ -1768,6 +1781,13 @@ wane vi （月亮）开始形成残月，亏缺
 on the wane （权力、人气等）衰落，减弱
 There are signs that support for the group is on the wane.
 
+
+relegate vt 贬职；使降级；降低…的地位
+She resigned when she was relegated to a desk job.
+relegate vt 使（足球队）降级
+If Southampton lose again they may be relegated from the Premier League to the First Division.
+
+
 ### 隐藏hide
 conceal
 stash
@@ -1902,6 +1922,7 @@ They want to elevate the status of teachers.
 be elevated to sth 被提升为；被晋升为
 He has been elevated to deputy manager.
 
+elevator 电梯
 
 escalator 自动扶梯
 

@@ -206,6 +206,22 @@ universe
 extreme adj 极端的，过激的; 极限的，非常的; 末端的; （政治上） 急进的
 extreme noun 极端; 困境; [数] 极限值; [常用复数] 在两末端的事物;
 
+
+shrine noun 圣地；神龛；圣坛；神殿
+Islam's most sacred shrine is at Mecca in Saudi Arabia.
+shrine noun（尤指名人的）纪念之所
+She's turned her bedroom into a shrine to the dead pop star and covered the walls with pictures of him.
+
+sacred adj （尤指因与神有关而）神圣的，值得崇敬的
+sacred relics/temples
+sacred adj 与宗教有关的，宗教性的
+sacred music/writings
+
+sacred adj 不容改变的，不可侵犯的
+His daily routine is absolutely sacred to him.
+
+
+
 ### 高贵
 elegant adj （人或其举止） 优美的; 漂亮的; 简炼的; 简洁的;
 

@@ -639,6 +639,16 @@ Phone calls are the biggest disturbance at work.
 disturbance noun 骚乱；纷乱；暴力事件
 There was a minor disturbance during the demonstration, but nobody was injured.
 
+hassle noun 麻烦，困难
+I can't face the hassle of moving again.
+My boss has been giving me a lot of hassle this week.
+It was such a hassle trying to get my bank account changed that I nearly gave up.
+
+hassle vt 烦扰（尤指通过反复提问）
+I'll do it in my own time - just stop hassling me!
+[ + to infinitive ] The children keep hassling me to take them to Disneyland.
+
+
 
 ### 痛苦
 tragical 悲剧

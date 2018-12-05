@@ -515,7 +515,7 @@ conservative adj （外表上）保守的，传统的，不赶潮流的
 He's a very conservative dresser - he always looks like he's wearing his father's clothes!
 conservative adj （猜测、计算）保守的，低估的
 If I said there were three million unemployed, that would be a conservative estimate.
-Conservativ （英国）保守党的
+Conservative （英国）保守党的
 the Conservative Party
 Conservation 保守，守旧；保守主义
 
@@ -532,6 +532,25 @@ radical 激进分子；极端分子
 introvert noun 性格内向者
 
 extrovert
+
+# 内行/外行
+adept adj 擅长的；熟练的；内行的
+She's very adept at dealing with the media.
+Tamsin Palmer gave a technically adept performance on the piano.
+
+amateur adj 业余爱好的，非职业的
+an amateur astronomer/boxer/historian
+He was an amateur singer until the age of 40, when he turned professional.
+
+amateur noun 业余爱好者；业余运动员
+This tennis tournament is open to both amateurs and professionals.
+
+amateur noun 外行；粗通（某一行）的人
+I won't be giving them any more work - they're a bunch of amateurs.
+
+#旺季/淡季
+peak day
+regular day
 
 
 

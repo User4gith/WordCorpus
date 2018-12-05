@@ -337,6 +337,12 @@ resume 恢复；重新回到，重返（某地或某位置）
 to resume your post/job
 Please resume your seats, as the performance will continue in two minutes.
 
+reinvigorate vt 使恢复健康，使恢复元气
+His beliefs, both political and religious, seem to reinvigorate him.
+reinvigorate vt 给恢复强大；使更为兴奋（或成功）
+Lower interest rates could reinvigorate consumer spending and the struggling housing market.
+
+
 resume noun 摘要；梗概；概述
 She gave us a brief résumé of the project so far.
 resume 简历，履历

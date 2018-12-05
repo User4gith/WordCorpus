@@ -1074,6 +1074,11 @@ The irony (of it) is that the new tax system will burden those it was intended t
 irony noun 反语；讽刺
 Her voice heavy with irony, Simone said, "We're so pleased you were able to stay so long." (= Her voice made it obvious they were not pleased.)
 
+ironic adj 具有讽刺意味的；出乎意料的；令人啼笑皆非的
+[ + that ] It is ironic that although many items are now cheaper to make, fewer people can afford to buy them.
+ironic adj 反语的；讽刺的
+an ironic comment/reply
+
 
 
 

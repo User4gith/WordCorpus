@@ -91,6 +91,10 @@ surveillance noun 盯梢，监督; [法] 管制，监视;
 censor noun 监察官，检查员; （牛津大学等的） 学监; [心理] 潜意识压抑力; [心] 抑制性潜意识;
 censor vt 审查，检查; 审查（书刊等）; 检查（信件等）; 删改;
 
+anarchy （尤指政府消亡或垮台而引起的）无政府状态，混乱状态
+What we are witnessing is the country's slow slide into anarchy.
+The country has been in a state of anarchy since the inconclusive election.
+
 
 
 Renaissance 文艺复兴; 文艺复兴时期; 文艺复兴时期
@@ -187,6 +191,15 @@ Her latest novel, by common consent, is her best yet.
 consent vi 同意；答应；许可，允许
 [ + to infinitive ] Very reluctantly, I've consented to lend her my car.
 My aunt never married because her father wouldn't consent to her marriage.
+
+inalienable adj 不可剥夺的；不可分割的
+an inalienable right
+
+inshrine vt 把…奉为神圣；珍藏
+A lot of memories are enshrined in this photograph album.
+
+be inshrined in  vt （政治或社会权利）被庄严载入
+The right of freedom of speech is enshrined in law/in the constitution.
 
 
 ### 税
@@ -333,6 +346,17 @@ protester
 
 crackdown noun 制裁；处罚；打击；镇压
 There has been a series of government crackdowns on safety in factories.
+
+
+compel vt 强迫；逼迫；迫使
+[ + to infinitive ] As a schoolboy he was compelled to wear shorts even in winter.
+formal The new circumstances compelled a change in policy.
+
+compel （有时指并非所愿地）激起，引发
+Over the years her work has compelled universal admiration and trust.
+
+coercion noun 强制，强迫；威逼，胁迫
+He claimed the police had used coercion, threats, and promises to obtain the statement illegally.
 
 
 suppression noun 抑制; 压制; 镇压; 禁止;

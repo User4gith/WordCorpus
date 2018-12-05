@@ -570,7 +570,11 @@ inadequate adj （处理事情）信心不足的
 
 
 insufficient adj 不够的，不足的；不充分的
-deficiency noun 不足
+
+deficiency noun 不足，缺乏，缺少
+Pregnant women often suffer from iron deficiency.
+Deficiencies in the education system have been much in the news.
+
 
 scarce adj 难得的，稀有的，罕见的
 Food and clean water were becoming scarce.
