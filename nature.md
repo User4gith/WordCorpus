@@ -529,6 +529,9 @@ If disease is allowed to spread, it will cause widespread devastation.
 devastation noun 极度惊骇；（感情上的）重创
 She had a look of utter devastation on her face.
 
+ravage vt 严重破坏；损坏；毁坏
+The area has been ravaged by drought/floods/war.
+
 
 calamity noun 不幸; 灾祸，灾难; 不幸之事; 困苦;
 A series of calamities ruined them - floods, a failed harvest, and the death of a son.
@@ -701,6 +704,30 @@ dawn
 
 dusk
 sunset 晚霞;黄昏;日落（时），薄暮  adj.定期废止的
+
+expire vi 到期，期满；结束
+My passport expires next month.
+The contract between the two companies will expire at the end of the year.
+
+expire vi 逝世，亡故
+
+expiry noun 到期，期满；结束
+the expiry of a lease/visa
+What is the expiry date of your credit card? (= What is the last date on which it can be used?)
+
+predate vt 早于…存在（或发生）
+These cave paintings predate any others which are known.
+
+predate vi/vt （动物）掠食，捕食
+Some species of bat predate small mammals.
+
+evolve vt （使）逐步发展；（使）逐步演变；（使）逐渐形成；（使）进化
+Did humans evolve from apes?
+The company has evolved over the years into a multi-million dollar organization.
+Bacteria are evolving resistance to antibiotics.
+
+
+
 
 ### 大小
 minimum

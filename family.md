@@ -32,7 +32,20 @@ The funeral will be held next Friday.
 mourner noun 哀悼者；送葬者
 The dead man's wife and children were the chief mourners.
 
+burial 埋葬；葬礼
+We went back to Ireland for my uncle's burial.
+
+commemorate vt （尤指举行公开仪式或竖立雕塑或专门建筑）纪念，缅怀
+Gathered all together in this church, we commemorate those who lost their lives in the war.
+A statue has been built to commemorate the 100th anniversary of the poet's birthday.
+
+
+
 tomb （尤指重要人物的）坟墓，陵墓，冢
+
+### polite
+if you dress up well, it will help you leave a good impression on other people.
+
 
 ### 培育
 cultivate vt 耕作；栽培；种植

@@ -86,7 +86,7 @@ surround vt 环绕，围绕，包围 Early this morning, armed police surrounded
 surround noun 周围地带，围绕物，缘饰 Our bathtub has a tiled surround.
 surrounds 周边，附近 The house is set in lush surrounds and has views of the ocean.
 
-encompass vt 包含，包括（尤指很多不同事物） The festival is to encompass everything from music, theatre, and ballet to literature, cinema, and the visual arts.
+
 
 besiege vt 围攻；围困 The town had been besieged for two months but still resisted the aggressors.
 besiege vt 围住；拥在…周围 When the pop star tried to leave her hotel, she was besieged by waiting journalists and fans.

@@ -313,14 +313,7 @@ It took the firefighters several hours to extinguish the flames.
 extinguish vt 使（想法或感情）破灭；使消亡
 Nothing could extinguish his love for her.
 
-seize vt 抓住；夺过
-He seized the chance/opportunity of a free flight with both hands (= with eagerness or enthusiasm).
-seize vt 夺取；攫取；抓获
-Political instability helped the army to seize power.
-seize vt 没收；查获
-Customs officers at Heathrow have seized 60 kilos of heroin.
-seize vt （强烈情感或剧痛）突然侵袭
-I was suddenly seized by/with a feeling of great insecurity and loneliness.
+
 
 dump vt 扔下，丢下
 He came in with four shopping bags and dumped them on the table.
@@ -465,6 +458,23 @@ Rescue efforts have been handicapped by rough seas and hurricane-force winds.
 handicapped adj （身体或精神）残疾的
 the handicapped （总称）残疾人
 
+thwart vt 反对；阻挠；挫败
+Our holiday plans were thwarted by the airline pilots' strike
+
+shackle vt 阻挠，束缚
+The country is shackled by its own debts.
+
+exclude vt 阻止…进入；把…排斥在外
+Women are still excluded from the club.
+Microbes must, as far as possible, be excluded from the room during an operation.
+Tom has been excluded from school (= he is not allowed to go to school) for bad behaviour.
+
+exclude vt （有意地）不包括
+The price excludes local taxes.
+exclude vt 排除…；不考虑…；认为…不可能
+We can't exclude the possibility that he is dead.
+
+
 ### 损害
 abuse vt （尤指为个人私利而）滥用；妄用 She is continually abusing her position/authority by getting other people to do things for her.
 abuse vt 虐待；伤害 Several of the children had been sexually/physically/emotionally abused.
@@ -488,6 +498,12 @@ devastate vt 毁灭; 破坏; 蹂躏; 使荒废;
 
 deteriorate vt 使恶化;
 deteriorate vi 恶化，变坏;
+
+
+detriment noun 危害，损害
+Are you sure that I can follow this diet without detriment to my health?
+She was very involved with sports at college, to the detriment of (= harming) her studies.
+
 
 
 detrimental adj 有危害的，有损害的
@@ -615,8 +631,25 @@ The terrorist action has been condemned as an act of barbarism and cowardice.
 condemnation noun 谴责，指责，声讨
 The shooting of the police officer has received universal condemnation.
 
+decry vt 斥责，谴责，抨击
+Lawyers decried the imprisonment of several journalists.
+
+
 
 ### 折磨
+annoy vt 烦扰；打搅；使烦恼
+Tina really annoyed me in the meeting this morning.
+[ + that ] It annoys me that she just expects us to help.
+It really annoys me when people expect me to tip as well as pay a service charge in a restaurant.
+
+
+
+annoying adj 讨厌的；恼人的
+It's really annoying when a train is late and there's no explanation.
+He's got a really annoying laugh.
+
+
+
 plague vt 不断困扰；折磨；使受煎熬 My shoulder's been plaguing me all week.
 plague vt （尤指因不停提问而）使烦恼，打搅 He's been plaguing me for a loan of the book.
 plague noun 瘟疫  Millions died of (the) plague.
@@ -743,9 +776,19 @@ diverge vi （道路）分叉；出现差异；发生分歧 Although the two org
 controversy noun 争议；争论；争辩 There was a big controversy surrounding/over the use of drugs in athletics.
 The policy has caused fierce/heated controversy ever since it was introduced.
 
+
+contentious adj 有争议的；引起争论的；可能引发争议的
+a contentious decision/policy/issue/subject
+She has some very contentious views on education.
+
+
 # 矛盾
 discrepancy 矛盾; 不符合（之处）
 controversial 有争议的，引起争议的，被争论的; 好争论的
+
+contradictory adj 对立的；相互矛盾的；不一致的
+I keep getting contradictory advice - some people tell me to keep it warm and some tell me to put ice on it.
+
 
 
 # 妥协

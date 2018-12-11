@@ -94,6 +94,19 @@ There has been a rash of robberies/accidents/complaints in the last two months.
 rash adj 轻率的；鲁莽的；毛躁的
 That was a rash decision - you didn't think about the costs involved.
 
+snippet noun[c] 一条，一则（新闻、消息或谈话）
+I heard an interesting snippet on the radio this morning.
+I love listening to snippets of conversation in restaurants.
+
+
+legion noun （尤指古罗马的）军团
+Caesar's legions marched through France and crossed into Britain.
+legion of sb 大批的（人）
+He failed to turn up for the concert, disappointing the legions of fans waiting outside.
+
+legion adj 大量的，众多的
+The difficulties surrounding the court case are legion.
+
 
 # 一部分；
 portion 一部分; 一份遗产（或赠与的财产）; 嫁妆; 分得的财产;
@@ -230,6 +243,10 @@ You should aim to build up a cushion of money in case of emergencies.
 cushion vt 对（某事物的影响或力量）起缓冲作用
 The soft grass cushioned his fall.
 
+fence noun 栅栏；篱笆；围栏
+fence noun 买卖赃物的人
+fence vi 击剑，剑术
+
 
 # 时间相关
 
@@ -300,9 +317,6 @@ antiquate vt 使古旧; 使废弃;
 indigenous 土生土长的; 生来的，固有的; 本地的; 根生土长
 
 
-
-
-
 ### 精力
 
 fatigue noun 疲劳，疲乏; 劳务杂役; （士兵穿的） 工作服;
@@ -329,7 +343,9 @@ vibrant 振动的; 响亮的; 充满生气的;
 
 ### 一致
 
-coherent adj 连贯的; 一致的; 条理分明的; 清楚明白的;
+coherent adj （论据、观点、计划）有条理的，连贯的，前后一致的
+coherent adj （讲话）条理清晰的，清楚明白的
+When she calmed down, she was more coherent (= able to speak clearly and be understood).
 
 
 cohesion  凝聚，内聚; （各部的） 结合; [力] 内聚力; [植] 连着
@@ -411,10 +427,15 @@ compound noun 复合物; 场地; （筑有围墙的） 院子; 复合词;
 compound vt 调和; 使混合; 使严重; 调停;
 compound adj 复合; [语法学] （句子） 复合的; 合成的; 多功能的;
 
-consist vi 在于; 由…组成; 符合;
 
-outright adv 彻底，完全；立刻；当场 I think cigarette advertising should be banned outright.
-outright adj 完全的，彻底的 There was no outright winner in the election.
+consist vi 在于; 由…组成; 符合;
+consist in
+[ + -ing verb ] For her, happiness consists in watching television and reading magazines.
+The beauty of air travel consists in its speed and ease.
+
+encompass vt 包含，包括（尤指很多不同事物） The festival is to encompass everything from music, theatre, and ballet to literature, cinema, and the visual arts.
+
+be made up of
 
 
 ### 完整
@@ -432,9 +453,14 @@ unblemished  adj 无瑕疵的; （人的名声、记录或性格） 无污点的
 authentic adj 真的，真正的; 可信的，可靠的; 有根据的; [法] 认证了的;
 
 
+outright adv 彻底，完全；立刻；当场 I think cigarette advertising should be banned outright.
+outright adj 完全的，彻底的 There was no outright winner in the election.
+
 # 旋转
 
 revolution 革命; 旋转; 彻底改变; 运行，公转
+
+
 rotate 旋转; 使转动; 使轮流，轮换; 交替;
 
 revolve vt 使旋转; 反复考虑; 使循环;
@@ -461,8 +487,6 @@ There's a lot of gossip about me going around. Have you been stirring?
 stir noun 搅动，搅拌 Could you give the soup a quick stir?
 stir noun 极大的兴趣；兴奋；骚动 The scandal caused/created quite a stir at the time.
 stir noun 示威行动
-
-
 
 
 stir vi 苏醒; 奋起; 传播; 发生;
@@ -505,6 +529,30 @@ tweak vt 稍稍改进
 The software is pretty much there - it just needs a little tweaking.
 You just need to tweak the last paragraph and then it's done.
 
+wring vt 拧；绞
+wring 拧干，绞干（布或衣服）
+She wrung out the shirt and hung it out to dry.
+
+
+wag vt （使）（尤指尾巴或手指）摆动，摇
+The little dog's tail wagged in delight.
+He wagged his finger sternly at the two boys.
+
+wag noun （使）（尤指尾巴或手指）摆动，摇
+With a single wag of her finger she managed to convey her total disapproval.
+
+flutter （使）飘动，挥动，颤动；拍（翅）；鼓（翼）
+Brightly coloured flags were fluttering in the breeze.
+Butterflies fluttered about in the sunshine.
+A white bird poised on a wire and fluttered its wings.
+flutter vi （心）怦怦乱跳；（胃）颤动
+Every time I think about my exams my stomach flutters!
+
+flutter noun 一阵兴奋（或激动）
+The publication of her first novel last spring caused a flutter of excitement.
+flutter noun （尤指赛马中的）小赌注
+Auntie Paula likes to have a bit of a flutter on the horses.
+flutter noun 振动；颤动；忽闪
 
 # 缠绕
 entwine vt 缠绕，盘绕;
@@ -589,7 +637,14 @@ scandal noun 丢脸，耻辱  It's a scandal (that) children are treated in this
 
 ### 相关
 correlation 相关性; 相互关系;
+
 irrelevant 不相干的; 不恰当; 缺乏时代性的，落后于潮流的; 牛头不对马嘴;
+These documents are largely irrelevant to the present investigation.
+Making a large profit is irrelevant to us - the important thing is to make the book available to the largest possible audience.
+
+irrelevance noun 不相关，不切题
+Sympathy is an irrelevance - we need practical help.
+
 
 relate vt （把…） 联系起来; 讲，叙述（故事等）;
 relate vt 讲述，叙述; 使…有联系; 建立或展示联系;
@@ -640,7 +695,11 @@ inalienable adj 不可剥夺; 不能转让的，不可分割的;
 refundable adj 可归还的，可退还的;
 
 ### 认为
-deem vt 认为，视为; 主张，断定;
+deem vt 认为，视为；觉得
+[ + obj + noun/adj ] The area has now been deemed safe.
+[ + noun/adj ] We will provide help whenever you deem it appropriate.
+[ + obj + to infinitive ] Anyone not paying the registration fee by 31 March will be deemed to have withdrawn from the offer.
+
 deem vi 认为，视为，以为; 作某种评价;
 reckon vt 认为; 计算; 测算，估计; 评定，断定;
 reckon vi 估计; 计算; 猜想; 料想;
@@ -751,10 +810,6 @@ The heart pumps blood through the arteries/round the body.
 
 pump vt （尤指间接地）盘问，套问
 She was pumping me for details of the new project.
-
-
-
-
 
 
 ### 起源
@@ -1603,6 +1658,15 @@ He was presented with a gold watch in recognition of (= to show respect for) his
 recognition noun 认出，认识；识别
 When he returned to his home town after the war, he found it had changed out of all/beyond all recognition (= it had changed so much that he no longer recognized it).
 
+### 支持
+advocate vt 主张；拥护；支持；提倡
+[ + -ing verb ] She advocates taking a more long-term view.
+He advocates the return of capital punishment.
+
+advocate noun 辩护律师
+
+advocate noun[c] 主张人；拥护人；支持者；提倡者
+He's a strong advocate of state ownership of the railways.
 
 
 ### 遵守
@@ -1611,7 +1675,9 @@ stipulate vi 规定，明确要求;
 stipulate noun 有托叶的;
 
 
-comply
+comply vi 服从；遵守；依从
+He's been ordered to have the dog destroyed because it's dangerous, but he refuses to comply.
+There are serious penalties for failure to comply with the regulations.
 
 conform vi 符合; 遵照; 适应环境;
 conform vt 使遵守; 使一致; 使顺从;
@@ -1644,6 +1710,13 @@ It's his compliance that amazes me.
 
 
 ### 则
+norm noun 行为准则；规范
+Europe's varied cultural, political and ethical norms
+
+the norms 常态，正常行为
+One child per family is fast becoming the norm in some countries.
+
+
 criteria noun
 criterion noun 规范; （批评、判断等的） 标准，准则;
 
@@ -1666,6 +1739,11 @@ In principle I agree with the idea, but in practice it's not always possible.
 discipline vt 训练; 使有纪律; 处罚; 使有条理;
 discipline noun 纪律; 学科; 训练; 符合行为准则的行为（或举止）;
 
+lodestar noun 指示方向的星星；（尤指）北极星
+​lodestar noun 范例，规范；指导原则
+The party manifesto is no longer the lodestar it used to be.
+
+
 ### 违反
 departure 背离; 离开，离去; 起程; 东西距离;
 
@@ -1681,6 +1759,25 @@ defiant adj 对抗的，违抗的；挑衅的
 The protesters blocking the entrance to the offices remained defiant this morning.
 defiant adj 不接受批评的；不接受不同意见的
 The CEO was in a defiant mood as she entered the boardroom.
+
+breach noun[c] 破坏，违犯；违反，不履行
+They felt that our discussions with other companies constituted a breach of/in our agreement.
+He was sued for breach of contract.
+There have been serious security breaches (= breaks in our security system).
+
+be in breach of sth 违反（法律或规章）
+The theatre was in breach of the safety laws for having no fire doors.
+
+breach noun （攻击墙或防御工事时打出的）缺口
+A cannon ball had made a breach in their castle walls.
+
+breach vt 破坏，违犯；违反，不履行
+They breached the agreement they had made with their employer.
+
+breach vt （尤指为从背后突袭）在…上打开缺口
+Their defences were easily breached.
+
+
 
 
 ### 缩减
@@ -1860,6 +1957,14 @@ disclose vt 公开; 揭露; 使显露; 使暴露;
 
 reveal 揭露; 泄露; 显露; [神] 启示;
 reveal 揭示，展现; [建] 门侧，窗侧;
+
+revelation noun 暴露；被揭示的真相，被揭露的内情
+a moment of revelation
+[ + that ] His wife divorced him after the revelation that he was having an affair.
+Shocking revelations about their private life appeared in the papers.
+
+come as/be a revelation 让人大开眼界；令人耳目一新；出乎意料地使人惊喜
+This book came as a complete revelation to me.
 
 unveil vt 为…揭幕
 The memorial to those who had died in the war was unveiled by the Queen.

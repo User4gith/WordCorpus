@@ -14,6 +14,12 @@ lenient adj （处罚或判决）宽容的，宽大的，从轻的
 They believe that judges are too lenient with terrorist suspects.
 
 
+dire adj 严重的；危急的；极端的
+These people are in dire need of help.
+He gave a dire warning that an earthquake was imminent.
+This decision will have dire consequences for local people.
+dire adj 很坏的
+I thought her latest book was dire!
 
 
 dreadfully adv 非常糟糕地；恶劣地

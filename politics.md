@@ -9,7 +9,6 @@ legitimate vt 合法化；合理化
 The government fears that talking to terrorists might legitimate their violent actions.
 
 
-
 polity 政体; 政治组织; 国家组织;
 regime 政治制度，政权，政体; 管理，方法; [医] 养生法; （病人等的） 生活规则;
 ministry （政府的） 部; 神职; 牧师职位; 神职任期
@@ -24,7 +23,6 @@ I always put my son on reins when we go shopping.
 rein vt 驾驭; 勒缰绳使（马）停步; 严格控制;
 rein vi 勒住马;
 
-monarchy 君主政体; 君主国; 君主政治;
 sovereign noun 君主; 最高统治者; 独立国; 旧时价值为一镑的英国金币;
 sovereign adj 至高无上的; 独立自主的; 拥有最高统治权的; 极好的;
 
@@ -32,8 +30,6 @@ empire noun 帝国，帝国领土; 帝权，君权，最高统治权; 大企业�
 empire adj 新古典风格的;
 
 emperor 皇帝，君主;
-
-
 dynasty
 
 conquer vt 占领；攻取；征服；击败 The English were conquered by the Normans in 1066.
@@ -63,9 +59,6 @@ inherit vi/vt 继承 Who will inherit the house when he dies?
 inherit vt 经遗传而得 Rosie inherited her red hair from her mother.
 inherit vt 接手，承担（遗留的问题等）When I took on the job of manager, I inherited certain financial problems.
 
-hierarchy noun 等级制度 He rose quickly through the political hierarchy to become party leader.
-hierarchy noun 统治集团
-
 
 aristocrat noun 贵族; 贵族政治论者; 有贵族派头的人;
 aristocracy noun 贵族; 贵族品质; 贵族统治的国家; 上层社会;
@@ -83,20 +76,40 @@ monopoly noun 垄断; 专卖; 垄断者; 专利品;
 
 hegemony noun （尤指国家的）霸权，支配权 The three nations competed for regional hegemony.
 
+arbitrary adj 任意的；随机的；随心所欲的
+arbitrary decision-making
+arbitrary adj 专断的；武断的；霸道的
+an arbitrary ruler
+The company has been the subject of an arbitrary take-over.
 
-supervise
-supervision
-surveillance noun 盯梢，监督; [法] 管制，监视;
 
-censor noun 监察官，检查员; （牛津大学等的） 学监; [心理] 潜意识压抑力; [心] 抑制性潜意识;
-censor vt 审查，检查; 审查（书刊等）; 检查（信件等）; 删改;
+
+
+### trend
+pluralism 多元性；多元化
+After years of state control, the country is now moving towards political/religious/cultural pluralism.
+pluralism 多元主义
+They are committed to human rights and pluralism.
+
+patriarchy noun 父权制社会；男权社会
+Patriarchy has not disappeared - it has merely changed form.
+She rails against patriarchy and hierarchy.
+
+hierarchy noun 等级制度 He rose quickly through the political hierarchy to become party leader.
+hierarchy noun 统治集团
 
 anarchy （尤指政府消亡或垮台而引起的）无政府状态，混乱状态
 What we are witnessing is the country's slow slide into anarchy.
 The country has been in a state of anarchy since the inconclusive election.
 
+monarchy 君主国
+monarchy noun 君主政体，君主制
+Is monarchy relevant in the modern world or should it be abolished?
 
 
+######
+
+rationality
 Renaissance 文艺复兴; 文艺复兴时期; 文艺复兴时期
 resurge v 复活
 
@@ -133,6 +146,15 @@ league noun 联盟，联合会
 the League of Nations
 
 
+# censorship
+
+supervise
+supervision
+surveillance noun 盯梢，监督; [法] 管制，监视;
+
+censor noun 监察官，检查员; （牛津大学等的） 学监; [心理] 潜意识压抑力; [心] 抑制性潜意识;
+censor vt 审查，检查; 审查（书刊等）; 检查（信件等）; 删改;
+
 # stitution
 charter
 legislation
@@ -167,6 +189,13 @@ realm noun （兴趣或活动的）界，领域，范围
 Her interests are in the realm of practical politics.
 realm noun 王国
 The matter was hotly debated in all the towns of the realm.
+
+sphere 球，圆球；球状物
+Doctors have replaced the top of his hip bone with a metal sphere.
+sphere （知识、工作等的）范围，领域，圈，界
+the political sphere
+exchanges with other countries, particularly in cultural, scientific, and economic spheres
+
 
 agrarian adj 土地的，耕地的；土地所有制的
 This is prime agrarian land.
@@ -255,6 +284,21 @@ Many countries have now ratified the UN convention on the rights of the child.
 The decision will have to be ratified (= approved) by the executive board.
 
 
+provision noun 提供；供给；准备
+The provision of good public transport will be essential for developing the area.
+Of course there's provision in the plan for population increase.
+
+provision noun 规定，条款
+We have inserted certain provisions into the treaty to safeguard foreign workers.
+[ + that ] She accepted the job with the provision that she would be paid expenses for relocating.
+
+provision noun （公司账户上，为未来可能的亏损做准备的）准备金
+The insurance company made a provision against claims over alleged pension fraud.
+
+provision noun 为…做好准备（尤指经济上的保障）
+He hasn't made any provision for his retirement yet.
+
+
 
 ### 鉴定
 authenticate 证明是真实的、可靠的或有效的; 鉴定，使生效
@@ -326,12 +370,26 @@ Five billion dollars of this year's budget is already earmarked for hospital imp
 register
 enrolment
 
+
+
+
 ### 抗议
 propose vt 求婚; 提议，建议; 打算，计划; 推荐，提名;
 propose vi 求婚; 做出计划，打算;
 
-oppose vt 抵制; 反对，抗争; 使相对; 使对照;
+proposal 建议; 提议; 求婚; 〈美〉投标;
 
+petition 请愿书
+I signed a petition against the proposed closure of the local hospital today.
+petition noun （向法院递交的）上诉书，诉状
+She's filing a petition for divorce.
+
+petition vt （向法院）递交上诉书，上诉
+They're petitioning for/about better facilities for disabled people.
+[ + obj + to infinitive ] I think we should petition the government to increase the grant for the project.
+
+
+oppose vt 抵制; 反对，抗争; 使相对; 使对照;
 
 assembly 装配; 集会; 议会; 立法机构;
 
@@ -355,16 +413,33 @@ formal The new circumstances compelled a change in policy.
 compel （有时指并非所愿地）激起，引发
 Over the years her work has compelled universal admiration and trust.
 
+
+coercive adj 强制的，强迫的；胁迫的
+The president relied on the coercive powers of the military.
+
 coercion noun 强制，强迫；威逼，胁迫
 He claimed the police had used coercion, threats, and promises to obtain the statement illegally.
 
 
 suppression noun 抑制; 压制; 镇压; 禁止;
 
+
 suppress vt （用武力）镇压，压制，制止
 The Hungarian uprising in 1956 was suppressed by the Soviet Union.
 suppress vi 抑制，忍住，压抑；查禁
 She couldn't suppress her anger/annoyance/delight.
+
+oppress vt 压迫；压制；欺压
+For years now, the people have been oppressed by a ruthless dictator.
+oppress vt 使烦恼；使焦虑；使不适
+Strange dreams and nightmares oppressed him.
+
+
+oppression noun 压迫；压制；欺压
+Every human being has the right to freedom from oppression.
+War, famine and oppression have forced people in the region to flee from their homes.
+oppression noun 烦闷；压抑；郁闷
+Several people had experienced the same feeling of oppression when they slept in that room.
 
 subdue vt 压制；制服；控制
 The fire burned for eight hours before the fire crews could subdue it.
@@ -403,7 +478,8 @@ hostel noun （免费或廉价的）旅社，客栈
 hostel noun （无家可归者的）收容所
 a hostel for the homeless
 
-
+circumvent vt（尤指巧妙或非法地）逃避，规避，绕过
+Ships were registered abroad to circumvent employment and safety regulations.
 
 
 ### 召集
@@ -411,10 +487,6 @@ convene vt 召集; 聚集; 传唤;
 convene vi 集合;
 
 convoke vt 召集，召开（会议）
-
-
-
-
 
 
 # 政治从业
@@ -471,7 +543,16 @@ It's being hyped as the musical event of the year.
 
 
 # 义务；权利
-compulsory
+compulsory adj 必须做的；强制性的；必修的
+Swimming was compulsory at my school.
+The law made wearing seat belts in cars compulsory.
+
+mandatory adj 强制的；必须履行的；法定的
+The minister is calling for mandatory prison sentences for people who assault police officers.
+Athletes must undergo a mandatory drugs test before competing in the championship.
+In 1991, the British government made it mandatory to wear rear seat belts in cars.
+
+
 commitment 承诺，许诺; 委任，委托; 致力，献身; 承担义务;
 
 oblige vt 责成；强迫，迫使
@@ -538,8 +619,6 @@ pledge noun 保证，誓言; [法] 抵押权; 公约; （表示友谊的） 干�
 pledge vi 使发誓，保证; 典当，抵押;
 pledge noun 许诺; 用…担保; 以誓言约束; 向…祝酒;
 
-coercive adj 强制的，强迫的；胁迫的
-The president relied on the coercive powers of the military.
 
 grant noun （尤指政府为特殊目的给予个人或组织的）拨款，补助金
 a student/research grant
@@ -561,9 +640,6 @@ righteous adj 正义的; 正直的; 公正的;
 
 condone vt 容忍，宽恕，原谅;
 lenient adj 宽容; 宽大的，仁慈的; <古>减轻痛苦的，缓解的;
-
-
-proposal 建议; 提议; 求婚; 〈美〉投标;
 
 condemn  vt（通常因道义上的原因而） 谴责; 宣判; 宣布…不能使用; 迫使…陷于不幸的境地;
 
@@ -627,7 +703,7 @@ testimony noun （法庭上证人的） 证词; 证明，证据; 表示，表明
 plead vi 乞求，恳求 He was on his knees, pleading for mercy/forgiveness.
 plead vt/vi （尤指在法庭上）为…辩护；申辩；认（罪）
 They paid a high-powered attorney to plead their case (= argue for them in court).
-plead
+
 plead vt 以…为解释或借口
 She left early, pleading pressure of work.
 
@@ -712,7 +788,10 @@ synthetic adj 合成的，人造的 synthetic fibres
 synthetic adj 假的，做作的 She criticized the synthetic charm of TV hosts.
 
 
-
+sleight of hand（魔术中的）巧妙手法，敏捷手法
+Most of these conjuring tricks depend on sleight of hand.
+sleight of hand 花招，手腕
+By some statistical sleight of hand the government has produced figures showing that unemployment has recently fallen.
 
 
 ### 盗窃
@@ -772,3 +851,12 @@ impose
 confiscate vt （通常指作为惩罚）没收，把…充公
 Miss Edwards confiscated my phone!
 His passport was confiscated by the police to prevent him from leaving the country.
+
+seize vt 抓住；夺过
+He seized the chance/opportunity of a free flight with both hands (= with eagerness or enthusiasm).
+seize vt 夺取；攫取；抓获
+Political instability helped the army to seize power.
+seize vt 没收；查获
+Customs officers at Heathrow have seized 60 kilos of heroin.
+seize vt （强烈情感或剧痛）突然侵袭
+I was suddenly seized by/with a feeling of great insecurity and loneliness.

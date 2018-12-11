@@ -1,4 +1,13 @@
 # 精确
+disinterested adj 客观的；公正的；无私的
+a disinterested observer/judgment
+a piece of disinterested advice
+
+infallible adj 不可能错误的；永无过失的；不会犯错误的
+Even the experts are not infallible.
+
+
+
 precision noun 精确度，准确（性）; [语] 精确;
 precision adj 精确的，准确的，细致的; 严守标准的; 行动精确的;
 
@@ -58,6 +67,9 @@ He was found guilty of obtaining money by deception.
 
 synthetic adj 合成的，人造的 synthetic fibres
 synthetic adj 假的，做作的 She criticized the synthetic charm of TV hosts.
+
+highfalutin adj 浮夸的；装模作样的
+
 
 
 ### 好奇
@@ -136,6 +148,11 @@ Have you seen the feverish activity in the kitchen?
 
 
 # 豪华；壮丽……
+fabulous 难以置信的; 极好的，极妙的; （美貌） 惊人的; 寓言般的;
+
+gorgeous 华丽的，艳丽的 vivid
+
+
 opulent 豪华
 luxurious
 luxuriant 华丽的; 茂盛的; 郁郁葱葱的; 绚烂的
@@ -146,9 +163,22 @@ extravagant adj 过度的，过分的; 奢侈的，浪费的; 放肆的; 大量�
 plush 漂亮的，豪华的/ n 长毛绒
 sleek 毛发光滑的
 
-fabulous 难以置信的; 极好的，极妙的; （美貌） 惊人的; 寓言般的;
+glitter vi  闪烁，闪耀，闪光
+Her diamond necklace glittered brilliantly under the spotlights.
+glitter vi （眼睛）闪烁
+His dark eyes glittered with anger behind his glasses.
+glitter noun（富人或名人的）吸引力，魅力，诱惑力
+He was attracted by the glitter of Hollywood.
+glitter noun 闪烁，闪耀，闪光
+the glitter of the fireworks
 
-gorgeous 华丽的，艳丽的 vivid
+allure 诱惑；魅力；吸引力
+the allure of working in television
+sexual allure
+
+
+
+
 dazzle 使目眩; 使惊异不已;
 marvellous 绝妙的; 不可思议的; 惊奇的; 极好的;
 brilliance 光彩; 光辉; （卓越的） 才华; 光亮;

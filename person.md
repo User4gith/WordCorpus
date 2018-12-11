@@ -40,6 +40,14 @@ inherent adj 天生; 固有的，内在的;
 I have an inherent distrust of lawyers.
 
 ### 道德
+conscience noun 良心；良知
+a guilty conscience
+You didn't do anything wrong - you should have a clear conscience (= not feel guilty).
+uk He's got no conscience at all (= does not feel guilty) about leaving me to do the housework.
+
+
+
+
 moral 道德的
 She was the only politician to condemn the proposed law on moral grounds (= for moral reasons).
 moral 有道德的，品行端正的
@@ -273,6 +281,15 @@ The humane way of dealing with a suffering animal (= the way that causes the lea
 
 
 ### 热情的
+obliging adj 乐于助人的，热心相助的
+He found an obliging doctor who gave him the drugs he needed.
+
+hospitable adj 友好的，好客的
+The villagers were very hospitable to/towards anyone who passed through.
+hospitable adj （条件）适宜生活的，适合成长的
+It's difficult to think of a less hospitable environment than the surface of the moon.
+
+
 affectionate adj 表示爱的；充满深情的；有感情的
 an affectionate kiss
 He's an affectionate little boy.
@@ -310,15 +327,11 @@ intensity noun （感情或看法的）强烈；认真；全情投入
 The intensity of their relationship was causing problems.
 
 
-hospitable adj 友好的，好客的
-The villagers were very hospitable to/towards anyone who passed through.
-hospitable adj （条件）适宜生活的，适合成长的
-It's difficult to think of a less hospitable environment than the surface of the moon.
 
 
 hospitality noun 热情好客，殷勤，友好
 The local people showed me great hospitality.
-hospitablity noun （待客用的）食物，饮料；招待，款待
+hospitality noun （待客用的）食物，饮料；招待，款待
 The company's guests are entertained in the corporate hospitality area.
 
 
@@ -343,6 +356,24 @@ fierce 强烈的；狂热的
 The expansion plans will face fierce opposition/resistance from environmentalists.
 fierce 困难的
 The chemistry exam was fierce!
+
+overzealous adj 过分热心的
+He had to be protected from overzealous fans.
+They were a little overzealous in eliminating risk.
+
+mania noun 狂热；热衷
+So why your sudden mania for exercise?
+The article describes the religious mania that is sweeping the US.
+mania noun 痴迷；…狂；…癖
+Van Gogh suffered from acute persecution mania.
+She's always cleaning - it's like a mania with her.
+
+mania noun 躁狂症
+
+狂热
+Beatle-mania swept Britain in the 1960s.
+
+
 
 ### 温和
 mild adj 温和的；和缓的；轻微的
@@ -487,7 +518,7 @@ It was courageous of her to challenge the managing director's decision.
 
 
 
-# 健壮的
+# 健壮的/坚韧
 bouncing adj （尤指婴儿）健壮的，活跃的，精力旺盛的
 We've got two grandchildren - a three-year-old girl and a bouncing baby boy.
 
@@ -523,6 +554,9 @@ determination noun 毅力 a man of fierce/ruthless determination
 You can't help but admire her determination to succeed.
 determination 决定，确定 The determination of policy is not your business - your job is to implement it.
 determination noun 查明；测定 the determination of his whereabouts
+
+assertive adj 坚定自信的；果敢的
+If you really want the promotion, you'll have to be more assertive.
 
 
 ### 有能力的
@@ -1272,6 +1306,12 @@ I'm prepared to overlook his behaviour this time.
 overlook noun 观察位置
 There are lots of scenic overlooks along the road from New York to Montreal.
 
+ironic adj 具有讽刺意味的；出乎意料的；令人啼笑皆非的
+[ + that ] It is ironic that although many items are now cheaper to make, fewer people can afford to buy them.
+ironic adj 反语的；讽刺的
+an ironic comment/reply
+
+
 
 ### 诽谤
 disparage vt 贬低; 轻视; 批评; 非难;
@@ -1670,6 +1710,12 @@ invert noun 颠倒的事物; 变性者;
 skew adj 斜的，歪的; [数学] 不对称的; [统计学] 歪斜，扭曲;
 skew vt 歪曲; 曲解; 使歪斜;
 skew vi 偏离，歪斜; 斜视;
+
+perversion noun 性变态
+The novels of the Marquis de Sade deal with sexual perversion.
+perversion 歪曲，曲解
+His testimony was clearly a perversion of the truth.
+
 
 
 # 紧的；兼容的

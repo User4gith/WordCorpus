@@ -11,6 +11,10 @@ oculist noun 眼科医生;
 ophthalmologist
 
 ### 身体
+metabolism 新陈代谢
+Exercise is supposed to speed up your metabolism.
+
+
 ligament 纽带; [解] 韧带;
 
 spin noun
@@ -83,6 +87,10 @@ toxin （尤指致病细菌产生的）毒素
 virus 病毒 Evidence suggested that the AIDS virus was spreading very quickly among the heterosexual community.
 virus 病毒病，病毒性疾病；病毒感染 I don't know exactly what's wrong with her - I think she has some kind of virus.
 virus 计算机病毒
+
+viral adj 病毒病，病毒性疾病；病毒感染
+viral infections
+
 
 venomous adj 毒／ 有毒的，有害的  a venomous snake
 venomous adj 充满愤怒的；愤恨的；咬牙切齿的 Ms Brown has launched a venomous attack against the newspaper.

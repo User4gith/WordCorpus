@@ -61,9 +61,18 @@ invoice 发票
 
 ledger 分类账
 
-
 cheque 支票
 I wrote him a cheque for £50.
+
+collateral noun 担保品，抵押品
+She used/put up her house as collateral for a loan.
+collateral noun （血管或神经）侧支
+
+collateral adj 附带的，次要的；（亲戚）旁系的，非直系的
+collateral senses of a word
+a collateral branch of the family
+
+
 
 
 lucrative adj （尤指生意、职位或活动）赚钱的，盈利的
