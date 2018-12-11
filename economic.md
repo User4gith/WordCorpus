@@ -671,3 +671,47 @@ The position fell (= became) vacant when Rodman was promoted.
 
 spacious adj 宽敞的，空间大的
 spacious accommodation
+
+### 分配
+allocate vt 分配；分派；拨给，划拨
+The government is allocating £10 million for health education.
+ [ + two objects ] As project leader, you will have to allocate people jobs/allocate jobs to people.
+It is not the job of the investigating committee to allocate blame for the disaster/to allocate blame to individuals.
+
+
+dispense vt 分发；提供，供应
+There is a vending machine on the platform that dispenses snacks.
+dispense vt 配（药），开（药）
+uk a dispensing chemist
+
+ration 分配；（尤指在分配物短缺时的）配给量，定量配给
+During the war, no one was allowed more than their ration of food, clothing and fuel.
+rations noun （尤指发给作战士兵的）口粮配给，口粮定量
+
+ration noun 合理的量；正常量；认为应该得到的量
+We've had more than our ration of problems recently.
+
+ration vt 对…实行配给；定量供应；限定…的量
+Do you remember when petrol was rationed to five gallons a week?
+My children would watch television all day long, but I ration it.
+
+
+division noun 分配；分配方法
+the equal division of labour between workers
+division noun 部门（如部、处、室、科等）
+the sales division
+division noun （体育运动的）级
+The team plays in one of the lower divisions.
+
+division noun 分歧；不和
+Disagreements about defence cuts have opened up deep divisions within the military.
+Division within the party will limit its chances in the election.
+
+
+stint noun 工作期限；（从事某项活动的）规定期限
+He has just finished a stint of compulsory military service.
+Perhaps her most productive period was her five-year stint as a foreign correspondent in New York.
+
+stint vi/vt 限量提供；吝惜；节省
+The bride's parents did not stint on the champagne - there was plenty for everyone.
+Don't stint yourself - take another slice of cake.

@@ -101,8 +101,16 @@ wean noun 〈英〉婴儿;
 prefer vt 宁可，更喜爱；觉得还是…更可取 I'd prefer you not to smoke (= I would like it better if you did not smoke), please.
 
 preference noun 偏爱；爱好；喜爱
+Her preference is for comfortable rather than stylish clothes.
+I have a preference for sweet food over spicy.
+It would be wrong to discriminate against a candidate because of their sexual preference (= the sex of the people they are sexually attracted to).
+
 preference noun 优先（权），偏袒
+We give preference to those who have worked with us for a long time.
+Special preferences were offered initially to encourage investment.
+
 in preference to sth 优先于；而不是
+He studied chemistry in preference to physics at university.
 
 biased adj 偏袒一方的；有偏见的
 I think she's beautiful but then I'm biased since she's my daughter.

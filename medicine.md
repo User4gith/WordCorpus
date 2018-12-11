@@ -216,6 +216,19 @@ enervate vt 使衰弱，使失去活力;
 moribund adj 奄奄一息的; 停滞不前的; 濒死的，垂死的; How can the department be revived from its present moribund state?
 moribund noun 垂死的人;
 
+doom noun 死亡；毁灭；厄运
+The newspapers are always full of doom and gloom (= bad news and unhappiness) these days.
+doom vt 使注定；使必然发生
+ Are we doomed to repeat the mistakes of the past?
+
+gloom 忧郁；愁闷；沮丧
+Bergman's films are often full of gloom and despair.
+There is widespread gloom and doom about the company's future.
+
+gloom 昏暗；幽暗；黑暗
+She peered into the gloom, but she couldn't see where the noise was coming from.
+A figure emerged from the gloom of the corridor.
+
 
 ### 治疗
 cure vt 治愈，治好  At one time doctors couldn't cure TB/cure people of TB.

@@ -11,7 +11,7 @@ The government fears that talking to terrorists might legitimate their violent a
 
 polity 政体; 政治组织; 国家组织;
 regime 政治制度，政权，政体; 管理，方法; [医] 养生法; （病人等的） 生活规则;
-ministry （政府的） 部; 神职; 牧师职位; 神职任期
+
 
 reign vi 当政，统治; 占主导地位;
 reign vt 想法、情感或氛围盛行，成为最显著的;
@@ -60,17 +60,8 @@ inherit vt 经遗传而得 Rosie inherited her red hair from her mother.
 inherit vt 接手，承担（遗留的问题等）When I took on the job of manager, I inherited certain financial problems.
 
 
-aristocrat noun 贵族; 贵族政治论者; 有贵族派头的人;
-aristocracy noun 贵族; 贵族品质; 贵族统治的国家; 上层社会;
-
-
-autocratic adj 专制的; 独裁的;
-dictatorship noun 独裁，专政; 独裁权; 执政者的职位（任期）;
 tyranny 暴虐; 专横; 暴行;
 
-authorise 授权
-authority 权威
-authoritarian 威权主义
 
 monopoly noun 垄断; 专卖; 垄断者; 专利品;
 
@@ -95,6 +86,7 @@ patriarchy noun 父权制社会；男权社会
 Patriarchy has not disappeared - it has merely changed form.
 She rails against patriarchy and hierarchy.
 
+
 hierarchy noun 等级制度 He rose quickly through the political hierarchy to become party leader.
 hierarchy noun 统治集团
 
@@ -105,6 +97,41 @@ The country has been in a state of anarchy since the inconclusive election.
 monarchy 君主国
 monarchy noun 君主政体，君主制
 Is monarchy relevant in the modern world or should it be abolished?
+
+aristocracy noun 贵族，贵族阶级
+members of the aristocracy
+aristocrat noun 贵族; 贵族政治论者; 有贵族派头的人;
+Many aristocrats were killed in the French Revolution.
+
+
+autocracy noun 独裁统治；独裁政体；独裁；专制
+autocracy noun 独裁国家；专制国家
+
+autocratic adj 专制的; 独裁的;
+autocrat noun 独裁者；专制者；独断专行的人；专横的人
+
+dictator noun 独裁者，暴君
+dictator noun 独断专行者；专权者
+My boss is kind of a dictator.
+dictatorship noun 独裁，专政; 独裁权; 执政者的职位（任期）;
+
+
+authorise 授权
+authority 权威
+
+authoritarian 独裁的；专制的
+an authoritarian regime/government/ruler
+His manner is extremely authoritarian.
+authoritarian noun 独裁者
+My father was a real authoritarian so we were brought up very strictly.
+
+totalitarian adj 极权主义的
+a totalitarian regime/state
+
+
+
+collectivism noun 集体主义；集体主义制度
+
 
 
 ######
@@ -125,6 +152,8 @@ council 委员会; （郡、镇等） 政务会; （尤指旧时讨论特定步�
 
 bureau noun 局; （提供某方面信息的） 办事处; （美国政府部门） 局; （附抽屉及活动写字台的） 书桌;
 bureaucracy noun 官僚主义;官僚机构;官僚政治
+
+ministry （政府的） 部; 神职; 牧师职位; 神职任期
 
 committee noun 委员会;
 association noun 联想; 协会，社团; 联合，联系;

@@ -175,7 +175,9 @@ aisle 过道，通道; 侧廊，耳堂; 狭长的通路;
 corridor noun 走廊，通道; 走廊（一国领土通过他国境内的狭长地带）; [建] 覆道;
 Her office is at the end of the corridor.
 
-foyer noun  （剧院、宾馆等公共建筑物入口处内的）门厅 I'll see you downstairs in the foyer in half an hour.
+foyer noun  剧院、宾馆等公共建筑物入口处内的）门厅
+I'll see you downstairs in the foyer in half an hour.
+
 foyer noun （房子或公寓的）门廊，前厅
 
 terrace noun 台地
@@ -863,11 +865,6 @@ evoke vt 唤起; 产生，引起;
 denote vt 代表; 指代; 预示; 意思是; The colour red is used to denote passion or danger.
 
 represent
-
-doom noun 死亡；毁灭；厄运
-The newspapers are always full of doom and gloom (= bad news and unhappiness) these days.
-doom vt 使注定；使必然发生
- Are we doomed to repeat the mistakes of the past?
 
 
 
@@ -1668,6 +1665,8 @@ advocate noun 辩护律师
 advocate noun[c] 主张人；拥护人；支持者；提倡者
 He's a strong advocate of state ownership of the railways.
 
+approve
+
 
 ### 遵守
 stipulate vt （尤指在协议或建议中）规定，约定，讲明（条件等） ;
@@ -2343,7 +2342,10 @@ scatter noun 撒布，散播;
 disseminate v 散布，传播
 dissemination noun 散播，宣传; 浸染
 
-disperse vt （使） 分散，（使）散开; 散播，传布（如知识）; 使（光）色散; 使粒子分散
+disperse vi/vt （使）扩散，（使）散开，（使）分散
+When the rain came down the crowds started to disperse.
+Police dispersed the crowd that had gathered.
+
 dispersal noun 分散; 散布; 消散; 驱散;
 
 spread v 展开; 伸开; （使） 传播; （使） 散布;

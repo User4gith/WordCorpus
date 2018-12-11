@@ -329,6 +329,20 @@ dump noun 凌乱的地方，令人厌恶的地方
 This town is a complete dump!
 
 
+flop vi 重重地落下（或掉下）
+Hugh's hair keeps flopping over/into his eyes.
+When she gets home from school, she's so tired all she can do is flop down in front of the television.
+
+flop vi （书、戏剧、电影等）砸锅，完全失败
+Her first book flopped, but her second became a bestseller.
+
+flop noun 失败，不成功
+The play was a complete/total flop.
+flop noun 重重地落下（或掉下）
+He fell with a flop on the bed.
+
+
+
 ### 干涉
 intervene vi  阻碍; 出面; 插嘴; 介于…之间;
 
@@ -775,6 +789,18 @@ diverge vi （道路）分叉；出现差异；发生分歧 Although the two org
 
 controversy noun 争议；争论；争辩 There was a big controversy surrounding/over the use of drugs in athletics.
 The policy has caused fierce/heated controversy ever since it was introduced.
+
+
+
+contention noun[u] 争论；纷争；口角
+There's a lot of contention about that issue - for every person firmly in favour, there's someone fiercely against it.
+The issue has been settled - it's no longer in contention.
+
+contention noun[c]论点；主张；看法
+[ + that ] It is her contention that exercise is more important than diet if you want to lose weight.
+
+be in/out of contention for sth（尤指在体育运动中）有（没有）机会赢得…
+This loss puts them out of contention for the playoffs this year.
 
 
 contentious adj 有争议的；引起争论的；可能引发争议的

@@ -6,6 +6,9 @@ a piece of disinterested advice
 infallible adj 不可能错误的；永无过失的；不会犯错误的
 Even the experts are not infallible.
 
+omniscient 无所不知的，全知的
+God is omniscient.
+
 
 
 precision noun 精确度，准确（性）; [语] 精确;

@@ -9,6 +9,9 @@ There are problems in every relationship - it's in the nature of things.
 As a child, Juliana had a very sensitive nature.
 He is by nature inclined to be lazy.
 
+innate adj 天生的，固有的
+Cyril's most impressive quality was his innate goodness.
+
 
 essence noun 本质；实质；要素
 The essence of his argument was that education should continue throughout life.
@@ -38,6 +41,8 @@ instinctual adj 本能的
 
 inherent adj 天生; 固有的，内在的;
 I have an inherent distrust of lawyers.
+There are dangers/risks inherent in almost every sport.
+
 
 ### 道德
 conscience noun 良心；良知
@@ -961,6 +966,18 @@ dull adj 不聪明的，愚笨的
 dull vt 缓和，缓解；减轻
 Homeless children sniff glue to dull their hunger pains.
 
+turgid adj （讲话、写作、风格等）太严肃的，枯燥乏味的
+a couple of pages of turgid prose
+
+turgid adj （水）流动不畅的，不易流动的
+The river rolled darkly brown and turgid.
+
+turgid adj （器官或生物组织）肿大的，肿胀的，膨胀的
+
+turgidity noun （讲话、写作、风格等）太严肃的，枯燥乏味的
+
+
+
 mediocre adj 普通的，平庸的，不够好的
 The film's plot is predictable and the acting is mediocre.
 Parents don't want their children going to mediocre schools.
@@ -1614,6 +1631,12 @@ It was rotten of you to leave without saying goodbye.
 decrepit adj 破旧的，年久失修的；破烂不堪的；老朽的
 Most of the buildings were old and decrepit.
 A decrepit old man sat on a park bench.
+
+decompose vi （使）腐化，（使）腐烂
+The body must have been decomposing for several weeks.
+decompose vt（使）分解，（使）分化
+Microbes decompose organic waste into a mixture of methane and carbon dioxide.
+
 
 #### 刺激
 accelerate vt 促进; （使） 加快，（使）增速; 加速，催促; 速度增加;
