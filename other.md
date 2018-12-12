@@ -2,7 +2,8 @@
 
 negotiate 谈判，协商，交涉
 exploit
-cathedral
+
+
 fringe
 subside
 heir 继承人; 后嗣，嗣子;
@@ -20,6 +21,12 @@ He gave a dire warning that an earthquake was imminent.
 This decision will have dire consequences for local people.
 dire adj 很坏的
 I thought her latest book was dire!
+
+appalling adj 极坏的，糟透的
+appalling weather
+appalling adj 骇人听闻的，令人震惊的；极为恶劣的
+Prisoners were kept in the most appalling conditions.
+
 
 
 dreadfully adv 非常糟糕地；恶劣地

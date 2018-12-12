@@ -132,6 +132,9 @@ hostility noun 敌意，不友好 They showed open (= obvious) hostility to/towa
 hostility noun 不同意，不喜欢
 hostilities noun 战斗；战争行为 Hostilities began/broke out just after midnight.
 
+savagery noun 残暴（行为），凶残（行径）；兽性
+
+
 
 ======
 offence noun 犯罪行为；罪行 a serious/minor offence; Driving without a licence is an offence.
@@ -203,26 +206,6 @@ I hope this is a public footpath and we're not trespassing on someone's land.
 trespass vi 违犯道德或社会法规（做某事或行为的方式不是道德上认可的）
 trespass noun 擅自进入，侵入（他人土地或建筑物） the law of trespass
 trespass noun （违反道德或宗教律法的）罪过 Forgive us our trespasses.
-
-violation noun 违反，违背，违犯（尤指法律、协议、原则等）
-He claimed that the way he'd been treated was a gross violation of his civil/constitutional/human rights.
-
-violate vt 违反，违背，违犯（尤指法律、协议、原则等）
-They were charged with violating federal law.
-violate vt 侵犯；打扰
-Questions of this kind violate my privacy and I am not willing to answer them.
-violate vt 强暴；强奸
-She said that she had been treated so roughly by the hospital staff that she felt violated.
-
-insult noun 侮辱；辱骂
-The instructions are so easy they are an insult to your intelligence (= they seem to suggest you are not clever if you need to use them).
-insult vt 侮辱，辱骂
-First he drank all my wine and then he insulted all my friends.
-
-intrusive adj 打搅的；侵扰的
-intrusive questioning
-
-
 
 ========
 
@@ -315,13 +298,6 @@ deterrent noun 威慑力量；遏制因素；制止物
 Tougher prison sentences may act/serve as a deterrent to other would-be offenders.
 
 
-entrench vt 使处于牢固地位，使根深蒂固，牢固确立（尤指观念、问题）
-The government's main task was to prevent inflation from entrenching itself.
-entrench noun 壕沟; 防御设施;
-
-
-
-
 #####################################
 
 retaliate vi 回敬; 报复，反击;
@@ -402,3 +378,30 @@ Withdrawal is a classic symptom of depression.
 truce noun 讲和（协议）；休战，停战（协定）
 After years of rivalry the two companies have agreed (us agreed to) a truce.
 The fragile truce between the two sides is not expected to last long.
+
+retreat vi 退却；撤退；后退
+Attacks by enemy aircraft forced the tanks to retreat (from the city).
+When she came towards me shouting, I retreated (behind my desk).
+retreat vi 退却；躲避；隐退
+When he's done something wrong, he retreats to his bedroom.
+
+retreat vi 改变主意；退缩；放弃信仰
+The government is retreating from its promises.
+retreat vi （价格）在上涨之后回落
+Wheat prices retreated after a two-day increase.
+
+retreat noun （士兵或军队的）撤退，退却，后退
+the retreat from Dunkirk
+Enemy soldiers are now in (full) retreat.
+
+retreat noun 退隐处；静居处；僻静处
+a country/mountain/lakeside retreat
+retreat noun 静修，静思（时间）
+We went on (a) retreat at/to a monastery in Wales.
+
+
+retreat noun （信仰的）改变；退缩；放弃
+The professor's speech marked/signalled a retreat from his usual extreme views.
+
+retreat noun （价格）下跌的情况
+Over the past few weeks we have seen the currency's big retreat from its historic high.

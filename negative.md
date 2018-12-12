@@ -83,6 +83,14 @@ exotic noun 舶来品，外来物; 脱衣舞女;
 quirk noun 怪癖；古怪之处 You have to get used to other people's quirks and foibles.
 foible noun （无伤大雅的）怪癖，小毛病，小缺点 We all have our little foibles.
 
+peculiar 奇怪的，古怪的
+She has the most peculiar ideas.
+It's peculiar that they didn't tell us they were going away.
+
+peculiar 独特的，特有的
+He gets on with things in his own peculiar way/manner/fashion.
+This type of building is peculiar to the south of the country.
+
 
 # 使恐惧
 terrify
@@ -238,6 +246,10 @@ Jean felt uncomfortable but managed to force a strained smile.
 faze vt 使慌乱；使担忧；使惊慌失措
 No one is fazed by the sight of guns here any more.
 
+perturb vt 使烦恼；使担心
+News of the arrest perturbed her greatly.
+
+
 
 ### 剥夺
 bereave vt 使失去（希望、生命等）; （尤指死亡）使丧失（亲人、朋友等） ; 使孤寂; <废>抢走（财物）;
@@ -342,7 +354,6 @@ flop noun 重重地落下（或掉下）
 He fell with a flop on the bed.
 
 
-
 ### 干涉
 intervene vi  阻碍; 出面; 插嘴; 介于…之间;
 
@@ -358,9 +369,65 @@ She seems to regard any advice or help from me as interference.
 The government's interference in the strike has been widely criticized.
 interference noun （噪声或其他电子信号对电视或收音机的）干扰
 
-
 derail （使）（火车）脱轨
 derail vt 阻挠 Renewed fighting threatens to derail the peace talks.
+
+intrusive adj 打搅的；侵扰的
+intrusive questioning
+
+violation noun 违反，违背，违犯（尤指法律、协议、原则等）
+He claimed that the way he'd been treated was a gross violation of his civil/constitutional/human rights.
+
+violate vt 违反，违背，违犯（尤指法律、协议、原则等）
+They were charged with violating federal law.
+violate vt 侵犯；打扰
+Questions of this kind violate my privacy and I am not willing to answer them.
+violate vt 强暴；强奸
+She said that she had been treated so roughly by the hospital staff that she felt violated.
+
+disturbance noun 干扰，滋扰
+Residents are tired of the disturbance caused by the nightclub.
+Phone calls are the biggest disturbance at work.
+disturbance noun 骚乱；纷乱；暴力事件
+There was a minor disturbance during the demonstration, but nobody was injured.
+
+### 折磨
+annoy vt 烦扰；打搅；使烦恼
+Tina really annoyed me in the meeting this morning.
+[ + that ] It annoys me that she just expects us to help.
+It really annoys me when people expect me to tip as well as pay a service charge in a restaurant.
+
+
+
+annoying adj 讨厌的；恼人的
+It's really annoying when a train is late and there's no explanation.
+He's got a really annoying laugh.
+
+
+
+plague vt 不断困扰；折磨；使受煎熬 My shoulder's been plaguing me all week.
+plague vt （尤指因不停提问而）使烦恼，打搅 He's been plaguing me for a loan of the book.
+plague noun 瘟疫  Millions died of (the) plague.
+a plague of sth  （令人烦恼或可能造成破坏的）一大群 A plague of journalists descended on the town.
+
+harass vt 骚扰；使烦恼，打扰 Stop harassing me!
+
+haunt vt 使经常苦恼，不断困扰
+Fighting in Vietnam was an experience that would haunt him for the rest of his life.
+30 years after the fire he is still haunted by images of death and destruction.
+haunt vt （鬼魂）经常出没
+A ghostly lady is said to haunt the stairway looking for her children.
+haunt noun 常去的地方
+This bar used to be one of your old haunts, didn't it, Jake?
+
+hassle noun 麻烦，困难
+I can't face the hassle of moving again.
+My boss has been giving me a lot of hassle this week.
+It was such a hassle trying to get my bank account changed that I nearly gave up.
+
+hassle vt 烦扰（尤指通过反复提问）
+I'll do it in my own time - just stop hassling me!
+[ + to infinitive ] The children keep hassling me to take them to Disneyland.
 
 
 ### 限制stop/restrict
@@ -648,52 +715,12 @@ The shooting of the police officer has received universal condemnation.
 decry vt 斥责，谴责，抨击
 Lawyers decried the imprisonment of several journalists.
 
+insult noun 侮辱；辱骂
+The instructions are so easy they are an insult to your intelligence (= they seem to suggest you are not clever if you need to use them).
+insult vt 侮辱，辱骂
+First he drank all my wine and then he insulted all my friends.
 
 
-### 折磨
-annoy vt 烦扰；打搅；使烦恼
-Tina really annoyed me in the meeting this morning.
-[ + that ] It annoys me that she just expects us to help.
-It really annoys me when people expect me to tip as well as pay a service charge in a restaurant.
-
-
-
-annoying adj 讨厌的；恼人的
-It's really annoying when a train is late and there's no explanation.
-He's got a really annoying laugh.
-
-
-
-plague vt 不断困扰；折磨；使受煎熬 My shoulder's been plaguing me all week.
-plague vt （尤指因不停提问而）使烦恼，打搅 He's been plaguing me for a loan of the book.
-plague noun 瘟疫  Millions died of (the) plague.
-a plague of sth  （令人烦恼或可能造成破坏的）一大群 A plague of journalists descended on the town.
-
-harass vt 骚扰；使烦恼，打扰 Stop harassing me!
-
-haunt vt 使经常苦恼，不断困扰
-Fighting in Vietnam was an experience that would haunt him for the rest of his life.
-30 years after the fire he is still haunted by images of death and destruction.
-haunt vt （鬼魂）经常出没
-A ghostly lady is said to haunt the stairway looking for her children.
-haunt noun 常去的地方
-This bar used to be one of your old haunts, didn't it, Jake?
-
-
-disturbance noun 干扰，滋扰
-Residents are tired of the disturbance caused by the nightclub.
-Phone calls are the biggest disturbance at work.
-disturbance noun 骚乱；纷乱；暴力事件
-There was a minor disturbance during the demonstration, but nobody was injured.
-
-hassle noun 麻烦，困难
-I can't face the hassle of moving again.
-My boss has been giving me a lot of hassle this week.
-It was such a hassle trying to get my bank account changed that I nearly gave up.
-
-hassle vt 烦扰（尤指通过反复提问）
-I'll do it in my own time - just stop hassling me!
-[ + to infinitive ] The children keep hassling me to take them to Disneyland.
 
 
 
@@ -736,6 +763,13 @@ She had several bee stings.
 sting noun 痛苦；刺痛，刺伤；刺激 [ S ] the feeling of being upset by something
 the sting of defeat
 sting noun （昆虫或动物的）刺，蜇刺，蜇针；（植物的）刺毛
+
+
+misery noun 痛苦，悲惨
+We have witnessed the most appalling scenes of human misery.
+Ten years of marriage to him have made her life a misery.
+misery noun 常常不高兴的人，老发牢骚的人
+Oh come on, don't be such a misery!
 
 
 ### 污染
@@ -814,6 +848,14 @@ controversial 有争议的，引起争议的，被争论的; 好争论的
 
 contradictory adj 对立的；相互矛盾的；不一致的
 I keep getting contradictory advice - some people tell me to keep it warm and some tell me to put ice on it.
+
+ambivalent adj （心情）矛盾的；模棱两可的，含糊不定的
+I felt very ambivalent about leaving home.
+He has fairly ambivalent feelings towards his father.
+an ambivalent attitude to exercise
+
+ambivalence noun 矛盾心理
+her ambivalence towards men
 
 
 

@@ -172,6 +172,10 @@ efficiency noun 功效; 效率，效能; 实力，能力; [物] 性能;
 efficient adj 效率高的；有能力的；有效的；生效的
 effective adj 能产生预期结果的；有效的
 
+pragmatic 讲究实际的，重实效的；实用主义的
+In business, the pragmatic approach to problems is often more successful than an idealistic one.
+
+
 
 
 # 工作

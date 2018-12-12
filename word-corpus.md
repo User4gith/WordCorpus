@@ -1668,6 +1668,11 @@ He's a strong advocate of state ownership of the railways.
 approve
 
 
+entrench vt 使处于牢固地位，使根深蒂固，牢固确立（尤指观念、问题）
+The government's main task was to prevent inflation from entrenching itself.
+entrench noun 壕沟; 防御设施;
+
+
 ### 遵守
 stipulate vt （尤指在协议或建议中）规定，约定，讲明（条件等） ;
 stipulate vi 规定，明确要求;
@@ -2207,6 +2212,16 @@ drag noun 空气阻力；液体阻力
 Engineers are always looking for ways to minimize drag when they design new aircraft.
 drag noun 吸一口（烟）
 Taking a deep drag of/on his cigarette he closed his eyes and sighed.
+
+toil noun （尤指体力上的）苦工，苦活
+Lindi has achieved her comfortable life only after years of hard toil.
+[humorous] Well, after a day's toil in the office I like to relax a little.
+toil vi 苦干，努力工作
+Farm workers have been toiling in the 100-degree heat over the past week.
+After toiling away at work all week, it's good to relax.
+toil vi 艰难缓慢地行走
+I was toiling up the hill with four heavy bags when he took pity on me.
+
 
 
 haul n/v 拖，拉

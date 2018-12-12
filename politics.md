@@ -128,9 +128,12 @@ My father was a real authoritarian so we were brought up very strictly.
 totalitarian adj 极权主义的
 a totalitarian regime/state
 
-
-
 collectivism noun 集体主义；集体主义制度
+
+
+libertarian noun （反对政府控制的）自由主义者，自由派
+Civil libertarians are worried about what they see as government censorship.
+
 
 
 
@@ -141,21 +144,32 @@ Renaissance 文艺复兴; 文艺复兴时期; 文艺复兴时期
 resurge v 复活
 
 
+autonomy
+
+
 federation 联邦，同盟; 联盟，联合会; 联邦，联邦政府;
+
+coliation noun （不同政党或不同群体的人为特定目标而暂时形成的）联盟，同盟，联合体
+Government by coalition has its own peculiar set of problems.
 
 administration noun 管理; 实行; （政府） 行政机关; （法律、处罚等的） 施行;
 
 
-autonomy
+
 municipal adj 市的，市政的; 地方自治的; 都市的，市营的，市制的; 内政的;
 council 委员会; （郡、镇等） 政务会; （尤指旧时讨论特定步骤的） 协商会议; 市政（或地方管理）服务机构;
 
 bureau noun 局; （提供某方面信息的） 办事处; （美国政府部门） 局; （附抽屉及活动写字台的） 书桌;
 bureaucracy noun 官僚主义;官僚机构;官僚政治
+I had to deal with the university's bureaucracy when I was applying for financial aid.
+bureaucrat noun 官僚
+It turned out she was one of those faceless bureaucrats who control our lives.
 
 ministry （政府的） 部; 神职; 牧师职位; 神职任期
 
 committee noun 委员会;
+commission
+
 association noun 联想; 协会，社团; 联合，联系;
 
 

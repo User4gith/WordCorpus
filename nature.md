@@ -13,6 +13,11 @@ The new prime minister is cultivating relationships with East Asian countries.
 fertilize vt 施肥
 fertilize vt 使受精；使受孕；使受粉
 Bees fertilize the flowers by bringing pollen.
+fertilizer noun 肥料
+
+irrigate vt 灌溉
+irrigate vt 冲洗（尤指伤口）
+irrigation
 
 breed vt （为育种目的）饲养
 His main income comes from breeding cattle.
@@ -25,36 +30,16 @@ a breed of dog/cat/horse/sheep/cattle
 （人的）类型，种类
 A new breed of film-maker has taken over Hollywood.
 
+tame adj （尤指动物）温顺的，驯化的
+After a few months' contact the monkeys become very tame.
+tame adj 平淡的，乏味的
+It was a tame film in comparison to some that she's made.
 
-fertilizer noun 肥料
-
-irrigate vt 灌溉
-irrigate vt 冲洗（尤指伤口）
-irrigation
-
-plough noun 犁;
-under the plough （土地）用于耕种的
-These fields have been under the plough for centuries.
-plough vt 耕，犁
-Large areas of grazing land have been ploughed up to grow wheat.
-the Plough 北斗七星
-
-till 直到；到…为止
-Up till 1918, women in Britain were not allowed to vote.
-till noun 收银机的抽屉；收银机
-Next time you have the till open, could you give me some change?
-till vt 耕，犁（土地）
-This piece of land has been tilled for hundreds of years.
-
-tractor 拖拉机
-
-trailer noun 拖车；挂车
-The car was pulling a trailer with a motorcycle on it.
-trailer noun （大卡车的）挂车
-trailer noun 旅行拖车
-trailer （影视节目、广播的）预告片
-I saw a trailer for the new series of "Game of Thrones" last night.
-
+tame vt 驯化，驯服（动物）
+tame vt 控制，制服；驾驭
+He'll need to tame his temper if he wants to succeed.
+tamer noun 驯化者；（尤指）驯兽员
+a lion-tamer
 
 
 hatch vi/vt 孵出，孵蛋，出壳
@@ -100,8 +85,53 @@ straw noun 禾秆；麦秆；稻草
 straw noun 吸管
 Why don't you drink your milk through a straw?
 
+stalk noun[c]（植物的）茎，杆；（叶或果实的）柄，蒂；（花）梗
+She trimmed the stalks of the tulips before putting them in a vase.
+stalk noun[c]（某些动物的）肉柄，肉茎
+The eyes of shrimps are on movable stalks.
+
+stalk vt 跟踪，悄悄地靠近（猎物或人）
+The police had been stalking the woman for a week before they arrested her.
+stalk vt （在一段时期内）非法跟踪骚扰（通常指女性）
+He had stalked her for several months before he was arrested.
+stalk vt （令人不快的事）笼罩
+When night falls, danger stalks the streets of the city.
+
+stalk vi 怒气冲冲地走；趾高气扬地走
+She refused to accept that she was wrong and stalked furiously out of the room.
+
+####################################
+
+plough noun 犁;
+under the plough （土地）用于耕种的
+These fields have been under the plough for centuries.
+plough vt 耕，犁
+Large areas of grazing land have been ploughed up to grow wheat.
+the Plough 北斗七星
+
+till 直到；到…为止
+Up till 1918, women in Britain were not allowed to vote.
+till noun 收银机的抽屉；收银机
+Next time you have the till open, could you give me some change?
+till vt 耕，犁（土地）
+This piece of land has been tilled for hundreds of years.
+
+tractor 拖拉机
+
+trailer noun 拖车；挂车
+The car was pulling a trailer with a motorcycle on it.
+trailer noun （大卡车的）挂车
+trailer noun 旅行拖车
+trailer （影视节目、广播的）预告片
+I saw a trailer for the new series of "Game of Thrones" last night.
+
 
 barn noun 牲口棚; 谷仓，粮仓; （公共汽车、卡车等的） 车库; 一种特别大且空荡的房屋;
+
+hoard vt 贮藏，囤积
+During the siege people began hoarding food and supplies.
+hoard noun 大量储藏和积存的物品
+We found a huge hoard of tinned food in the basement.
 
 ####################################
 
@@ -139,10 +169,6 @@ a stock phrase/response
 
 livestock
 
-hoard vt 贮藏，囤积
-During the siege people began hoarding food and supplies.
-hoard noun 大量储藏和积存的物品
-We found a huge hoard of tinned food in the basement.
 
 
 #############################
@@ -175,9 +201,6 @@ dairy products
 
 dairy noun 牛奶场，乳品场，制酪场；牛奶公司，奶制品公司
 dairy noun 奶制品的，乳品 I was advised not to eat too much dairy.
-
-
-
 
 hectare 公顷;
 acre
@@ -698,6 +721,9 @@ orient adj 东方的; （太阳等） 上升的，新生的; 闪闪发光的
 orientation 方向，定位，取向，排列方向; 任职培训; （外交等的） 方针[态度]的确定; 环境判定;
 
 orientate vi 面向; 朝向; 确定方向; 使适应;
+
+ordinate 纵坐标
+coordinate 坐标
 
 
 ### 天时

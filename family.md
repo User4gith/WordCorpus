@@ -25,7 +25,16 @@ folk adj 传统的；（尤指）普通百姓的，流传民间的
 folk adj （艺术）民间的，民俗的
 
 sperm 精子
+
 womb  子宫
+
+tomb （尤指重要人物的）坟墓，陵墓，冢
+
+grave noun 坟墓，墓穴，埋葬处
+He visits his mother's grave every Sunday.
+grave adj 严重的，重大的，严峻的
+a grave situation
+
 
 funeral 葬礼，丧礼
 The funeral will be held next Friday.
@@ -39,9 +48,11 @@ commemorate vt （尤指举行公开仪式或竖立雕塑或专门建筑）纪�
 Gathered all together in this church, we commemorate those who lost their lives in the war.
 A statue has been built to commemorate the 100th anniversary of the poet's birthday.
 
+in memory of  
+The congress opened with a minute's silence in memory of those who died in the struggle.
 
 
-tomb （尤指重要人物的）坟墓，陵墓，冢
+
 
 ### polite
 if you dress up well, it will help you leave a good impression on other people.

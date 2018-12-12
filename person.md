@@ -1051,9 +1051,17 @@ ponderous （书、讲话或写作风格）严肃而乏味的，呆板的，生�
 The ponderous reporting style makes the evening news dull viewing.
 
 ### 愤怒
-fury noun
+fury noun 暴怒，狂怒
 He could hardly contain his fury.
 She flew into a fury at the suggestion.
+
+furious adj 极其生气的，怒不可遏的
+I was late and he was furious with me.
+He's furious about/at the way he's been treated.
+
+furious adj 强烈的；激烈的
+There is a furious struggle going on between the two presidential candidates.
+
 
 fume noun 烟气，烟雾; 愤怒，烦恼;
 fume vt 用烟熏; 烘制（木材等)
@@ -1075,6 +1083,11 @@ a highly inflammable liquid such as petrol
 inflammable 易怒的，性情暴躁的
 an inflammable situation/region
 a highly inflammable mix of outrage and bitterness
+
+
+rage （一阵）盛怒；（一阵）狂怒；（一阵）暴怒
+Her sudden towering rages were terrifying.
+I was frightened because I had never seen him in such a rage before.
 
 outrage noun 愤慨，义愤
 These murders have provoked outrage across the country.
@@ -1158,6 +1171,9 @@ The novel deals with grand themes, but is never heavy or pretentious.
 
 snobbish adj 势利的；爱虚荣的 My brother is very snobbish about cars.
 
+
+exacerbate vt 使恶化；使加重；使加剧
+This attack will exacerbate the already tense relations between the two communities.
 
 exaggerate vt/vi 夸张；夸大；对…言过其实
 The threat of attack has been greatly exaggerated.
