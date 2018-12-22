@@ -74,6 +74,10 @@ They did a thorough search of the area but found nothing.
 thorough adj 彻头彻尾的；完全的；十足的
 It was a thorough waste of time.
 
+promptly 迅速地，立即地；依照预定时间地
+We'll have to leave fairly promptly (= on time) if we want to catch that train.
+
+
 still adv 还，还是；仍然，依旧
 I still haven't finished writing my essay.
 still adv 尽管那样，尽管如此
