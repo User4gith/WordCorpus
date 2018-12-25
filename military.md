@@ -93,6 +93,14 @@ besiege vt 围住；拥在…周围 When the pop star tried to leave her hotel, 
 besiege vt 烦扰；使应接不暇 After showing the controversial documentary, the channel was besieged with phone calls from angry viewers.
 
 # 攻击
+antagonism noun 对抗，对立；敌对；敌意
+There's a history of antagonism between the two teams.
+the antagonism towards neighbouring states
+
+foe noun[c] 敌人
+The two countries have united against their common foe.
+Foes of the government will be delighting in its current difficulties.
+
 
 aggressive adj 好斗的；富于攻击性的；挑衅的 Men tend to be more aggressive than women.
 aggressive adj 积极进取的；有冲劲的；雄心勃勃的 an aggressive election campaign

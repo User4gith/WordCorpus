@@ -103,6 +103,8 @@ monarchy 君主国
 monarchy noun 君主政体，君主制
 Is monarchy relevant in the modern world or should it be abolished?
 
+oligarchy 寡头统治（的政府）；寡头统治集团
+
 aristocracy noun 贵族，贵族阶级
 members of the aristocracy
 aristocrat noun 贵族; 贵族政治论者; 有贵族派头的人;
@@ -139,6 +141,12 @@ totalitarianism 极权主义;
 
 collectivism noun 集体主义；集体主义制度
 
+fascism 法西斯主义
+fascist adj（基于或支持）法西斯主义的
+fascist groups
+
+
+
 
 libertarian noun （反对政府控制的）自由主义者，自由派
 Civil libertarians are worried about what they see as government censorship.
@@ -149,7 +157,10 @@ atheism noun the belief that God does not exist:
 
 nihilism 虚无主义
 
+bourgeois 中产阶级的；追求物质享受的；平庸粗俗的
+It's a bit bourgeois, isn't it, joining a golf club?
 
+the proletariat 工人阶级；无产阶级
 
 ######
 
@@ -286,6 +297,12 @@ A lot of memories are enshrined in this photograph album.
 
 be inshrined in  vt （政治或社会权利）被庄严载入
 The right of freedom of speech is enshrined in law/in the constitution.
+
+ordain vt 授予（某人）圣职
+He was ordained (as) a priest in Ely cathedral in 1987.
+ordain vt （上帝或权威人士）命令，下令
+There is strong support here for the tough economic reforms ordained in the federal capital, Prague.
+
 
 
 ### 税
@@ -468,8 +485,52 @@ protest noun 抗议; 反对; 申明;
 protest vi 抗议; 断言;
 protest vt 抗议; 声明反对; 断言;
 
-protester
+protest noun 抗议；反对
+Protests have been made/registered by many people who would be affected by the proposed changes.
+protest noun 抗议活动；抗议游行
+a public protest against the war
+under protest 不情愿地
+I only went to the meeting under protest.
 
+protest 抗议；反对
+A big crowd of demonstrators were protesting against cuts in health spending.
+protest 声言，断言；控诉；抗议
+Lots of people protested about the new working hours.
+
+
+dissent noun[u] （尤指对正式建议、计划或普遍看法的）不同意，异议
+When the time came to approve the proposal, there were one or two voices of dissent.
+dissent noun 不服裁判
+Rooney was booked for dissent after the referee failed to award United a penalty.
+
+dissent vi 不同意，持有异议
+Anyone wishing to dissent from the motion should now raise their hand.
+
+### 倾覆
+
+capsize 倾覆; 使（船或车）翻;
+topple vi 倾倒; 摇摇欲坠; 倾斜得好倾斜得好像要跌倒一样;
+topple vt 将…推翻，打倒; 使…跌倒;
+
+subversion noun[u]（对制度或政府的）颠覆，倾覆
+He was found guilty of subversion and imprisoned.
+
+subversive adj （尤指对现有政治体制）起破坏作用的，有颠覆性的
+subversive elements/groups in society
+subversive ideas/influences
+
+unrest noun 动乱，动荡；骚乱
+It is feared that the civil unrest we are now witnessing in this country could lead to full-scale civil war.
+
+subvert vt 破坏，动摇，颠覆（尤指现有的政治体制）
+The rebel army is attempting to subvert the government.
+Our best intentions are sometimes subverted by our natural tendency to selfishness.
+
+upheaval noun 激变；动荡；剧变
+Yesterday's coup brought further upheaval to a country already struggling with famine.
+I'm not sure it's worth the upheaval of moving to gain just a little more space.
+
+### 镇压
 crackdown noun 制裁；处罚；打击；镇压
 There has been a series of government crackdowns on safety in factories.
 
@@ -791,13 +852,18 @@ audit vi 审计;
 
 
 # 欺骗
+ploy noun[c] 计谋，策略；手法，花招
+There are various ploys we can use if necessary.
+[ + to infinitive ] He only said he had a meeting as a ploy to get her to leave.
+
 inauthentic adj 不真实的，假的，不可靠的;
 
 
 deceive vt 欺诈; 误导;
-
-
 deceptive adj 虚伪的; 欺诈的，骗人的; 靠不住的; 迷惑的
+
+deception noun 欺骗；欺诈；隐瞒
+He was found guilty of obtaining money by deception.
 
 dupe vt 欺骗; 愚弄;
 dupe noun 易受骗的人，上当者;

@@ -115,7 +115,10 @@ metaphor 象征; 隐喻，暗喻
 bespeak vt 暗示；表明
 His letter bespeaks his willingness to help.
 
-
+prophet noun[c] 预言家，先知
+Let us hear the words of the prophet Isaiah on the coming of the Prince of Peace.
+prophet noun[c]宣扬者，倡导者
+Rousseau, that great prophet of the modern age
 
 prophecy （尤指基于主观判断的）预言
 The minister suggested that the dire prophecies of certain leading environmentalists were somewhat exaggerated.
@@ -126,6 +129,10 @@ prophecy noun 预言的能力
 
 illusion noun 幻觉，幻想 He had no illusions about his talents as a singer.
 illusion noun 假象，错觉 A large mirror in a room can create the illusion of space.
+
+delusion noun 幻想；错觉
+[ + that ] He's under the delusion that he will be promoted this year.
+
 
 monk 修道士；僧侣
 monastery noun 修道院；寺院
@@ -361,6 +368,12 @@ skirt vi 避开，绕开（某话题或问题）
 The government has been accused of skirting round the issue of torture.
 
 
+brink noun （事情发生的）边缘；始发点
+Extreme stress had driven him to the brink of a nervous breakdown.
+brink noun （峭壁、崖的）边缘
+She was standing right on the brink of the gorge.
+
+
 ### 疏远
 alienation noun 疏远; 离间; （觉得周围环境与自己格格不入的） 疏离感; 离心离德;
 
@@ -470,6 +483,19 @@ naked adj 裸体的，裸露的; 率直的，赤裸裸的; 缺乏保护; 不加�
 bare adj 光秃秃的; 赤裸的; （房间、柜子等） 空的; 刚好够的;
 bare vt 使赤裸; 使露出; 揭开; 脱（衣服）;
 
+barren adj 贫瘠的；不毛的
+We drove through a barren, rocky landscape.
+barren adj 不妊的，不育的
+barren adj 无成果的；无效果的
+She became very depressed during the barren years when she was unable to paint.
+
+bleak adj （地方）荒凉的；凄凉的
+The house stands on a bleak, windswept hilltop.
+bleak adj （天气）阴冷的
+bleak adj（境况）惨淡的，无希望的
+The economic outlook is bleak.
+
+
 stark adj 完全的; 荒凉的; 光秃秃的; 僵硬的;
 stark adv 完全; 一丝不挂，赤裸; 明显地; 质朴地;
 stark 斯塔克;
@@ -531,6 +557,10 @@ optimism
 optimistic
 
 pessimistic
+
+# 新旧
+pristin adj 崭新的；状态良好的
+pristine new offices
 
 # 主/客观
 subject

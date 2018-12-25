@@ -184,6 +184,11 @@ panic vt/vi  （使）恐慌，（使）惊慌失措
 The sound of gunfire panicked the crowd.
 The boss always panics over/about the budget every month.
 
+spectre noun 幽灵；鬼魂
+the spectre of sth 对于…的恐惧（或忧虑）
+The awful spectre of civil war looms over the country.
+Drought and war have raised the spectre of food shortages for up to 24 million African people.
+
 
 # 使沮丧
 spirit 精神
@@ -756,6 +761,9 @@ In the distance, a church bell tolled the hour (= showed the time by ringing).
 
 tamper with sth 胡乱摆弄；擅自改动；蓄意破坏
 I could see immediately that the lock had been tampered with.
+
+exacerbate vt 使恶化；使加重；使加剧
+This attack will exacerbate the already tense relations between the two communities.
 
 ### 危险
 adverse adj 不利的；负面的；有害的

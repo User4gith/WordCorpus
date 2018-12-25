@@ -129,6 +129,11 @@ dystrophy noun 营养不良;
 
 psychiatric adj 精神病学的; 精神病治疗的;
 
+insanity noun 精神错乱，精神失常
+He was found not guilty of murder by reason of insanity.
+insanity noun 疯狂；失去理智
+It would be insanity to expand the business now.
+
 asthma 哮喘
 arthritis 关节炎
 bronchitis 支气管炎
@@ -375,3 +380,7 @@ resume noun 摘要；梗概；概述
 She gave us a brief résumé of the project so far.
 resume 简历，履历
 She sent her résumé to 50 companies, but didn't even get an interview.
+
+resilient adj 有弹性的；能复原的；有复原力的；适应性强的
+This rubber ball is very resilient and immediately springs back into shape.
+She's a resilient girl - she won't be unhappy for long.

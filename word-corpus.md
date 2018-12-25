@@ -342,6 +342,9 @@ dynamic noun 动态; 动力学; 活力; 动力，推动变化的力量;
 
 vibrant 振动的; 响亮的; 充满生气的;
 
+vitality noun 生命力；活力
+According to the packet, these vitamin pills will restore lost vitality.
+
 
 ### 一致
 
@@ -743,6 +746,16 @@ America declared war on Japan in 1941
 申报（应纳税的货物价值或收入）
 You have to declare any earnings over a certain amount.
 
+declamation noun 朗诵；大声宣布；慷慨激昂的演讲
+He subjected us to half an hour of impassioned declamation against the new airport runway.
+
+manifesto noun[c]（尤指政党的）宣言
+In their election manifesto, the Liberal Democrats proposed increasing taxes to pay for improvements in education.
+
+affirm vt 证实；确认；断言
+[ + (that) ] The suspect affirmed (that) he had been at home all evening.
+affirm vt （公开）声明
+The government has affirmed its commitment to equal rights.
 
 confess vt/vi 坦白；供认，招认；承认（错误或罪行）
 He confessed to sleeping/having slept through most of the movie.
@@ -1580,6 +1593,10 @@ We see that freight railroads make good profits while rendering excellent servic
 ### 迎合
 cater
 
+sate vt 使（某人）满足于…
+He searched for a book that would sate his desire for all the details of Olympic history.
+
+
 ### 怂恿
 allure noun 诱惑力，魅力;
 the allure of working in television
@@ -1772,6 +1789,8 @@ traitor noun 叛徒; 卖国贼; 背叛者; 背信弃义的人;
 repel vt 击退; 抵制; 使厌恶; 使不愉快;
 
 infringe vt 侵犯; 违反（规章等）; 侵犯（某人的权利）; 侵害（某人的自由、权益等）;
+infringe vt 违反，违背（规定、法律等）
+They infringed building regulations.
 
 defiant adj 对抗的，违抗的；挑衅的
 The protesters blocking the entrance to the offices remained defiant this morning.
@@ -2036,6 +2055,15 @@ propel sb into/to/towards sth 推动（某人）做…／将（某人）推向�
 The film propelled him to international stardom.
 
 
+underpin vt 支撑；加强；巩固；构成（基础）
+He presented data to underpin his argument.
+Gradually the laws that underpinned (= formed part of the basic structure of) apartheid were abolished.
+
+entrench vt 使处于牢固地位，使根深蒂固，牢固确立（尤指观念、问题）
+The government's main task was to prevent inflation from entrenching itself.
+entrench noun 壕沟; 防御设施;
+
+
 ### 上升
 elevate vt 抬高；提高；使上升；举起
 The platform was elevated by means of hydraulic legs.
@@ -2125,6 +2153,14 @@ The demand for food in the war zone now far outstrips supply.
 
 
 ### 优先
+
+prevail vi 占优势，占上风
+I am sure that common sense will prevail in the end.
+And did reason prevail over (= become a more powerful influence than) emotion?
+prevail vi 流行，盛行
+This attitude still prevails among the middle classes.
+
+
 precede vt 在…之前发生或出现，先于; 在…之上，优于; 给…作序; 处于…前面的位置;
 
 priority noun 优先考虑的事
@@ -2133,6 +2169,11 @@ The management did not seem to consider office safety to be a priority.
 
 
 ### 转移
+supplant vt 取代，代替
+Printed books will soon be supplanted by e-books.
+Small children can often feel supplanted in their parents' affections (= that their parents no longer like them as much) when a new brother or sister is born.
+
+
 convey vt 表达，传达（思想、感情或想法）
 His poetry conveys a great sense of religious devotion.
 [ + question word ] I tried to convey in my speech how grateful we all were for his help.
@@ -2201,6 +2242,9 @@ We were stuck with him for the entire journey!
 crawl n/v 缓慢行进，爬
 creep vi 爬行，匍匐; 缓慢地行进;
 creep noun 爬行，蠕动; 虫爬着似的感觉，毛骨悚然; 卑鄙小人，谄媚者;
+
+teeter vi 摇晃，摇摇欲坠；蹒跚行走
+Danielle was teetering around in five-inch heels.
 
 trek 长途跋涉/
 
@@ -2301,18 +2345,7 @@ The two vans collided at the crossroads.
 
 
 
-### 倾覆
 
-capsize 倾覆; 使（船或车）翻;
-topple vi 倾倒; 摇摇欲坠; 倾斜得好倾斜得好像要跌倒一样;
-topple vt 将…推翻，打倒; 使…跌倒;
-
-subversion noun[u]（对制度或政府的）颠覆，倾覆
-He was found guilty of subversion and imprisoned.
-
-subversive adj （尤指对现有政治体制）起破坏作用的，有颠覆性的
-subversive elements/groups in society
-subversive ideas/influences
 
 
 

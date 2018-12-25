@@ -42,6 +42,10 @@ calligraphy noun
 
 astronomer
 
+
+genealogy noun 家谱（学），宗谱（学）；家系，世系
+I became interested in the genealogy of my family.
+
 ### 知识相关
 tertiary adj 第三的；第三级的；第三位的
 tertiary adj 高等教育的，大学教育的

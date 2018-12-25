@@ -85,6 +85,12 @@ rear noun 后部，背面，背后; 臀部; （舰队或军队的） 后方，�
 rear noun 屁股，腚
 the rear noun 后面；后部；背部
 
+germinate vt/vi （使）（种子）发芽，萌芽；（使）开始生长
+The beans will only germinate if the temperature is warm enough.
+
+germinate vi 开始形成；萌发
+I felt an idea germinating in my head/mind.
+
 ### 溺爱
 
 cosset vt 宠爱，娇养，纵容; Children sometimes need to be cosseted.

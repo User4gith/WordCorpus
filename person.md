@@ -266,7 +266,9 @@ I was awed but not frightened by the huge gorilla.
 Her paintings have awed and amazed the public for half a century.
 The audience was awed into silence by her stunning performance.
 
-
+deference 尊重，尊敬
+He treats her with such deference.
+She covered her head out of/in deference to (= because of a polite respect for) Muslim custom.
 # 怜悯的
 mercy noun 慈悲，怜悯；仁慈，宽容
 She appealed to the judge to have mercy on her husband.
@@ -651,6 +653,10 @@ athletic/sporting prowess
 inability noun 无能，无力
 [ + to infinitive ] Inability to use a computer is a serious disadvantage when you are applying for jobs.
 
+solitary adj 独自的，唯一的，单个的
+On the hill, a solitary figure was busy chopping down trees.
+In the distance was a solitary building.
+solitary adj 独自做的，独自完成的 fishing and other solitary pastimes
 
 ### 直率的
 blunt adj （铅笔、刀等）钝的，不锋利的
@@ -1167,6 +1173,10 @@ Racism of any kind is abhorrent to me.
 
 abhorrent adv 令人厌恶地;
 
+aversion 厌恶，反感；讨厌的人（或事物）
+I felt an instant aversion to his parents.
+She has a deep aversion to getting up in the morning.
+
 abide vt （因为厌恶而）不能忍受，无法容忍
 He couldn't abide laziness.
 abide vi 居住；逗留；停留
@@ -1346,18 +1356,6 @@ tease noun 爱嘲弄他人的人; 取笑卖弄风骚的人;
 Johnny, don't be such a tease - leave your sister alone!
 
 
-disdain noun 鄙视，轻蔑; He regards the political process with disdain.
-disdain vt 轻视，蔑视，鄙视 The older musicians disdain the new, rock-influenced music.
-disdain to do sth 不屑于做…
-
-
-contempt noun 蔑视；鄙视；轻视；轻蔑
-At school she had complete contempt for all her teachers.
-hold sb/sth in contempt 对…不屑一顾
-contempt noun 藐视法庭（罪）
-The tobacco companies may be guilty of contempt of court for refusing to produce the documents.
-
-
 caustic adj 苛性的，腐蚀性的 a caustic substance
 caustic adj （话语或说话方式）刻薄的，尖刻的，挖苦的
 caustic comments尖刻的评论
@@ -1369,14 +1367,6 @@ slight adj （人）瘦小的，纤弱的 Like most long-distance runners she is
 slight vt 轻视，冷落；怠慢 I felt slighted when my boss thanked everyone but me for their hard work.
 slight noun 轻视；冷落 I regarded her failure to acknowledge my greeting as a slight.
 
-overlook vt 眺望；（尤指）俯瞰，俯视
-Our hotel room overlooked the harbour.
-The house is surrounded by trees, so it's not overlooked at all (= it cannot be seen from any other buildings).
-
-overlook vt 忽视；忽略，没注意到
-I think there is one key fact that you have overlooked.
-No one will be overlooked when we select players for the team.
-
 overlook vt 宽恕，不计较；对…视而不见
 I'm prepared to overlook his behaviour this time.
 
@@ -1387,6 +1377,27 @@ ironic adj 具有讽刺意味的；出乎意料的；令人啼笑皆非的
 [ + that ] It is ironic that although many items are now cheaper to make, fewer people can afford to buy them.
 ironic adj 反语的；讽刺的
 an ironic comment/reply
+
+
+
+disdain noun 鄙视，轻蔑; He regards the political process with disdain.
+disdain vt 轻视，蔑视，鄙视 The older musicians disdain the new, rock-influenced music.
+disdain to do sth 不屑于做…
+
+contempt noun 蔑视；鄙视；轻视；轻蔑
+At school she had complete contempt for all her teachers.
+hold sb/sth in contempt 对…不屑一顾
+contempt noun 藐视法庭（罪）
+The tobacco companies may be guilty of contempt of court for refusing to produce the documents.
+
+scorn noun 轻视，鄙视
+She has nothing but scorn for the new generation of politicians.
+Why do you always pour/heap scorn on (= criticize severely and unfairly) my suggestions?
+
+scorn vt 轻视，鄙视
+So does he respect the press and media, or does he secretly scorn them?
+scorn vt 轻蔑地拒绝；不屑接受
+She scorned all my offers of help.
 
 
 
@@ -1421,6 +1432,14 @@ slander vt 诽谤，诋毁
 
 
 # 忽略
+overlook vt 眺望；（尤指）俯瞰，俯视
+Our hotel room overlooked the harbour.
+The house is surrounded by trees, so it's not overlooked at all (= it cannot be seen from any other buildings).
+
+overlook vt 忽视；忽略，没注意到
+I think there is one key fact that you have overlooked.
+No one will be overlooked when we select players for the team.
+
 
 trivialize vt 使显得不重要
 I don't want to trivialize the problem, but I do think there are more important matters to discuss.
@@ -1503,6 +1522,17 @@ They begrudged every day they had to stay with their father.
 bitterness  苦味
 bitterness noun 愤怒；怨恨
 He was full of bitterness after he lost his job.
+
+bitter adj 极为不满的；怨恨的；无法释怀的
+I feel very bitter about my childhood and all that I went through.
+bitter adj 使人痛苦的；令人愤怒的
+Failing the final exams was a bitter disappointment for me.
+bitter adj 充满仇恨的；愤怒的；激烈的
+a bitter fight/argument
+bitter adj 苦的，有苦味的
+a bitter flavour/taste/liquid
+bitter adj （天气）严寒的，刺骨的
+a bitter wind
 
 ### 粗的
 barbaric adj  残暴的；野蛮的；粗俗的

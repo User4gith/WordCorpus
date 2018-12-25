@@ -68,6 +68,10 @@ marginally adv 稍微地，略微地
 marginally more expensive
 
 
+nevertheless 不过，仍然；尽管如此
+I knew a lot about the subject already, but her talk was interesting nevertheless.
+
+
 barely adv 仅；刚好；几乎没有 They have barely enough (= no more than what is needed) to pay the rent this month.
 She was barely (= only just) 15 when she won her first championship.
 
