@@ -9,7 +9,8 @@ Even the experts are not infallible.
 omniscient 无所不知的，全知的
 God is omniscient.
 
-
+certitude noun[u]确定；确信
+It is impossible to predict the outcome of the negotiations with any degree of certitude.
 
 precision noun 精确度，准确（性）; [语] 精确;
 precision adj 精确的，准确的，细致的; 严守标准的; 行动精确的;
@@ -32,6 +33,11 @@ explicit adj 清楚明白的；明确的；不含糊的
 She was very explicit about (= said very clearly and exactly) what she thought was wrong with the plans.
 explicit adj （描绘性或暴力）赤裸裸的，露骨的
 a sexually explicit movie
+
+lucid adj 清晰的，明了的；（人）头脑清醒的，说话清楚的
+She gave a clear and lucid account of her plans for the company's future.
+The drugs she's taking make her drowsy and confused, but there are times when she's quite lucid.
+
 
 genuine adj 真正的；非伪造的；名副其实的
 If it is a genuine Michelangelo drawing, it will sell for millions.
@@ -73,6 +79,8 @@ synthetic adj 假的，做作的 She criticized the synthetic charm of TV hosts.
 
 highfalutin adj 浮夸的；装模作样的
 
+rhetorical adj 词藻华丽的；浮夸的；修辞的
+repetition, that tedious rhetorical device
 
 
 ### 好奇
@@ -385,6 +393,11 @@ extensive adj 广阔的，广大的; 范围广泛的; [物] 广延的; [逻] 外
 capacious adj 宽敞的，气度宏大的;
 
 spacious adj 宽敞的; 广阔的; （知识） 广博的;
+
+tremendous adj 巨大的；极好的
+They were making a tremendous amount of noise last night.
+She's been a tremendous (= very great) help to me over the last few months.
+
 
 # 使安心
 reassure vt 使安心；使打消疑虑；安慰

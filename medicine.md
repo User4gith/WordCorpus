@@ -14,6 +14,13 @@ ophthalmologist
 metabolism 新陈代谢
 Exercise is supposed to speed up your metabolism.
 
+organ noun[c]（动植物的）器官
+an external/internal/reproductive organ
+organ noun[c] 管风琴；电风琴
+Electronic organs are much smaller and cheaper than pipe organs.
+
+the organ of sth 管风琴；电风琴
+Electronic organs are much smaller and cheaper than pipe organs.
 
 ligament 纽带; [解] 韧带;
 

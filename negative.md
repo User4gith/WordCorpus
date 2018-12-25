@@ -19,7 +19,64 @@ I nearly fainted in the heat.
 faint noun 昏厥；晕倒
 On receiving the news, she fell into a dead faint.
 
+# 模糊
+ambiguity 含糊; 意义不明确; 含糊的话，模棱两可的话; 可作两种或多种解释;
+obscurity 默默无闻; 晦涩; 朦胧; 费解;
 
+vague adj 含糊的，不明确的
+I do have a vague memory of meeting her many years ago.
+The patient had complained of vague pains and backache.
+vague adj （轮廓等）模糊的，不清楚的
+Through the mist I could just make out a vague figure.
+vague adj （人）迷糊的，含糊其词的
+My aunt is incredibly vague - she can never remember where she puts things.
+Their report is studiously/deliberately vague on future economic prospects.
+
+vague noun 模糊不定状态;
+
+elusive adj 难以捉摸的; 不易记住的; 逃避的; 难以找到的;
+
+dim adj 光线暗的，暗淡的，昏暗的
+The lamp gave out a dim light.
+We could see a dim (= not easily seen) shape in the fog.
+I had a dim recollection of having met her before.
+dim adj 愚笨的，迟钝的 He's a nice guy, but a little dim.
+dim adj 前景暗淡的，不乐观的 The company's prospects for the future are rather dim.
+dim vt （使）变暗，（使）亮度降低 Someone dimmed the lights.
+dim vt （使）减弱，（使）变淡 Our hopes/expectations dimmed as the hours passed.
+
+opaque adj 不透明的；不透光的 opaque glass/tights
+opaque adj （文字或演讲）难理解的；晦涩的；含糊的
+I find her poetry a little too opaque.
+
+
+fuzzy adj （图像）模糊不清的；（声音）杂乱的，有干扰的
+Is the picture always fuzzy on your TV?
+
+fuzzy 不清楚的
+The basic facts of the story are starting to emerge though the details are still fuzzy.
+
+fuzzy adj （毛发）零乱的；有紧致的小卷的
+Oh no, it's raining - my hair will get all fuzzy.
+
+fuzzy 毛茸茸的
+the fuzzy skin of a peach
+
+
+### 浑浊
+
+muddy adj 泥泞的; 暗的; 模糊的; 糊涂的;
+muddy vt 使沾上泥; 把…弄糊涂;
+muddy vi 变得泥泞，沾满烂泥;
+
+murkey adj 黑暗的；不清楚的；肮脏的
+The river was brown and murky after the storm.
+murkey adj （形势）复杂难懂的，不明朗的
+He became involved in the murky world of international drug-dealing.
+I don't want to get into the murky waters of family arguments.
+
+
+feculent
 
 ### 迷
 astray adv 偏离正轨地；迷路地；离开正道地；误入歧途地
@@ -180,7 +237,13 @@ enchant 使心醉，使迷惑; 用魔法迷惑;
 
 frustrate 使懊丧
 
-fraught 充满的，满载的; 担心的，忧虑的;
+fraught adj 充满（问题、危险等令人不快之物）的
+The negotiations have been fraught with difficulties/problems right from the start.
+From beginning to end, the airlift was fraught with risks.
+fraught adj 令人极度忧虑的，十分担心的
+This is one of the most fraught weekends of the year for the security forces.
+The atmosphere in the office is rather fraught.
+
 fraught 货物，装载物;
 fraught 装货于;
 
@@ -270,6 +333,9 @@ be shorn of sth 被剥夺，被夺去
 The ex-president, although shorn of his official powers, still has influence.
 前总统虽然被剥夺了权力，但是仍有影响力。
 
+deprive vt 夺走，抢去，剥夺
+He claimed that he had been deprived of his freedom/rights.
+You can't function properly when you're deprived of sleep.
 
 
 ### 丢弃
@@ -353,6 +419,10 @@ The play was a complete/total flop.
 flop noun 重重地落下（或掉下）
 He fell with a flop on the bed.
 
+vacate vt 空出，腾出
+Hotel guests are requested to vacate their rooms by noon.
+Denis vacates his job at the end of the week.
+
 
 ### 干涉
 intervene vi  阻碍; 出面; 插嘴; 介于…之间;
@@ -411,6 +481,10 @@ plague noun 瘟疫  Millions died of (the) plague.
 a plague of sth  （令人烦恼或可能造成破坏的）一大群 A plague of journalists descended on the town.
 
 harass vt 骚扰；使烦恼，打扰 Stop harassing me!
+
+harassment noun 骚扰行为
+sexual harassment
+
 
 haunt vt 使经常苦恼，不断困扰
 Fighting in Vietnam was an experience that would haunt him for the rest of his life.
@@ -671,11 +745,6 @@ spiral adj 螺旋形的（形状类似一系列曲线，每个曲线在另一个
 a spiral staircase
 
 
-humiliate vt 羞辱，使丢脸
-How could you humiliate me by questioning my judgment in front of everyone like that?
-England were humiliated (= completely defeated) in last night's match.
-
-
 toll noun （道路、桥梁等的）通行费
 Tolls are now collected electronically on most motorways.
 toll noun 长途电话费 Is Bayonne a toll call (= a more expensive phone call) from New York?
@@ -688,10 +757,23 @@ In the distance, a church bell tolled the hour (= showed the time by ringing).
 tamper with sth 胡乱摆弄；擅自改动；蓄意破坏
 I could see immediately that the lock had been tampered with.
 
+### 危险
 adverse adj 不利的；负面的；有害的
 The match has been cancelled because of adverse weather conditions.
 They received a lot of adverse publicity/criticism about the changes.
 
+peril 巨大的危险；险情，险境
+I never felt that my life was in peril.
+The journey through the mountains was fraught with peril (= full of dangers).
+Teenagers must be warned about the perils of unsafe sex.
+
+do sth at your peril 自冒风险做…
+We underestimate the destructiveness of war at our peril.
+
+abyss noun[c] 深渊
+abyss noun[c] 困境；险境；绝境
+The country is sinking/plunging into an abyss of violence and lawlessness.
+She found herself on the edge of an abyss.
 
 
 ### 责骂
@@ -721,6 +803,9 @@ insult vt 侮辱，辱骂
 First he drank all my wine and then he insulted all my friends.
 
 
+humiliate vt 羞辱，使丢脸
+How could you humiliate me by questioning my judgment in front of everyone like that?
+England were humiliated (= completely defeated) in last night's match.
 
 
 

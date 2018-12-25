@@ -111,10 +111,24 @@ cathedral noun 总教堂，大教堂;
 cathedral adj 教堂的; 权威的;
 
 metaphor 象征; 隐喻，暗喻
-prophecy 预言; 预言书; 预言能力;
+
+bespeak vt 暗示；表明
+His letter bespeaks his willingness to help.
+
+
+
+prophecy （尤指基于主观判断的）预言
+The minister suggested that the dire prophecies of certain leading environmentalists were somewhat exaggerated.
+These doom and gloom prophecies are doing little to help the economy.
+
+prophecy noun 预言的能力
+
 
 illusion noun 幻觉，幻想 He had no illusions about his talents as a singer.
 illusion noun 假象，错觉 A large mirror in a room can create the illusion of space.
+
+monk 修道士；僧侣
+monastery noun 修道院；寺院
 
 # 演习
 drill noun 钻；钻床；钻机
@@ -217,6 +231,21 @@ participant noun 参加者，参与者; 与会代表; 参与国; 关系者;
 participant adj 参加的; 有关系的;
 
 # 竞争
+contest 比赛；竞赛
+a dance/sports contest
+She's won a lot of beauty contests.
+contest noun （为赢得选举或权力而进行的）争取，争夺
+The contest for the leadership of the party was very bitter.
+
+contest vt 质疑；辩驳；驳斥
+We will certainly contest any claims made against the safety of our products.
+contest vt 竞争；争夺；角逐
+The medal is being keenly contested by eight gymnasts.
+contest vt 争取，争夺（选举胜利或权力）
+She could win, since only two people are contesting the seat and the other candidate is very unpopular.
+
+
+
 competition noun 竞争
 competition noun 竞赛，比赛
 champion noun （人或动物）冠军，获胜者
@@ -455,6 +484,15 @@ abide vt 遵守; 容忍，忍受; 等候;
 abide vi 持续; 经受住，顶住; 居住，逗留;
 
 
+tolerate vt 宽容；忍受；容忍
+I will not tolerate that kind of behaviour in my class.
+[ + -ing verb ] I won't tolerate lying.
+
+tolerate vt 忍耐；忍受
+These ants can tolerate temperatures that would kill other species.
+
+
+
 intolerance
 tolerance
 
@@ -464,7 +502,12 @@ forbearance noun 忍耐，克制，宽容;
 abide vt 遵守; 容忍，忍受; 等候;
 abide vi 持续; 经受住，顶住; 居住，逗留;
 
-endure vt 忍耐; 容忍;
+endure vt 忍耐；忍受
+We had to endure a nine-hour delay at the airport.
+She's already had to endure three painful operations on her leg.
+endure vi 持续；持久
+The political system established in 1400 endured until about 1650.
+
 endure vi 忍耐; 持续，持久;
 
 durable adj 持久的; 耐用的，耐久的; 长期的;
@@ -582,43 +625,7 @@ soak noun 湿透; 酒鬼; 浸湿性; [俚语] 醉汉;
 silt noun （尤指河湾或河口处的）淤泥，泥沙
 
 
-# 模糊
-ambiguity 含糊; 意义不明确; 含糊的话，模棱两可的话; 可作两种或多种解释;
-obscurity 默默无闻; 晦涩; 朦胧; 费解;
-vague adj 模糊的; （思想上） 不清楚的; （表达或感知） 含糊的; 暧昧的;
-vague noun 模糊不定状态;
 
-elusive adj 难以捉摸的; 不易记住的; 逃避的; 难以找到的;
-
-dim adj 光线暗的，暗淡的，昏暗的
-The lamp gave out a dim light.
-We could see a dim (= not easily seen) shape in the fog.
-I had a dim recollection of having met her before.
-dim adj 愚笨的，迟钝的 He's a nice guy, but a little dim.
-dim adj 前景暗淡的，不乐观的 The company's prospects for the future are rather dim.
-dim vt （使）变暗，（使）亮度降低 Someone dimmed the lights.
-dim vt （使）减弱，（使）变淡 Our hopes/expectations dimmed as the hours passed.
-
-opaque adj 不透明的；不透光的 opaque glass/tights
-opaque adj （文字或演讲）难理解的；晦涩的；含糊的
-I find her poetry a little too opaque.
-
-
-
-### 浑浊
-
-muddy adj 泥泞的; 暗的; 模糊的; 糊涂的;
-muddy vt 使沾上泥; 把…弄糊涂;
-muddy vi 变得泥泞，沾满烂泥;
-
-murkey adj 黑暗的；不清楚的；肮脏的
-The river was brown and murky after the storm.
-murkey adj （形势）复杂难懂的，不明朗的
-He became involved in the murky world of international drug-dealing.
-I don't want to get into the murky waters of family arguments.
-
-
-feculent
 
 
 # 消息

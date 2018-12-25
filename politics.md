@@ -77,6 +77,11 @@ The company has been the subject of an arbitrary take-over.
 
 
 ### trend
+ideology （尤指作为政治体制、政党或政治组织基础的）思想（体系），意识形态
+socialist/capitalist ideology
+The people are caught between two opposing ideologies.
+
+
 pluralism 多元性；多元化
 After years of state control, the country is now moving towards political/religious/cultural pluralism.
 pluralism 多元主义
@@ -125,8 +130,12 @@ His manner is extremely authoritarian.
 authoritarian noun 独裁者
 My father was a real authoritarian so we were brought up very strictly.
 
+authoritarianism 威权主义
+
 totalitarian adj 极权主义的
 a totalitarian regime/state
+totalitarianism 极权主义;
+
 
 collectivism noun 集体主义；集体主义制度
 
@@ -134,6 +143,11 @@ collectivism noun 集体主义；集体主义制度
 libertarian noun （反对政府控制的）自由主义者，自由派
 Civil libertarians are worried about what they see as government censorship.
 
+rationalist noun 理性主义者，唯理论者
+
+atheism noun the belief that God does not exist:
+
+nihilism 虚无主义
 
 
 
@@ -417,6 +431,17 @@ enrolment
 
 
 ### 抗议
+revolt vt 反抗；造反；反叛
+The people revolted against foreign rule and established their own government.
+revolt vt 使厌恶；使惊骇；使反感
+We were revolted by the dirt and mess in her house.
+It revolts me to know that the world spends so much money on arms when millions are dying of hunger.
+revolt noun 反抗；造反；反叛
+Troops were called in to crush/put down the revolt.
+The army is in revolt (against its commanders).
+
+
+
 propose vt 求婚; 提议，建议; 打算，计划; 推荐，提名;
 propose vi 求婚; 做出计划，打算;
 
@@ -712,7 +737,8 @@ justify vi 整理版面; 证明合法;
 delinquency noun 不法行为; 少年罪犯; 过失; 罪过;
 
 
-litigation noun 诉讼; <律>打官司;
+litigation noun 诉讼; <律>打官司;诉讼，起诉
+The company has consistently denied responsibility, but it agreed to the settlement to avoid the expense of lengthy litigation.
 
 lawsuit noun 诉讼; 诉讼案件;
 suit noun 诉讼; 一套外衣; 西装，套装; 恳求;

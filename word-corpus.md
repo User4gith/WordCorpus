@@ -671,6 +671,9 @@ She rushed in, her face red and sweaty and her hat awry.
 # 事件相关
 
 ### 不可避免的
+ineluctable adj 无法躲避的，无法避免的
+his ineluctable fate
+
 inescapable
 inevitable
 
@@ -711,6 +714,13 @@ I began to muse about/on the possibility of starting my own business.
 muse noun （写作、绘画或音乐创作方面的）灵感（源泉）
 The muse has left me - I haven't written any poetry for months!
 
+perceive vt 认为；看待；视为
+How do the French perceive the British?
+perceive vt 察觉，注意到，意识到
+Bill perceived a tiny figure in the distance.
+I perceived a note of unhappiness in her voice.
+
+
 # 宣称
 allege vt 断言，宣称，辩解; 提出…作为理由;
 
@@ -722,6 +732,10 @@ She very rarely asserts her authority over the children.
 
 assert yourself 坚持自己的主张；表现坚定
 I really must assert myself more in meetings.
+
+assertion noun[c]断言；明确肯定
+I certainly don't agree with his assertion that men are better drivers than women.
+
 
 declare vt 宣布；声明；公布
 They declared their support for the proposal
@@ -2039,6 +2053,12 @@ escalate vt 使逐步升级; 使逐步上升; 乘自动梯上升
 escalate vi 逐步扩大; 逐步上升; （战争） 逐步升级; 像乘自动梯上升;
 
 
+accrete vi
+accretion noun 堆积，积聚；逐渐的增加，增大
+The fund was increased by the accretion of new shareholders.
+The room hadn't been cleaned for years and showed several accretions of dirt and dust.
+
+
 
 ascend vt/vi 上升；攀登；登上
 They slowly ascended the steep path up the mountain.
@@ -2222,6 +2242,17 @@ After toiling away at work all week, it's good to relax.
 toil vi 艰难缓慢地行走
 I was toiling up the hill with four heavy bags when he took pity on me.
 
+lag vi 缓慢移动；掉队，滞后
+He's lagging behind - I think we'd better wait for him to catch us up.
+Sales are lagging at the moment.
+lag vt （为保温而）覆盖，（为防止结冰而）给…加保温层
+to lag pipes
+
+lag noun （两件事之间的）间隔，延迟
+You have to allow for a time lag between order and delivery.
+lag noun 囚犯，犯人；惯犯
+an old lag
+
 
 
 haul n/v 拖，拉
@@ -2275,6 +2306,14 @@ The two vans collided at the crossroads.
 capsize 倾覆; 使（船或车）翻;
 topple vi 倾倒; 摇摇欲坠; 倾斜得好倾斜得好像要跌倒一样;
 topple vt 将…推翻，打倒; 使…跌倒;
+
+subversion noun[u]（对制度或政府的）颠覆，倾覆
+He was found guilty of subversion and imprisoned.
+
+subversive adj （尤指对现有政治体制）起破坏作用的，有颠覆性的
+subversive elements/groups in society
+subversive ideas/influences
+
 
 
 
@@ -2456,3 +2495,16 @@ crack noun 裂缝; 试图; 缝隙; （可听到响声的） 重击;
 chink noun 裂缝；裂口；缝隙 I peered through a chink in the curtains and saw them all inside.
 chink noun 叮当声 On a hot day it's nice to hear the chink of ice in a glass.
 chink vi 叮当声 The coins chinked lightly in his pocket as he walked along.
+
+crunch vi/vt 嘎吱地咬嚼；嘎吱作响
+She was crunching noisily on an apple.
+crunch
+The gravel crunched underfoot as we walked up to the house.
+
+crunch noun 嘎吱的声音
+The woods were silent apart from the crunch of our feet in the snow.
+the crunch 严峻的形势；紧要关头；需要作出艰难抉择的时刻
+The crunch came when she was forced to choose between her marriage and her career.
+
+crunch noun 增强腹肌的锻炼；仰卧起坐
+Doing crunches every day strengthens your abdominal muscles.

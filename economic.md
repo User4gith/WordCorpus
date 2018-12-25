@@ -1,6 +1,4 @@
 # 经济相关
-mercantilism 重商主义
-
 commerce noun 商务; 商业; 贸易;
 the world of commerce and industry
 
@@ -27,34 +25,47 @@ syndicate vt （通过报业联合组织）出售（稿件）;
 
 enterprise noun 企（事）业单位; 事业，计划; 事业心，进取心;
 
-entrepreneur noun <法>企业家; 主办人; 承包人;
+entrepreneur noun <法>企业家; 主办人; 承包人;（尤指涉及风险的）企业家，创业者
+He was one of the entrepreneurs of the 80s who made their money in property.
 
 monopolist 专利者; 大资本家
 monopoly 垄断; 专卖; 垄断者; 专利品;
 
+manufacturer noun[c] 制造商（大批量生产商品的企业）
+Germany is a major manufacturer of motor cars.
+Follow the instructions provided by the manufacturer.
+
+manufacture noun 制造; 制成品，产品; 工业，工厂; （文学作品等的） 粗制滥造;
+manufacture vt 加工; 制造，生产; 捏造，虚构; 从事制造;
+
 vendor 小贩；摊主；卖主
 For the past few months she's been working as a street vendor, selling fruit and vegetables.
 
-
 dealer 商人
+
 retailer noun 零售商，零售店; 传播的人，处散布闲话的人;
 kiosk noun （售糖果、饮料、报纸等的）小亭；售货亭
 kiosk noun 公用电话亭（同 telephone box）
 
+mercantilism 重商主义
 
-division noun 部门; 分开，分隔; [数] 除法; [军] 师;
-divisional adj 分割的，分开的; 分区的，分部的; [数] 除法的; [陆] 师的;
+merchant noun[c]商人；（尤指外贸）批发商
+a wine/grain merchant
+merchant noun[c]对（令人讨厌之事）入迷的人，好…的人
+a gossip merchant (= someone who enjoys talking about people's private lives)
 
-manufacture noun 制造; 制成品，产品; 工业，工厂; （文学作品等的） 粗制滥造;
-manufacture vt 加工; 制造，生产; 捏造，虚构; 从事制造;
+merchandise 商品;货物
+merchandise vt 销售; 买卖;
+merchandise vi 经商;
+
+cargo noun （轮船、飞机等大型交通工具装载的）货物
+a cargo ship/plane
+The ship was carrying a cargo of wood.
 
 commodity noun 商品; 日用品; 有价值的物品; 有利，有益;
 commodity noun 宝贵品质
 If you're going into teaching, energy is a necessary commodity.
 
-merchandise 商品;货物
-merchandise vt 销售; 买卖;
-merchandise vi 经商;
 
 procurement noun 采购 a substantial budget for the procurement of military supplies
 invoice 发票
@@ -77,6 +88,14 @@ a collateral branch of the family
 
 lucrative adj （尤指生意、职位或活动）赚钱的，盈利的
 The merger proved to be very lucrative for both companies.
+
+
+broker noun 经纪人，掮客
+a commodity/insurance/mortgage broker
+broker noun（尤指政府的）中间人，调停人
+During the war Wallas became a power broker in governmental circles.
+broker vt 作为经纪人（或中间人）安排（交易、协议等）
+The diplomats have failed in their attempts to broker a ceasefire.
 
 
 #################################
@@ -179,6 +198,11 @@ In business, the pragmatic approach to problems is often more successful than an
 
 
 # 工作
+
+division noun 部门; 分开，分隔; [数] 除法; [军] 师;
+divisional adj 分割的，分开的; 分区的，分部的; [数] 除法的; [陆] 师的;
+
+
 vocation （值得投入所有时间和精力的）职业，工作；（认为某种职业适合自己的）使命感
 To work in medicine, you should have a vocation for it.
 
@@ -477,6 +501,12 @@ trough vi 在上升之前落入（程度，价格等）低谷
 The economy troughed six months ago and is now growing again.
 
 trougher noun 大吃者；饕餮者（非常快地吃大量食物的人）
+
+bleak adj （地方）荒凉的；凄凉的
+The house stands on a bleak, windswept hilltop.
+bleak adj（天气）阴冷的
+bleak adj （境况）惨淡的，无希望的
+The economic outlook is bleak.
 
 ### 繁荣
 burgeon vi 迅速发展；快速生长

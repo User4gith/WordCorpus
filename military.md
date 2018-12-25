@@ -289,6 +289,14 @@ The gang held the racehorse to/for ransom.
 ransom vt （付钱）赎（人），赎出，赎回
 Her father ransomed her for a million dollars.
 
+loot vi/vt （通常指在暴力事件中集体）抢劫，洗劫
+During the riot shops were looted and cars damaged or set on fire.
+loot vi/vt （从某处或某人）偷窃
+Burglars looted cash and mobiles from a shop in Tagore Town.
+The passengers in the general compartment of Shramjivi Express were looted and robbed of their valuables.
+
+loot noun （尤指军队的）战利品，掠夺品
+
 
 
 #################################

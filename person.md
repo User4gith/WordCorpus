@@ -50,9 +50,6 @@ a guilty conscience
 You didn't do anything wrong - you should have a clear conscience (= not feel guilty).
 uk He's got no conscience at all (= does not feel guilty) about leaving me to do the housework.
 
-
-
-
 moral 道德的
 She was the only politician to condemn the proposed law on moral grounds (= for moral reasons).
 moral 有道德的，品行端正的
@@ -78,6 +75,14 @@ ethical adj 伦理学的；道德学的
 a medical procedure that most people believe to be ethical
 
 ethical noun 凭医师处方出售的药品;
+
+virtue noun[c]美德；高尚品德
+Patience is a virtue.
+virtue 优点；好处
+Would there be any virtue in taking an earlier train?
+by virtue of 因为；由于；凭借
+She succeeded by virtue of her tenacity rather than her talent.
+
 
 virtuous adj 道德高尚的；拥有美德的；品行端正的
 He described them as virtuous and hard-working people.
@@ -131,6 +136,12 @@ comprehensive adj 全面的；综合的；包罗万象的；详尽的
 We offer you a comprehensive training in all aspects of the business.
 
 comprehensive noun [常用复数] 专业综合考试; 综合学校; 综合性中学;
+
+comprehend vi/vt 充分理解；领悟
+I fail to comprehend their attitude.
+He doesn't seem to comprehend the scale of the problem
+[ + question word ] I'll never comprehend why she did what she did.
+[ + that ] I don't think he fully comprehends that she won't be here to help him.
 
 
 sensible adj 理智的；明智的
@@ -227,6 +238,15 @@ This attractive building is particularly notable for its woodland setting.
 notable noun 显要人物；名流
 Other notables among his pupils were the kings of Saudi Arabia and Thailand.
 
+dignity noun[u] 庄重，端庄；尊严
+He is a man of dignity and calm determination.
+She has a quiet dignity about her.
+I think everyone should be able to die with dignity.
+dignity noun[u]自尊，自尊心
+How could you wear something so indecent? Have you no dignity?
+He longs for a society in which the dignity of all people is recognized.
+
+
 
 ### 尊敬
 esteem noun 尊敬，敬重；好评
@@ -236,6 +256,15 @@ Her work is highly esteemed by all her colleagues.
 
 respect vt 尊重; 尊敬; 关心; 遵守;
 respect noun 敬意; 尊重，恭敬; 某方面;
+
+awe noun 敬畏；惊奇，惊叹
+I've always held musicians in awe.
+As children we were rather in awe of our grandfather.
+You can't help but stand in awe of (= respect greatly and fear slightly) powerful people.
+awe vt 使敬畏；使畏惧
+I was awed but not frightened by the huge gorilla.
+Her paintings have awed and amazed the public for half a century.
+The audience was awed into silence by her stunning performance.
 
 
 # 怜悯的
@@ -283,6 +312,12 @@ Some critics said the show was good in parts - those less charitable said the wh
 
 humane adj （尤指对待受苦者）善良的，仁慈的，人道的
 The humane way of dealing with a suffering animal (= the way that causes the least pain) is to kill it quickly.
+
+pious adj （对宗教）虔诚的
+She is a pious follower of the faith, never missing her prayers.
+假虔诚的；伪善的；虚伪的
+Quit the pious apologies - I know you don't really care.
+pious hope 不可能实现的希望，不切实际的希望
 
 
 ### 热情的
@@ -524,6 +559,10 @@ It was courageous of her to challenge the managing director's decision.
 
 
 # 健壮的/坚韧
+tenacity noun 坚持，顽固；固执
+
+
+
 bouncing adj （尤指婴儿）健壮的，活跃的，精力旺盛的
 We've got two grandchildren - a three-year-old girl and a bouncing baby boy.
 
@@ -700,6 +739,11 @@ deliberate adj （常指坏事）有意的，故意的，蓄意的 a deliberate 
 deliberate adj 慢吞吞的；小心谨慎的；沉稳的 From her slow, deliberate speech I guessed she must be drunk.
 deliberate vt/vi 慎重考虑；仔细讨论 The jury took five days to deliberate on the case.
 The committee has deliberated the question at great length.
+
+deliberately adv 故意地
+I'm sure he says these things deliberately to annoy me.
+deliberately adv 不慌不忙地，从容地
+Calmly and deliberately, she cut up his suits one by one.
 
 
 ### 严格
@@ -1712,6 +1756,9 @@ The design of the car has inspired many imitations.
 
 inspired adj 卓越的；凭灵感创作的
 an inspired performance/choice
+
+inspiring adj 鼓舞人心的
+She was an inspiring example to her followers.
 
 
 prompt vt 引起；导致；激起

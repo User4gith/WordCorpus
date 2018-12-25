@@ -15,6 +15,21 @@ lenient adj （处罚或判决）宽容的，宽大的，从轻的
 They believe that judges are too lenient with terrorist suspects.
 
 
+desperate adj 非常严重的；非常糟糕的
+desperate poverty
+The situation is desperate - we have no food, very little water and no medical supplies.
+desperate adj 巨大的；极端的；非常的
+The earthquake survivors are in desperate need of help.
+He has a desperate desire to succeed.
+desperate adj 非常需要的；非常想要的
+They are desperate for help.
+desperate adj （因绝望而）拼命的，不顾一切的
+The doctors made one last desperate attempt/effort to save the boy's life.
+Desperate measures are needed to deal with the growing drug problem.
+desperate adj 疯狂的；狂暴的
+This man is desperate and should not be approached since he may have a gun.
+
+
 dire adj 严重的；危急的；极端的
 These people are in dire need of help.
 He gave a dire warning that an earthquake was imminent.

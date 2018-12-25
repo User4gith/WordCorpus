@@ -15,6 +15,9 @@ device
 inquiry
 
 ### 学科相关
+theology 神学，宗教信仰学
+theology noun 宗教信仰
+
 
 astrology noun 占星术; 占星学; 原始天文学;
 astronomy 天文学;
@@ -34,7 +37,7 @@ anthropology
 geology
 pathology
 
-calligraphy noun 
+calligraphy noun
 
 
 astronomer
