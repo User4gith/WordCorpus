@@ -594,8 +594,12 @@ emit vt 发出; 发射; 颁布; 发表;
 
 publicity noun 宣传; 公众信息; 宣传效用; 公诸于众的状况;
 
-propagate vt 繁衍，增殖; 使遗传; 扩散; 使蔓延;
-propagate vi 繁殖; 扩大; [物] 通过媒介传送;
+propagate vt （使）（植物）繁殖
+Most house plants can be propagated from stem cuttings.
+Plants need certain conditions to propagate.
+propagate vi 传播，散播；宣传
+The government have tried to propagate the belief that this is a just war.
+Such lies are propagated in the media.
 
 popularize vt 宣传，推广；使大众化
 It was Pavarotti in the 1980s who really popularized opera.
