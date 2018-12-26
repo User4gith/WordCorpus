@@ -47,9 +47,6 @@ One of the easiest ways to leverage a charitable gift is to get your employer to
 bulb noun 球茎，鳞茎
 bulb noun 灯泡
 
-utensil （尤指厨房或家用的）器具，用具 In the drawer was a selection of kitchen utensils - spoons, spatulas, knives, and whisks.
-
-
 knob noun 球形把手; （收音机等的） 旋钮; 小块; 疙瘩;
 knob v 鼓起; 使有球形突出物; 给（门等）装球形把手;
 
@@ -102,18 +99,17 @@ church
 chapel
 steeple
 
+heretic 异教徒；异端分子
 crusade [史] 十字军东征; （宗教性的） 圣战; 改革运动;
 crusade v 讨伐; 加入十字军; 从事改革运动;
 
 
+monk 修道士；僧侣
+monastery noun 修道院；寺院
 
 cathedral noun 总教堂，大教堂;
 cathedral adj 教堂的; 权威的;
 
-metaphor 象征; 隐喻，暗喻
-
-bespeak vt 暗示；表明
-His letter bespeaks his willingness to help.
 
 prophet noun[c] 预言家，先知
 Let us hear the words of the prophet Isaiah on the coming of the Prince of Peace.
@@ -126,6 +122,17 @@ These doom and gloom prophecies are doing little to help the economy.
 
 prophecy noun 预言的能力
 
+metaphor 象征; 隐喻，暗喻
+
+bespeak vt 暗示；表明
+His letter bespeaks his willingness to help.
+
+allude vi 暗指; 间接提到;
+allude to
+
+hint noun 暗示; 线索，迹象; 提示，注意事项; 微量;
+hint vt 暗示;
+hint vi 暗示，提示;
 
 illusion noun 幻觉，幻想 He had no illusions about his talents as a singer.
 illusion noun 假象，错觉 A large mirror in a room can create the illusion of space.
@@ -134,8 +141,6 @@ delusion noun 幻想；错觉
 [ + that ] He's under the delusion that he will be promoted this year.
 
 
-monk 修道士；僧侣
-monastery noun 修道院；寺院
 
 # 演习
 drill noun 钻；钻床；钻机
@@ -155,11 +160,6 @@ He's a producer with three plays in rehearsal.
 
 
 
-# 等级与异教徒
-hierarchy
-heretic
-
-
 ### 景
 scene  场面，现场; （戏剧的） 一场; 景色，风景; 事件;
 scenery  风景，景色; 舞台布景; 风景画; 舞台面;
@@ -169,8 +169,6 @@ scence
 # 音乐
 orchestra 管弦乐队; 管弦乐队的全部乐器
 symphony 交响乐，交响曲; 序曲，插曲; 〈古〉和谐，和谐的东西;
-
-
 
 
 # 有光泽的，光滑的
@@ -288,31 +286,10 @@ peer noun 同龄人；同辈；同等社会地位（或能力）的人 Do you th
 peer noun 贵族 a hereditary peer
 
 
-
-
-# 取代
-substitute vt 代替，替换，代用;
-substitute vi 用…替代;
-substitute noun 替代物; 代替者; 替补（运动员）; [语法学] 代用词;
-
-
-substitution 替换; 代替; 代用;
-supersede vt 取代，接替; 更替，继任; 将…免职，撤换;
-
 # 地区和限制,严格的
 district
 restrict
 strict adj
-
-### 期
-periodical noun （尤指学术）期刊 She has written for several legal periodicals.
-journal noun 杂志，期刊；报纸 a medical/trade journal
-journal noun 日志；日记 She kept a travel journal during her trip to South America.
-journalism noun 新闻工作；新闻业
-annual adj 一年一度的；每年的 Companies publish annual reports to inform the public about the previous year's activities.
-annual adj 一年的 annual income/salary/profit
-annual noun 年刊，年报；（尤指）儿童年册
-annual noun 一年生植物
 
 
 ### 居住；习惯
@@ -429,7 +406,6 @@ Inflation is hovering at three percent.
 
 linger vi 停留，逗留；徘徊
 After the play had finished, we lingered for a while in the bar hoping to catch sight of the actors.
-
 
 
 halting adj 蹒跚的; 跛的; 踌躇的; 迟疑不决的;
@@ -655,9 +631,6 @@ soak noun 湿透; 酒鬼; 浸湿性; [俚语] 醉汉;
 silt noun （尤指河湾或河口处的）淤泥，泥沙
 
 
-
-
-
 # 消息
 bulletin 公告，公报; 新闻快报; 小报; 期刊;
 bulletin board noun 布告板，布告栏
@@ -760,14 +733,141 @@ a strand of dental floss
 strand noun （完整故事、主题或情况的）部分，方面
 There are so many different strands to the plot that it's hard to follow.
 
-
-
 bloodshot （眼睛）充血的，布满血丝的
 Hayfever gives me a runny nose and bloodshot eyes.
 
 textile
 
 wire 电线; 金属丝; 电报; （木偶的） 牵线，操纵绳，背后操纵的势力，秘密引线，秘密策略;
+
+# 旋转
+
+revolution 革命; 旋转; 彻底改变; 运行，公转
+
+
+rotate 旋转; 使转动; 使轮流，轮换; 交替;
+
+revolve vt 使旋转; 反复考虑; 使循环;
+revolve vi 旋转; 循环出现; 反复考虑;
+
+swivel noun 转环; 转节; 旋轴; 旋转接头;
+swivel vt （使） 旋转; 在枢轴上转动; （把身子或脸等） 转向另一方; 转身;
+swing v （使） 摇摆; （使） 摇荡;
+swing n 秋千; 摇摆，摆动; 摆程，振幅; 音律;
+
+spin v 纺纱; 吐（丝），作（茧），结网; 快速旋转; 眩晕
+spin noun 旋转的行为; 快速的旋运动; 眩晕; 疾驰;
+
+stir vt （用汤匙等）搅动，搅拌
+Stir the sauce gently until it begins to boil.
+stir vt/vi （使）微动
+A light breeze stirred the leaves lying on the path.
+stir vt 醒来；开始采取行动 The alarm clock went off, but she didn't stir.
+stir vt 激发；打动；煽动 I was deeply stirred by her performance.
+stir vi（情感）逐渐产生，萌动 Hope stirred within her heart.
+stir vi 挑拨离间；（尤指）搬弄是非
+There's a lot of gossip about me going around. Have you been stirring?
+
+stir noun 搅动，搅拌 Could you give the soup a quick stir?
+stir noun 极大的兴趣；兴奋；骚动 The scandal caused/created quite a stir at the time.
+stir noun 示威行动
+
+
+stir vi 苏醒; 奋起; 传播; 发生;
+
+twist vt 扭成一束; 搓，捻; 绕，卷; 连结，交结
+twist vi 被搓揉; 蜿蜒，曲折; 扭曲身体，扭动; 旋转，转动
+twist noun 揉搓之物; 丝线; 烟草卷; 旋转;
+
+vibrate vt （使） 振动[颤动]; 摆动; 犹豫; 激动;
+His voice vibrated with anger.
+vibration noun 持续振动；轻微抖动 Vibrations were felt hundreds of miles from the centre of the earthquake.
+
+
+whirl 旋转，回旋; 急走，飞奔; 头晕眼花
+
+distortion noun 扭曲，变形; 失真，畸变; [心理学] 扭转;
+
+
+circuit [c]noun 巡回；巡游；巡回之地
+They first met each other on the tennis circuit (= while at different tennis competitions).
+He was a familiar figure on the lecture circuit.
+circuit [c]巡回审判区
+The judge had served for many years on the northeastern Circuit.
+
+circuit [c]环行物；（尤指）环形道路（或路线、赛道）
+They test the car tyres on a motor racing circuit.
+
+circuit [c]（电流的）电路；（液体的）回路
+A defect was found in the water-cooling/electrical circuit.
+
+wiggle vt（使）扭动；（使）摆动
+He tried wiggling the control stick but nothing happened.
+
+wiggle noun 扭动；摆动
+With a wiggle of her hips, she pulled up her trousers.
+
+tweak vt 扭，拧
+Standing in front of the mirror she tweaked a strand of hair into place.
+tweak vt 稍稍改进
+The software is pretty much there - it just needs a little tweaking.
+You just need to tweak the last paragraph and then it's done.
+
+wring vt 拧；绞
+wring 拧干，绞干（布或衣服）
+She wrung out the shirt and hung it out to dry.
+
+
+wag vt （使）（尤指尾巴或手指）摆动，摇
+The little dog's tail wagged in delight.
+He wagged his finger sternly at the two boys.
+
+wag noun （使）（尤指尾巴或手指）摆动，摇
+With a single wag of her finger she managed to convey her total disapproval.
+
+flutter （使）飘动，挥动，颤动；拍（翅）；鼓（翼）
+Brightly coloured flags were fluttering in the breeze.
+Butterflies fluttered about in the sunshine.
+A white bird poised on a wire and fluttered its wings.
+flutter vi （心）怦怦乱跳；（胃）颤动
+Every time I think about my exams my stomach flutters!
+
+flutter noun 一阵兴奋（或激动）
+The publication of her first novel last spring caused a flutter of excitement.
+flutter noun （尤指赛马中的）小赌注
+Auntie Paula likes to have a bit of a flutter on the horses.
+flutter noun 振动；颤动；忽闪
+
+# 缠绕
+entwine vt 缠绕，盘绕;
+
+wrap vt 包; 缠绕; 用…包裹（或包扎、覆盖等）; 掩护
+wrap vi 缠绕，盘绕（通常与 over, around 等连用）; 包上，裹上; 穿上（衣服等）
+wrap noun 膝毯，披肩，围巾，围脖，头巾，罩衫，外套，大衣; 包装纸; 〈俚〉机密;
+
+lap vt 折叠; 包裹，缠绕; 使搭接; 磨亮，磨平
+lap vi 折叠; 部分重叠; 舔; 包围;
+lap noun 膝; 下摆; 一圈跑道; 范围;
+
+reel noun 卷轴; 卷筒; 卷盘; 绕在卷轴上的线（或金属丝、胶卷等）;
+reel vt 卷; 绕;
+reel vi 蹒跚，摇晃; 来回旋转; 眩晕;
+
+churn vt 搅拌; 制造（奶油等）; 买卖;
+churn vi 制造（奶油等）; 产生剧烈搅动;
+churn noun 搅乳桶;
+
+quiver vt 微颤，抖动;使震动;
+quiver noun 抖动; 箭筒; 箭筒; 颤音;
+
+wrap vt （用纸、布或其他材料）包，裹
+Wrap the chicken in foil and cook it for two hours.
+wrap vt 用…包裹；用…覆盖
+He wrapped a towel around his shoulders.
+wrap noun 卷饼
+wrap noun 包裹物；覆盖物 plastic wrap
+wrap noun 宽松外套；浴衣
+
 
 
 
@@ -874,8 +974,6 @@ His first plans were drawn up in rough.
 live/sleep rough 风餐露宿
 When we ran out of money, we slept rough for a week.
 
-
-
 cliff
 
 # 同事；大学
@@ -911,13 +1009,28 @@ mime
 mimic vt （为逗乐而）模仿，学…的样子 She was mimicking the various people in our office.
 mimic noun 善于模仿的人 She's a fantastic mimic.
 
+# 相似
+analogy noun 类似；类比；比拟；类推
+He drew an analogy between the brain and a vast computer.
+It is sometimes easier to illustrate an abstract concept by analogy with (= by comparing it with) something concrete.
 
+
+analogous adj 相似的，可比拟的; <生>同功的; 模拟式;
+
+
+similar
+resemble vt 像；看起来像；与…相似 You resemble your mother very closely.
+
+### 同一的；鉴别
+identical
+
+identify
+
+identification noun 认同; 鉴定，识别; 验明; 身份证明;
 
 # 流行
 prevalence noun 流行; 盛行; 普遍; （疾病等的） 流行程度;
 modish adj 流行的，时髦的;
-
-
 
 
 # 明显
@@ -936,28 +1049,6 @@ manifest lack of interest
 
 manifest noun 货单；旅客名单
 He had been listed on the manifest for the flight but it could not be confirmed if he had boarded.
-
-
-### 同一的；鉴别
-identical
-
-identify
-
-identification noun 认同; 鉴定，识别; 验明; 身份证明;
-
-# 相似
-analogy noun 类似；类比；比拟；类推
-He drew an analogy between the brain and a vast computer.
-It is sometimes easier to illustrate an abstract concept by analogy with (= by comparing it with) something concrete.
-
-
-analogous adj 相似的，可比拟的; <生>同功的; 模拟式;
-
-
-similar
-resemble vt 像；看起来像；与…相似 You resemble your mother very closely.
-
-
 
 
 # cate
@@ -1011,9 +1102,6 @@ exhaustible adj 可空竭的，可耗[抽，汲，用]尽的，用得尽的;
 fatigue noun 疲劳，疲乏; 劳务杂役; （士兵穿的） 工作服
 fatigue vt 使疲劳; 使疲乏;
 fatigue vi 疲劳;
-
-
-
 
 # explo
 
@@ -1155,9 +1243,6 @@ Thin the paint with white spirit.用石油溶剂油稀释油漆。
 
 spirit sb/sth away, off, out, etc. 偷偷带走；神不知鬼不觉地弄走
 Somehow the prisoners managed to spirit news out to the world outside.
-
-
-
 
 dispirit
 

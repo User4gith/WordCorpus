@@ -101,6 +101,15 @@ foe noun[c] 敌人
 The two countries have united against their common foe.
 Foes of the government will be delighting in its current difficulties.
 
+conquer vt 占领；攻取；征服；击败 The English were conquered by the Normans in 1066.
+conquer vt  解决（问题）；战胜，克服（恐惧） He has finally conquered his fear of spiders.
+
+conqueror noun 征服者；胜利者
+
+conquest noun 征服；制服；攻克；驾驭
+conquest noun 性玩物，性猎物
+I was determined not to become just another one of his conquests.
+
 
 aggressive adj 好斗的；富于攻击性的；挑衅的 Men tend to be more aggressive than women.
 aggressive adj 积极进取的；有冲劲的；雄心勃勃的 an aggressive election campaign

@@ -1,4 +1,48 @@
-# 政治相关
+# stitution
+
+territory noun 领土；领域；领地；活动范围
+The UN is sending aid to the occupied territories.
+territory noun 领域；地盘（某一动物或人想控制的、或认为属于它或他的区域）
+The robin keeps other birds off that part of the garden - that's his territory.
+territory noun （知识等的）领域，范围（你了解或有经验的科目）
+The director is back on familiar territory with his latest film.
+
+territorial adj 领土的；领地的；土地的
+a territorial dispute
+Some animals and birds are territorial (= they mark out areas which they defend against others).
+
+terrain noun 地形，地势；地带
+The car handles particularly well on rough terrain.
+
+
+realm noun （兴趣或活动的）界，领域，范围
+Her interests are in the realm of practical politics.
+realm noun 王国
+The matter was hotly debated in all the towns of the realm.
+
+sphere 球，圆球；球状物
+Doctors have replaced the top of his hip bone with a metal sphere.
+sphere （知识、工作等的）范围，领域，圈，界
+the political sphere
+exchanges with other countries, particularly in cultural, scientific, and economic spheres
+
+
+agrarian adj 土地的，耕地的；土地所有制的
+This is prime agrarian land.
+agrarian adj 农业的；农村的
+This part of the country is mainly agrarian.
+
+
+# 政权
+charter
+
+constitution 宪法/体质/组成
+
+institute 学院/建立；着手（vt）She is threatening to institute legal proceedings against the hospital.
+institution 机构/制度/
+
+legislation
+
 legitimacy 合法（性），正统（性）; 合理;
 
 legitimate adj 合法的，正当的，法律允许的 The army must give power back to the legitimate government.
@@ -26,26 +70,6 @@ rein vi 勒住马;
 sovereign noun 君主; 最高统治者; 独立国; 旧时价值为一镑的英国金币;
 sovereign adj 至高无上的; 独立自主的; 拥有最高统治权的; 极好的;
 
-empire noun 帝国，帝国领土; 帝权，君权，最高统治权; 大企业组织;
-empire adj 新古典风格的;
-
-emperor 皇帝，君主;
-dynasty
-
-conquer vt 占领；攻取；征服；击败 The English were conquered by the Normans in 1066.
-conquer vt  解决（问题）；战胜，克服（恐惧） He has finally conquered his fear of spiders.
-
-conqueror noun 征服者；胜利者
-
-crown noun 王冠; 花冠（有时象征胜利）; 王权; （某物的） 顶部;
-crown vt （尤指通过增添成就、成功等） 使圆满; 为…加冕; 使圆满完成; 给…以荣誉;
-crown vi 露顶;
-
-throne noun 王座；王位
-the throne noun 王位；王权；君权 Elizabeth II ascended/came to the throne (= became queen of Britain) when her father died.
-
-regent noun 摄政者；摄政王
-
 
 hereditary adj 遗传性; 世袭的; （生物学中） 遗传的;
 
@@ -60,28 +84,12 @@ inherit vt 经遗传而得 Rosie inherited her red hair from her mother.
 inherit vt 接手，承担（遗留的问题等）When I took on the job of manager, I inherited certain financial problems.
 
 
-tyranny 暴虐; 专横; 暴行;
-
-
-monopoly noun 垄断; 专卖; 垄断者; 专利品;
 
 hegemony noun （尤指国家的）霸权，支配权 The three nations competed for regional hegemony.
-
-arbitrary adj 任意的；随机的；随心所欲的
-arbitrary decision-making
-arbitrary adj 专断的；武断的；霸道的
-an arbitrary ruler
-The company has been the subject of an arbitrary take-over.
-
 
 
 
 ### trend
-ideology （尤指作为政治体制、政党或政治组织基础的）思想（体系），意识形态
-socialist/capitalist ideology
-The people are caught between two opposing ideologies.
-
-
 pluralism 多元性；多元化
 After years of state control, the country is now moving towards political/religious/cultural pluralism.
 pluralism 多元主义
@@ -99,11 +107,25 @@ anarchy （尤指政府消亡或垮台而引起的）无政府状态，混乱状
 What we are witnessing is the country's slow slide into anarchy.
 The country has been in a state of anarchy since the inconclusive election.
 
+
 monarchy 君主国
 monarchy noun 君主政体，君主制
 Is monarchy relevant in the modern world or should it be abolished?
 
-oligarchy 寡头统治（的政府）；寡头统治集团
+empire noun 帝国，帝国领土; 帝权，君权，最高统治权; 大企业组织;
+empire adj 新古典风格的;
+
+emperor 皇帝，君主;
+dynasty
+
+crown noun 王冠; 花冠（有时象征胜利）; 王权; （某物的） 顶部;
+crown vt （尤指通过增添成就、成功等） 使圆满; 为…加冕; 使圆满完成; 给…以荣誉;
+crown vi 露顶;
+
+throne noun 王座；王位
+the throne noun 王位；王权；君权 Elizabeth II ascended/came to the throne (= became queen of Britain) when her father died.
+
+regent noun 摄政者；摄政王
 
 aristocracy noun 贵族，贵族阶级
 members of the aristocracy
@@ -122,7 +144,7 @@ dictator noun 独断专行者；专权者
 My boss is kind of a dictator.
 dictatorship noun 独裁，专政; 独裁权; 执政者的职位（任期）;
 
-
+authoritarianism 威权主义
 authorise 授权
 authority 权威
 
@@ -132,35 +154,26 @@ His manner is extremely authoritarian.
 authoritarian noun 独裁者
 My father was a real authoritarian so we were brought up very strictly.
 
-authoritarianism 威权主义
-
+totalitarianism 极权主义
 totalitarian adj 极权主义的
 a totalitarian regime/state
-totalitarianism 极权主义;
+
+
+tyranny 暴虐; 专横; 暴行;
+
+arbitrary adj 任意的；随机的；随心所欲的
+arbitrary decision-making
+arbitrary adj 专断的；武断的；霸道的
+an arbitrary ruler
+The company has been the subject of an arbitrary take-over.
 
 
 collectivism noun 集体主义；集体主义制度
-
-fascism 法西斯主义
-fascist adj（基于或支持）法西斯主义的
-fascist groups
-
-
 
 
 libertarian noun （反对政府控制的）自由主义者，自由派
 Civil libertarians are worried about what they see as government censorship.
 
-rationalist noun 理性主义者，唯理论者
-
-atheism noun the belief that God does not exist:
-
-nihilism 虚无主义
-
-bourgeois 中产阶级的；追求物质享受的；平庸粗俗的
-It's a bit bourgeois, isn't it, joining a golf club?
-
-the proletariat 工人阶级；无产阶级
 
 ######
 
@@ -168,6 +181,11 @@ rationality
 Renaissance 文艺复兴; 文艺复兴时期; 文艺复兴时期
 resurge v 复活
 
+cabinet noun 内阁
+The Cabinet meet/meets every Thursday.
+The President is completing the selection of his new Cabinet.
+cabinet 贮藏柜；陈列柜；橱柜
+Valuable pieces of china were on display in a glass-fronted cabinet.
 
 autonomy
 
@@ -214,65 +232,44 @@ league noun 联盟，联合会
 the League of Nations
 
 
-# censorship
-
-supervise
-supervision
-surveillance noun 盯梢，监督; [法] 管制，监视;
-
-censor noun 监察官，检查员; （牛津大学等的） 学监; [心理] 潜意识压抑力; [心] 抑制性潜意识;
-censor vt 审查，检查; 审查（书刊等）; 检查（信件等）; 删改;
-
-# stitution
-charter
-legislation
-constitution 宪法/体质/组成
-
-institute 学院/建立；着手（vt）She is threatening to institute legal proceedings against the hospital.
-institution 机构/制度/
-
-cabinet noun 内阁
-The Cabinet meet/meets every Thursday.
-The President is completing the selection of his new Cabinet.
-cabinet 贮藏柜；陈列柜；橱柜
-Valuable pieces of china were on display in a glass-fronted cabinet.
+# 政治从业
+induction noun 诱发; 归纳（法）; （电或磁的） 感应; 就职，就职典礼;
+inaugurate vt 开创; 创始; 举行开幕典礼; 举行就职典礼;
 
 
-territory noun 领土；领域；领地；活动范围
-The UN is sending aid to the occupied territories.
-territory noun 领域；地盘（某一动物或人想控制的、或认为属于它或他的区域）
-The robin keeps other birds off that part of the garden - that's his territory.
-territory noun （知识等的）领域，范围（你了解或有经验的科目）
-The director is back on familiar territory with his latest film.
+principal adj 主要的; 本金的; 最重要的; 资本的;
+principal noun 本金; 首长，负责人; 主要演员，主角; [法] 委托人，当事人;
+faculty 能力，才能; 全体教职员; <英>（大学的）专科，系; 特权，特许;
 
-territorial adj 领土的；领地的；土地的
-a territorial dispute
-Some animals and birds are territorial (= they mark out areas which they defend against others).
+solicitor
+diplomat 外交官; 有外交手腕的人; 善于交际的人; 处事圆滑机敏的人;
+counsellor noun 辅导员; 顾问，参事; 法律顾问，律师; （儿童夏令营等中的） 领队;
 
-terrain noun 地形，地势；地带
-The car handles particularly well on rough terrain.
+consulate noun 领事馆; 领事职位; 领事任期;
 
 
-realm noun （兴趣或活动的）界，领域，范围
-Her interests are in the realm of practical politics.
-realm noun 王国
-The matter was hotly debated in all the towns of the realm.
-
-sphere 球，圆球；球状物
-Doctors have replaced the top of his hip bone with a metal sphere.
-sphere （知识、工作等的）范围，领域，圈，界
-the political sphere
-exchanges with other countries, particularly in cultural, scientific, and economic spheres
+ambassador noun 大使，使节; （派驻联合国等国际组织的） 代表; 特使; [比喻] 使者;
+embassy noun 大使馆全体人员，使馆馆员
+We used to be friendly with some people who worked at the Swedish Embassy.
+embassy 大使馆
+The Ambassador held a reception at the embassy.
 
 
-agrarian adj 土地的，耕地的；土地所有制的
-This is prime agrarian land.
-agrarian adj 农业的；农村的
-This part of the country is mainly agrarian.
-
+counsel vt 劝告，建议; 提供专业咨询;
+counsel noun 建议; 协商，讨论; 策略; 法律顾问，辩护人;
 
 
 ### 权
+inalienable adj 不可剥夺的；不可分割的
+an inalienable right
+
+inshrine vt 把…奉为神圣；珍藏
+A lot of memories are enshrined in this photograph album.
+
+be inshrined in  vt （政治或社会权利）被庄严载入
+The right of freedom of speech is enshrined in law/in the constitution.
+
+
 privilege noun 特权; （因财富和社会地位而仅有部分人享有的） 权益; 免责特权; 特殊荣幸;
 privilege vt 给与…特权，特免;
 
@@ -289,27 +286,114 @@ consent vi 同意；答应；许可，允许
 [ + to infinitive ] Very reluctantly, I've consented to lend her my car.
 My aunt never married because her father wouldn't consent to her marriage.
 
-inalienable adj 不可剥夺的；不可分割的
-an inalienable right
+warrant vt 使有必要
+Obviously what she did was wrong, but I don't think it warranted such a severe punishment.
+It's a relatively simple task that really doesn't warrant a great deal of time being spent on it.
 
-inshrine vt 把…奉为神圣；珍藏
-A lot of memories are enshrined in this photograph album.
+warrant vt 担保，保证；许诺
+He's to blame, I'll warrant (you).
 
-be inshrined in  vt （政治或社会权利）被庄严载入
-The right of freedom of speech is enshrined in law/in the constitution.
+warrant noun 授权证; 许可证; 正当理由; 依据;
+Judge La Riva had issued an arrest warrant/a warrant for his arrest.
 
-ordain vt 授予（某人）圣职
-He was ordained (as) a priest in Ely cathedral in 1987.
-ordain vt （上帝或权威人士）命令，下令
-There is strong support here for the tough economic reforms ordained in the federal capital, Prague.
+warranty noun （商品的）保修单，保修卡
+The warranty covers the car mechanically for a year, with unlimited mileage.
+
+grant noun （尤指政府为特殊目的给予个人或组织的）拨款，补助金
+a student/research grant
+They gave/awarded her a grant to study abroad for one year.
+grant vt （通常指官方）同意，准予，授予
+She granted their request/wish.
+They granted her an entry visa.
+
+grant vt （常指在表达相反的意见之前表示让步）承认，同意
+I grant that it must have been upsetting but even so I think she overreacted.
+take sth for granted 认为…是理所当然的
+I didn't realize that Melanie hadn't been to college - I suppose I just took it for granted.
+
+granted 因为
+Granted (that) the story's true, there's not a lot you can do about it.
 
 
 
-### 税
-levy noun 征收额；税款 They imposed a five percent levy on alcohol.
-tariff noun 关税；关税表
+pledge noun 保证，誓言; [法] 抵押权; 公约; （表示友谊的） 干杯;
+pledge vi 使发誓，保证; 典当，抵押;
+pledge noun 许诺; 用…担保; 以誓言约束; 向…祝酒;
 
 
+
+### 鉴定
+authenticate 证明是真实的、可靠的或有效的; 鉴定，使生效
+
+certify vt (尤指书面） 证明; 发证书给…; 证明（某人）患有精神病; 颁发（或授予）专业合格证书;
+
+certificate noun 证明书; 文凭，结业证书
+a birth/marriage/death certificate
+certificate noun 成绩合格证书；毕业证书
+She has a Certificate in Drama Education.
+
+
+certificate v 发给证明书; 用证书证明（或认可）;
+certification noun 证明，鉴定，证书
+
+credential 文凭; 外交使节所递的国书，信任状;
+credential v 提供证明书
+
+accredit vt 鉴定…为合格；认可；认为…属实；授权
+The agency was not accredited by the Philippine Consulate to offer contracts to Filipinos abroad.
+
+verify vt 核实; 证明; 判定;
+verification noun 核实; 证明; 证实; <哲>（指通过经验）证明（某命题正确）;
+
+### 召集
+convene vt 召集; 聚集; 传唤;
+convene vi 集合;
+
+convoke vt 召集，召开（会议）
+
+### 选举
+accountable adj 应负责任的；应作解释的；应加以说明的
+Politicians should be accountable to the public who elected them.
+accountability noun
+
+candidate noun 报考者; 申请求职者; 攻读学位者; 最后命运或结局如何已显然可见者;
+
+representative noun 代表；代理人
+The firm has representatives in every major city.
+representative adj 有代表性的；典型的；代表…的
+Are your views/opinions representative of all the workers here?
+a representative sample/cross-section/selection
+representative noun 代议制政体
+
+
+eligible adj 合适的; 在（法律上或道德上）合格的; 有资格当选的; 称心如意的;
+eligible noun 合格者; 合适者; 称心如意的人; 合乎条件的人（或东西）;
+
+
+enfranchise vt 给予选举权; （从奴隶制中） 解放;
+Women in Britain were first enfranchised in 1918.
+
+
+constituent noun 选民; 成分，构成部分; 委托人
+constituent adj 构成的，组成的; 选举的; 有选举权的;
+
+suffrage
+
+delegate noun 代表，代表团成员;
+Delegates have voted in favour of the motion.
+Each union elects several delegates to the annual conference.
+
+delegate vt/vi （把…）委派（给…），（把…）委托（给…）；授权（给…）
+As a boss you have to delegate (responsibilities to your staff).
+Authority to make financial decisions has been delegated to a special committee.
+delegate vt 选出（尤指会议的）代表
+A group of four teachers were delegated to represent their colleagues at the union conference.
+
+earmark vt 划拨（款项）；指定…作特定用途
+Five billion dollars of this year's budget is already earmarked for hospital improvements.
+
+register
+enrolment
 
 # legal
 legislative adj （关于） 立法的; 立法决定的; 有权立法的，用以立法的; 立法机构的;
@@ -372,93 +456,132 @@ The insurance company made a provision against claims over alleged pension fraud
 provision noun 为…做好准备（尤指经济上的保障）
 He hasn't made any provision for his retirement yet.
 
+### 则
+norm noun 行为准则；规范
+Europe's varied cultural, political and ethical norms
+
+the norms 常态，正常行为
+One child per family is fast becoming the norm in some countries.
 
 
-### 鉴定
-authenticate 证明是真实的、可靠的或有效的; 鉴定，使生效
+criteria noun
+criterion noun 规范; （批评、判断等的） 标准，准则;
 
-certify vt (尤指书面） 证明; 发证书给…; 证明（某人）患有精神病; 颁发（或授予）专业合格证书;
-
-certificate noun 证明书; 文凭，结业证书
-a birth/marriage/death certificate
-certificate noun 成绩合格证书；毕业证书
-She has a Certificate in Drama Education.
+doctrine noun 教条，教义; 法律原则; 声明; 古语] 所教的东西，教育;
 
 
-certificate v 发给证明书; 用证书证明（或认可）;
-certification noun 证明，鉴定，证书
+principle 原则，原理;
+The country is run on socialist principles.
+The organization works on the principle that all members have the same rights.
 
-credential 文凭; 外交使节所递的国书，信任状;
-credential v 提供证明书
+principle noun （行为）准则；道德；为人之道
+She doesn't have any principles.
+Anyway, I can't deceive him - it's against all my principles.
+She'd never ask to borrow money, on principle.
 
-accredit vt 鉴定…为合格；认可；认为…属实；授权
-The agency was not accredited by the Philippine Consulate to offer contracts to Filipinos abroad.
-
-verify vt 核实; 证明; 判定;
-verification noun 核实; 证明; 证实; <哲>（指通过经验）证明（某命题正确）;
-
-
-### 选举
-accountable adj 应负责任的；应作解释的；应加以说明的
-Politicians should be accountable to the public who elected them.
-accountability noun
-
-candidate noun 报考者; 申请求职者; 攻读学位者; 最后命运或结局如何已显然可见者;
-
-representative noun 代表；代理人
-The firm has representatives in every major city.
-representative adj 有代表性的；典型的；代表…的
-Are your views/opinions representative of all the workers here?
-a representative sample/cross-section/selection
-representative noun 代议制政体
+in principle 原则上，大体上，基本上
+In principle I agree with the idea, but in practice it's not always possible.
 
 
-eligible adj 合适的; 在（法律上或道德上）合格的; 有资格当选的; 称心如意的;
-eligible noun 合格者; 合适者; 称心如意的人; 合乎条件的人（或东西）;
+discipline vt 训练; 使有纪律; 处罚; 使有条理;
+discipline noun 纪律; 学科; 训练; 符合行为准则的行为（或举止）;
+
+lodestar noun 指示方向的星星；（尤指）北极星
+​lodestar noun 范例，规范；指导原则
+The party manifesto is no longer the lodestar it used to be.
+
+### 遵守
+stipulate vt （尤指在协议或建议中）规定，约定，讲明（条件等） ;
+stipulate vi 规定，明确要求;
+stipulate noun 有托叶的;
 
 
-enfranchise vt 给予选举权; （从奴隶制中） 解放;
-Women in Britain were first enfranchised in 1918.
+comply vi 服从；遵守；依从
+He's been ordered to have the dog destroyed because it's dangerous, but he refuses to comply.
+There are serious penalties for failure to comply with the regulations.
+
+conform vi 符合; 遵照; 适应环境;
+conform vt 使遵守; 使一致; 使顺从;
+conform adj 一致的; 顺从的;
 
 
-constituent noun 选民; 成分，构成部分; 委托人
-constituent adj 构成的，组成的; 选举的; 有选举权的;
+obey
 
-suffrage
+disobey vt 不服从，不顺从;
 
-delegate noun 代表，代表团成员;
-Delegates have voted in favour of the motion.
-Each union elects several delegates to the annual conference.
+succumb 屈服; 死亡;
 
-delegate vt/vi （把…）委派（给…），（把…）委托（给…）；授权（给…）
-As a boss you have to delegate (responsibilities to your staff).
-Authority to make financial decisions has been delegated to a special committee.
-delegate vt 选出（尤指会议的）代表
-A group of four teachers were delegated to represent their colleagues at the union conference.
+submit vt 提交；呈递
+You must submit your application before 1 January.
+submit vt 建议；主张
+In conclusion, I submit that the proposal will not work without some major changes.
+submit vi/vt 顺从，屈服；不得以接受
+We protested about the changes for a long time, but in the end we had to submit.
+She decided to resign from the party rather than submit herself to the new rules.
 
-earmark vt 划拨（款项）；指定…作特定用途
-Five billion dollars of this year's budget is already earmarked for hospital improvements.
+compliant adj 顺从的，听从的；服从的
+a compliant child
+compliant adj 合规的
+The company expects to be reclassified as soon as its factories are fully compliant with the Federal Clean Air Act.
+
+compliance noun 服从；遵守；依从
+It is the job of the inspectors to enforce compliance with the regulations.
+顺从，屈从
+It's his compliance that amazes me.
 
 
+### 违反
+departure 背离; 离开，离去; 起程; 东西距离;
 
-register
-enrolment
+recalcitrant adj 倔强对抗的，拒不服从的; 拗强
+
+traitor noun 叛徒; 卖国贼; 背叛者; 背信弃义的人;
+
+repel vt 击退; 抵制; 使厌恶; 使不愉快;
+
+infringe vt 侵犯; 违反（规章等）; 侵犯（某人的权利）; 侵害（某人的自由、权益等）;
+infringe vt 违反，违背（规定、法律等）
+They infringed building regulations.
+
+defiant adj 对抗的，违抗的；挑衅的
+The protesters blocking the entrance to the offices remained defiant this morning.
+defiant adj 不接受批评的；不接受不同意见的
+The CEO was in a defiant mood as she entered the boardroom.
+
+breach noun[c] 破坏，违犯；违反，不履行
+They felt that our discussions with other companies constituted a breach of/in our agreement.
+He was sued for breach of contract.
+There have been serious security breaches (= breaks in our security system).
+
+be in breach of sth 违反（法律或规章）
+The theatre was in breach of the safety laws for having no fire doors.
+
+breach noun （攻击墙或防御工事时打出的）缺口
+A cannon ball had made a breach in their castle walls.
+
+breach vt 破坏，违犯；违反，不履行
+They breached the agreement they had made with their employer.
+
+breach vt （尤指为从背后突袭）在…上打开缺口
+Their defences were easily breached.
 
 
+# censorship
 
+supervise
+supervision
+surveillance noun 盯梢，监督; [法] 管制，监视;
+
+censor noun 监察官，检查员; （牛津大学等的） 学监; [心理] 潜意识压抑力; [心] 抑制性潜意识;
+censor vt 审查，检查; 审查（书刊等）; 检查（信件等）; 删改;
+
+oversee
+
+### 税
+levy noun 征收额；税款 They imposed a five percent levy on alcohol.
+tariff noun 关税；关税表
 
 ### 抗议
-revolt vt 反抗；造反；反叛
-The people revolted against foreign rule and established their own government.
-revolt vt 使厌恶；使惊骇；使反感
-We were revolted by the dirt and mess in her house.
-It revolts me to know that the world spends so much money on arms when millions are dying of hunger.
-revolt noun 反抗；造反；反叛
-Troops were called in to crush/put down the revolt.
-The army is in revolt (against its commanders).
-
-
-
 propose vt 求婚; 提议，建议; 打算，计划; 推荐，提名;
 propose vi 求婚; 做出计划，打算;
 
@@ -485,52 +608,8 @@ protest noun 抗议; 反对; 申明;
 protest vi 抗议; 断言;
 protest vt 抗议; 声明反对; 断言;
 
-protest noun 抗议；反对
-Protests have been made/registered by many people who would be affected by the proposed changes.
-protest noun 抗议活动；抗议游行
-a public protest against the war
-under protest 不情愿地
-I only went to the meeting under protest.
+protester
 
-protest 抗议；反对
-A big crowd of demonstrators were protesting against cuts in health spending.
-protest 声言，断言；控诉；抗议
-Lots of people protested about the new working hours.
-
-
-dissent noun[u] （尤指对正式建议、计划或普遍看法的）不同意，异议
-When the time came to approve the proposal, there were one or two voices of dissent.
-dissent noun 不服裁判
-Rooney was booked for dissent after the referee failed to award United a penalty.
-
-dissent vi 不同意，持有异议
-Anyone wishing to dissent from the motion should now raise their hand.
-
-### 倾覆
-
-capsize 倾覆; 使（船或车）翻;
-topple vi 倾倒; 摇摇欲坠; 倾斜得好倾斜得好像要跌倒一样;
-topple vt 将…推翻，打倒; 使…跌倒;
-
-subversion noun[u]（对制度或政府的）颠覆，倾覆
-He was found guilty of subversion and imprisoned.
-
-subversive adj （尤指对现有政治体制）起破坏作用的，有颠覆性的
-subversive elements/groups in society
-subversive ideas/influences
-
-unrest noun 动乱，动荡；骚乱
-It is feared that the civil unrest we are now witnessing in this country could lead to full-scale civil war.
-
-subvert vt 破坏，动摇，颠覆（尤指现有的政治体制）
-The rebel army is attempting to subvert the government.
-Our best intentions are sometimes subverted by our natural tendency to selfishness.
-
-upheaval noun 激变；动荡；剧变
-Yesterday's coup brought further upheaval to a country already struggling with famine.
-I'm not sure it's worth the upheaval of moving to gain just a little more space.
-
-### 镇压
 crackdown noun 制裁；处罚；打击；镇压
 There has been a series of government crackdowns on safety in factories.
 
@@ -609,40 +688,6 @@ a hostel for the homeless
 
 circumvent vt（尤指巧妙或非法地）逃避，规避，绕过
 Ships were registered abroad to circumvent employment and safety regulations.
-
-
-### 召集
-convene vt 召集; 聚集; 传唤;
-convene vi 集合;
-
-convoke vt 召集，召开（会议）
-
-
-# 政治从业
-induction noun 诱发; 归纳（法）; （电或磁的） 感应; 就职，就职典礼;
-inaugurate vt 开创; 创始; 举行开幕典礼; 举行就职典礼;
-
-
-principal adj 主要的; 本金的; 最重要的; 资本的;
-principal noun 本金; 首长，负责人; 主要演员，主角; [法] 委托人，当事人;
-faculty 能力，才能; 全体教职员; <英>（大学的）专科，系; 特权，特许;
-
-solicitor
-diplomat 外交官; 有外交手腕的人; 善于交际的人; 处事圆滑机敏的人;
-counsellor noun 辅导员; 顾问，参事; 法律顾问，律师; （儿童夏令营等中的） 领队;
-
-consulate noun 领事馆; 领事职位; 领事任期;
-
-
-ambassador noun 大使，使节; （派驻联合国等国际组织的） 代表; 特使; [比喻] 使者;
-embassy noun 大使馆全体人员，使馆馆员
-We used to be friendly with some people who worked at the Swedish Embassy.
-embassy 大使馆
-The Ambassador held a reception at the embassy.
-
-
-counsel vt 劝告，建议; 提供专业咨询;
-counsel noun 建议; 协商，讨论; 策略; 法律顾问，辩护人;
 
 
 # 宣传
@@ -737,44 +782,13 @@ concession 特许经营权；特许销售权
 entitle vt 使有资格; 给…定名; 给与…权利; 称做;
 
 
-warrant vt 使有必要
-Obviously what she did was wrong, but I don't think it warranted such a severe punishment.
-It's a relatively simple task that really doesn't warrant a great deal of time being spent on it.
-
-warrant vt 担保，保证；许诺
-He's to blame, I'll warrant (you).
-
-warrant noun 授权证; 许可证; 正当理由; 依据;
-Judge La Riva had issued an arrest warrant/a warrant for his arrest.
-
-
-pledge noun 保证，誓言; [法] 抵押权; 公约; （表示友谊的） 干杯;
-pledge vi 使发誓，保证; 典当，抵押;
-pledge noun 许诺; 用…担保; 以誓言约束; 向…祝酒;
-
-
-grant noun （尤指政府为特殊目的给予个人或组织的）拨款，补助金
-a student/research grant
-They gave/awarded her a grant to study abroad for one year.
-grant vt （通常指官方）同意，准予，授予
-She granted their request/wish.
-They granted her an entry visa.
-
-grant vt （常指在表达相反的意见之前表示让步）承认，同意
-I grant that it must have been upsetting but even so I think she overreacted.
-take sth for granted 认为…是理所当然的
-I didn't realize that Melanie hadn't been to college - I suppose I just took it for granted.
-
-granted 因为
-Granted (that) the story's true, there's not a lot you can do about it.
-
 # 判
 righteous adj 正义的; 正直的; 公正的;
 
-condone vt 容忍，宽恕，原谅;
-lenient adj 宽容; 宽大的，仁慈的; <古>减轻痛苦的，缓解的;
-
-condemn  vt（通常因道义上的原因而） 谴责; 宣判; 宣布…不能使用; 迫使…陷于不幸的境地;
+condone vt 宽恕，饶恕；纵容；包容，容忍
+If the government is seen to condone violence, the bloodshed will never stop.
+lenient adj （处罚或判决）宽容的，宽大的，从轻的
+They believe that judges are too lenient with terrorist suspects.
 
 jury 陪审团
 members of the jury
@@ -782,48 +796,41 @@ members of the jury
 The jury has/have been unable to return a verdict (= reach a decision).
 jury （竞赛的）裁判团，评判委员会
 
+condemn  vt（通常因道义上的原因而） 谴责; 宣判; 宣布…不能使用; 迫使…陷于不幸的境地;
 
-verdict noun 裁定; （陪审团的） 裁决; （经过试验、检验或体验发表的） 决定; 意见;
+accusation noun 指控，控告；指责；谴责 You can't just make wild accusations like that!
+
+allegation （未经证实的）指责，指控
+Several of her patients have made allegations of professional misconduct about/against her.
+[ + that ] Allegations that Mr Dwight was receiving money from known criminals have caused a scandal.
 
 
-sue vt 起诉; 控告，控诉，和…打官司; 请求; 提起（诉讼）要求判决
+delinquency noun 不法行为; 少年罪犯; 过失; 罪过;
 
+perpetrate vt 犯（罪）; 做（恶）;
+
+offender noun 罪犯; 得罪人的人; 犯规者; 妨害…的人（或事物）;
+offensive adj 无礼的，冒犯的，唐突的; 讨厌的，令人不快的; 进攻（性）的，攻击的，攻势的;
+offensive noun 进攻，攻势;
 
 arrest vt 逮捕，拘捕; 止住，阻止，抑制; 吸引（注意）;
 arrest vi 心跳停止;
 arrest noun 拘留; 停止，阻止; 制动（装置）;
 
-justify vt 证明…有理; 为…辩护; 对…作出解释; I can't really justify taking another day off work.
-justify yourself 为自己的行为作解释 It was the only thing that I could do - I don't have to justify myself to anyone.
 
 
-justify vi 整理版面; 证明合法;
-
-delinquency noun 不法行为; 少年罪犯; 过失; 罪过;
-
-
-litigation noun 诉讼; <律>打官司;诉讼，起诉
-The company has consistently denied responsibility, but it agreed to the settlement to avoid the expense of lengthy litigation.
+sue vt 起诉; 控告，控诉，和…打官司; 请求; 提起（诉讼）要求判决
+litigation noun 诉讼; <律>打官司;
 
 lawsuit noun 诉讼; 诉讼案件;
 suit noun 诉讼; 一套外衣; 西装，套装; 恳求;
 suit vt 适合于（某人）; 尤指服装、颜色等相配; 合身; 适宜;
 suit vi 合适，相称;
 
-
-perpetrate vt 犯（罪）; 做（恶）;
-
-
-convict vt 宣判有罪; 证明…有罪; 使知罪; 定…的罪;
-convict noun 罪犯
-
-
-offender noun 罪犯; 得罪人的人; 犯规者; 妨害…的人（或事物）;
-offensive adj 无礼的，冒犯的，唐突的; 讨厌的，令人不快的; 进攻（性）的，攻击的，攻势的;
-offensive noun 进攻，攻势;
+prosecution noun （被）起诉；（被）检举；诉讼 A number of the cases have resulted in successful prosecution.
+the prosecution 控方律师，原告律师 The prosecution alleged that he lured the officer to his death by making an emergency call.
 
 plaintiff noun <律>原告;
-
 
 respondent noun 回答者; [法] （特指离婚诉讼的） 被告; [生] 反应，反射;
 respondent adj 应答的; 有反应的; [法] 被告的;
@@ -832,7 +839,10 @@ defend vt 保卫; 辩护; （足球、曲棍球等） 防守; 进行辩护;
 defendant noun [法] 被告人;
 defendant adj [法] 被告的; 辩护的;
 
-testimony noun （法庭上证人的） 证词; 证明，证据; 表示，表明; 声明，宣言;
+
+justify vt 证明…有理; 为…辩护; 对…作出解释; I can't really justify taking another day off work.
+justify yourself 为自己的行为作解释 It was the only thing that I could do - I don't have to justify myself to anyone.
+
 
 plead vi 乞求，恳求 He was on his knees, pleading for mercy/forgiveness.
 plead vt/vi （尤指在法庭上）为…辩护；申辩；认（罪）
@@ -841,10 +851,12 @@ They paid a high-powered attorney to plead their case (= argue for them in court
 plead vt 以…为解释或借口
 She left early, pleading pressure of work.
 
-accusation noun 指控，控告；指责；谴责 You can't just make wild accusations like that!
+testimony noun （法庭上证人的） 证词; 证明，证据; 表示，表明; 声明，宣言;
 
-prosecution noun （被）起诉；（被）检举；诉讼 A number of the cases have resulted in successful prosecution.
-the prosecution 控方律师，原告律师 The prosecution alleged that he lured the officer to his death by making an emergency call.
+convict vt 宣判有罪; 证明…有罪; 使知罪; 定…的罪;
+convict noun 罪犯
+
+verdict noun 裁定; （陪审团的） 裁决; （经过试验、检验或体验发表的） 决定; 意见;
 
 audit noun 审计，查账;
 audit vt 审计，查账; 旁听;
@@ -852,18 +864,13 @@ audit vi 审计;
 
 
 # 欺骗
-ploy noun[c] 计谋，策略；手法，花招
-There are various ploys we can use if necessary.
-[ + to infinitive ] He only said he had a meeting as a ploy to get her to leave.
-
 inauthentic adj 不真实的，假的，不可靠的;
 
 
 deceive vt 欺诈; 误导;
-deceptive adj 虚伪的; 欺诈的，骗人的; 靠不住的; 迷惑的
 
-deception noun 欺骗；欺诈；隐瞒
-He was found guilty of obtaining money by deception.
+
+deceptive adj 虚伪的; 欺诈的，骗人的; 靠不住的; 迷惑的
 
 dupe vt 欺骗; 愚弄;
 dupe noun 易受骗的人，上当者;
@@ -890,7 +897,6 @@ The accident forged a close bond between the two families.
 forge vi 突然向前猛冲
 Just 100 metres from the finishing line Jackson forged ahead.
 forge noun 锻造车间；锻造工场
-
 
 
 crook noun 骗子; 弯曲; 钩; 诡计;
@@ -978,10 +984,6 @@ penality
 penalty
 penalise vt 对…予以惩罚; 使处于不利地位;
 
-
-allegation （未经证实的）指责，指控
-Several of her patients have made allegations of professional misconduct about/against her.
-[ + that ] Allegations that Mr Dwight was receiving money from known criminals have caused a scandal.
 
 sanction
 

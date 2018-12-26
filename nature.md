@@ -66,6 +66,8 @@ In the US, winter wheat is harvested in the early summer.
 harvest vt/vi 采集（细胞或器官以供医用）
 There is a lot of controversy surrounding the harvesting of stem cells.
 
+### 农作物
+
 grain noun （尤指像稻谷、小麦等像草一样的植物的）谷粒，颖果，谷（物）
 Grain (= the crop from food plants like grasses) is one of the main exports of the American Midwest.
 grain 细粒，颗粒 grains of sand
@@ -100,7 +102,7 @@ When night falls, danger stalks the streets of the city.
 stalk vi 怒气冲冲地走；趾高气扬地走
 She refused to accept that she was wrong and stalked furiously out of the room.
 
-####################################
+### 农业机械
 
 plough noun 犁;
 under the plough （土地）用于耕种的
@@ -133,7 +135,7 @@ During the siege people began hoarding food and supplies.
 hoard noun 大量储藏和积存的物品
 We found a huge hoard of tinned food in the basement.
 
-####################################
+### 家禽
 
 poultry 家禽
 Some poultry farmers keep turkeys and ducks as well as chickens.
@@ -169,9 +171,7 @@ a stock phrase/response
 
 livestock
 
-
-
-#############################
+### 家畜
 herd noun 兽群；牧群 a herd of cattle/elephants/goats
 herd noun 芸芸众生，人群
 Poor Janine - she just follows the herd (= does what all the other people are doing).
@@ -207,31 +207,7 @@ acre
 
 #####################################
 
-pepper n 辣椒; 胡椒; 胡椒粉;
-pepper vt 在…上撒胡椒粉; 使布满;
-
-cherry 樱桃; 樱桃树; 樱桃色; 处女膜;
-
-berry noun 浆果; 干种子，干果仁; 子，卵;
-berry vi 寻找浆果，采摘浆果; 结浆果;
-
-mulberry noun 桑树; 桑葚; 桑园;
-
-almond 杏树
-
-vinegar 醋
-wine vinegar
-
-ginger 姜，生姜
-ginger noun 姜黄色，赤黄色
-ginger 长着姜黄色头发的人
-[ as form of address ] Hey, ginger, what are you doing?
-
-ginger adj 姜黄色的，赤黄色的
-His nickname was Ginger because of his ginger hair.
-
-
-### 食物
+### 饮食
 cuisine noun 烹饪，烹调 French cuisine
 
 cookery noun 烹饪学，烹饪术; 烹调业; <美>厨房;
@@ -362,6 +338,7 @@ She just doesn't have the chops for this demanding role.
 
 
 cutlery noun （刀、叉、匙等）餐具
+utensil （尤指厨房或家用的）器具，用具 In the drawer was a selection of kitchen utensils - spoons, spatulas, knives, and whisks.
 
 
 buffet noun 自助餐 Are you having a sit-down meal or a buffet at the wedding?
@@ -379,6 +356,31 @@ feast noun （宗教）节日
 banquet（正式的）宴会
 Medieval banquets are held in the castle once a month.
 
+### 配料
+pepper n 辣椒; 胡椒; 胡椒粉;
+pepper vt 在…上撒胡椒粉; 使布满;
+
+cherry 樱桃; 樱桃树; 樱桃色; 处女膜;
+
+berry noun 浆果; 干种子，干果仁; 子，卵;
+berry vi 寻找浆果，采摘浆果; 结浆果;
+
+mulberry noun 桑树; 桑葚; 桑园;
+
+almond 杏树
+
+vinegar 醋
+wine vinegar
+
+ginger 姜，生姜
+ginger noun 姜黄色，赤黄色
+ginger 长着姜黄色头发的人
+[ as form of address ] Hey, ginger, what are you doing?
+
+ginger adj 姜黄色的，赤黄色的
+His nickname was Ginger because of his ginger hair.
+
+################################
 # 动物相关
 
 flora （某一地点或时期的）植物群 Stone Age flora
@@ -505,7 +507,7 @@ A hawk hovered in the air before swooping on its prey.
 
 cannibal noun 食人肉者；同类相食的动物
 
-
+#########################################
 # 地理相关
 
 ### 灾害
@@ -748,12 +750,90 @@ These cave paintings predate any others which are known.
 predate vi/vt （动物）掠食，捕食
 Some species of bat predate small mammals.
 
-evolve vt （使）逐步发展；（使）逐步演变；（使）逐渐形成；（使）进化
-Did humans evolve from apes?
-The company has evolved over the years into a multi-million dollar organization.
-Bacteria are evolving resistance to antibiotics.
+
+### 期
+periodical noun （尤指学术）期刊 She has written for several legal periodicals.
+journal noun 杂志，期刊；报纸 a medical/trade journal
+journal noun 日志；日记 She kept a travel journal during her trip to South America.
+journalism noun 新闻工作；新闻业
+annual adj 一年一度的；每年的 Companies publish annual reports to inform the public about the previous year's activities.
+annual adj 一年的 annual income/salary/profit
+annual noun 年刊，年报；（尤指）儿童年册
+annual noun 一年生植物
+
+### 时间段
+span noun 共轭（马、骡）; 跨度，墩距; 一段时间; [航] 跨绳;
+span vt 缚住或扎牢; 跨越时间或空间; 以掌测量; 以手围绕测量类似测量;
+
+duration noun 持续，持续的时间，期间; （时间的） 持续，持久，连续; [语音学] 音长，音延;
+
+period
+
+periodical noun 期刊; 杂志;
+periodical adj 周期的，定期的; 时常发生的; 定期发行的，期刊的;
 
 
+### 同时
+concur vi
+simultaneously adv
+
+stimulate 刺激
+
+### 时代
+contemporary adj 当代的；现代的
+Although the play was written hundreds of years ago, it still has a contemporary (= modern) feel to it.
+contemporary adj 同时期的，同时代的
+Most of the writers he was contemporary with were interested in the same subjects.
+contemporary noun 同时代的人
+Was he a contemporary of Shakespeare's?
+contemporary noun 同龄人，同辈
+She didn't mix with her contemporaries, preferring the company of older people.
+
+
+temporary 暂时的；
+transient adj 短暂的; 转瞬即逝的; 临时的
+transient noun 临时旅客; 瞬变现象; 候鸟;
+
+blip noun （计算机屏幕上，有时带有短促尖锐响声的）光点
+blip noun 暂时的改变；临时的变化
+Last month's rise in inflation was described by the chancellor as only a blip.
+
+tentative adj （计划、想法、建议、行动等）试验（性）的，试探（性）的，暂时的
+I have tentative plans to take a trip to Seattle in July.
+
+
+permanent 永久的
+perpetual 永久的; 不断的; 无期限的; 四季开花的;
+perpetuate vt 保持; 使永存; 使不朽，使不灭;
+perpetuate adj 长存的;
+
+eternal adj 永生的; 不朽的; 永恒的，永久的; 似乎不停的，没完没了的;
+eternal noun 永恒的事物; Eternal 上帝，与定冠词the 连用;
+
+
+primitive 原始的; 发展水平低的; 落后的; [生物学] 原生的;
+primitive 原始人; 早期的艺术家（作品）; 单纯的人：不世故的人; 自学的艺术家;
+
+antique 古老的，古代的;过时的，古董的;古时制造的;古风的
+antique noun 古玩，古董; 古风，古希腊和古罗马艺术风格;
+antique vt 仿古制作; 使显得古色古香; 寻觅古玩;
+
+antiquated adj 过时的，陈旧的; 老式的，古色古香的; 有古风的; 年老的;
+It will take many years to modernize these antiquated industries.
+
+antiquate vt 使古旧; 使废弃;
+
+indigenous 土生土长的; 生来的，固有的; 本地的; 根生土长
+
+
+### 起源
+originate vi 起源，发源，发端；产生 Although the technology originated in the UK, it has been developed in the US
+originate vt 最早开始；创始，开创 Who originated the saying "Small is beautiful"?
+
+provenance noun 起源；出处
+jewels of uncertain provenance.
+This raised doubts about the provenance of the painting.
+I don't need to see a label to identify the provenance of a garment that someone is wearing.
 
 
 ### 大小

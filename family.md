@@ -48,7 +48,7 @@ commemorate vt （尤指举行公开仪式或竖立雕塑或专门建筑）纪�
 Gathered all together in this church, we commemorate those who lost their lives in the war.
 A statue has been built to commemorate the 100th anniversary of the poet's birthday.
 
-in memory of  
+in memory of
 The congress opened with a minute's silence in memory of those who died in the struggle.
 
 
@@ -90,6 +90,11 @@ The beans will only germinate if the temperature is warm enough.
 
 germinate vi 开始形成；萌发
 I felt an idea germinating in my head/mind.
+
+evolve vt （使）逐步发展；（使）逐步演变；（使）逐渐形成；（使）进化
+Did humans evolve from apes?
+The company has evolved over the years into a multi-million dollar organization.
+Bacteria are evolving resistance to antibiotics.
 
 ### 溺爱
 

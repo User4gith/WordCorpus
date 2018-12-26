@@ -250,101 +250,8 @@ fence noun 买卖赃物的人
 fence vi 击剑，剑术
 
 
-# 时间相关
 
-### 时间段
-span noun 共轭（马、骡）; 跨度，墩距; 一段时间; [航] 跨绳;
-span vt 缚住或扎牢; 跨越时间或空间; 以掌测量; 以手围绕测量类似测量;
-
-duration noun 持续，持续的时间，期间; （时间的） 持续，持久，连续; [语音学] 音长，音延;
-
-period
-
-periodical noun 期刊; 杂志;
-periodical adj 周期的，定期的; 时常发生的; 定期发行的，期刊的;
-
-
-### 同时
-concur vi
-simultaneously adv
-
-stimulate 刺激
-
-### 时代
-contemporary adj 当代的；现代的
-Although the play was written hundreds of years ago, it still has a contemporary (= modern) feel to it.
-contemporary adj 同时期的，同时代的
-Most of the writers he was contemporary with were interested in the same subjects.
-contemporary noun 同时代的人
-Was he a contemporary of Shakespeare's?
-contemporary noun 同龄人，同辈
-She didn't mix with her contemporaries, preferring the company of older people.
-
-
-temporary 暂时的；
-transient adj 短暂的; 转瞬即逝的; 临时的
-transient noun 临时旅客; 瞬变现象; 候鸟;
-
-blip noun （计算机屏幕上，有时带有短促尖锐响声的）光点
-blip noun 暂时的改变；临时的变化
-Last month's rise in inflation was described by the chancellor as only a blip.
-
-tentative adj （计划、想法、建议、行动等）试验（性）的，试探（性）的，暂时的
-I have tentative plans to take a trip to Seattle in July.
-
-
-
-
-permanent 永久的
-perpetual 永久的; 不断的; 无期限的; 四季开花的;
-perpetuate vt 保持; 使永存; 使不朽，使不灭;
-perpetuate adj 长存的;
-
-eternal adj 永生的; 不朽的; 永恒的，永久的; 似乎不停的，没完没了的;
-eternal noun 永恒的事物; Eternal 上帝，与定冠词the 连用;
-
-
-primitive 原始的; 发展水平低的; 落后的; [生物学] 原生的;
-primitive 原始人; 早期的艺术家（作品）; 单纯的人：不世故的人; 自学的艺术家;
-
-antique 古老的，古代的;过时的，古董的;古时制造的;古风的
-antique noun 古玩，古董; 古风，古希腊和古罗马艺术风格;
-antique vt 仿古制作; 使显得古色古香; 寻觅古玩;
-
-antiquated adj 过时的，陈旧的; 老式的，古色古香的; 有古风的; 年老的;
-It will take many years to modernize these antiquated industries.
-
-antiquate vt 使古旧; 使废弃;
-
-indigenous 土生土长的; 生来的，固有的; 本地的; 根生土长
-
-
-### 精力
-
-fatigue noun 疲劳，疲乏; 劳务杂役; （士兵穿的） 工作服;
-fatigue vt 使疲劳; 使疲乏;
-fatigue vi 疲劳;
-
-exuberant 生气勃勃的;（活力）充沛的;茂盛的，繁茂的;（词藻）过于华丽的，极度的
-
-vigorous adj 充满活力的；有力量的；精力旺盛的
-a vigorous debate
-He takes plenty of vigorous exercise.
-
-vigorous adj 健壮的；强壮的
-Cutting the bush back in the autumn will help promote vigorous growth in the spring.
-
-
-energetic adj
-
-dynamic adj 动态的; 动力的，动力学的; 充满活力的，精力充沛的; 不断变化的，充满变数的;
-dynamic noun 动态; 动力学; 活力; 动力，推动变化的力量;
-
-vibrant 振动的; 响亮的; 充满生气的;
-
-vitality noun 生命力；活力
-According to the packet, these vitamin pills will restore lost vitality.
-
+######################################
 
 ### 一致
 
@@ -461,185 +368,36 @@ authentic adj 真的，真正的; 可信的，可靠的; 有根据的; [法] 认
 outright adv 彻底，完全；立刻；当场 I think cigarette advertising should be banned outright.
 outright adj 完全的，彻底的 There was no outright winner in the election.
 
-# 旋转
+### 成分
+compound noun 复合物; 场地; （筑有围墙的） 院子; 复合词
+compound vt 调和; 使混合; 使严重; 调停;
+compound 复合; [语法学] （句子） 复合的; 合成的; 多功能的;
 
-revolution 革命; 旋转; 彻底改变; 运行，公转
+component noun 成分; 组分; 零件; [数] 要素;
+component adj 成分的; 组成的; 合成的; 构成的;
 
+composition noun 作文，作曲; 创作; 构图，布置; 妥协，和解;
 
-rotate 旋转; 使转动; 使轮流，轮换; 交替;
-
-revolve vt 使旋转; 反复考虑; 使循环;
-revolve vi 旋转; 循环出现; 反复考虑;
-
-swivel noun 转环; 转节; 旋轴; 旋转接头;
-swivel vt （使） 旋转; 在枢轴上转动; （把身子或脸等） 转向另一方; 转身;
-swing v （使） 摇摆; （使） 摇荡;
-swing n 秋千; 摇摆，摆动; 摆程，振幅; 音律;
-
-spin v 纺纱; 吐（丝），作（茧），结网; 快速旋转; 眩晕
-spin noun 旋转的行为; 快速的旋运动; 眩晕; 疾驰;
-
-stir vt （用汤匙等）搅动，搅拌
-Stir the sauce gently until it begins to boil.
-stir vt/vi （使）微动
-A light breeze stirred the leaves lying on the path.
-stir vt 醒来；开始采取行动 The alarm clock went off, but she didn't stir.
-stir vt 激发；打动；煽动 I was deeply stirred by her performance.
-stir vi（情感）逐渐产生，萌动 Hope stirred within her heart.
-stir vi 挑拨离间；（尤指）搬弄是非
-There's a lot of gossip about me going around. Have you been stirring?
-
-stir noun 搅动，搅拌 Could you give the soup a quick stir?
-stir noun 极大的兴趣；兴奋；骚动 The scandal caused/created quite a stir at the time.
-stir noun 示威行动
+comprise vt 包含，包括; 由…组成; 由…构成;
 
 
-stir vi 苏醒; 奋起; 传播; 发生;
+module noun 模块; 组件; （宇宙飞船上各个独立的） 舱; 测量流水等的单位;
 
-twist vt 扭成一束; 搓，捻; 绕，卷; 连结，交结
-twist vi 被搓揉; 蜿蜒，曲折; 扭曲身体，扭动; 旋转，转动
-twist noun 揉搓之物; 丝线; 烟草卷; 旋转;
+intermix (使） 混和，（使）混杂
 
-vibrate vt （使） 振动[颤动]; 摆动; 犹豫; 激动;
-His voice vibrated with anger.
-vibration noun 持续振动；轻微抖动 Vibrations were felt hundreds of miles from the centre of the earthquake.
+miscellaneous adj 混杂的; 各种各样的; 五花八门的; 多方面的;
 
 
-whirl 旋转，回旋; 急走，飞奔; 头晕眼花
+### 使复杂
+complicate vt 使复杂化；使更难懂；使更麻烦 The rescue operation has been complicated by bad weather.
+complicate vt 使（疾病）恶化，加重 The breathing problem has now been complicated by a chest infection.
 
-distortion noun 扭曲，变形; 失真，畸变; [心理学] 扭转;
+complicate 复杂的; 麻烦的; （昆虫的翅） 纵折的;
 
+complex 复杂的; 难懂的; 复合的;
+complex 情结; 建筑群; 相关联的一组事物; 不正常的忧虑;
 
-circuit [c]noun 巡回；巡游；巡回之地
-They first met each other on the tennis circuit (= while at different tennis competitions).
-He was a familiar figure on the lecture circuit.
-circuit [c]巡回审判区
-The judge had served for many years on the northeastern Circuit.
-
-circuit [c]环行物；（尤指）环形道路（或路线、赛道）
-They test the car tyres on a motor racing circuit.
-
-circuit [c]（电流的）电路；（液体的）回路
-A defect was found in the water-cooling/electrical circuit.
-
-wiggle vt（使）扭动；（使）摆动
-He tried wiggling the control stick but nothing happened.
-
-wiggle noun 扭动；摆动
-With a wiggle of her hips, she pulled up her trousers.
-
-tweak vt 扭，拧
-Standing in front of the mirror she tweaked a strand of hair into place.
-tweak vt 稍稍改进
-The software is pretty much there - it just needs a little tweaking.
-You just need to tweak the last paragraph and then it's done.
-
-wring vt 拧；绞
-wring 拧干，绞干（布或衣服）
-She wrung out the shirt and hung it out to dry.
-
-
-wag vt （使）（尤指尾巴或手指）摆动，摇
-The little dog's tail wagged in delight.
-He wagged his finger sternly at the two boys.
-
-wag noun （使）（尤指尾巴或手指）摆动，摇
-With a single wag of her finger she managed to convey her total disapproval.
-
-flutter （使）飘动，挥动，颤动；拍（翅）；鼓（翼）
-Brightly coloured flags were fluttering in the breeze.
-Butterflies fluttered about in the sunshine.
-A white bird poised on a wire and fluttered its wings.
-flutter vi （心）怦怦乱跳；（胃）颤动
-Every time I think about my exams my stomach flutters!
-
-flutter noun 一阵兴奋（或激动）
-The publication of her first novel last spring caused a flutter of excitement.
-flutter noun （尤指赛马中的）小赌注
-Auntie Paula likes to have a bit of a flutter on the horses.
-flutter noun 振动；颤动；忽闪
-
-# 缠绕
-entwine vt 缠绕，盘绕;
-
-wrap vt 包; 缠绕; 用…包裹（或包扎、覆盖等）; 掩护
-wrap vi 缠绕，盘绕（通常与 over, around 等连用）; 包上，裹上; 穿上（衣服等）
-wrap noun 膝毯，披肩，围巾，围脖，头巾，罩衫，外套，大衣; 包装纸; 〈俚〉机密;
-
-lap vt 折叠; 包裹，缠绕; 使搭接; 磨亮，磨平
-lap vi 折叠; 部分重叠; 舔; 包围;
-lap noun 膝; 下摆; 一圈跑道; 范围;
-
-reel noun 卷轴; 卷筒; 卷盘; 绕在卷轴上的线（或金属丝、胶卷等）;
-reel vt 卷; 绕;
-reel vi 蹒跚，摇晃; 来回旋转; 眩晕;
-
-churn vt 搅拌; 制造（奶油等）; 买卖;
-churn vi 制造（奶油等）; 产生剧烈搅动;
-churn noun 搅乳桶;
-
-quiver vt 微颤，抖动;使震动;
-quiver noun 抖动; 箭筒; 箭筒; 颤音;
-
-wrap vt （用纸、布或其他材料）包，裹
-Wrap the chicken in foil and cook it for two hours.
-wrap vt 用…包裹；用…覆盖
-He wrapped a towel around his shoulders.
-wrap noun 卷饼
-wrap noun 包裹物；覆盖物 plastic wrap
-wrap noun 宽松外套；浴衣
-
-
-# 态度相关
-attitude
-passive 被动的; 消极的; 不抵抗的; 冷漠的;
-
-positive
-negative
-
-
-protest n/v 抗议; 反对; 申明
-
-view
-outlook
-stance 态度，立场; 站姿，被放置的姿势; 位置; （运动员的） 始发姿势;
-
-
-theme （谈话、书籍、电影等的）题目，主题
-The theme of loss runs through most of his novels.
-theme （电影等的）主题歌，主题曲 a theme song/tune
-theme and variation （音乐）主题与变奏
-
-subject 主题，话题; 学科，科目; [哲] 主观
-subject adj 须服从…的; （在君主等） 统治下的;
-notion noun 概念，观念; 意见，见解; 奇想; 打算;
-
-proposition noun （通常指商业上的）提议，建议
-I've put my proposition to the company director for his consideration.
-主张；观点；见解
-They were debating the proposition that "All people are created equal".
-要求与（某人）发生性关系，向…提出猥亵的要求
-I was propositioned by a complete stranger.
-
-perspective noun （思考问题的）角度，观点，想法
-Her attitude lends a fresh perspective to the subject.
-get/keep sth in perspective
-恰当地估计；合理地评价；正确地看待
-You must keep things in perspective - the overall situation isn't really that bad.
-put sth in(to) perspective客观地比较；客观地审查
-Total investments for this year reached $53 million, and, to put this into perspective, investments this year were double those made in 2013.
-perspective 透视（画）法
-In 15th-century Italy, artists rediscovered the rules of perspective.
-
-gossip 流言蜚语，谣言; 爱讲闲话的人; 谈话，闲话; 关系亲密的伙伴;
-gossip vi.	传播流言，说长道短;
-rumour 流言; 传闻，谣言; vt.	谣传;
-
-scandal noun 丑行；丑闻；震惊；反感 Their affair caused/created a scandal in the office.
-scandal noun 丑闻报道 Some magazines contain nothing but scandal and gossip.
-scandal noun 丢脸，耻辱  It's a scandal (that) children are treated in this way.
-
-
+############################################
 ### 相关
 correlation 相关性; 相互关系;
 
@@ -660,19 +418,9 @@ Such a large investment inevitably entails some risk.
 Repairing the roof will entail spending a lot of money.
 
 
-### 不确定性
-precarious 危险的; 不确定的; 不安全的; 可疑的;
-bleak adj 暗淡的，昏暗的; 没有指望的; 寒冷的，刺骨的; 无遮蔽的，荒凉的;
-bleak noun 欧鮊鱼，银鲤;
 
-awry adj 离开预期方向（的）；出错（的）
-Anything that goes awry (= goes wrong) in the office is blamed on Pete.
-awry adj 曲（的）；歪（的）；斜（的）
-She rushed in, her face red and sweaty and her hat awry.
-
-
+#####################################
 # 事件相关
-
 ### 不可避免的
 ineluctable adj 无法躲避的，无法避免的
 his ineluctable fate
@@ -702,291 +450,9 @@ inalienable adj 不可剥夺; 不能转让的，不可分割的;
 
 refundable adj 可归还的，可退还的;
 
-### 认为
-deem vt 认为，视为；觉得
-[ + obj + noun/adj ] The area has now been deemed safe.
-[ + noun/adj ] We will provide help whenever you deem it appropriate.
-[ + obj + to infinitive ] Anyone not paying the registration fee by 31 March will be deemed to have withdrawn from the offer.
-
-deem vi 认为，视为，以为; 作某种评价;
-reckon vt 认为; 计算; 测算，估计; 评定，断定;
-reckon vi 估计; 计算; 猜想; 料想;
-
-muse vi 沉思，默想，冥想
-I began to muse about/on the possibility of starting my own business.
-muse noun （写作、绘画或音乐创作方面的）灵感（源泉）
-The muse has left me - I haven't written any poetry for months!
-
-perceive vt 认为；看待；视为
-How do the French perceive the British?
-perceive vt 察觉，注意到，意识到
-Bill perceived a tiny figure in the distance.
-I perceived a note of unhappiness in her voice.
-
-
-# 宣称
-allege vt 断言，宣称，辩解; 提出…作为理由;
-
-assert vt 断言；肯定地说
-[ + that ] He asserts that she stole money from him.
-assert vt 主张；维护；坚持
-Throughout the Cold War, the Allies asserted their right to move freely between the two Berlins.
-She very rarely asserts her authority over the children.
-
-assert yourself 坚持自己的主张；表现坚定
-I really must assert myself more in meetings.
-
-assertion noun[c]断言；明确肯定
-I certainly don't agree with his assertion that men are better drivers than women.
-
-
-declare vt 宣布；声明；公布
-They declared their support for the proposal
-America declared war on Japan in 1941
-申报（应纳税的货物价值或收入）
-You have to declare any earnings over a certain amount.
-
-declamation noun 朗诵；大声宣布；慷慨激昂的演讲
-He subjected us to half an hour of impassioned declamation against the new airport runway.
-
-manifesto noun[c]（尤指政党的）宣言
-In their election manifesto, the Liberal Democrats proposed increasing taxes to pay for improvements in education.
-
-affirm vt 证实；确认；断言
-[ + (that) ] The suspect affirmed (that) he had been at home all evening.
-affirm vt （公开）声明
-The government has affirmed its commitment to equal rights.
-
-confess vt/vi 坦白；供认，招认；承认（错误或罪行）
-He confessed to sleeping/having slept through most of the movie.
-It was all very confusing, I must confess.
-忏悔
-to confess your sins
-
-concede vt （常指不情愿地）承认
-[ + (that) ] The government has conceded (that) the new tax policy has been a disaster.
-[ + speech ] "Well okay, perhaps I was a little hard on her," he conceded.
-concede vi/vt 认输；承认（失败）
-He kept on arguing and wouldn't concede defeat.
-She conceded even before all the votes had been counted.
-
-concede（不情愿地）让步，答应给，让与
-The president is not expected to concede these reforms.
-He is not willing to concede any of his power/authority.
-
-
-
-# 解释
-explanation
-elucidate vt 阐明，解释
-
-### 说
-acquaint vt 使认识；使了解；使熟悉；使知悉
-Take time to acquaint yourself with the rules.
-The Broadcasting Museum offers workshops to acquaint children with the world of radio.
-
-allude vi 暗指; 间接提到;
-allude to
-
-convince vt 说服；使相信；使信服
-He managed to convince the jury of his innocence.
-[ + (that) ] It's useless trying to convince her (that) she doesn't need to lose any weight.
-[ + to infinitive ] I hope this will convince you to change your mind.
-
-persuade vt 说服; 劝说; 使相信; 使信服; If she doesn't want to go, nothing you can say will persuade her.
-
-
-impart vt 传授; 给予; 告知，透露;
-implication noun 含意；暗指，暗示 She accused the party and, by implication, its leader too.
-implication noun 可能的影响；可能的后果 The company is cutting back its spending and I wonder what the implications will be for our department.
-implication noun 牵连，涉及 The case depended upon his implication of his co-workers in the fraud.
-
-induce vt 诱使；劝说 They induced her to take the job by promising editorial freedom.
-induce vt 导致 Pills for seasickness often induce drowsiness.
-induce vt 催生；引产 In this hospital, twins are often induced.
-
-
-illuminate vt 照亮，照明; 阐明，说明; 装饰; 使灿烂;
-illuminate vi 照亮
-
-edify vt  开导，启发;
-
-formulate  vt 构想出，规划; 确切地阐述; 用公式表示;
-
-interpretation noun 理解; 解释，说明; 翻译; 表演，演绎;
-
-clarify vt 使清楚，澄清;
-clarify vt 说明; （尤指通过加热使黄油） 纯净; 使（头脑、神智等）清醒;
-clarify vi （液体） 变得澄清; 净化; 变得清楚;
-
-hint noun 暗示; 线索，迹象; 提示，注意事项; 微量;
-hint vt 暗示;
-hint vi 暗示，提示;
-
-disentangle vt 使脱离；使摆脱；分开；理顺，分清 It's difficult to disentangle hard fact from myth, or truth from lies.
-
-coax vt 哄劝；哄骗；劝诱 Perhaps you could coax your father into taking you to the station.
-
-refer to sb/sth vt （尤指简短地）提到，谈及，谈起 In her autobiography she occasionally refers to her unhappy schooldays.
-涉及…；与…相关 The new salary scale only refers to company managers and directors.
-
-
-pump noun 泵，抽水机；油泵；打气筒 泵，抽水机；油泵；打气筒
-pump noun 平底鞋/高跟无带女鞋/橡胶底帆布鞋，体操鞋
-pump vt （用泵）抽吸，抽送（液体或气体） Our latest machine can pump a hundred gallons a minute.
-The new wine is pumped into storage tanks.
-The heart pumps blood through the arteries/round the body.
-
-pump vt （尤指间接地）盘问，套问
-She was pumping me for details of the new project.
-
-
-### 起源
-originate vi 起源，发源，发端；产生 Although the technology originated in the UK, it has been developed in the US
-originate vt 最早开始；创始，开创 Who originated the saying "Small is beautiful"?
-
-provenance noun 起源；出处
-jewels of uncertain provenance.
-This raised doubts about the provenance of the painting.
-I don't need to see a label to identify the provenance of a garment that someone is wearing.
-
-
-
-### 遇到
-
-bump into 偶遇
-encounter 需要; 牵涉; 使必要; 限定继承;
-entail 需要; 牵涉; 使必要; 限定继承;
-
-confront 面对; 使面对面，使对质; 碰到，遇到; 比较;
-
-incur vt 遭受; 招致，引起
-
-conduce vi 有益，有贡献于，导致;
-the belief that technological progress conduces to human happiness
-
-
-embrace vt 拥抱;
-embrace vt 接受; 信奉; 包括; 包含;
-embrace noun 拥抱，怀抱;
-
-
-### 出现
-infest vt 骚扰; 大批出没，成群出现; 在…上寄生，寄生于;
-descend vt 降临; 下来，下降; 下斜; 突然造访
-advent noun 出现; 到来; 基督降临节（圣诞节前的四个星期）;
-
-emerge vi 出现，浮现; 暴露; 摆脱;
-
-embody vt 表现，象征; 包含，收录; 使具体化; [军] 组编;
-
-
-manifest vt 显示，表明; 证明; 使显现;
-manifest adj 明白的，明显的;
-manifest noun 货单，旅客名单;
-
-manifestation noun 表示，显示; 示威;
-
-evoke vt 唤起; 产生，引起;
-
-denote vt 代表; 指代; 预示; 意思是; The colour red is used to denote passion or danger.
-
-represent
-
-
-
-### 承受
-attain vt 达到，获得; 遂愿; 经过努力到达某事物;
-attain vt 获得; 到达; 达到，实现;
-attain vi 达到; 获得; 到达;
-
-
-mastery noun 精通，熟练; 统治，控制; 优势;
-
-undertake vt （开始）做，承担，从事（尤指耗时或困难之事）
-Students are required to undertake simple experiments.
-undertake 承诺，允诺，答应
-[ + to infinitive ] She undertook not to publish the names of the people involved.
-[ + that ] The government undertook that the buildings would not be redeveloped.
-
-pledge noun  保证，誓言; [法] 抵押权; 公约; （表示友谊的） 干杯;
-pledge vt 使发誓，保证; 典当，抵押;
-pledge vt 许诺; 用…担保; 以誓言约束; 向…祝酒;
-
-recognition noun 认识，识别; 承认，认可; 褒奖; 酬劳;
-
-
-sustain vt 保持，维持，使持续，使继续
-The economy looks set to sustain its growth into next year.
-sustain vt 维持…的生命，供养
-The soil in this part of the world is not rich enough to sustain a large population.
-sustain vt 经历，遭受（尤指破坏或损失）
-She sustained multiple injuries in the accident.
-sustain vt （情感上）支持
-She was sustained by the strength of her religious faith.
-
-endure vt 忍耐；忍受
-We had to endure a nine-hour delay at the airport.
-endure vi 持续；持久
-The political system established in 1400 endured until about 1650.
-
-
-inflict vt 把…强加给，使承受，遭受; 给予（打击等）; 处以刑罚，加刑;
-The suffering inflicted on these children was unimaginable.
-
-prop vt 支撑；支持
-I propped my bike (up) against the wall.
-She was sitting at the desk with her chin propped on her hands.
-
-prop noun 道具
-The set is minimal and the only props used in the show are a table, a chair, and a glass of water.
-
-prop noun 支撑物
-I need some sort of a prop to keep the clothes line up.
-
-props 对（某人的）尊重
-I have to give her props for being such a great athlete.
-
-
-###  追求
-aspire vi 渴望，立志，追求; 〈诗，古〉登，升，高耸;
-
-embark vi 上飞机，上船; 着手，从事;
-embark vt 使…上船或飞机; 使从事，使着手; 投资于;
-
-consignment noun 装运的货物，托运的货物; 托运，运送; 委托，托管;
-
-covet vt 觊觎，垂涎（尤指他人之物）；贪求，渴望 She always coveted power but never quite achieved it.
-
-seek vt 寻找；寻求（尤指非物质的东西） Hundreds of dissidents are seeking refuge/asylum in the US embassy.
-seek vt 请求；要求 Legal advice should be sought before you take any further action.
-seek vi 试图；设法 They sought to reassure the public.
-
-desirable adj 值得拥有的；渴望获得的，令人向往的 It's regarded as a highly desirable job.
-desirable adj 性感的
-
-desire vt （尤指强烈地）渴望，希望，想要 I desire only to be left in peace.
-desire vt 情欲，欲火
-desire noun 欲望，渴望，愿望 I certainly have no desire to have children.
-desrie noun Beatrice was the object of Dante's desire.
-
-desperate adj 非常严重的；非常糟糕的
-The situation is desperate - we have no food, very little water and no medical supplies.
-desperate adj 巨大的；极端的；非常的
-He has a desperate desire to succeed.
-desperate adj 非常需要的；非常想要的
-He was desperate to tell someone his good news.
-desperate adj （因绝望而）拼命的，不顾一切的
-The doctors made one last desperate attempt/effort to save the boy's life.
-desperate 疯狂的；狂暴的
-This man is desperate and should not be approached since he may have a gun.
-
-garner vt （通常指做大量工作或历经很多困难而）收集，积累，获得
-Coppola garnered several Oscar awards for "The Godfather".
-
-
 
 ### 场合，时刻；偶尔的
+
 affair noun 事务；事情
 She organizes her financial affairs very efficiently.
 What I do in my spare time is my affair (= only involves me).
@@ -1161,316 +627,138 @@ I sometimes think that he's losing his grasp on reality (= his ability to judge 
 He has a good grasp of the issues.
 
 
+### 遇到
 
+bump into 偶遇
+encounter 需要; 牵涉; 使必要; 限定继承;
+entail 需要; 牵涉; 使必要; 限定继承;
 
-### 挤压；压榨
-contract 签合同; 缩小; 感染;
-stringent adj 严格的; 迫切的; （货币） 紧缩的;
+confront 面对; 使面对面，使对质; 碰到，遇到; 比较;
 
-squeeze vt （尤指从各方面）挤压，捏，挤，榨
-Cut the lemon in half and squeeze the juice into the bowl.
-Once he had finished cleaning the floor, he squeezed the cloth out.
+incur vt 遭受; 招致，引起
 
-squeeze vt 给…带来财务困难，使陷入财务困境
-Small businesses are being squeezed by heavy taxation.
+conduce vi 有益，有贡献于，导致;
+the belief that technological progress conduces to human happiness
 
-squeeze vi （困难地）挤进，挤过
-She squeezed through the crowd and found a seat at the front.
 
-squeeze noun 挤压，捏；榨
-She gave the present a quick squeeze and tried to guess what was inside.
-squeeze noun 拥挤；挤入（人或物被推入或被强迫进入一个小的空间内）
-I can give you a lift, but it'll be a tight squeeze as I'm taking four other people as well.
-squeeze noun 减少；削减；限制
-The squeeze on profits in the oil industry has led to thousands of redundancies.
-squeeze noun 通货紧缩，银根紧缩
-The government has imposed a sharp credit squeeze in an attempt to hold down inflation.
+embrace vt 拥抱;
+embrace vt 接受; 信奉; 包括; 包含;
+embrace noun 拥抱，怀抱;
 
 
-squash vt 把…压扁；把…挤扁 He accidentally sat on her hat and squashed it.
-squash vt （使）挤进；（把…）塞进 He tried to squash his ripped jeans into the suitcase while his mother wasn't looking.
-squash vt 粉碎；强行制止  Rumours of a possible takeover of the company were soon squashed by the management.
-squash noun 拥挤 There are over two hundred people coming to the party so it might be a bit of a squash.
-squash noun 壁球
-squash noun 果汁饮料
-squash 南瓜
+### 出现
+infest vt 骚扰; 大批出没，成群出现; 在…上寄生，寄生于;
+descend vt 降临; 下来，下降; 下斜; 突然造访
+advent noun 出现; 到来; 基督降临节（圣诞节前的四个星期）;
 
-squish vt 压扁，挤扁 Don't sit on that bag - you'll squish the sandwiches.
+emerge vi 出现，浮现; 暴露; 摆脱;
 
-extrude vt （尤指通过狭小的出口）挤压出，挤压成，压制
-extruded aluminium rods
-extrusion 挤出; 推出; 喷出; 赶出;
+embody vt 表现，象征; 包含，收录; 使具体化; [军] 组编;
 
-### 概括
-capsulate vt 封装; 概述;
-capsulate vi 形成囊状物;
 
-compendium noun 摘要，纲要;
+manifest vt 显示，表明; 证明; 使显现;
+manifest adj 明白的，明显的;
+manifest noun 货单，旅客名单;
 
-epitomise vt 成为（某事物）的缩影;
+manifestation noun 表示，显示; 示威;
 
-outline noun 梗概，大纲，提纲，草稿，要点，主要原则; 外形，轮廓，轮廓线，轮廓画法，略图（画法）;
-outline vt 概述; 略述; 画轮廓，打草图，描略图;
+evoke vt 唤起; 产生，引起;
 
-condensation noun 冷凝; 冷凝液; 凝结的水珠; 节略;
-We get a lot of condensation on the walls in the winter.
+denote vt 代表; 指代; 预示; 意思是; The colour red is used to denote passion or danger.
 
+represent
 
-crystallise vt 明确; 使结晶; 使成形，使具体化; 包糖，涂糖霜;
-crystallise vi 结晶; 成形，具体化;
 
-gist noun 要领; 精神; 要点，主旨; 大要;
 
+### 承受
+attain vt 达到，获得; 遂愿; 经过努力到达某事物;
+attain vt 获得; 到达; 达到，实现;
+attain vi 达到; 获得; 到达;
 
-drift noun 大意，主旨 The general drift of the article was that society doesn't value older people.
-catch/get sb's drift 大致明白某人所说的话
-if you catch/get my drift   She's married, but she doesn't act as if she is, if you get my drift.
-drift noun （风吹积而成的）一堆（雪等） The snow lay in deep drifts.
-drift noun 局势变化 The downward drift in copper prices looks like it will continue.
-drift vi （尤指在外力作用下）飘，漂流，漂移 No one noticed that the boat had begun to drift out to sea.
 
+mastery noun 精通，熟练; 统治，控制; 优势;
 
-### 归纳
-induct vt 使正式就任;使了解；传授
-inductive 归纳的; 感应的; 诱导的; 归纳法的;
+undertake vt （开始）做，承担，从事（尤指耗时或困难之事）
+Students are required to undertake simple experiments.
+undertake 承诺，允诺，答应
+[ + to infinitive ] She undertook not to publish the names of the people involved.
+[ + that ] The government undertook that the buildings would not be redeveloped.
 
-analogy noun 类推; 类似，相似; 比拟，类比
-terminology 专门名词; 术语，术语学; 用辞
+pledge noun  保证，誓言; [法] 抵押权; 公约; （表示友谊的） 干杯;
+pledge vt 使发誓，保证; 典当，抵押;
+pledge vt 许诺; 用…担保; 以誓言约束; 向…祝酒;
 
-deduce vt 演绎; 推论，推断; 追溯根源; We cannot deduce very much from these figures.
+recognition noun 认识，识别; 承认，认可; 褒奖; 酬劳;
 
 
-derive vt 得到，导出; 源于，来自; （从…中） 提取;
+sustain vt 保持，维持，使持续，使继续
+The economy looks set to sustain its growth into next year.
+sustain vt 维持…的生命，供养
+The soil in this part of the world is not rich enough to sustain a large population.
+sustain vt 经历，遭受（尤指破坏或损失）
+She sustained multiple injuries in the accident.
+sustain vt （情感上）支持
+She was sustained by the strength of her religious faith.
 
-infer vt 推断; 猜想，推理; 暗示; 意指;
-infer vi 作出推论;
+endure vt 忍耐；忍受
+We had to endure a nine-hour delay at the airport.
+endure vi 持续；持久
+The political system established in 1400 endured until about 1650.
 
 
-### 提取
-derive vt 得到，导出; 源于，来自; （从…中） 提取
-The institute derives all its money from foreign investments.
+inflict vt 把…强加给，使承受，遭受; 给予（打击等）; 处以刑罚，加刑;
+The suffering inflicted on these children was unimaginable.
 
+prop vt 支撑；支持
+I propped my bike (up) against the wall.
+She was sitting at the desk with her chin propped on her hands.
 
-dredge v 清淤，疏浚（河道等）; 挖掘（泥土等），使显露; 捞取; （用面粉、糖等） 撒;
-dredge n 挖泥机，疏浚机; （采牡蛎，捕鱼等用的） 拖网，捞网; 悬浮矿石;
+prop noun 道具
+The set is minimal and the only props used in the show are a table, a chair, and a glass of water.
 
-excavate v 挖掘; 发掘; 开凿; 挖出;
+prop noun 支撑物
+I need some sort of a prop to keep the clothes line up.
 
-assimilate vi 同化; 吸收， 消化
-assimilate vt 透彻理解; 使吸收;
+props 对（某人的）尊重
+I have to give her props for being such a great athlete.
 
-purify vt 使纯净，净化; 精炼; 使（语言）纯正; 给…赎罪，使纯洁;
 
-distil vt 蒸馏; 从…提取精华; 使渗出; 用蒸馏法制造;
-distil vi 蒸馏; 提炼; 渗出;
+###  追求
+aspire vi 渴望，立志，追求; 〈诗，古〉登，升，高耸;
 
+embark vi 上飞机，上船; 着手，从事;
+embark vt 使…上船或飞机; 使从事，使着手; 投资于;
 
-### 消化
-absorb
-digest vt 消化; 整理;吸收; 领悟; 玩味;
-digest vi 消化; 吸收食物; [化学] 加热;
+consignment noun 装运的货物，托运的货物; 托运，运送; 委托，托管;
 
-engross 使全神贯注;
-embrace 接受; 信奉; 包括; 包含;
+covet vt 觊觎，垂涎（尤指他人之物）；贪求，渴望 She always coveted power but never quite achieved it.
 
-incorporate vi 合并; 包含; 吸收; 混合;
-Suggestions from the survey have been incorporated into/in the final design.
-This aircraft incorporates several new safety features.
+seek vt 寻找；寻求（尤指非物质的东西） Hundreds of dissidents are seeking refuge/asylum in the US embassy.
+seek vt 请求；要求 Legal advice should be sought before you take any further action.
+seek vi 试图；设法 They sought to reassure the public.
 
+desirable adj 值得拥有的；渴望获得的，令人向往的 It's regarded as a highly desirable job.
+desirable adj 性感的
 
-soak sth up 吸收，吸掉（液体）
-I tried to soak up most of the spilled milk with a dishcloth.
+desire vt （尤指强烈地）渴望，希望，想要 I desire only to be left in peace.
+desire vt 情欲，欲火
+desire noun 欲望，渴望，愿望 I certainly have no desire to have children.
+desrie noun Beatrice was the object of Dante's desire.
 
-soak sth up 尽情享受，充分体验
-I love to lie on the beach and soak up the sun.
-soak sth up 吸取，吸收（信息）
-Given the right environment, children are like sponges and will soak up information.
-soak sth up 用完，耗尽（尤指金钱）
-The repairs on our house soaked up all our savings.
+desperate adj 非常严重的；非常糟糕的
+The situation is desperate - we have no food, very little water and no medical supplies.
+desperate adj 巨大的；极端的；非常的
+He has a desperate desire to succeed.
+desperate adj 非常需要的；非常想要的
+He was desperate to tell someone his good news.
+desperate adj （因绝望而）拼命的，不顾一切的
+The doctors made one last desperate attempt/effort to save the boy's life.
+desperate 疯狂的；狂暴的
+This man is desperate and should not be approached since he may have a gun.
 
+garner vt （通常指做大量工作或历经很多困难而）收集，积累，获得
+Coppola garnered several Oscar awards for "The Godfather".
 
-# 消耗
-guzzle vt 滥吃；狂饮；狼吞虎咽
-He guzzled his beer and ordered another.
-guzzle vt 在短时间内大量耗油
-The car guzzles a gallon of gas every 15 miles.
-
-consumption noun 消费量；消耗量
-We need to cut down on our fuel consumption by having fewer cars on the road.
-consumption noun 食用；消费；消耗
-These products are not for national consumption, but for export.
-consumption noun （信息、娱乐等供某类人的）专用
-The movie was not intended for public consumption.
-
-
-### 侦察
-scout
-
-scour v 冲刷; 擦亮; 四处搜索; （用泻药） 泻
-scour n 冲刷; 洗涤剂; 擦;
-
-scrub v 用力擦洗，刷洗; 取消（原有安排）
-scrub noun 灌木丛，矮树丛; 矮小的人; 擦，擦洗;
-
-comb noun 梳子; 梳棉机; 鸡冠状的东西; 蜂窝状的东西;
-comb vt 梳理; 彻底搜查;
-comb vi 涌起，卷起;
-
-grope vi 触摸，试探着前进; 探索，摸索;
-grope vt 摸索（路）; <俚>抚摸身体;
-grope noun 摸索，探索;
-
-
-
-## 检查
-ascertain vt 弄清，确定，查明
-The police have so far been unable to ascertain the cause of the explosion.
-
-ascertain vt 确信
-[ + that ] I ascertained that no one could overhear us before I told Otto the news.
-
-
-check 检查
-
-inspect 视察
-inspector 检查员; （英国公共汽车或火车上的） 查票员; （警察） 巡官; 检阅官;
-investigate 调查
-
-test 测试
-
-perception 知觉; 观念; 觉察（力）; （农作物的） 收获;
-
-speculation 投机活动; 投机买卖; 思考; 推断
-spectator 观众，旁观者
-
-scrutiny noun 监督; 细看，细阅; 仔细的观察;
-The government's record will be subjected to/come under (close) scrutiny in the weeks before the election.
-
-
-probe noun 探头; [医] （对伤处等的） 针探，探查; [医] 探针，取样器; 探测仪;
-probe vt 探索，调查; 用探针（或探测器等）探查，探测;
-probe vt 盘问; （用试探性袭击等）侦察（敌情） ; 用尖物刺穿（物件）; 用力使向前推进;
-
-vet vt 检查; 审查（某人过去的记录、资格等）; 诊疗;
-vet vi 当兽医;
-
-sift vt 筛（面粉、糖等）When the cake is cooked, sift some icing sugar over the top of it.
-sift vt 仔细检查；筛查 The police are sifting the evidence very carefully to try and find the guilty person.
-
-
-# 假设
-suppose vt 认为; 假定; 猜想，推测; 让（用于祈祷语气）;
-suppose vi 想象，猜想;
-
-
-hypothesis
-presuppose vt 假设; 预先假定; 以…为先决条件; 意味着;
-
-
-assume vt 假定，假设；臆断，想当然地认为
-I assumed (that) you knew each other because you went to the same school.
-Let's assume (that) they're coming and make plans on that basis.
-assume vt 冒充，冒称；假装，装出
-Moving to a different town, he assumed a false name.
-During the investigation, two detectives assumed the identities of antiques dealers.
-He assumed a look of indifference but I knew how he felt.
-assume vt 承担，担任；僭取，夺取；呈现，具有
-The new president assumes office at midnight tonight.
-The terrorists assumed control of the plane and forced it to land in the desert.
-
-assumption noun 假定；假设；臆断
-These calculations are based on the assumption that prices will continue to rise.
-assumption of power, responsibility夺取；获得（权力等）；承担（责任等）
-The revolutionaries' assumption of power took the army by surprise.
-
-
-theoretical
-
-
-posit vt 假想，设想
-[ + that ] If we posit that wage rises cause inflation, it follows that we should try to minimize them.
-
-
-### 预测
-
-forecast vt 预报，预测; 预示;
-forecast vi 预报，预测;
-forecast noun 预报; 预言;
-
-predict
-anticipate
-expect
-speculate vi 猜测；推测，推断
-I don't know why she did it - I'm just speculating.
-A spokesperson declined to speculate on the cause of the train crash.
-Journalists are speculating about whether interest rates will be cut.
-
-speculate vi 投机，做投机买卖
-He made his money speculating on the London gold and silver markets.
-
-
-cognitive adj 认知的; 认识的;
-
-suppose vt 认为; 假定; 猜想，推测; 让（用于祈祷语气）;
-suppose vi 想象，猜想;
-
-contemplate vi/vt 盘算；沉思，冥想
-I'm contemplating going abroad for a year.
-They were contemplating a move to California.
-It's too awful/horrific/dangerous to contemplate.
-
-
-
-overestimate vt 对（数量）估计过高，对…作过高的评价; ，对…估计过高;
-overestimate noun 过高的估计; 过分的评价;
-overestimate vi  估计过高; 评价过高;
-
-underestimate vt 低估; 看轻; 对…估计不足; 把…的价值估计过低;
-underestimate noun 低估; 轻视; 估计不足; 过低评价，过低估价;
-
-suppose vt 认为可能，料想，猜想
-It is widely supposed (that) the CEO will be forced to resign.
-suppose vt （用于表示与愿望相反的估计）猜，推测
-I suppose (that) all the tickets will be sold by now.
-suppose vt （用于表示气恼）
-I suppose (that) you're going to be late again.
-suppose vt  （用于表示不愿同意）
-I don't agree with it, but I suppose (that) it's for the best.
-suppose vt 用于礼貌地提出请求
-I don't suppose (that) you could lend me £5 till tomorrow?
-suppose vt 预期，需要，以…为条件
-Investment of this kind supposes (= would not be possible without) an increase in the company's profits this year.
-suppose conjunction （用于句首）假如，假设，如果
-Suppose we miss the train - what will we do then?
-
-prospective 预期的，潜在的
-潜在的客户／可能成为雇主的人／即将为人父母者等
-We've had three sets of prospective buyers looking at the house.
-
-### 可疑
-dubious  adj 可疑的; 半信半疑的，犹豫不决的; 暧昧的，含糊的; 不可靠的;
-
-suspect  vt 猜疑（是）; 怀疑，不信任; 怀疑…有罪;
-suspect noun 嫌疑犯;
-suspect vi 怀疑;
-
-suspicious adj 可疑的;
-Her behaviour was very suspicious.
-suspicious adj 怀疑的，猜疑的；不信任的
-My mother has a very suspicious nature (= does not trust people).
-
-
-sceptic noun 怀疑论者; 多疑者; 怀疑宗教的人; 无神论者;
-
-
-### 评估
-evaluate
-evaluation
-
-assess 评定; 估价; 对（财产、收入等）进行估价（作为征税根据）; 确定（损害赔偿金、税款、罚款等）的金额;
-
-appraise vt 估价; 估计; 估量; 评价，鉴定;
-appraisal noun 评价，估量; 鉴定，估价（尤指估价财产，以便征税）;
 
 
 ### 采取
@@ -1549,8 +837,6 @@ commission noun 委托；请求
 commission noun 犯罪 the commission of the crime/offence/murder
 
 
-
-
 ### 建
 erect vt 使直立，使竖起; 建立，创立; 安装; [医] 使勃起;
 erect adj 直立的，垂直的; （头、手等） 朝上举的; 直竖的; [医] 勃起的
@@ -1598,6 +884,8 @@ He searched for a book that would sate his desire for all the details of Olympic
 
 
 ### 怂恿
+coax vt 哄劝；哄骗；劝诱 Perhaps you could coax your father into taking you to the station.
+
 allure noun 诱惑力，魅力;
 the allure of working in television
 sexual allure
@@ -1704,475 +992,21 @@ The government's main task was to prevent inflation from entrenching itself.
 entrench noun 壕沟; 防御设施;
 
 
-### 遵守
-stipulate vt （尤指在协议或建议中）规定，约定，讲明（条件等） ;
-stipulate vi 规定，明确要求;
-stipulate noun 有托叶的;
-
-
-comply vi 服从；遵守；依从
-He's been ordered to have the dog destroyed because it's dangerous, but he refuses to comply.
-There are serious penalties for failure to comply with the regulations.
-
-conform vi 符合; 遵照; 适应环境;
-conform vt 使遵守; 使一致; 使顺从;
-conform adj 一致的; 顺从的;
-
-
-obey
-
-disobey vt 不服从，不顺从;
-
-succumb 屈服; 死亡;
-
-submit vt 提交；呈递
-You must submit your application before 1 January.
-submit vt 建议；主张
-In conclusion, I submit that the proposal will not work without some major changes.
-submit vi/vt 顺从，屈服；不得以接受
-We protested about the changes for a long time, but in the end we had to submit.
-She decided to resign from the party rather than submit herself to the new rules.
-
-compliant adj 顺从的，听从的；服从的
-a compliant child
-compliant adj 合规的
-The company expects to be reclassified as soon as its factories are fully compliant with the Federal Clean Air Act.
-
-compliance noun 服从；遵守；依从
-It is the job of the inspectors to enforce compliance with the regulations.
-顺从，屈从
-It's his compliance that amazes me.
-
-
-### 则
-norm noun 行为准则；规范
-Europe's varied cultural, political and ethical norms
-
-the norms 常态，正常行为
-One child per family is fast becoming the norm in some countries.
-
-
-criteria noun
-criterion noun 规范; （批评、判断等的） 标准，准则;
-
-doctrine noun 教条，教义; 法律原则; 声明; 古语] 所教的东西，教育;
-
-
-principle 原则，原理;
-The country is run on socialist principles.
-The organization works on the principle that all members have the same rights.
-
-principle noun （行为）准则；道德；为人之道
-She doesn't have any principles.
-Anyway, I can't deceive him - it's against all my principles.
-She'd never ask to borrow money, on principle.
-
-in principle 原则上，大体上，基本上
-In principle I agree with the idea, but in practice it's not always possible.
-
-
-discipline vt 训练; 使有纪律; 处罚; 使有条理;
-discipline noun 纪律; 学科; 训练; 符合行为准则的行为（或举止）;
-
-lodestar noun 指示方向的星星；（尤指）北极星
-​lodestar noun 范例，规范；指导原则
-The party manifesto is no longer the lodestar it used to be.
-
-
-### 违反
-departure 背离; 离开，离去; 起程; 东西距离;
-
-recalcitrant adj 倔强对抗的，拒不服从的; 拗强
-
-traitor noun 叛徒; 卖国贼; 背叛者; 背信弃义的人;
-
-repel vt 击退; 抵制; 使厌恶; 使不愉快;
-
-infringe vt 侵犯; 违反（规章等）; 侵犯（某人的权利）; 侵害（某人的自由、权益等）;
-infringe vt 违反，违背（规定、法律等）
-They infringed building regulations.
-
-defiant adj 对抗的，违抗的；挑衅的
-The protesters blocking the entrance to the offices remained defiant this morning.
-defiant adj 不接受批评的；不接受不同意见的
-The CEO was in a defiant mood as she entered the boardroom.
-
-breach noun[c] 破坏，违犯；违反，不履行
-They felt that our discussions with other companies constituted a breach of/in our agreement.
-He was sued for breach of contract.
-There have been serious security breaches (= breaks in our security system).
-
-be in breach of sth 违反（法律或规章）
-The theatre was in breach of the safety laws for having no fire doors.
-
-breach noun （攻击墙或防御工事时打出的）缺口
-A cannon ball had made a breach in their castle walls.
-
-breach vt 破坏，违犯；违反，不履行
-They breached the agreement they had made with their employer.
-
-breach vt （尤指为从背后突袭）在…上打开缺口
-Their defences were easily breached.
-
-
-
-
-### 缩减
-abate vt 减少，减轻; [法] 取消法令，作废;
-abate vi 减轻; 失效;
-abate noun 减轻; 折扣;
-
-
-condense vt 压缩; 精简; （使） 冷凝; （使） 凝结;
-
-constrict vt 收缩; 压缩， 压紧; 妨害，阻碍; 挤压
-constrict vi 变得收缩;
-
-contract v 签合同; 缩小; 感染;
-contract noun 合同; 契约; 协议;
-
-curtail 削减; 缩短; 剥夺（特权，官衔等）
-
-decouple v 减弱（核爆炸）震波;
-decrease vi
-depletion noun 消耗，用尽; 耗减;
-downsize vt 以较小尺寸设计（或制造），缩小（汽车等的）外部尺寸
-dwindle vi 减少，变小，缩小; 衰落，变坏，退化;
-
-retrench vi 紧缩开支;
-retrench vt 节省; 削减（费用）;
-
-slash vt 大幅削减; 挥砍; 鞭打; 严厉批评;
-slash vi 猛砍; 严厉地批评;
-slash nou 斜线; 猛砍; 刀痕，伤痕; 沼泽低地;
-
-
-huddle noun 拥挤; 杂乱一团; 小型私人会议;
-huddle vi 挤在一起; （因寒冷或害怕） 蜷缩;
-huddle vt 使聚集; 使蜷曲起来; 草率地行事;
-
-spare vt 节省，俭省; 不用，抽出，省掉; 宽恕，饶（命），救命，使某人免遭（麻烦等）; 出让，割爱，分让;
-spare adj 多余的，剩下的（钱等），空闲的（时间等）; 预备的，备用的，替换用的; 多余的，瘦的，少量的; 薄弱的，简陋的，粗陋的;
-spare noun 备用零件，备用轮胎; 节省，俭省; 〈美〉（头两个球把十柱打得）全倒; 预备品，替换品;
-
-
-### 下降
-descend 降临; 下来，下降; 下斜; 突然造访;
-descent noun 下降; 血统; 倾斜;
-
-
-diminish v (使） 减少，缩小; 减弱…的权势; [乐] 减半音;
-
-fade 褪去，失去光泽; 逐渐消逝; 凋谢，衰老; adj 乏味的，平淡的;
-
-subside vi 减弱，平息; （洪水） 退去，（热度）消退; 沉下去; 坐下
-
-slide vi 滑落; 下跌; 打滑; [棒球] 滑垒;
-slide vt 衰落（成）; 逐渐降低; 使悄悄转动; （使） 快捷而悄声地移动;
-slide noun 幻灯片; 降低;
-
-slump vi 大幅度下降，暴跌; 沉重或突然地落下[倒下];
-slump noun （物价等的） 暴跌; <美>（个人、球队等的）低潮状态; （销售量、价格、价值等的） 骤降; （精神等的） 消沉，萎靡;
-
-
-sink vi 淹没; 下落; 退去; 渐渐进入;
-sink vt 使下沉; 使下垂; 砸入地面; 使败落;
-sink noun 水池; 洗涤槽; 污水坑;
-
-plunge vt 用力插入; 使陷入;
-plunge vi 跳入; 全心投入; 突降，俯冲;
-plunge noun 投入，陷入; 游泳，跳水;
-
-slip vi 滑倒；失脚 She slipped on the ice.
-slip vi 移出正确的位置，滑走 Her hat had slipped over one eye.
-slip vi/vt 溜走；迅速地做；悄悄地做 Just slip out of the room while nobody's looking.
-slip vi 变糟；下降，退步 Productivity in the factory has slipped noticeably in the last year.
-slip vt 逃离，离开 The ship slipped its moorings.
-slip vi 价值降低 The dollar slipped against the Japanese yen.
-slip noun 纸条；小纸片 If you want to order a book fill out the green slip.
-slip noun 小错误，疏漏 She's made one or two slips - mainly spelling errors - but it's basically well written.
-slip noun 摔倒；滑跤 One slip meant a long tumble to the rocks below.
-slip noun （情况）变糟 A slip in the value of the U.S. dollar helped push prices higher.
-
-
-shrink vi/vt （使）缩小，（使）变小
-Your sweater will shrink if you wash it at too high a temperature.
-The productivity improvements have shrunk our costs by 25 percent.
-shrink vi 畏缩，退缩
-The child shrank behind the sofa as his father shouted at him.
-shrink noun 精神病医生
-I was so depressed that I ended up going to see a shrink.
-
-reduction noun  减少；减小；降低；缩小
-a reduction in traffic
-reduction 缩影（照片或图片的一个拷贝，比原件小）
-
-
-wane vi 衰减；减弱
-By the late 70s the band's popularity was beginning to wane.
-wane vi （月亮）开始形成残月，亏缺
-
-on the wane （权力、人气等）衰落，减弱
-There are signs that support for the group is on the wane.
-
-
-relegate vt 贬职；使降级；降低…的地位
-She resigned when she was relegated to a desk job.
-relegate vt 使（足球队）降级
-If Southampton lose again they may be relegated from the Premier League to the First Division.
-
-
-### 隐藏hide
-conceal
-stash
-
-latency 潜伏; 潜在因素;
-latent adj 潜在的; 潜伏的; 休眠的; 潜意识的;
-latent noun 指纹，指印;
-
-
-camouflage noun 伪装; 掩饰; 〈喻〉幌子;
-camouflage vt 伪装; 掩饰; 欺瞒;
-
-disguise vt 给…化装，给…乔装打扮；将…伪装起来
-He disguised himself by wearing a false beard.
-disguise vt 掩饰，隐藏（观点、感受等）
-I couldn't disguise my disappointment.
-
-disguise noun 化装用具（服饰）；用于伪装的东西
-He put on a large hat and glasses as a disguise and hoped no one would recognize him.
-伪装，化装
-She usually goes out in disguise to avoid being bothered by the public.
-
-
-ulterior adj 不可告人的; 隐秘的; 秘密的; 矢口否认的
-He claims he just wants to help Lisa but I suspect he has an ulterior motive.
-
-
-underlie vt 位于或存在于（某物）之下; 构成…的基础（或起因）; [经] 构成优先于…的财政要求;
-underlying adj 潜在的，含蓄的; 基础的; 表面下的，下层的; [法] 优先的;
-
-dormancy noun 睡眠，冬眠，隐匿;
-
-insidious adj 阴险的; 隐伏的，潜在的; 暗中为害的; 狡猾的;
-
-covert adj 隐蔽的；隐秘的；秘密的 The government was accused of covert military operations against the regime.
-covert noun （尤指动物为躲避猎人而藏身的）丛林，小树丛
-
-plot noun 情节 The movie has a very simple plot.
-plot noun 秘密计划；阴谋
-The plot was discovered before it was carried out.
-plot noun 小块土地，小块地皮
-There are several plots of land for sale.
-plot noun 示意图（或图表）
-
-plot vt 在纸（或地图）上标出，画出
-plot vt 在图上标绘…的位置；绘制…的图；标出…的航线
-Radar operators plotted the course of the incoming missile.
-
-plot vi/vt 密谋；策划
-The army is plotting the overthrow of the government.
-plot vt 密谋，策划（开某人的玩笑）
-He's plotting a surprise party for his wife's birthday.
-plot vt 为…设计情节
-So far I've only plotted (out) the story in a rough form.
-
-brazen adj 毫不隐瞒的，明目张胆的 He told me a brazen lie.
-
-scheme noun 阴谋，诡计
-He has a hare-brained/crazy scheme for getting rich before he's 20.
-scheme noun 方案，计划
-There's a new scheme in our town for recycling plastic bottles.
-scheme vi/vt 密谋，策划
-All her assistants were scheming against her.
-For months he had been scheming to prevent her from getting the top job.
-
-
-### 揭露
-disclose vt 公开; 揭露; 使显露; 使暴露;
- The police have disclosed that two officers are under internal investigation.
-
-reveal 揭露; 泄露; 显露; [神] 启示;
-reveal 揭示，展现; [建] 门侧，窗侧;
-
-revelation noun 暴露；被揭示的真相，被揭露的内情
-a moment of revelation
-[ + that ] His wife divorced him after the revelation that he was having an affair.
-Shocking revelations about their private life appeared in the papers.
-
-come as/be a revelation 让人大开眼界；令人耳目一新；出乎意料地使人惊喜
-This book came as a complete revelation to me.
-
-unveil vt 为…揭幕
-The memorial to those who had died in the war was unveiled by the Queen.
-unveil vt （首次）展示，介绍，推出；将…公诸于众
-The company recently unveiled a test version of its new search engine.
-
-
-
-leak vi/vt （液体或气体）漏，泄漏 Water was leaking from the pipe./The car leaked oil all over the drive.
-leak vi/vt 泄露，透露（机密信息）He leaked the names to the press.
-leak noun 漏洞，泄漏处；漏出物 There's water on the floor - we must have a leak.
-leak noun （机密信息）泄露的源头；泄露 There have been several security leaks recently.
-They traced the leak to a secretary in the finance department.
-
-
-seep vi 渗出；渗漏 Pesticides are seeping out of farmland and into the water supply.
-
-
-spill vi/vt （使）洒出；（使）流出；（使）溅出；（使）涌出 I spilled coffee on my silk shirt.
-spill noun 洒出量；溢出量 Could you wipe up that spill, please?
-
-### 增强
-augment vt 增强，加强; 增加，增添; （使） 扩张，扩大;
-augment noun 增加，补充物;
-
-
-intensify（使） 增强，（使）加剧; 增加（照片图象）的对比度; 变强或增强
-mount vt 登上; 骑上 vt 安装，架置; 镶嵌，嵌入; 准备上演; 成立（军队等）;
-mount vi 增加; 上升;
-
-bolster vt 支持; 支撑; 鼓励; 援助;
-bolster noun 垫枕; 长枕; 衬垫; 支持物;
-
-boost vt 增加; 促进，提高; 吹捧; 向上推起;
-boost vi 宣扬; [美国俚语] （尤指在商店） 行窃，偷窃;
-boost noun 提高，增加; 帮助; 吹捧; 加速[助推]器;
-
-
-consolidate vt 统一; 把…合成一体，合并; 巩固，加强; 合计金额;
-consolidate vi 合并; 统一; 联合;
-
-multiply vt 乘; （使） 相乘; （使） 增加; （使） 繁殖;
-multiply adv 多样地; 复合地; 多倍地; [电学] 并联地，多路地;
-multiply adj 多层的; 多样的; 多股的;
-
-propel vt 推进，推动
-a rocket propelled through space
-The Kon-Tiki sailed across the Pacific Ocean propelled by wind power.
-
-propel sb into/to/towards sth 推动（某人）做…／将（某人）推向（某一境地）
-The film propelled him to international stardom.
-
-
-underpin vt 支撑；加强；巩固；构成（基础）
-He presented data to underpin his argument.
-Gradually the laws that underpinned (= formed part of the basic structure of) apartheid were abolished.
-
-entrench vt 使处于牢固地位，使根深蒂固，牢固确立（尤指观念、问题）
-The government's main task was to prevent inflation from entrenching itself.
-entrench noun 壕沟; 防御设施;
-
-
-### 上升
-elevate vt 抬高；提高；使上升；举起
-The platform was elevated by means of hydraulic legs.
-elevate vt 提升；提高；改进
-They want to elevate the status of teachers.
-
-be elevated to sth 被提升为；被晋升为
-He has been elevated to deputy manager.
-
-elevator 电梯
-
-escalator 自动扶梯
-
-escalate vt 使逐步升级; 使逐步上升; 乘自动梯上升
-escalate vi 逐步扩大; 逐步上升; （战争） 逐步升级; 像乘自动梯上升;
-
-
-accrete vi
-accretion noun 堆积，积聚；逐渐的增加，增大
-The fund was increased by the accretion of new shareholders.
-The room hadn't been cleaned for years and showed several accretions of dirt and dust.
-
-
-
-ascend vt/vi 上升；攀登；登上
-They slowly ascended the steep path up the mountain.
-There's a long flight of steps ascending (= leading up) to the cathedral doors.
-
-ascend vi 登上高的职位；升级，晋级
-He eventually ascended to the position of chief executive.
-
-ascend vi 上升; 爬坡; 追溯;
-
-ascending adj （规模、价值等）上升的，增长的
-I shall list my objections to the plan in ascending order of importance.
-ascend （尤指神经通路）上行的，上升的
-
-
-surge noun 汹涌; 大浪，波涛;
-surge v 汹涌; 起大浪，蜂拥而来;
-
-inflate vt 使充气（于轮胎、气球等）; （使） 膨胀; （使） 通货膨胀; 物价上涨;
-
-soar vi 猛增，骤升
-House prices soared a further 20 percent.
-soar vt 升至（很高的高度），高达
-The highest peak in the range soars 15,771 feet into the sky.
-soar vi （鸟或飞行器）翱翔，飞翔
-She watched the gliders soaring effortlessly above her.
-
-spurt vt/vi （使）喷出，（使）冒出，（使）涌出
-Blood was spurting out all over the place.
-spurt vt/vi （使）激增，（使）急剧上升
-Shares of the jewellery store chain spurted $6.
-spurt noun （活动、干劲的）短时激增，迸发；突然加速，冲刺
-There was a sudden spurt of activity in the housing market.
-spurt noun （液体等的）喷射
-The water came out in spurts.
-
-stride noun 进展，进步
-The West made impressive strides in improving energy efficiency after the huge rises in oil prices during the 70s.
-The group has made strides to expand internationally.
-stride noun 大步，阔步
-She attributes her record-breaking speed to the length of her stride.
-
-stride vi 大步快走，阔步行进
-She strode purposefully up to the desk and demanded to speak to the manager.
-
-
-### 超过
-exceed vt 超过; 超越; 胜过; 越过…的界限;
-exceed vi 突出，领先;
-
-excess noun 超过; 超额量; 多余量; 放肆;
-excess adj 超重的，过量的，额外的;
-
-outdo vt 胜过，优于;
-outweigh vt 在重量上超过; 比…重要; 胜过，强过; 比…有价值;
-
-
-exorbitant adj 过度的，极高的;
-
-transcend vt 超越，超出…的限度; 优于或胜过…; 高于或独立于（宇宙）而生存;
-
-outstrip vt （在数量、程度或成就上）超过，胜过
-The demand for food in the war zone now far outstrips supply.
-
-
-### 优先
-
-prevail vi 占优势，占上风
-I am sure that common sense will prevail in the end.
-And did reason prevail over (= become a more powerful influence than) emotion?
-prevail vi 流行，盛行
-This attitude still prevails among the middle classes.
-
-
-precede vt 在…之前发生或出现，先于; 在…之上，优于; 给…作序; 处于…前面的位置;
-
-priority noun 优先考虑的事
-The management did not seem to consider office safety to be a priority.
-
-
-
-### 转移
+# 取代
 supplant vt 取代，代替
 Printed books will soon be supplanted by e-books.
 Small children can often feel supplanted in their parents' affections (= that their parents no longer like them as much) when a new brother or sister is born.
 
+substitute vt 代替，替换，代用;
+substitute vi 用…替代;
+substitute noun 替代物; 代替者; 替补（运动员）; [语法学] 代用词;
+
+
+substitution 替换; 代替; 代用;
+supersede vt 取代，接替; 更替，继任; 将…免职，撤换;
+
+
+### 转移
 
 convey vt 表达，传达（思想、感情或想法）
 His poetry conveys a great sense of religious devotion.
@@ -2204,28 +1038,54 @@ transmit vi 发送信号;
 
 transmute vt 使变形，使变质，把…变成…;
 
+# 分散
+scatter v (使） 散开，（使）分散，驱散;
+scatter noun 撒布，散播;
+
+disseminate v 散布，传播
+dissemination noun 散播，宣传; 浸染
+
+disperse vi/vt （使）扩散，（使）散开，（使）分散
+When the rain came down the crowds started to disperse.
+Police dispersed the crowd that had gathered.
+
+dispersal noun 分散; 散布; 消散; 驱散;
+
+spread v 展开; 伸开; （使） 传播; （使） 散布;
+spread noun 范围; 连续的一段时间;
+
+permeate vt 渗透; 渗入; 弥漫; 遍布;
+permeate vi 贯穿; 感染，传播; 渗入，遍及; 穿透某物;
+
+separate vt 分开; （使） 分离; 区分; 隔开;
+separate vt 分离（混合物）; 分居; 分类; 割开;
+separate vi 分手; 断裂; （夫妻） 分居; 断绝关系;
+
+circulation noun（信息）流传，传播；（货币或商品）流通
+Police have warned that there are a lot of fake £50 notes in circulation.
+Add her name to the circulation list for this report (= the people who will be given it to read).
+circulation（报纸杂志的）发行量，销售量
+The paper has a circulation of 150,000.
+circulation（血液的）循环
+Exercise helps to improve circulation.
+
+emit vt 发出，射出，散发（光、噪声、气味或气体）
+The alarm emits infrared rays which are used to detect any intruder.
 
 
-### 成分
-compound noun 复合物; 场地; （筑有围墙的） 院子; 复合词
-compound vt 调和; 使混合; 使严重; 调停;
-compound 复合; [语法学] （句子） 复合的; 合成的; 多功能的;
+### 分发
+deliver vt 交付; 发表; 递送; 使分娩;
+deliver vi 传送; 投递;
+delivery 分娩; 传送，投递; [法] （正式） 交付; 讲演;
 
-component noun 成分; 组分; 零件; [数] 要素;
-component adj 成分的; 组成的; 合成的; 构成的;
-
-composition noun 作文，作曲; 创作; 构图，布置; 妥协，和解;
-
-comprise vt 包含，包括; 由…组成; 由…构成;
-
-
-module noun 模块; 组件; （宇宙飞船上各个独立的） 舱; 测量流水等的单位;
-
-intermix (使） 混和，（使）混杂
-
-miscellaneous adj 混杂的; 各种各样的; 五花八门的; 多方面的;
+circulate vt （使）循环；（使）流通；（使）传递；（使）散布
+Hot water circulates through the heating system.
+I've circulated a good luck card for everyone to sign.
+circulate vt （在聚会上）周旋
+I try to circulate at a party and not just stay with the friends I came with.
 
 
+############################################3
 # 艰难
 thorny adj 棘手的; 多刺的; 痛苦的;
 
@@ -2324,6 +1184,44 @@ pinch noun （一）撮；少量
 While the tomatoes are cooking add a pinch of salt/sugar/dried thyme.
 pinch noun 捏，拧，掐，夹 She gave Emma a painful pinch on the arm.
 
+### 挤压；压榨
+contract 签合同; 缩小; 感染;
+stringent adj 严格的; 迫切的; （货币） 紧缩的;
+
+squeeze vt （尤指从各方面）挤压，捏，挤，榨
+Cut the lemon in half and squeeze the juice into the bowl.
+Once he had finished cleaning the floor, he squeezed the cloth out.
+
+squeeze vt 给…带来财务困难，使陷入财务困境
+Small businesses are being squeezed by heavy taxation.
+
+squeeze vi （困难地）挤进，挤过
+She squeezed through the crowd and found a seat at the front.
+
+squeeze noun 挤压，捏；榨
+She gave the present a quick squeeze and tried to guess what was inside.
+squeeze noun 拥挤；挤入（人或物被推入或被强迫进入一个小的空间内）
+I can give you a lift, but it'll be a tight squeeze as I'm taking four other people as well.
+squeeze noun 减少；削减；限制
+The squeeze on profits in the oil industry has led to thousands of redundancies.
+squeeze noun 通货紧缩，银根紧缩
+The government has imposed a sharp credit squeeze in an attempt to hold down inflation.
+
+
+squash vt 把…压扁；把…挤扁 He accidentally sat on her hat and squashed it.
+squash vt （使）挤进；（把…）塞进 He tried to squash his ripped jeans into the suitcase while his mother wasn't looking.
+squash vt 粉碎；强行制止  Rumours of a possible takeover of the company were soon squashed by the management.
+squash noun 拥挤 There are over two hundred people coming to the party so it might be a bit of a squash.
+squash noun 壁球
+squash noun 果汁饮料
+squash 南瓜
+
+squish vt 压扁，挤扁 Don't sit on that bag - you'll squish the sandwiches.
+
+extrude vt （尤指通过狭小的出口）挤压出，挤压成，压制
+extruded aluminium rods
+extrusion 挤出; 推出; 喷出; 赶出;
+
 
 ### 碰撞
 bump vt 颠簸; 碰撞，冲撞;
@@ -2342,133 +1240,6 @@ hurtle noun 猛冲; 碰撞; 碰撞声;
 
 collide vi （尤指移动的物体）相撞，碰撞
 The two vans collided at the crossroads.
-
-
-
-
-
-
-
-
-### 使复杂
-complicate vt 使复杂化；使更难懂；使更麻烦 The rescue operation has been complicated by bad weather.
-complicate vt 使（疾病）恶化，加重 The breathing problem has now been complicated by a chest infection.
-
-complicate 复杂的; 麻烦的; （昆虫的翅） 纵折的;
-
-complex 复杂的; 难懂的; 复合的;
-complex 情结; 建筑群; 相关联的一组事物; 不正常的忧虑;
-
-
-
-
-
-### 缺陷
-faulty adj 错误的; 有错误的，有过失的，有缺点的; 不完美的;
-
-
-flaw 瑕疵，缺点; 一阵狂风; 短暂的风暴; 裂缝，裂纹;
-
-drawback
-
-defect noun 瑕疵，毛病; 欠缺，缺点;
-defect vi 叛逃; 背叛;
-
-
-demerit noun 缺陷；劣势
-We need to consider the merits and demerits of the plan.
-demerit（尤指学校给学生的）记过，过失分
-She got three demerits for lateness on this term's report.
-
-
-leak vi 漏出; 透露; （指消息，秘密等） 泄密; 漏电，漏水;
-leak vt 使泄露; <非正式> 擅自公开;
-leak noun 泄漏，漏洞; 裂缝; 漏出物; （俚语） 撒尿;
-
-
-
-
-
-### 修正
-modify
-
-revise vt 修订；修正；修改
-His helpfulness today has made me revise my original opinion/impression of him.
-His publishers made him revise his manuscript three times.
-
-revise vi/vt 复习；温习
-We're revising (algebra) for the test tomorrow.
-
-
-rehabilitate vt 使康复; 使复原，修复; 使恢复原状; 使恢复名誉;
-
-polish v 磨光; 润色; 擦光; 修改;
-polish noun 光泽剂，擦亮剂; 擦亮，磨光; 优美，优雅，精良
-
-flush vi 冲刷; 脸红; 呈红色; 奔流;
-flush adj 满面红光的; 富足的，丰富的; 盈满的，没过的; 水平的，同高的;
-flush noun 奔流，涌出; 脸红或发亮; 发热; 强烈情感的冲动;
-
-grind vt 碾碎，磨碎，把…磨成粉
-They grind the grain into flour (= make flour by crushing grain) between two large stones.
-grind vt 磨，把…磨锋利，把…磨光
-She has a set of chef's knives that she grinds every week.
-
-grind noun 令人厌倦的苦事，苦差事
-Having to type up my handwritten work was a real grind.
-grind noun 只会读书的无趣之人，书呆子
-
-
-refinement noun 精炼，提纯，净化; 改良品; 细微的改良，极致; 优雅，高贵的动作;
-
-
-# 分散
-scatter v (使） 散开，（使）分散，驱散;
-scatter noun 撒布，散播;
-
-disseminate v 散布，传播
-dissemination noun 散播，宣传; 浸染
-
-disperse vi/vt （使）扩散，（使）散开，（使）分散
-When the rain came down the crowds started to disperse.
-Police dispersed the crowd that had gathered.
-
-dispersal noun 分散; 散布; 消散; 驱散;
-
-spread v 展开; 伸开; （使） 传播; （使） 散布;
-spread noun 范围; 连续的一段时间;
-
-permeate vt 渗透; 渗入; 弥漫; 遍布;
-permeate vi 贯穿; 感染，传播; 渗入，遍及; 穿透某物;
-
-separate vt 分开; （使） 分离; 区分; 隔开;
-separate vt 分离（混合物）; 分居; 分类; 割开;
-separate vi 分手; 断裂; （夫妻） 分居; 断绝关系;
-
-circulation noun（信息）流传，传播；（货币或商品）流通
-Police have warned that there are a lot of fake £50 notes in circulation.
-Add her name to the circulation list for this report (= the people who will be given it to read).
-circulation（报纸杂志的）发行量，销售量
-The paper has a circulation of 150,000.
-circulation（血液的）循环
-Exercise helps to improve circulation.
-
-emit vt 发出，射出，散发（光、噪声、气味或气体）
-The alarm emits infrared rays which are used to detect any intruder.
-
-
-### 分发
-deliver vt 交付; 发表; 递送; 使分娩;
-deliver vi 传送; 投递;
-delivery 分娩; 传送，投递; [法] （正式） 交付; 讲演;
-
-circulate vt （使）循环；（使）流通；（使）传递；（使）散布
-Hot water circulates through the heating system.
-I've circulated a good luck card for everyone to sign.
-circulate vt （在聚会上）周旋
-I try to circulate at a party and not just stay with the friends I came with.
-
-
 
 
 ### 碎片；刮擦

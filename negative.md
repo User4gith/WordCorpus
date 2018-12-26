@@ -950,6 +950,16 @@ an ambivalent attitude to exercise
 ambivalence noun 矛盾心理
 her ambivalence towards men
 
+### 不确定性
+precarious 危险的; 不确定的; 不安全的; 可疑的;
+bleak adj 暗淡的，昏暗的; 没有指望的; 寒冷的，刺骨的; 无遮蔽的，荒凉的;
+bleak noun 欧鮊鱼，银鲤;
+
+awry adj 离开预期方向（的）；出错（的）
+Anything that goes awry (= goes wrong) in the office is blamed on Pete.
+awry adj 曲（的）；歪（的）；斜（的）
+She rushed in, her face red and sweaty and her hat awry.
+
 
 
 # 妥协
@@ -966,3 +976,60 @@ If we back down on this issue, our reputation will be compromised.
 
 compromise vt 损害，伤害，危及
 We would never compromise the safety of our passengers.
+
+
+### 缺陷
+faulty adj 错误的; 有错误的，有过失的，有缺点的; 不完美的;
+
+
+flaw 瑕疵，缺点; 一阵狂风; 短暂的风暴; 裂缝，裂纹;
+
+drawback
+
+defect noun 瑕疵，毛病; 欠缺，缺点;
+defect vi 叛逃; 背叛;
+
+
+demerit noun 缺陷；劣势
+We need to consider the merits and demerits of the plan.
+demerit（尤指学校给学生的）记过，过失分
+She got three demerits for lateness on this term's report.
+
+
+leak vi 漏出; 透露; （指消息，秘密等） 泄密; 漏电，漏水;
+leak vt 使泄露; <非正式> 擅自公开;
+leak noun 泄漏，漏洞; 裂缝; 漏出物; （俚语） 撒尿;
+
+
+
+### 修正
+modify
+
+revise vt 修订；修正；修改
+His helpfulness today has made me revise my original opinion/impression of him.
+His publishers made him revise his manuscript three times.
+
+revise vi/vt 复习；温习
+We're revising (algebra) for the test tomorrow.
+
+
+rehabilitate vt 使康复; 使复原，修复; 使恢复原状; 使恢复名誉;
+
+polish v 磨光; 润色; 擦光; 修改;
+polish noun 光泽剂，擦亮剂; 擦亮，磨光; 优美，优雅，精良
+
+flush vi 冲刷; 脸红; 呈红色; 奔流;
+flush adj 满面红光的; 富足的，丰富的; 盈满的，没过的; 水平的，同高的;
+flush noun 奔流，涌出; 脸红或发亮; 发热; 强烈情感的冲动;
+
+grind vt 碾碎，磨碎，把…磨成粉
+They grind the grain into flour (= make flour by crushing grain) between two large stones.
+grind vt 磨，把…磨锋利，把…磨光
+She has a set of chef's knives that she grinds every week.
+
+grind noun 令人厌倦的苦事，苦差事
+Having to type up my handwritten work was a real grind.
+grind noun 只会读书的无趣之人，书呆子
+
+
+refinement noun 精炼，提纯，净化; 改良品; 细微的改良，极致; 优雅，高贵的动作;

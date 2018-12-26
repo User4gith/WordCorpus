@@ -564,6 +564,9 @@ It was courageous of her to challenge the managing director's decision.
 tenacity noun 坚持，顽固；固执
 
 
+determination noun 决心；毅力
+determination noun 决定，确定
+determination noun 查明；测定
 
 bouncing adj （尤指婴儿）健壮的，活跃的，精力旺盛的
 We've got two grandchildren - a three-year-old girl and a bouncing baby boy.
@@ -658,7 +661,7 @@ On the hill, a solitary figure was busy chopping down trees.
 In the distance was a solitary building.
 solitary adj 独自做的，独自完成的 fishing and other solitary pastimes
 
-### 直率的
+### 直率的/朴素的
 blunt adj （铅笔、刀等）钝的，不锋利的
 blunt adj 直率的；生硬的；直截了当的
 I'll be blunt - that last piece of work you did was terrible.
@@ -1100,6 +1103,122 @@ He had a slow and ponderous manner.
 ponderous （书、讲话或写作风格）严肃而乏味的，呆板的，生硬的
 The ponderous reporting style makes the evening news dull viewing.
 
+
+### 懦弱
+cower vi 蜷缩；退缩；畏缩 Stop cowering! I'm not going to hit you.
+
+cowardice noun 懦弱，胆怯;
+
+timid adj 羞怯的；胆小的，胆怯的 Kieran is a timid child.
+My dog is a little timid - especially around other dogs.
+
+
+inept adj 无能的；笨拙的；无效的
+an inept comment/remark
+He was criticized for his inept handling of the situation.
+
+
+### 不满
+discontent adj 不满的; 不安分的; 不快的;
+discontent noun 不满，不平; 不愉快; 不满的人;
+discontent v 使不满意; 使不快;
+
+abhorrent adj 令人厌恶的;
+Racism of any kind is abhorrent to me.
+我对任何形式的种族主义都深恶痛绝。
+
+abhorrent adv 令人厌恶地;
+
+aversion 厌恶，反感；讨厌的人（或事物）
+I felt an instant aversion to his parents.
+She has a deep aversion to getting up in the morning.
+
+abide vt （因为厌恶而）不能忍受，无法容忍
+He couldn't abide laziness.
+abide vi 居住；逗留；停留
+He abided in the wilderness for forty days.
+
+irony noun 具有讽刺意味的情况；出乎意料的情况；令人啼笑皆非的事情
+The irony (of it) is that the new tax system will burden those it was intended to help.
+
+irony noun 反语；讽刺
+Her voice heavy with irony, Simone said, "We're so pleased you were able to stay so long." (= Her voice made it obvious they were not pleased.)
+
+ironic adj 具有讽刺意味的；出乎意料的；令人啼笑皆非的
+[ + that ] It is ironic that although many items are now cheaper to make, fewer people can afford to buy them.
+ironic adj 反语的；讽刺的
+an ironic comment/reply
+
+### 嫉妒
+
+jealousy noun 妒忌；妒羡
+He broke his brother's new bike in a fit of jealousy.
+She was consumed by/eaten up with jealousy (= she was very jealous) when she heard that he had been given a promotion.
+
+
+grudge noun 怨恨，嫌隙，积怨
+I don't bear any grudge against you.
+Amanda still has/holds a grudge against me for refusing to lend her that money.
+
+grudge vt 吝惜；勉强地做，勉强地给
+She grudged every hour she spent helping him.
+grudge vt 认为…不应得到；忌妒
+[ + two objects ] I don't grudge you your holiday, it's just that you've chosen a bad time to go.
+
+begrudge vt 羡慕；嫉妒
+[ + two objects ] I don't begrudge him his freedom.
+抱怨，发牢骚
+They begrudged every day they had to stay with their father.
+[ + -ing verb ] She begrudged paying so much for an ice cream cone.
+
+
+### 怨恨
+in spite of sth 尽管；不顾，不管
+In spite of his injury, Ricardo will play in Saturday's match.
+in spite of yourself 不由自主地
+She started to laugh, in spite of herself .
+
+spite noun 恶意；怨恨
+He's the sort of man who would let down the tyres on your car just out of/from spite.
+
+spite vt 刁难；存心使苦恼；故意伤害
+I almost think he died without making a will just to spite his family.
+
+loathe vt 恨，憎恨；厌恶
+From an early age the brothers have loathed each other.
+I loathe doing housework.
+
+be loath to do sth 不愿做…，不情愿干…
+I'm loath to spend it all at once.
+
+
+bully vt 恐吓，威逼; 盛气凌人，以强凌弱;
+Our survey indicates that one in four children is bullied at school.
+
+bully vi 欺侮;
+bully noun 恃强凌弱者，以大欺小者
+Teachers usually know who the bullies are in a class.
+
+
+resent vt 感到愤恨；不满；憎恶
+She bitterly resented her father's new wife.
+He resents having to explain his work to other people.
+
+bitterness  苦味
+bitterness noun 愤怒；怨恨
+He was full of bitterness after he lost his job.
+
+bitter adj 极为不满的；怨恨的；无法释怀的
+I feel very bitter about my childhood and all that I went through.
+bitter adj 使人痛苦的；令人愤怒的
+Failing the final exams was a bitter disappointment for me.
+bitter adj 充满仇恨的；愤怒的；激烈的
+a bitter fight/argument
+bitter adj 苦的，有苦味的
+a bitter flavour/taste/liquid
+bitter adj （天气）严寒的，刺骨的
+a bitter wind
+
 ### 愤怒
 fury noun 暴怒，狂怒
 He could hardly contain his fury.
@@ -1160,58 +1279,6 @@ He appears to be a man of calm and even temper.
 temper vt 使缓和；使变温和；使变淡
 My enthusiasm for the venture was tempered by my knowledge of the hard work that would be involved.
 I learned to temper my criticism.
-
-
-### 不满
-discontent adj 不满的; 不安分的; 不快的;
-discontent noun 不满，不平; 不愉快; 不满的人;
-discontent v 使不满意; 使不快;
-
-abhorrent adj 令人厌恶的;
-Racism of any kind is abhorrent to me.
-我对任何形式的种族主义都深恶痛绝。
-
-abhorrent adv 令人厌恶地;
-
-aversion 厌恶，反感；讨厌的人（或事物）
-I felt an instant aversion to his parents.
-She has a deep aversion to getting up in the morning.
-
-abide vt （因为厌恶而）不能忍受，无法容忍
-He couldn't abide laziness.
-abide vi 居住；逗留；停留
-He abided in the wilderness for forty days.
-
-jealousy noun 妒忌；妒羡
-He broke his brother's new bike in a fit of jealousy.
-She was consumed by/eaten up with jealousy (= she was very jealous) when she heard that he had been given a promotion.
-
-irony noun 具有讽刺意味的情况；出乎意料的情况；令人啼笑皆非的事情
-The irony (of it) is that the new tax system will burden those it was intended to help.
-
-irony noun 反语；讽刺
-Her voice heavy with irony, Simone said, "We're so pleased you were able to stay so long." (= Her voice made it obvious they were not pleased.)
-
-ironic adj 具有讽刺意味的；出乎意料的；令人啼笑皆非的
-[ + that ] It is ironic that although many items are now cheaper to make, fewer people can afford to buy them.
-ironic adj 反语的；讽刺的
-an ironic comment/reply
-
-
-
-
-### 懦弱
-cower vi 蜷缩；退缩；畏缩 Stop cowering! I'm not going to hit you.
-
-cowardice noun 懦弱，胆怯;
-
-timid adj 羞怯的；胆小的，胆怯的 Kieran is a timid child.
-My dog is a little timid - especially around other dogs.
-
-
-inept adj 无能的；笨拙的；无效的
-an inept comment/remark
-He was criticized for his inept handling of the situation.
 
 
 
@@ -1470,69 +1537,6 @@ detached adj 认为与己无关的；毫不关心的，心不在焉的 She seeme
 indifference 不感兴趣的；不关心的，冷淡的
 Many native speakers of a language show indifference to/towards grammatical points.
 
-
-### 怨恨
-in spite of sth 尽管；不顾，不管
-In spite of his injury, Ricardo will play in Saturday's match.
-in spite of yourself 不由自主地
-She started to laugh, in spite of herself .
-
-spite noun 恶意；怨恨
-He's the sort of man who would let down the tyres on your car just out of/from spite.
-
-spite vt 刁难；存心使苦恼；故意伤害
-I almost think he died without making a will just to spite his family.
-
-loathe vt 恨，憎恨；厌恶
-From an early age the brothers have loathed each other.
-I loathe doing housework.
-
-be loath to do sth 不愿做…，不情愿干…
-I'm loath to spend it all at once.
-
-
-bully vt 恐吓，威逼; 盛气凌人，以强凌弱;
-Our survey indicates that one in four children is bullied at school.
-
-bully vi 欺侮;
-bully noun 恃强凌弱者，以大欺小者
-Teachers usually know who the bullies are in a class.
-
-
-resent vt 感到愤恨；不满；憎恶
-She bitterly resented her father's new wife.
-He resents having to explain his work to other people.
-
-grudge noun 怨恨，嫌隙，积怨
-I don't bear any grudge against you.
-Amanda still has/holds a grudge against me for refusing to lend her that money.
-
-grudge vt 吝惜；勉强地做，勉强地给
-She grudged every hour she spent helping him.
-grudge vt 认为…不应得到；忌妒
-[ + two objects ] I don't grudge you your holiday, it's just that you've chosen a bad time to go.
-
-begrudge vt 羡慕；嫉妒
-[ + two objects ] I don't begrudge him his freedom.
-抱怨，发牢骚
-They begrudged every day they had to stay with their father.
-[ + -ing verb ] She begrudged paying so much for an ice cream cone.
-
-
-bitterness  苦味
-bitterness noun 愤怒；怨恨
-He was full of bitterness after he lost his job.
-
-bitter adj 极为不满的；怨恨的；无法释怀的
-I feel very bitter about my childhood and all that I went through.
-bitter adj 使人痛苦的；令人愤怒的
-Failing the final exams was a bitter disappointment for me.
-bitter adj 充满仇恨的；愤怒的；激烈的
-a bitter fight/argument
-bitter adj 苦的，有苦味的
-a bitter flavour/taste/liquid
-bitter adj （天气）严寒的，刺骨的
-a bitter wind
 
 ### 粗的
 barbaric adj  残暴的；野蛮的；粗俗的
@@ -1798,6 +1802,34 @@ What prompted you to say that?
 
 prompt adj 迅速的；敏捷的；及时的 They're usually fairly prompt in dealing with enquiries.
 prompt adv 准时，正点 We'll be leaving at six o'clock prompt.
+
+
+
+### 精力
+
+fatigue noun 疲劳，疲乏; 劳务杂役; （士兵穿的） 工作服;
+fatigue vt 使疲劳; 使疲乏;
+fatigue vi 疲劳;
+
+exuberant 生气勃勃的;（活力）充沛的;茂盛的，繁茂的;（词藻）过于华丽的，极度的
+
+vigorous adj 充满活力的；有力量的；精力旺盛的
+a vigorous debate
+He takes plenty of vigorous exercise.
+
+vigorous adj 健壮的；强壮的
+Cutting the bush back in the autumn will help promote vigorous growth in the spring.
+
+
+energetic adj
+
+dynamic adj 动态的; 动力的，动力学的; 充满活力的，精力充沛的; 不断变化的，充满变数的;
+dynamic noun 动态; 动力学; 活力; 动力，推动变化的力量;
+
+vibrant 振动的; 响亮的; 充满生气的;
+
+vitality noun 生命力；活力
+According to the packet, these vitamin pills will restore lost vitality.
 
 
 ### 意图

@@ -1,5 +1,4 @@
 
-
 negotiate 谈判，协商，交涉
 exploit
 
@@ -7,12 +6,6 @@ exploit
 fringe
 subside
 heir 继承人; 后嗣，嗣子;
-
-
-condone vt 宽恕，饶恕；纵容；包容，容忍
-If the government is seen to condone violence, the bloodshed will never stop.
-lenient adj （处罚或判决）宽容的，宽大的，从轻的
-They believe that judges are too lenient with terrorist suspects.
 
 
 desperate adj 非常严重的；非常糟糕的
@@ -120,12 +113,6 @@ elastic noun 松紧带；橡皮带 His trousers were held up with a piece of ela
 
 
 
-
-
-
-determination noun 决心；毅力
-determination noun 决定，确定
-determination noun 查明；测定
 
 particular adj 特定的，具体的 She wanted a particular type of cactus.
 in particular adv 特别，尤其 Are you looking for anything in particular?

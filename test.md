@@ -1,4 +1,0 @@
-cheer
-plain
-conquest
-cutlery
